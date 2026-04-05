@@ -39,6 +39,18 @@ CREATE TABLE IF NOT EXISTS conversations (
 
 CREATE INDEX IF NOT EXISTS idx_conversations_open_id ON conversations(open_id);
 CREATE INDEX IF NOT EXISTS idx_conversations_ts ON conversations(ts);
+
+CREATE TABLE IF NOT EXISTS customer_rules (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    scope TEXT NOT NULL,
+    scope_value TEXT DEFAULT '',
+    context TEXT DEFAULT '',
+    rule TEXT NOT NULL,
+    created_by TEXT DEFAULT '',
+    created_at TEXT NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_rules_scope ON customer_rules(scope, scope_value);
 """
 
 
@@ -167,3 +179,95 @@ def search_contacts(query: str) -> list[dict]:
         (pattern, pattern, pattern, pattern),
     ).fetchall()
     return [dict(r) for r in rows]
+
+
+# ---------------------------------------------------------------------------
+# Customer rules CRUD
+# ---------------------------------------------------------------------------
+
+
+def add_rule(
+    scope: str,
+    rule: str,
+    scope_value: str = "",
+    context: str = "",
+    created_by: str = "",
+) -> dict:
+    """Insert a new customer rule and return the created row."""
+    db = _get_db()
+    now = datetime.now(tz=timezone.utc).isoformat()
+    cursor = db.execute(
+        """INSERT INTO customer_rules (scope, scope_value, context, rule, created_by, created_at)
+           VALUES (?, ?, ?, ?, ?, ?)""",
+        (scope, scope_value, context, rule, created_by, now),
+    )
+    db.commit()
+    row = db.execute(
+        "SELECT * FROM customer_rules WHERE id = ?", (cursor.lastrowid,)
+    ).fetchone()
+    return dict(row)
+
+
+def list_rules(scope: str = "", context: str = "") -> list[dict]:
+    """List rules with optional scope/context filters, newest first."""
+    db = _get_db()
+    clauses: list[str] = []
+    params: list[str] = []
+    if scope:
+        clauses.append("scope = ?")
+        params.append(scope)
+    if context:
+        clauses.append("context = ?")
+        params.append(context)
+    where = f" WHERE {' AND '.join(clauses)}" if clauses else ""
+    rows = db.execute(
+        f"SELECT * FROM customer_rules{where} ORDER BY created_at DESC", params
+    ).fetchall()
+    return [dict(r) for r in rows]
+
+
+def get_rules_for_customer(open_id: str, region: str = "") -> list[dict]:
+    """Get all rules that apply to a given customer.
+
+    Matches: scope='global' OR (scope='customer' AND scope_value=open_id)
+             OR (scope='region' AND scope_value=region) when region is provided.
+    """
+    db = _get_db()
+    clauses = ["scope = 'global'", "(scope = 'customer' AND scope_value = ?)"]
+    params: list[str] = [open_id]
+    if region:
+        clauses.append("(scope = 'region' AND scope_value = ?)")
+        params.append(region)
+    where = " OR ".join(clauses)
+    rows = db.execute(
+        f"SELECT * FROM customer_rules WHERE {where} ORDER BY created_at DESC",
+        params,
+    ).fetchall()
+    return [dict(r) for r in rows]
+
+
+def delete_rule(rule_id: int) -> bool:
+    """Delete a rule by id. Returns True if a row was deleted."""
+    db = _get_db()
+    cursor = db.execute("DELETE FROM customer_rules WHERE id = ?", (rule_id,))
+    db.commit()
+    return cursor.rowcount > 0
+
+
+def update_rule(rule_id: int, **kwargs) -> dict | None:
+    """Update allowed fields on a rule. Returns the updated row or None."""
+    allowed = {"scope", "scope_value", "context", "rule", "created_by"}
+    updates = {k: v for k, v in kwargs.items() if k in allowed}
+    if not updates:
+        return None
+    db = _get_db()
+    set_clause = ", ".join(f"{k} = ?" for k in updates)
+    db.execute(
+        f"UPDATE customer_rules SET {set_clause} WHERE id = ?",
+        (*updates.values(), rule_id),
+    )
+    db.commit()
+    row = db.execute(
+        "SELECT * FROM customer_rules WHERE id = ?", (rule_id,)
+    ).fetchone()
+    return dict(row) if row else None
