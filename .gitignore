@@ -1,0 +1,17 @@
+# Runtime
+.autoservice/
+*.db
+.env
+.feishu-credentials.json
+
+# Python
+__pycache__/
+.venv/
+uv.lock
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code
+.claude/worktrees/
