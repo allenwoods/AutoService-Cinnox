@@ -1,0 +1,40 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-03 22:04:29 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,jixian zhu,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-03 22:04:29 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,jixian zhu,"=""""",,0,
+system,,2025-12-03 22:04:29 (UTC+00:00),jixian zhu,"=""""",70ab23a2-0f43-45ae-aee0-3d1be1b57871@prod-hk-02@1001,jixian zhu,"=""""",,0,room.pci-disclaimer
+system,,2025-12-03 22:04:40 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-03 22:04:41 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,你好
+im,TYPE_TEXT,2025-12-03 22:05:03 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,Hi! This is Tom. Is there anything I can help you with?
+im,TYPE_TEXT,2025-12-03 22:06:12 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,I would like to obtain a personal phone number that will allow me to make voice calls to my clients in Chinese Mainland
+im,TYPE_TEXT,2025-12-03 22:07:25 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,https://www.m800.com/
+im,TYPE_TEXT,2025-12-03 22:07:41 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,Please try to purchase the number via our website.
+im,TYPE_TEXT,2025-12-03 22:07:43 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,Thanks
+im,TYPE_TEXT,2025-12-03 22:08:23 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,OK
+im,TYPE_TEXT,2025-12-03 22:10:51 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Could you provide me with a number so I can test it out for free?
+im,TYPE_TEXT,2025-12-03 22:12:08 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,"Sorry, we couldn't assign any numbers before the verification"
+im,TYPE_TEXT,2025-12-03 22:15:22 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,"What is the difference between a local direct dial number (DID) and a free phone call, and what are their respective functions?"
+im,TYPE_TEXT,2025-12-03 22:17:56 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,DID calls are used for both inbound and outbound using IDD operators route. Tollfree are only for inbound and can only be reached in the country.
+im,TYPE_TEXT,2025-12-03 22:24:20 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,"Alright. What I need is a DID phone number. However, when selecting a local direct dial number (DID) for purchase, under the additional filtering options, I chose the following options: Call and Dial (Local Line). But the system did not match me with the corresponding phone number. How can I resolve this issue? Thank you"
+im,TYPE_FILE,2025-12-03 22:27:56 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,
+im,TYPE_TEXT,2025-12-03 22:29:44 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,Let me check with the team and getback to you.
+im,TYPE_TEXT,2025-12-03 22:30:09 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,Do you prefer to communicate through the chat or email?
+im,TYPE_TEXT,2025-12-03 22:30:47 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,"Alright, thank you! I hope to receive your response soon"
+im,TYPE_TEXT,2025-12-03 22:31:33 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,"I still prefer chatting and communicating, as it’s more efficient."
+im,TYPE_TEXT,2025-12-03 22:32:51 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,You can also communicate with me via Telegram. My Telegram handle is: @nadro2025.
+im,TYPE_TEXT,2025-12-03 22:33:17 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,E-mail:lishiman2025@outlook.com
+im,TYPE_TEXT,2025-12-03 22:35:30 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,"Noted, will get back to you once got update."
+im,TYPE_TEXT,2025-12-03 22:36:39 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,"Alright, thank you!"
+im,TYPE_TEXT,2025-12-04 14:31:15 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,hello
+im,TYPE_TEXT,2025-12-04 14:31:50 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,"Hi, we have forwarded the issue to the sales, and he will get back to you."
+im,TYPE_TEXT,2025-12-04 14:32:59 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,thank
+im,TYPE_TEXT,2025-12-04 14:34:03 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,"I will close this inquiry first, since the sales will follow up."
+system,,2025-12-04 14:35:22 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",,0,room.leave
+system,,2025-12-04 14:35:22 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,jixian zhu,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-03 22:04:29 (UTC+00:00),GB,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+jixian,zhu,lishiman2025@outlook.com,"=""+8617704065503"""

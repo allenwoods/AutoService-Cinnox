@@ -1,0 +1,54 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-18 03:45:41 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Candex Support,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-18 03:45:41 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Candex Support,"=""""",,0,
+im,TYPE_ADVANCED,2025-11-18 03:45:41 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Candex Support,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2025-11-18 03:45:41 (UTC+00:00),Candex Support,"=""""",28c660ef-e697-40c8-93eb-441ce227013b@prod-hk-02@1001,Candex Support,"=""""",,0,room.pci-disclaimer
+system,,2025-11-18 03:45:42 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,room.join
+im,TYPE_TEXT,2025-11-18 03:46:20 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Verify M800 bank details
+im,TYPE_TEXT,2025-11-18 03:46:20 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,"I'm sorry, but I don't have access to specific bank details or personal information. If you need to verify M800 bank details, I recommend contacting the bank directly or checking their official website for the most accurate and up-to-date information. Is there anything else I can assist you with?"
+system,,2025-11-18 03:46:24 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:46:36 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,what m800 email address
+im,TYPE_TEXT,2025-11-18 03:46:36 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,"I'm not sure about the specific email address for M800. Could you provide more context or specify what type of information you're looking for regarding M800? That way, I can assist you better!"
+system,,2025-11-18 03:46:39 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:46:52 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,I need to correct an invoice
+im,TYPE_TEXT,2025-11-18 03:46:52 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,"To help you with correcting the invoice, could you please provide me with the details of the invoice that needs to be corrected? This could include the invoice number, the specific corrections needed, or any other relevant information."
+system,,2025-11-18 03:46:56 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:47:22 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,"The account information on your bank documentation file does not match the bank details that were entered on Candex, which need to align for payment processing. Please click here to upload a different validation file with the account name and number to match the details on Candex. 
+
+Acceptable forms of bank documentation are the following: 
+a voided check
+a bank statement 
+a letter signed by your bank. 
+
+Alternatively, you can create a new entity and bank account for this payment. If you choose this option, you may also need to upload a new invoice which matches this information. Please reply to this email if you need assistance."
+im,TYPE_TEXT,2025-11-18 03:47:22 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,"It sounds like you're dealing with some discrepancies in your bank details for payment processing. To help you better, could you please clarify which specific bank documentation you would like to upload? Are you considering using a voided check, a bank statement, or a signed letter from your bank? Additionally, if you decide to create a new entity and bank account, I can guide you through that process as well! Let me know how you'd like to proceed."
+system,,2025-11-18 03:47:27 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:47:43 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,speak with agent
+im,TYPE_TEXT,2025-11-18 03:47:43 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,It seems like you're looking to speak with an agent for assistance. Could you please provide more details about the specific issue you're facing or what you need help with? This will help me direct you to the right resources or information!
+system,,2025-11-18 03:47:46 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:48:00 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,I need to contact m800
+im,TYPE_TEXT,2025-11-18 03:48:00 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,It seems like you're trying to get in touch with M800. Could you please provide me with more details about the specific department or type of assistance you need from them? This will help me direct you to the right contact information!
+system,,2025-11-18 03:48:04 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:48:09 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,already did
+im,TYPE_TEXT,2025-11-18 03:48:09 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,It seems like you're looking to get in touch with M800 or resolve an issue with your invoice and bank details. Could you please provide me with more information about what specific assistance you need from M800? This will help me direct you to the right resources or provide more detailed guidance!
+system,,2025-11-18 03:48:13 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:48:19 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,accounts erceivable
+im,TYPE_TEXT,2025-11-18 03:48:19 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,It seems like you're looking for information related to accounts receivable. Could you please provide more details about what specific information or assistance you need regarding accounts receivable? This will help me assist you better!
+system,,2025-11-18 03:48:22 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 03:48:34 (UTC+00:00),Candex Support,"=""""",WxlwFGLk.d1jPWjQzTbHR.f1b2.05000000.IPuJRZg83ggGktAD,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,I NEED TO PAY YOUR COMPANYYYYYY
+im,TYPE_TEXT,2025-11-18 03:48:34 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,"It sounds like you're eager to make a payment! To assist you better, could you please provide more details about the payment method you would like to use or any specific issues you're encountering with the payment process?"
+system,,2025-11-18 03:48:39 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:43 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,room.leave
+system,,2025-12-18 18:23:43 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Candex Support,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Demo & Sales Enquiry,2025-11-18 03:45:41 (UTC+00:00),"Hod HaSharon, IL",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Candex,Support,gil@candex.com,N/A

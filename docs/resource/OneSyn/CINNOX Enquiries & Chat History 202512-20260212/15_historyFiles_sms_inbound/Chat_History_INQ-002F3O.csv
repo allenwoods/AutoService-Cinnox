@@ -1,0 +1,52 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-26 06:26:40 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.M3NO2Mew7prj.8e6f.05000000.3oVpBliQpiqyTsHC,akshit kapil,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-26 06:26:40 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,akshit kapil,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-26 06:26:40 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,akshit kapil,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-01-26 06:26:40 (UTC+00:00),akshit kapil,"=""""",41ff7993-c18d-4cb2-be6a-d55e67d941aa@prod-hk-02@1001,akshit kapil,"=""""",,0,room.pci-disclaimer
+system,,2026-01-26 06:26:41 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-26 06:26:57 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.M3NO2Mew7prj.8e6f.05000000.3oVpBliQpiqyTsHC,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Ask AI Assistant
+im,TYPE_TEXT,2026-01-26 06:26:57 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2026-01-26 06:27:00 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-26 06:27:10 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.M3NO2Mew7prj.8e6f.05000000.3oVpBliQpiqyTsHC,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want numbers from USA for inward sms only.
+im,TYPE_TEXT,2026-01-26 06:27:10 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"I'm happy to help you with that! However, I need a bit more information to assist you better. Are you looking for specific service providers, or do you have a particular use case in mind for these numbers? Let me know!"
+system,,2026-01-26 06:27:13 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-26 06:27:30 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.M3NO2Mew7prj.8e6f.05000000.3oVpBliQpiqyTsHC,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"no, any provider in USA"
+im,TYPE_TEXT,2026-01-26 06:27:30 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"It sounds like you're looking for providers in the USA that offer inbound SMS services. There are several companies that specialize in this. Some popular options include Twilio, Nexmo (now part of Vonage), and Plivo. These platforms allow you to receive SMS messages and often provide additional features like APIs for integration with your applications.
+
+Could you specify what kind of use case you have in mind for the inbound SMS? For example, are you looking for customer support, marketing, or something else? This will help me provide more tailored information!"
+system,,2026-01-26 06:27:33 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-26 06:28:02 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.M3NO2Mew7prj.8e6f.05000000.3oVpBliQpiqyTsHC,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,what about m800?
+im,TYPE_TEXT,2026-01-26 06:28:02 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"Hello! I’m here to assist you with M800, such as **Virtual Numbers**, **SMS**, and **AI Voice Agents**. 
+
+Regarding your interest in **USA virtual numbers** for inward SMS, M800 provides a variety of options, including **Local Numbers (DID)** and **Toll-Free Numbers**. These numbers can be used for receiving SMS messages effectively.
+
+If you would like to explore purchasing a virtual number from M800, you can follow this step-by-step guide:
+
+1. Visit our **[Buy a Virtual Number](https://servicehub.cinnox.com/buy-virtual-number)** page.
+2. Choose your country (USA) and the type of number you need.
+3. Set your call forwarding preferences.
+4. Fill out the form and submit your business information for verification.
+5. Activate your account by checking your inbox for our CINNOX email.
+6. Pay online using a Credit Card.
+
+For more details on pricing and options, please visit our **[Pricing page](https://www.m800.com/pricing)**.
+
+If you have any other questions or need further assistance, feel free to ask!"
+system,,2026-01-26 06:28:09 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-26 06:28:22 (UTC+00:00),akshit kapil,"=""""",WxlwFGLk.M3NO2Mew7prj.8e6f.05000000.3oVpBliQpiqyTsHC,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,live agent
+im,TYPE_TEXT,2026-01-26 06:28:23 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+im,TYPE_TEXT,2026-01-26 06:29:31 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"All our agents are unavailable at the moment. Please try again later.
+	目前所有客服人員皆無法接收您的諮詢。請稍後再試"
+im,TYPE_TEXT,2026-01-26 06:29:37 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,akshit kapil,"=""""",,0,"All our agents are unavailable at the moment. Please try again later.
+	目前所有客服人員皆無法接收您的諮詢。請稍後再試"
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Sales & Demo,2026-01-26 06:26:40 (UTC+00:00),"Birkirkara, MT",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+akshit,kapil,akshitkapil@ymail.com,N/A

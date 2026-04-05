@@ -1,0 +1,37 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-03 13:08:44 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.MEajKMyWmgzs.6398.05000000.6wW1a8XsZ7G_Z4xS,Andy Chan,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-03 13:08:44 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andy Chan,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-03 13:08:44 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andy Chan,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2026-02-03 13:08:44 (UTC+00:00),Andy Chan,"=""""",a1d6f01c-b66b-4e50-900d-aaba0cea3767@prod-hk-02@1001,Andy Chan,"=""""",,0,room.pci-disclaimer
+system,,2026-02-03 13:08:46 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andy Chan,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-03 13:09:13 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.MEajKMyWmgzs.6398.05000000.6wW1a8XsZ7G_Z4xS,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,I would like to schedule a demo to find out more about the product and the pricing
+im,TYPE_TEXT,2026-02-03 13:09:13 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andy Chan,"=""""",,0,"To schedule a demo and learn more about CINNOX products and pricing, you can follow these steps:
+
+1. **Visit the Demo Scheduling Page**: Click on this link to go to the demo scheduling page: [Schedule a Demo](https://www.cinnox.com/contact-sales).
+  
+2. **Fill Out the Form**: Complete the form with your details as requested. This will help our team understand your needs better.
+
+3. **Submit Your Request**: After filling out the form, submit it to request your demo.
+
+Additionally, if you're interested in trying out CINNOX without any commitment, you can start a **14-day free trial** of our Digital Commerce Plan here: [Free Sign-Up](https://servicehub.cinnox.com/free-sign-up?step=email).
+
+If you have any other questions or need further assistance, feel free to ask!"
+system,,2026-02-03 13:09:20 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andy Chan,"=""""",,0,op.update-im-history
+system,,2026-02-03 16:32:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andy Chan,"=""""",,0,room.leave
+system,,2026-02-03 16:32:56 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",,0,room.join
+system,,2026-02-03 16:32:56 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.MEajKMyWmgzs.6398.05000000.6wW1a8XsZ7G_Z4xS,Andy Chan,"=""""",,0,enquiry.takeover
+system,,2026-02-03 16:35:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",,0,room.leave
+system,,2026-02-03 16:36:27 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.MEajKMyWmgzs.6398.05000000.6wW1a8XsZ7G_Z4xS,Andy Chan,"=""""",,0,enquiry.transfer.missed
+system,,2026-02-03 16:37:00 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Andy Chan,"=""""",,0,room.join
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Demo & Sales Enquiry,2026-02-03 13:08:44 (UTC+00:00),HK,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Andy,Chan,forti@rocketmail.com,"=""+85293030532"""

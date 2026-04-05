@@ -1,0 +1,24 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-10-29 01:47:48 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.VlTs90t0tLg8.3b49.05000000.AA2cX_3KhN59NH41,Jatin Sareen,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-10-29 01:47:48 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jatin Sareen,"=""""",,0,
+im,TYPE_ADVANCED,2025-10-29 01:47:49 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jatin Sareen,"=""""",,0,"Good day! How can I assist you? Click on the 'Connect with a live agent' button for immediate support. Our team is available Monday to Friday, 9:00 to 18:00 (GMT+8). For assistance outside these hours, please email us at support@cinnox.com. Your satisfaction is our priority!  感謝聯絡 CINNOX！如需即時協助，請點擊 “Find a live agent/尋找線上客服” 以獲得即時支援。我們的團隊在週一至週五的9:00至18:00（GMT+8）提供服務。在非辦公時間，請透過電郵support@cinnox.com聯絡我們，我們將盡快回覆。"
+system,,2025-10-29 01:47:49 (UTC+00:00),Jatin Sareen,"=""""",123de812-fd47-4d0b-a4e6-33aa69c1fe6b@prod-hk-02@1001,Jatin Sareen,"=""""",,0,room.pci-disclaimer
+system,,2025-10-29 01:47:50 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,room.join
+im,TYPE_TEXT,2025-10-29 01:47:58 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.VlTs90t0tLg8.3b49.05000000.AA2cX_3KhN59NH41,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,hi
+im,TYPE_TEXT,2025-10-29 01:47:58 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to chat about, feel free to share!"
+system,,2025-10-29 01:48:01 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-29 01:48:39 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.VlTs90t0tLg8.3b49.05000000.AA2cX_3KhN59NH41,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,I signed up for 14 days free plan and when i got the activation link it says the link is invalid
+im,TYPE_TEXT,2025-10-29 01:48:39 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0," "
+im,TYPE_TEXT,2025-10-29 01:49:25 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.VlTs90t0tLg8.3b49.05000000.AA2cX_3KhN59NH41,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,checked everything  itssays link is inactive
+im,TYPE_TEXT,2025-10-29 01:49:25 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,I'm sorry to hear that you're having trouble with the activation link! It can be frustrating when things don't work as expected. Could you please provide me with the email address you used to sign up? This will help me look into the issue for you.
+system,,2025-10-29 01:49:29 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:34 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,room.leave
+system,,2025-12-18 18:23:34 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2025-10-29 01:47:48 (UTC+00:00),US,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Jatin,Sareen,business@myavshopllc.com,N/A

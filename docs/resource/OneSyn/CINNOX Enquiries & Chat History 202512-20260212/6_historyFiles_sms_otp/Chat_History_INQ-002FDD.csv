@@ -1,0 +1,42 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-11 15:47:53 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,HSIEH WEITING,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-11 15:47:53 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,HSIEH WEITING,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-11 15:47:53 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,HSIEH WEITING,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2026-02-11 15:47:53 (UTC+00:00),HSIEH WEITING,"=""""",52adf3c6-585e-4f8e-ae25-753b10e63a38@prod-hk-02@1001,HSIEH WEITING,"=""""",,0,room.pci-disclaimer
+system,,2026-02-11 15:47:54 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,HSIEH WEITING,"=""""",,0,room.join
+system,,2026-02-11 15:48:28 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,HSIEH WEITING,"=""""",,0,room.leave
+system,,2026-02-11 15:48:29 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",,0,room.join
+system,,2026-02-11 15:48:29 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,HSIEH WEITING,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-11 15:48:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,午安～
+im,TYPE_TEXT,2026-02-11 15:48:42 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,請問有什麼可以協助您的嗎？
+im,TYPE_TEXT,2026-02-11 15:48:44 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,午安
+im,TYPE_TEXT,2026-02-11 15:49:16 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我註冊 電子郵件的地方 系統說不能google 也不能yahoo
+im,TYPE_TEXT,2026-02-11 15:49:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,您是透過哪個入口申請CINNOX？
+im,TYPE_TEXT,2026-02-11 15:49:50 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,可以給我連結嗎？
+im,TYPE_TEXT,2026-02-11 15:49:56 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Google 搜尋
+im,TYPE_TEXT,2026-02-11 15:50:14 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,https://www.cinnox.com/zh/china-virtual-number
+im,TYPE_TEXT,2026-02-11 15:50:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,"我們沒有擋email, 不過您是要買中國的虛擬號碼對嗎？"
+im,TYPE_TEXT,2026-02-11 15:50:49 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,對
+im,TYPE_TEXT,2026-02-11 15:50:57 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,外撥對吧？還是接聽
+im,TYPE_TEXT,2026-02-11 15:51:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,會有問題是因為中國的號碼需要比較嚴格的條件
+im,TYPE_TEXT,2026-02-11 15:51:24 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,沒有 只是要收認證碼 蘋果商店會用到
+im,TYPE_TEXT,2026-02-11 15:51:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,我們的中國號碼沒有收sms的能力呢
+im,TYPE_TEXT,2026-02-11 15:51:49 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好 瞭解
+im,TYPE_TEXT,2026-02-11 15:51:53 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,謝謝
+im,TYPE_TEXT,2026-02-11 15:51:57 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,跟sim 卡不太一樣
+im,TYPE_TEXT,2026-02-11 15:52:00 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",WxlwFGLk.SALI94vmehZW.8fc1.05000000.ezToKfsxIG8LJz2C,0,不好意思
+im,TYPE_ADVANCED,2026-02-11 15:56:58 (UTC+00:00),HSIEH WEITING,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,HSIEH WEITING,"=""""",,0,Hello! It seems you may be busy at the moment. We're here to assist you whenever you're ready. Please don't hesitate to reach out if you have any questions or need assistance with our services. We're just a message away! 😊
+system,,2026-02-11 16:08:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",,0,room.leave
+system,,2026-02-11 16:08:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,HSIEH WEITING,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Demo & Sales Enquiry,2026-02-11 15:47:53 (UTC+00:00),"Keelung, TW",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+HSIEH,WEITING,starin0715@gmail.com,"=""+886900263680"""

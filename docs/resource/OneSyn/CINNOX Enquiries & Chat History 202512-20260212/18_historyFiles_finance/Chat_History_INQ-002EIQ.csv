@@ -1,0 +1,28 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-18 12:40:40 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6," Capeside (company)","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-18 12:40:40 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," Capeside (company)","=""""",,0,
+system,,2025-12-18 12:40:40 (UTC+00:00)," Capeside (company)","=""""",f6cb0aef-d433-45e9-8218-b43f5dee76ce@prod-hk-02@1001," Capeside (company)","=""""",,0,room.pci-disclaimer
+system,,2025-12-18 12:41:01 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-18 12:41:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,Good afternoon!
+im,TYPE_TEXT,2025-12-18 12:41:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,How may I help you?
+im,TYPE_TEXT,2025-12-18 12:41:54 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Hi Sandy. I have a quick question. can i see anywhere in cinnox system the invoices for my payments? My local tax advisor in Hong Kong asked me to provide invoices, he does not accept the emails with the payment confirmations. he needs a proper invoice to deduct the costs from my expense account..."
+im,TYPE_TEXT,2025-12-18 12:42:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,Let me ask the team to generate it
+im,TYPE_TEXT,2025-12-18 12:42:26 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,which email shall I send it to?
+im,TYPE_TEXT,2025-12-18 12:42:38 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,the registered email to my account is fine
+im,TYPE_TEXT,2025-12-18 12:42:55 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,info@international-incorporations.com
+im,TYPE_TEXT,2025-12-18 12:43:27 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,"Sure. It's break time now, I will ask my colleague to process this afterwards. I will send it to you before 3pm UTC+8"
+im,TYPE_TEXT,2025-12-18 12:43:52 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,that would be great coz its quite urgent to finalise the end of the year bookkeeping
+im,TYPE_TEXT,2025-12-18 12:43:55 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,many thanks
+im,TYPE_TEXT,2025-12-18 12:44:17 (UTC+00:00)," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,have a nice day :)
+im,TYPE_TEXT,2025-12-18 12:44:28 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,You too!
+im,TYPE_TEXT,2025-12-18 14:35:03 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",WxlwFGLk.UE4wmq7k1xXC.4f05.05000000.UbLCtSFhBU9DG5R6,0,The invoices have been sent to you :)
+system,,2025-12-18 14:35:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",,0,room.leave
+system,,2025-12-18 14:35:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Capeside (company)","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-18 12:40:40 (UTC+00:00),"Alor Star, MY",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,Capeside (company),N/A,N/A

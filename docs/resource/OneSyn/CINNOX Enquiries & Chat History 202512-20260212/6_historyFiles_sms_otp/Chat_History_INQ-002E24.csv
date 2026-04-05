@@ -1,0 +1,77 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-17 20:25:59 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-17 20:25:59 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2025-11-17 20:25:59 (UTC+00:00)," customer","=""""",8918770c-7723-442c-b41e-2b3a2095e358@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2025-11-17 20:26:25 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-11-17 20:26:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"Hi, anything I can help you with?"
+im,TYPE_TEXT,2025-11-17 20:28:14 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,hello
+im,TYPE_TEXT,2025-11-17 20:28:40 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Ive been speaking with you several days ago about the verification of my account but still, nothing has happened"
+im,TYPE_TEXT,2025-11-17 20:31:31 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"the company doc has been declined
+
+Reason: The docs proof address didn't match BR, so please kindly provide the proof of Company Address (A recent utility bill, bank statement, or service bill verifying your business location)"
+im,TYPE_TEXT,2025-11-17 20:34:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,you can upload the doc again here in CINNOX
+im,TYPE_FILE,2025-11-17 20:34:12 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,
+im,TYPE_TEXT,2025-11-17 20:34:18 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,and you can check the status
+system,,2025-11-17 21:33:47 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-11-25 18:08:18 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"hi, i just paid for my number. Can i receive sms messages now or am i supposed to do something else before in terms of set up"
+im,TYPE_TEXT,2025-11-25 18:10:30 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,hello?
+im,TYPE_TEXT,2025-11-25 18:11:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"you can send the SMS directly to the number 85257451729 and find the message in the SMS report (click Detail on each record, if there's any)"
+im,TYPE_FILE,2025-11-25 18:11:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,
+im,TYPE_TEXT,2025-11-25 18:15:29 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I just tested it from my phone number but nothing arrived
+im,TYPE_TEXT,2025-11-25 18:17:06 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Let me check it
+im,TYPE_TEXT,2025-11-25 18:18:05 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Could you provide the SMS time and sender for us to check?
+im,TYPE_TEXT,2025-11-25 18:20:42 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,11.11 CET   -  +359877079441
+im,TYPE_TEXT,2025-11-25 18:29:43 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Checking the record
+im,TYPE_TEXT,2025-11-25 18:32:25 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I just tried a cal...and this works...but sms doesnt arrive at all. I dont see it in the interface
+im,TYPE_TEXT,2025-11-25 18:33:03 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Could I have your service name again ?
+im,TYPE_TEXT,2025-11-25 18:33:08 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,xxxx.cinnox.com
+im,TYPE_TEXT,2025-11-25 18:35:16 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ppconsultancyltd
+im,TYPE_TEXT,2025-11-25 18:36:28 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"thank you, let me have a look"
+im,TYPE_TEXT,2025-11-25 18:56:14 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,?
+im,TYPE_TEXT,2025-11-25 18:57:06 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Check almost all record and find no yours
+im,TYPE_TEXT,2025-11-25 18:57:25 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Did you phone device support International SMS sending?
+system,,2025-11-25 19:03:13 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-11-25 19:14:47 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"yes, of course. I also tried calling and this worked. Only sms doesnt work"
+im,TYPE_TEXT,2025-11-25 19:16:32 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,Could you check with your local provider to check if the SMS was sent? Because we checked the logs and didn't see the SMS
+im,TYPE_TEXT,2025-11-25 19:31:49 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"We sent from 2 different bulgarian providers by now, nothing arrived."
+im,TYPE_TEXT,2025-11-25 19:38:27 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Ill ask 2 friends abroad to send sms messages as well
+im,TYPE_FILE,2025-11-25 19:38:50 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2025-11-25 19:38:55 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,this is the response from one friend.
+im,TYPE_TEXT,2025-11-25 19:44:47 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,?
+im,TYPE_TEXT,2025-11-25 19:46:57 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,we will check with the responsible team tomorrow as we also tested with our number and it seems the route needs to be adjusted
+im,TYPE_TEXT,2025-11-25 19:50:25 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"okay, i would appreciate it if you could handle with high priority. I need a stable HK number to receive sms messages"
+im,TYPE_TEXT,2025-11-25 19:51:07 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,the SMS you are going to receive come from various countries right?
+im,TYPE_TEXT,2025-11-25 19:56:00 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,yes
+im,TYPE_TEXT,2025-11-25 19:56:12 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,but mainly hong kong
+im,TYPE_TEXT,2025-11-25 19:58:26 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,I will drop you an email with updates the soonest possible
+im,TYPE_TEXT,2025-11-25 20:01:46 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ok
+im,TYPE_TEXT,2025-12-03 22:50:08 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"hi, this morning, i tried to receive several OTP sms messages from my bank, but nothing came through. Bank is located in Hong Kong."
+im,TYPE_TEXT,2025-12-03 22:59:22 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,could you share the timestamp?
+im,TYPE_TEXT,2025-12-03 23:03:54 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"From the SMS records, could see several tests between 18:20~20:17, but don't see test records in the morning"
+im,TYPE_TEXT,2025-12-03 23:06:04 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Which timezone?
+im,TYPE_TEXT,2025-12-03 23:06:44 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,GMT+8
+im,TYPE_TEXT,2025-12-03 23:14:37 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,so how come these sms messages didnt arrive?
+im,TYPE_TEXT,2025-12-03 23:55:28 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,?
+im,TYPE_TEXT,2025-12-03 23:56:37 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,Let us check the route settings with the team during office hours
+im,TYPE_TEXT,2025-12-03 23:56:43 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ok
+im,TYPE_TEXT,2025-12-03 23:56:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,I will drop you an email
+im,TYPE_TEXT,2025-12-04 00:00:43 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Sure, no problem"
+im,TYPE_TEXT,2025-12-04 00:00:44 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,thanks
+im,TYPE_TEXT,2025-12-04 00:45:59 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,Thanks for your patience
+im,TYPE_TEXT,2025-12-04 17:34:38 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"hi, i havent heard fvrom you by email..."
+im,TYPE_TEXT,2025-12-04 17:41:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"excuse me, we found the differences between the receipt ones and the undelivered one, R&D team is investigating"
+im,TYPE_TEXT,2025-12-04 18:58:37 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"ok. Pls advise at your earliest convenience. If you need me to conduct another test, let me know."
+im,TYPE_TEXT,2025-12-04 18:59:44 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,"we can test with our system too. We identified the difference. It's about a symbol # in the Sender ID. With this symbol, CINNOX cannot receive the message"
+im,TYPE_TEXT,2025-12-04 19:00:41 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig,0,but we cannot determine the sender ID ..so we are trying to see what we can do to let it pass to CINNOX
+system,,2026-01-08 11:54:45 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.leave
+system,,2026-01-08 11:54:45 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",,0,room.leave
+system,,2026-01-08 11:54:45 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",,0,room.leave
+system,,2026-01-08 11:54:46 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-11-17 20:25:59 (UTC+00:00),"Skopje, MK",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

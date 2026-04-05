@@ -1,0 +1,25 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-09 13:58:25 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,征 刘,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-09 13:58:25 (UTC+00:00),征 刘,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,征 刘,"=""""",,0,
+system,,2026-02-09 13:58:25 (UTC+00:00),征 刘,"=""""",504569aa-063f-46aa-bcdf-d0276912a90a@prod-hk-02@1001,征 刘,"=""""",,0,room.pci-disclaimer
+system,,2026-02-09 13:58:30 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,征 刘,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-09 13:58:36 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,你好
+im,TYPE_TEXT,2026-02-09 13:58:36 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,午安～
+im,TYPE_TEXT,2026-02-09 13:58:42 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,有什麼可以協助您的嗎
+im,TYPE_TEXT,2026-02-09 13:59:06 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我的企业资质审核还没有处理
+im,TYPE_TEXT,2026-02-09 13:59:42 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,方便再提供一下註冊的公司名嗎？幫您查詢
+im,TYPE_TEXT,2026-02-09 14:06:24 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,？？
+im,TYPE_FILE,2026-02-09 14:10:20 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-09 14:10:38 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Yoshitsu Hong Kong Trading Co. Limited
+im,TYPE_TEXT,2026-02-09 14:11:55 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,I saw you submitted the application during the weekend. The responsible team is off on weekend. I will urge then to review it the soonest possible today.
+im,TYPE_TEXT,2026-02-09 14:16:11 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好的
+system,,2026-02-09 14:16:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,征 刘,"=""""",,0,room.leave
+system,,2026-02-09 14:16:17 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,征 刘,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-09 13:58:25 (UTC+00:00),"Kunming, CN",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+征,刘,N/A,"=""+8615595410806"""

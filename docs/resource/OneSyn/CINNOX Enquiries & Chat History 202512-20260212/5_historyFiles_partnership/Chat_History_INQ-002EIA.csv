@@ -1,0 +1,45 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-17 21:26:47 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Muhammad Babar,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-17 21:26:47 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Muhammad Babar,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-17 21:26:47 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Muhammad Babar,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2025-12-17 21:26:47 (UTC+00:00),Muhammad Babar,"=""""",260476bd-5b97-49fd-9c62-9d7a83a8c52d@prod-hk-02@1001,Muhammad Babar,"=""""",,0,room.pci-disclaimer
+system,,2025-12-17 21:26:48 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-17 21:27:00 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Hello
+im,TYPE_TEXT,2025-12-17 21:27:00 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2025-12-17 21:27:04 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 21:27:06 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,How are you?
+im,TYPE_TEXT,2025-12-17 21:27:06 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,"I'm doing great, thank you for asking! I'm here to help you with any questions or information you might need. How about you? How's your day going?"
+system,,2025-12-17 21:27:10 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 21:27:19 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want to talk your agent person
+im,TYPE_TEXT,2025-12-17 21:27:20 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,"I'm here to help you! While I don't have a physical agent to connect you with, I can assist you with any questions or topics you'd like to discuss. What specifically would you like to talk about?"
+system,,2025-12-17 21:27:23 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 21:27:52 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want SIP Voice SERVICE
+im,TYPE_TEXT,2025-12-17 21:27:52 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,"Hello! I'm here to help you with your inquiry about SIP Voice Service. Could you please provide me with a bit more information about what you're looking for? For example, are you interested in residential or business services, or do you have specific features in mind that you need?"
+system,,2025-12-17 21:27:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,op.update-im-history
+system,,2025-12-17 21:28:12 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,room.join
+system,,2025-12-17 21:28:12 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Muhammad Babar,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-17 21:28:28 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Hello
+im,TYPE_TEXT,2025-12-17 21:28:28 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,"Hello! I'm doing well, thank you for asking. How can I assist you today? I see you're interested in SIP Voice Service. Could you please provide a bit more information about what specific features or requirements you are looking for in the service?"
+system,,2025-12-17 21:28:33 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 21:28:41 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Yes
+im,TYPE_TEXT,2025-12-17 21:28:42 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,"Hello! I'm here to help you with your inquiries. It sounds like you're interested in SIP Voice Service. Could you please provide me with a bit more information about what you're looking for? For example, are you looking for residential or business services, or do you have specific features in mind that you need?"
+system,,2025-12-17 21:28:46 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 21:28:52 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want interconnected with you
+im,TYPE_TEXT,2025-12-17 21:28:52 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,"Hello! It sounds like you're interested in connecting with me in some way. Could you please clarify what you mean by ""interconnected""? Are you looking for information on how to use a specific service, or do you have a particular question in mind? Let me know so I can assist you better!"
+system,,2025-12-17 21:28:56 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 21:29:11 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Voice route service
+im,TYPE_TEXT,2025-12-17 21:29:11 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,"Hello! It sounds like you're interested in SIP Voice Service and possibly voice route services. Could you please provide more details about what you're looking for? For example, are you interested in setting up a new service, or do you have specific requirements or features in mind?"
+system,,2025-12-17 21:29:14 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,op.update-im-history
+system,,2025-12-17 21:29:30 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Muhammad Babar,"=""""",,0,room.leave
+system,,2025-12-17 21:29:30 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Muhammad Babar,"=""""",,0,room.leave
+system,,2025-12-17 21:29:30 (UTC+00:00),Muhammad Babar,"=""""",WxlwFGLk.EnjXEJfcN1dK.aa6e.05000000.5cVfn1U0_GYJCYm1,Muhammad Babar,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Sales & Demo,2025-12-17 21:26:47 (UTC+00:00),"Noida, IN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Muhammad,Babar,Sales@ringolinktelecom.in,"=""+447491805130"""

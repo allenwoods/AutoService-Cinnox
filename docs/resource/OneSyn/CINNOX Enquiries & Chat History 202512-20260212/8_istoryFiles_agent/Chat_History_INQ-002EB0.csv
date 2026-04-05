@@ -1,0 +1,27 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-04 13:06:14 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,成成 佘,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-04 13:06:14 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,成成 佘,"=""""",,0,
+system,,2025-12-04 13:06:15 (UTC+00:00),成成 佘,"=""""",4b76ef35-7742-4e7f-a643-2b350e84a7be@prod-hk-02@1001,成成 佘,"=""""",,0,room.pci-disclaimer
+system,,2025-12-04 13:06:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-04 13:06:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,0,您好～
+im,TYPE_FILE,2025-12-04 13:06:40 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2025-12-04 13:07:02 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我的退款現在還沒有收到
+im,TYPE_TEXT,2025-12-04 13:07:11 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,已經很多天了
+im,TYPE_TEXT,2025-12-04 13:07:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,0,我與財務確認他們退款的時間，因為還需要等待銀行呢
+im,TYPE_TEXT,2025-12-04 13:07:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,0,您稍等
+im,TYPE_TEXT,2025-12-04 13:07:50 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,說了這周內退款，已經過去好幾天了
+im,TYPE_TEXT,2025-12-04 13:09:32 (UTC+00:00),成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我想知道確定什麼時候能退款到賬
+im,TYPE_TEXT,2025-12-04 13:10:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,0,這個退款12月1日我們已經提交，由於是線上刷卡公司（Stripe），所以也需要他們作業，通常是五個工作天，最慢下週一您看看有無到帳
+im,TYPE_TEXT,2025-12-04 16:44:33 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,0,"如果週一仍未到帳再麻煩您告知，謝謝！
+這個聊天室將會先關閉，您可以再用同樣方式或是郵件聯繫我嫩"
+im,TYPE_TEXT,2025-12-04 16:44:36 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",WxlwFGLk.vvEj4cCcGKaB.6825.05000000.yoaczT6XFKlMLigM,0,＊我們
+system,,2025-12-04 16:44:40 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",,0,room.leave
+system,,2025-12-04 16:44:40 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,成成 佘,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Onboarding Live Support,2025-12-04 13:06:14 (UTC+00:00),"Central, HK",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+成成,佘,a10488837@gmail.com,"=""+85251041911"""

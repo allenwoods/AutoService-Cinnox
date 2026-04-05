@@ -1,0 +1,58 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-11 14:26:22 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Mohmmad Babar,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-11 14:26:22 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Mohmmad Babar,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-11 14:26:22 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Mohmmad Babar,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2026-02-11 14:26:22 (UTC+00:00),Mohmmad Babar,"=""""",b228dd6c-af48-44f7-b3eb-4b67c30c34fc@prod-hk-02@1001,Mohmmad Babar,"=""""",,0,room.pci-disclaimer
+system,,2026-02-11 14:26:24 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-11 14:26:33 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Hello
+im,TYPE_TEXT,2026-02-11 14:26:33 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2026-02-11 14:26:36 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 14:27:02 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,We are interested in your VoIP Voice services
+im,TYPE_TEXT,2026-02-11 14:27:02 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,"Hello! I'm glad to hear that you're interested in our VoIP Voice services! We offer a variety of features, including high-definition voice quality, call forwarding, voicemail-to-email, and more. 
+
+Could you please provide more information about your specific needs or what you're looking for in a VoIP service? For example, are you interested in services for a business or personal use?"
+system,,2026-02-11 14:27:05 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 14:27:52 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Retail and wholesale route need
+im,TYPE_TEXT,2026-02-11 14:27:53 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,"Hello! It's great to hear that you're interested in our VoIP voice services. To better assist you, could you please provide more information about whether you're looking for retail or wholesale routing options? This will help me give you the most relevant details!"
+system,,2026-02-11 14:27:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 14:28:11 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Can you please connect with your agent
+im,TYPE_TEXT,2026-02-11 14:28:11 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,"I'm glad to hear you're interested in our VoIP voice services! While I can't directly connect you with an agent, I can certainly help you with information about our retail and wholesale routes. Could you please provide more details about your specific needs or requirements for these services? This will help me assist you better!"
+system,,2026-02-11 14:28:14 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 14:28:43 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,We want start business with you
+im,TYPE_TEXT,2026-02-11 14:28:43 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,"That's great to hear that you're interested in starting a business with us! To better assist you, could you please provide more details about your specific needs regarding the VoIP services? For example, are you looking for specific features, pricing structures, or target markets for your retail and wholesale routes?"
+system,,2026-02-11 14:28:46 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 14:29:12 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Price we can discuss with your agent
+im,TYPE_TEXT,2026-02-11 14:29:12 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0," "
+im,TYPE_TEXT,2026-02-11 14:29:15 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+system,,2026-02-11 14:29:51 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Mohmmad Babar,"=""""",,0,room.leave
+system,,2026-02-11 14:29:52 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",,0,room.join
+system,,2026-02-11 14:29:52 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Mohmmad Babar,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-11 14:29:58 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Hello
+im,TYPE_TEXT,2026-02-11 14:30:04 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,How are you doing
+im,TYPE_TEXT,2026-02-11 14:30:06 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,0,How can I help you?
+im,TYPE_TEXT,2026-02-11 14:30:14 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,0,Good thank you
+im,TYPE_TEXT,2026-02-11 14:30:26 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Sir we are Interested in your VoIP Voice services
+im,TYPE_TEXT,2026-02-11 14:31:14 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,0,Would you mind provide your email contact and our sales team will contact you
+im,TYPE_TEXT,2026-02-11 14:31:29 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Yes let me share you
+im,TYPE_TEXT,2026-02-11 14:31:39 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,sales@ringolinktelecom.in
+im,TYPE_TEXT,2026-02-11 14:32:20 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,0,Thank you very much.  Are you interest in wholesale voice service?
+im,TYPE_TEXT,2026-02-11 14:32:40 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Yes sir
+im,TYPE_TEXT,2026-02-11 14:33:19 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,0,Understand.  Our sales will contact you.  Anything else we can help?
+im,TYPE_TEXT,2026-02-11 14:33:46 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Thankyou Sir
+im,TYPE_TEXT,2026-02-11 14:33:53 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,0,have a nice day
+im,TYPE_TEXT,2026-02-11 14:34:00 (UTC+00:00),Mohmmad Babar,"=""""",WxlwFGLk.Hp4N8uhre2cC.bb97.05000000.h-UW4Lkb9RiLNl0c,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Waiting for your teams updates
+system,,2026-02-11 14:35:12 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",,0,room.leave
+system,,2026-02-11 14:35:12 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,Mohmmad Babar,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Demo & Sales Enquiry,2026-02-11 14:26:22 (UTC+00:00),"Noida, IN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Mohmmad,Babar,sales@ringolinktelecom.in,"=""+447491805130"""

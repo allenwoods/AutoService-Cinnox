@@ -1,0 +1,33 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-23 16:23:58 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-23 16:23:58 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2025-12-23 16:23:58 (UTC+00:00)," customer","=""""",dcd2a966-bbc1-47eb-bef4-07cad06541f3@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2025-12-23 16:24:09 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-23 16:24:11 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Hello i am not able to use the number on whatsapp
+im,TYPE_TEXT,2025-12-23 16:24:27 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,If it doesnt work please refund me the amount and delete the account pls
+im,TYPE_TEXT,2025-12-23 16:28:27 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,"Please wait, let me check with my colleague"
+system,,2025-12-23 16:30:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-23 16:32:09 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,Hi I will proceed your request. The refund takes around 5 working days
+im,TYPE_TEXT,2025-12-23 16:53:37 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Ok
+im,TYPE_TEXT,2025-12-31 17:17:20 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Hi
+im,TYPE_TEXT,2025-12-31 17:17:38 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,You guys deducted the amount twice from my account but only refunded one time ?
+im,TYPE_FILE,2025-12-31 17:18:00 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,
+im,TYPE_TEXT,2025-12-31 17:18:11 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,I am confused please refund me
+im,TYPE_TEXT,2025-12-31 17:24:24 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,We will check with related team
+im,TYPE_TEXT,2025-12-31 17:24:44 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Please check and let me know i am waiting
+im,TYPE_TEXT,2025-12-31 17:36:48 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,may I have your company name?
+im,TYPE_TEXT,2025-12-31 17:37:00 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Its Aussie Creatives Studio
+im,TYPE_TEXT,2025-12-31 17:37:09 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,Just a moment please
+im,TYPE_TEXT,2025-12-31 17:37:13 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,The username was Aussie-Creatives-Studio
+im,TYPE_TEXT,2025-12-31 17:42:12 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,We will refund the payment. It will take around 5 working days
+im,TYPE_TEXT,2025-12-31 17:50:51 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,Ok please initiate asap
+im,TYPE_TEXT,2025-12-31 18:01:26 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,We will
+im,TYPE_TEXT,2025-12-31 18:01:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,Thanks for your patience
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-23 16:23:58 (UTC+00:00),"Ormiston, AU",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

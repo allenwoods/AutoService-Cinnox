@@ -1,0 +1,42 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-05 21:36:13 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-05 21:36:13 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-02-05 21:36:13 (UTC+00:00)," customer","=""""",546cc784-3619-42db-a1c4-009d43e314f0@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2026-02-05 21:36:28 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-02-05 21:36:55 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,"hi, i have ordered a virtual number from hong kong, i have paid but i cannot tell wether the number has been activated, i tried texting the number and the text bounced back"
+im,TYPE_TEXT,2026-02-05 21:37:00 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,How do i start using the number?
+im,TYPE_TEXT,2026-02-05 21:40:07 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,"Sorry, May I know your account ID?"
+im,TYPE_TEXT,2026-02-05 21:40:30 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,this?
+im,TYPE_TEXT,2026-02-05 21:40:31 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,# 296671
+im,TYPE_TEXT,2026-02-05 21:40:52 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,How about your email address?
+im,TYPE_TEXT,2026-02-05 21:40:58 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,vidatradersltd@gmail.com
+im,TYPE_TEXT,2026-02-05 21:41:40 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,Can I contact you via this email?
+im,TYPE_TEXT,2026-02-05 21:41:48 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,yes
+im,TYPE_TEXT,2026-02-05 21:43:03 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,May I have your order ID?
+im,TYPE_TEXT,2026-02-05 21:43:18 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,85257464359
+im,TYPE_TEXT,2026-02-05 21:43:44 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,OK. We will contact you ASAP. Thank you
+im,TYPE_TEXT,2026-02-05 21:43:52 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,via email?
+im,TYPE_TEXT,2026-02-05 21:44:22 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,Yes. You want contact you via phone or somethng else?
+im,TYPE_TEXT,2026-02-05 21:44:42 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,email is fine
+im,TYPE_TEXT,2026-02-05 21:44:56 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,"i just need my virtual number to work, need it for work"
+im,TYPE_TEXT,2026-02-05 21:45:04 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,0,Ok .We will find you ASAP. Thank you
+im,TYPE_TEXT,2026-02-07 00:29:01 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,"Hi, I contacted previously about getting my virtual number working and was told I would be contacted via email and I haven't."
+im,TYPE_TEXT,2026-02-07 00:29:19 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,It's very important that I get this number up and running as soon as possible as it is affecting business.
+im,TYPE_TEXT,2026-02-07 00:56:54 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,"I am trying to text the number and my texts are bouncing back, it seems the number is not activated"
+im,TYPE_TEXT,2026-02-07 21:56:21 (UTC+00:00)," customer","=""""",WxlwFGLk.WrVQJo7SKplG.6f5e.05000000.iU4m4Q1Z78dfXoBn,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,"Hi, I am trying to send messages on my virtual number to my personal phone to test that it is working, but it isnt. 
+
+The messages initially say ""Queued"", ""The SMS is queued to be delivered by the Carrier to the recipient.""
+
+After a couple of minutes it changes to ""Rejected"" ""The Carrier has rejected the SMS.""
+
+Do you know why it isnt working and how I can fix it?"
+system,,2026-02-08 19:46:15 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.leave
+system,,2026-02-08 19:46:15 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-05 21:36:13 (UTC+00:00),"Bristol, GB",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,vidatradersltd@gmail.com,N/A

@@ -1,0 +1,31 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-30 17:31:44 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Makayla Tan,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-30 17:31:44 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Makayla Tan,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-30 17:31:44 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Makayla Tan,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-01-30 17:31:44 (UTC+00:00),Makayla Tan,"=""""",aceda782-f5ea-4aae-9b46-cae1bb5f4187@prod-hk-02@1001,Makayla Tan,"=""""",,0,room.pci-disclaimer
+system,,2026-01-30 17:31:45 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Makayla Tan,"=""""",,0,room.join
+system,,2026-01-30 17:32:32 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Makayla Tan,"=""""",,0,room.leave
+system,,2026-01-30 17:32:33 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,Makayla Tan,"=""""",,0,room.join
+system,,2026-01-30 17:32:33 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Makayla Tan,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-01-30 17:32:47 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,0,"Hi, What can I help?"
+im,TYPE_TEXT,2026-01-30 17:33:05 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我需要一位销售代表的联系方式
+im,TYPE_TEXT,2026-01-30 17:33:13 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,进行合作沟通
+im,TYPE_TEXT,2026-01-30 17:34:24 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,0,"你可以留低聯絡,方便給销售代表跟進?"
+im,TYPE_TEXT,2026-01-30 17:34:57 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,whatsapp+8618155048992
+im,TYPE_TEXT,2026-01-30 17:35:33 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,0,有沒有EMAIL呢?
+im,TYPE_TEXT,2026-01-30 17:39:34 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,2.1.0.makayla.0.1@gmail.com
+im,TYPE_TEXT,2026-01-30 17:39:50 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,请不要直接电话沟通
+im,TYPE_TEXT,2026-01-30 17:40:43 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,0,相關同事會盡快聯絡
+im,TYPE_TEXT,2026-01-30 17:41:13 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,好的
+system,,2026-01-30 18:28:51 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,Makayla Tan,"=""""",,0,room.leave
+system,,2026-01-30 18:28:51 (UTC+00:00),Makayla Tan,"=""""",WxlwFGLk.ujYpWHKvA7Fx.8eff.05000000.rnNmf0vwswuaOL7d,Makayla Tan,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Sales & Demo,2026-01-30 17:31:44 (UTC+00:00),KR,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Makayla,Tan,2.1.0.makayla.0.1@gmail.com,"=""+8618155048992"""

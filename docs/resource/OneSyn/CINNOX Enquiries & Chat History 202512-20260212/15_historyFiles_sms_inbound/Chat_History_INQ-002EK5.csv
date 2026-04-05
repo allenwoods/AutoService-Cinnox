@@ -1,0 +1,21 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-19 21:07:11 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-19 21:07:11 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Abdullah Al alyani,"=""""",,0,
+system,,2025-12-19 21:07:11 (UTC+00:00),Abdullah Al alyani,"=""""",0ab55ebb-d8a9-4eef-991b-85edde0f21c9@prod-hk-02@1001,Abdullah Al alyani,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2025-12-19 21:07:27 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,hey
+im,TYPE_TEXT,2025-12-19 21:08:15 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,"i have question mainly i need a china number that can work to register in any app , do you have china virtual number ?"
+system,,2025-12-19 21:08:16 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,enquiry.missed
+system,,2025-12-19 23:15:08 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-19 23:15:08 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Abdullah Al alyani,"=""""",,0,
+system,,2025-12-19 23:15:08 (UTC+00:00),Abdullah Al alyani,"=""""",0ab55ebb-d8a9-4eef-991b-85edde0f21c9@prod-hk-02@1001,Abdullah Al alyani,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2025-12-19 23:15:15 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,hey
+im,TYPE_TEXT,2025-12-19 23:15:44 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,do you have china numbers that can receive sms ?
+system,,2025-12-19 23:16:09 (UTC+00:00),Abdullah Al alyani,"=""""",WxlwFGLk.sPBRbYWmmoN-.1960.05000000.V3hS-Rsm0oxbezuY,Abdullah Al alyani,"=""""",,0,enquiry.missed
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-19 21:07:11 (UTC+00:00),"Ras al, AE",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Abdullah,Al alyani,aboodjohar90@gmail.com,N/A

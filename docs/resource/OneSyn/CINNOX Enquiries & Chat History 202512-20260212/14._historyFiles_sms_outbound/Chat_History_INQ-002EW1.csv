@@ -1,0 +1,32 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-14 12:18:54 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-14 12:18:54 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Tristan customer,"=""""",,0,
+system,,2026-01-14 12:18:54 (UTC+00:00),Tristan customer,"=""""",3c6a1593-d5a2-46ef-bdd8-99f388cb18ab@prod-hk-02@1001,Tristan customer,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-01-14 12:19:00 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,Hi
+system,,2026-01-14 12:20:07 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.missed
+system,,2026-01-14 12:20:23 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-14 12:20:24 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Tristan customer,"=""""",,0,
+system,,2026-01-14 12:20:24 (UTC+00:00),Tristan customer,"=""""",3c6a1593-d5a2-46ef-bdd8-99f388cb18ab@prod-hk-02@1001,Tristan customer,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-01-14 12:20:28 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,Hi
+im,TYPE_TEXT,2026-01-14 12:22:17 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,Hello
+system,,2026-01-14 12:22:41 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.missed
+system,,2026-01-14 12:27:57 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-14 12:27:57 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Tristan customer,"=""""",,0,
+system,,2026-01-14 12:27:57 (UTC+00:00),Tristan customer,"=""""",3c6a1593-d5a2-46ef-bdd8-99f388cb18ab@prod-hk-02@1001,Tristan customer,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-01-14 12:28:00 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,Hi
+system,,2026-01-14 12:30:01 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.missed
+im,TYPE_TEXT,2026-01-14 12:31:08 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,Hi I'm having troubles connecting my email
+system,,2026-01-14 12:46:56 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-14 12:46:56 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Tristan customer,"=""""",,0,
+system,,2026-01-14 12:46:57 (UTC+00:00),Tristan customer,"=""""",3c6a1593-d5a2-46ef-bdd8-99f388cb18ab@prod-hk-02@1001,Tristan customer,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-01-14 12:47:00 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,Hi
+system,,2026-01-14 12:49:01 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,enquiry.missed
+im,TYPE_TEXT,2026-01-14 12:50:21 (UTC+00:00),Tristan customer,"=""""",WxlwFGLk.GV5XuNsus-FJ.6a32.05000000.R33WwHwy1SIFay2w,Tristan customer,"=""""",,0,My other phone can't receive sms sent from here
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-14 12:18:53 (UTC+00:00),"Tai Hang, HK",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Tristan,customer,tristancheung@m800.com,N/A

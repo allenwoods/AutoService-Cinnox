@@ -1,0 +1,23 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-05 16:11:05 (UTC+00:00),Dylanon Wic,"=""""",WxlwFGLk.cDrFrY2vD2Xv.8fb8.05000000.1noXgvb_TwHZzxFF,Dylanon Wic,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-05 16:11:05 (UTC+00:00),Dylanon Wic,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Dylanon Wic,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-05 16:11:05 (UTC+00:00),Dylanon Wic,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Dylanon Wic,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2026-01-05 16:11:05 (UTC+00:00),Dylanon Wic,"=""""",2c8a9f5c-d4da-4615-8d91-8f5d456dc461@prod-hk-02@1001,Dylanon Wic,"=""""",,0,room.pci-disclaimer
+system,,2026-01-05 16:11:05 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Dylanon Wic,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-05 16:11:16 (UTC+00:00),Dylanon Wic,"=""""",WxlwFGLk.cDrFrY2vD2Xv.8fb8.05000000.1noXgvb_TwHZzxFF,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,What is Cinnox API rate limit?
+im,TYPE_TEXT,2026-01-05 16:11:16 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Dylanon Wic,"=""""",,0,"I'm not sure about the specific rate limit for the Cinnox API, as I don't have that information available. Rate limits can vary based on the type of account or usage plan you have. I recommend checking the official Cinnox API documentation or contacting their support for the most accurate and up-to-date information. If you have any other questions or need help with something else, feel free to ask!"
+system,,2026-01-05 16:11:19 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Dylanon Wic,"=""""",,0,op.update-im-history
+system,,2026-01-05 16:11:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Dylanon Wic,"=""""",,0,room.leave
+system,,2026-01-05 16:11:25 (UTC+00:00),Dylanon Wic,"=""""",WxlwFGLk.cDrFrY2vD2Xv.8fb8.05000000.1noXgvb_TwHZzxFF,Dylanon Wic,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Demo & Sales Enquiry,2026-01-05 16:11:05 (UTC+00:00),"Bangkok, TH",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Dylanon,Wic,Dylanonwic@test.com,N/A

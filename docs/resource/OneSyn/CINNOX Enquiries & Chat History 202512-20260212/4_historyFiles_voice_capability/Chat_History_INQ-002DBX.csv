@@ -1,0 +1,25 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-10-09 09:52:02 (UTC+00:00),MD Rabbi Ahmed,"=""""",WxlwFGLk.eDZaoXXiLwJt.cddd.05000000.ur4UzARh8j-heqeJ,MD Rabbi Ahmed,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-10-09 09:52:02 (UTC+00:00),MD Rabbi Ahmed,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,MD Rabbi Ahmed,"=""""",,0,
+im,TYPE_ADVANCED,2025-10-09 09:52:02 (UTC+00:00),MD Rabbi Ahmed,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,MD Rabbi Ahmed,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2025-10-09 09:52:02 (UTC+00:00),MD Rabbi Ahmed,"=""""",0742de5b-80c8-49e3-b312-071dd41df6f4@prod-hk-02@1001,MD Rabbi Ahmed,"=""""",,0,room.pci-disclaimer
+system,,2025-10-09 09:52:03 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,MD Rabbi Ahmed,"=""""",,0,room.join
+im,TYPE_TEXT,2025-10-09 09:52:42 (UTC+00:00),MD Rabbi Ahmed,"=""""",WxlwFGLk.eDZaoXXiLwJt.cddd.05000000.ur4UzARh8j-heqeJ,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Hi
+im,TYPE_TEXT,2025-10-09 09:52:42 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,MD Rabbi Ahmed,"=""""",,0,"Hello! How can I assist you today? If you have any questions or need information, feel free to ask!"
+system,,2025-10-09 09:52:46 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,MD Rabbi Ahmed,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-09 09:52:59 (UTC+00:00),MD Rabbi Ahmed,"=""""",WxlwFGLk.eDZaoXXiLwJt.cddd.05000000.ur4UzARh8j-heqeJ,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Are you allow custom caller id
+im,TYPE_TEXT,2025-10-09 09:53:00 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,MD Rabbi Ahmed,"=""""",,0," "
+system,,2026-01-12 18:24:08 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,MD Rabbi Ahmed,"=""""",,0,room.leave
+system,,2026-01-12 18:24:08 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,MD Rabbi Ahmed,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Demo & Sales Enquiry,2025-10-09 09:52:02 (UTC+00:00),"Los Angeles, US",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+MD Rabbi,Ahmed,gywqany@gmail.com,"=""+8801516601233"""

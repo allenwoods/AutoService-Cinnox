@@ -1,0 +1,14 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-11 07:00:48 (UTC+00:00)," Primeinfo.cinnox.com","=""""",WxlwFGLk.vV-IALvniV8L.426c.05000000.OdWuuft2RUUSQR_g," Primeinfo.cinnox.com","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-11 07:00:48 (UTC+00:00)," Primeinfo.cinnox.com","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," Primeinfo.cinnox.com","=""""",,0,
+system,,2025-12-11 07:00:48 (UTC+00:00)," Primeinfo.cinnox.com","=""""",e14cdf29-1e37-4a2b-826f-a4eebb48677f@prod-hk-02@1001," Primeinfo.cinnox.com","=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2025-12-11 07:00:54 (UTC+00:00)," Primeinfo.cinnox.com","=""""",WxlwFGLk.vV-IALvniV8L.426c.05000000.OdWuuft2RUUSQR_g," Primeinfo.cinnox.com","=""""",,0,Anyone
+system,,2025-12-11 07:01:49 (UTC+00:00)," Primeinfo.cinnox.com","=""""",WxlwFGLk.vV-IALvniV8L.426c.05000000.OdWuuft2RUUSQR_g," Primeinfo.cinnox.com","=""""",,0,enquiry.missed
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-11 07:00:48 (UTC+00:00),"Jaipur, IN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,Primeinfo.cinnox.com,N/A,N/A

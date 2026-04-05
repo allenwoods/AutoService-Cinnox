@@ -1,0 +1,26 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-07 14:41:19 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,征 刘,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-07 14:41:19 (UTC+00:00),征 刘,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,征 刘,"=""""",,0,
+system,,2026-02-07 14:41:19 (UTC+00:00),征 刘,"=""""",504569aa-063f-46aa-bcdf-d0276912a90a@prod-hk-02@1001,征 刘,"=""""",,0,room.pci-disclaimer
+system,,2026-02-07 14:41:48 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-07 14:41:49 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,为什么添加服务号码收不到验证短信
+im,TYPE_TEXT,2026-02-07 14:42:08 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,"Hi, What can I help?"
+im,TYPE_FILE,2026-02-07 14:42:19 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,
+im,TYPE_TEXT,2026-02-07 14:42:45 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,为什么添加服务号码收不到验证短信
+im,TYPE_TEXT,2026-02-07 14:43:50 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,請問account ID是?
+im,TYPE_TEXT,2026-02-07 14:44:46 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,在哪里查看
+im,TYPE_TEXT,2026-02-07 14:47:26 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,有沒有登入ID?
+im,TYPE_FILE,2026-02-07 14:48:46 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,
+im,TYPE_TEXT,2026-02-07 14:49:19 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,請等等
+im,TYPE_TEXT,2026-02-07 15:02:29 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,try this number 724726
+im,TYPE_TEXT,2026-02-07 15:05:46 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,"验证短信 -  724726, 可以嗎?"
+system,,2026-02-07 15:25:14 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",,0,room.leave
+system,,2026-02-07 15:25:14 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-07 14:41:19 (UTC+00:00),HK,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+征,刘,N/A,"=""+8615595410806"""

@@ -1,0 +1,40 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-03 13:25:44 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Andy Chan,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-03 13:25:44 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andy Chan,"=""""",,0,
+system,,2026-02-03 13:25:44 (UTC+00:00),Andy Chan,"=""""",bd6823d8-1381-4395-ae40-adc89cb40cf0@prod-hk-02@1001,Andy Chan,"=""""",,0,room.pci-disclaimer
+system,,2026-02-03 13:25:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-03 13:25:59 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,午安您好
+im,TYPE_TEXT,2026-02-03 13:26:06 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,有什麼可以幫您的嗎
+im,TYPE_TEXT,2026-02-03 13:28:04 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Hi I just joined the free trial and would like to find out more about the IVR forwarding function but it seems the free trial doesn't support such set up, my requirement is the following, a customer calls a mobile number (may be it's a mobile purchased from Cinnox) and then they will be asked to provide a response, for example, press 1 for Shop A, press 2 for Shop B, press 3 for Shop C. if customer presses 1, it would then call Shop A phone number. Does Cinnox support such function? You can reply in Chinese, I can read"
+im,TYPE_TEXT,2026-02-03 13:34:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,"I understand your requirement. To use IVR, you will need a virtual number and the subscription needs to be upgraded. Let me have a sales representative to help you with this"
+im,TYPE_TEXT,2026-02-03 13:34:52 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Thank you Sandy
+im,TYPE_TEXT,2026-02-03 13:35:15 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,Just a moment please
+im,TYPE_TEXT,2026-02-03 13:35:37 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,or is it convenient for you to contact you via phone or email?
+im,TYPE_TEXT,2026-02-03 13:36:14 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"I can be contacted via phone, what language do they speak?"
+im,TYPE_TEXT,2026-02-03 13:36:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,my colleaguge speaks Cantonese and Mandarin.
+im,TYPE_TEXT,2026-02-03 13:36:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,and English :)
+im,TYPE_TEXT,2026-02-03 13:37:14 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"cantonese is fine, when will they be available to call? I need to find a room to speak in private"
+im,TYPE_TEXT,2026-02-03 13:37:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,"oh I see. then please wait a moment, let me see if he is available for a call now"
+im,TYPE_TEXT,2026-02-03 13:37:45 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,thank you
+im,TYPE_TEXT,2026-02-03 13:39:36 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,"Excuse me, he is away for lunch now. Can you provide your number and email. I will send an email to connect you both, and you can arrange a time for call. what do you think?"
+im,TYPE_TEXT,2026-02-03 13:40:04 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"that's fine, my email is forti@rocketmail.com my phone is (852)93030532"
+im,TYPE_TEXT,2026-02-03 13:40:20 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,May I have your name please?
+im,TYPE_TEXT,2026-02-03 13:40:23 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Andy
+im,TYPE_TEXT,2026-02-03 13:40:36 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,Great. Thank you Andy!
+im,TYPE_TEXT,2026-02-03 13:40:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,Thanks for your understand and patience
+im,TYPE_TEXT,2026-02-03 13:40:45 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Thank you Sandy
+im,TYPE_TEXT,2026-02-03 13:40:49 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,anytime :)
+im,TYPE_TEXT,2026-02-03 13:41:22 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"One last thing, if I fail to receive a call, I just come back to this chat bot?"
+im,TYPE_TEXT,2026-02-03 13:41:40 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,"yes, you can contact us here with the same path"
+im,TYPE_TEXT,2026-02-03 13:41:49 (UTC+00:00),Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ok thank you Sandy. have a nice day
+im,TYPE_TEXT,2026-02-03 13:41:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",WxlwFGLk.S3XSy6cxKyQF.4ca8.05000000.B4OWOS_Qui6Xabr4,0,You too!
+system,,2026-02-03 13:56:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",,0,room.leave
+system,,2026-02-03 13:56:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Andy Chan,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-03 13:25:44 (UTC+00:00),HK,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Andy,Chan,forti@rocketmail.com,"=""+85293030532"""

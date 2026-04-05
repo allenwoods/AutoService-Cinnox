@@ -1,0 +1,29 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-06 17:03:52 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-06 17:03:52 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-01-06 17:03:52 (UTC+00:00)," customer","=""""",29e32d99-bd4c-4cd3-ba8e-c06c9f924125@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-01-06 17:03:55 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8," customer","=""""",,0,hi
+im,TYPE_TEXT,2026-01-06 17:04:05 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8," customer","=""""",,0,I want to buy a phone number for my company
+system,,2026-01-06 17:04:05 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-01-06 17:04:24 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"that I can recived sms, call from partner"
+im,TYPE_TEXT,2026-01-06 17:04:29 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,that all I need
+im,TYPE_TEXT,2026-01-06 17:04:31 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,0,"Hi you can purchase here
+https://servicehub.cinnox.com/buy-virtual-number"
+im,TYPE_TEXT,2026-01-06 17:04:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,0,what kind of SMS ?
+im,TYPE_TEXT,2026-01-06 17:04:46 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,0,is it OTP?
+im,TYPE_TEXT,2026-01-06 17:05:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,0,if it's OTP from other 'platform' we cannot guarantee it will be received
+im,TYPE_TEXT,2026-01-06 17:05:27 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,yeah it is otp
+im,TYPE_TEXT,2026-01-06 17:05:32 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,from Google
+im,TYPE_TEXT,2026-01-06 17:05:37 (UTC+00:00)," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,oh got it
+im,TYPE_TEXT,2026-01-06 17:05:52 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,0,from the experience..it's highly it will not be delivered..
+im,TYPE_TEXT,2026-01-06 17:06:04 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.Qgtov2uTDJuK.1baf.05000000.Qs30KJDVwSb0qbm8,0,virtual number is unlike mobile number with sim card
+system,,2026-01-08 11:55:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.leave
+system,,2026-01-08 11:55:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-06 17:03:52 (UTC+00:00),"Ho Chi Minh City, VN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

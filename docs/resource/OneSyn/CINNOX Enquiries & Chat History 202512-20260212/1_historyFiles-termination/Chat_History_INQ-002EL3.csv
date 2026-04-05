@@ -1,0 +1,40 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-23 13:12:39 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-23 13:12:39 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2025-12-23 13:12:39 (UTC+00:00)," customer","=""""",dcd2a966-bbc1-47eb-bef4-07cad06541f3@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2025-12-23 13:12:48 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL," customer","=""""",,0,Hi
+system,,2025-12-23 13:13:03 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-23 13:13:07 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,When can i expect my singapore virtual number? Its been 2-3 days i am still waiting
+im,TYPE_TEXT,2025-12-23 13:13:32 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,one moment please
+im,TYPE_TEXT,2025-12-23 13:15:35 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,"The responsible colleagues is having lunch.  I will get back to you ASAP.
+Would you mind to be waiting online?"
+im,TYPE_TEXT,2025-12-23 13:16:08 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,ok waiting
+im,TYPE_TEXT,2025-12-23 13:16:18 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,thanks
+im,TYPE_TEXT,2025-12-23 13:19:09 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,"Get the update as below:
+Please to check your email or your CINNOX Dashboard.
+The business verification is done (passed), and you should be able to proceed with paying the SG number."
+im,TYPE_TEXT,2025-12-23 13:20:33 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,Our colleagues just checked and you have paid the SG number.
+im,TYPE_TEXT,2025-12-23 13:20:58 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Yes becasue i just got the notifcation that i am able to buy a number now
+im,TYPE_TEXT,2025-12-23 13:21:18 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,Our another colleague is checking the status of your number.  One moment please.
+im,TYPE_TEXT,2025-12-23 13:21:31 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,How i will be able to see my sms ?
+im,TYPE_TEXT,2025-12-23 13:22:09 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Becasue i am not getting sms
+im,TYPE_TEXT,2025-12-23 13:22:31 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,Let me check.
+im,TYPE_TEXT,2025-12-23 13:29:58 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,?
+im,TYPE_TEXT,2025-12-23 13:30:37 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,The Singapore number should only support voice but not support SMS.
+im,TYPE_TEXT,2025-12-23 13:31:21 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,but when i was buying there was written send call recv call send message recv message
+im,TYPE_TEXT,2025-12-23 13:32:35 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,Let me check with my colleague
+im,TYPE_TEXT,2025-12-23 13:46:42 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,"confirmed by our colleagues, the Singapore number only support voice."
+im,TYPE_FILE,2025-12-23 13:46:45 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,0,
+im,TYPE_TEXT,2025-12-23 16:19:42 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,Even the whatsapp is not working
+im,TYPE_TEXT,2025-12-23 16:19:50 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,I need a refund and cancel my account
+im,TYPE_TEXT,2025-12-23 16:23:03 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL,Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s,0,?
+system,,2025-12-23 16:23:15 (UTC+00:00),Raymond Shiu,"=""""",WxlwFGLk.XLJIC0rESp9u.e0a4.05000000.cm8s3iezVIoTFh8s," customer","=""""",,0,room.leave
+system,,2025-12-23 16:23:15 (UTC+00:00)," customer","=""""",WxlwFGLk.2veJJRyUV2Jq.4f8e.05000000.uMvm-kP7_S-o8qLL," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-23 13:12:39 (UTC+00:00),"Ormiston, AU",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

@@ -1,0 +1,31 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-10-31 01:22:22 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.QWvRHEo4u3WA.6fc5.05000000.79-V--x_IPTdPHux,hakan demir,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-10-31 01:22:22 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,hakan demir,"=""""",,0,
+im,TYPE_ADVANCED,2025-10-31 01:22:22 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,hakan demir,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2025-10-31 01:22:22 (UTC+00:00),hakan demir,"=""""",ffb470c3-6ae2-487a-9d37-538b073f4b6d@prod-hk-02@1001,hakan demir,"=""""",,0,room.pci-disclaimer
+system,,2025-10-31 01:22:23 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,room.join
+im,TYPE_TEXT,2025-10-31 01:22:45 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.QWvRHEo4u3WA.6fc5.05000000.79-V--x_IPTdPHux,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,hello
+im,TYPE_TEXT,2025-10-31 01:22:45 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,"Hello! It's great to see you here! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2025-10-31 01:22:49 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-31 01:22:50 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.QWvRHEo4u3WA.6fc5.05000000.79-V--x_IPTdPHux,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"Hello, I have a company website in Türkiye. Can I get your number for outgoing and incoming calls? +90850 +90216 +90212?"
+im,TYPE_TEXT,2025-10-31 01:22:50 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,"I'm glad to hear from you! However, I don't have the capability to provide phone numbers or make calls. If you need assistance with your company website or any specific questions related to it, feel free to ask!"
+system,,2025-10-31 01:22:54 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-31 01:42:57 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.QWvRHEo4u3WA.6fc5.05000000.79-V--x_IPTdPHux,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"I have a company, yes, +90850 +0216 +0212. Can I collect my number from you?"
+im,TYPE_TEXT,2025-10-31 01:42:58 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,"I'm glad to hear you have a company in Türkiye! However, I'm unable to provide phone numbers for outgoing or incoming calls. If you need assistance with something specific regarding your company or website, feel free to ask!"
+system,,2025-10-31 01:43:02 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,op.update-im-history
+im,TYPE_FILE,2025-10-31 01:44:16 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.QWvRHEo4u3WA.6fc5.05000000.79-V--x_IPTdPHux,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,
+im,TYPE_TEXT,2025-10-31 01:45:12 (UTC+00:00),hakan demir,"=""""",WxlwFGLk.QWvRHEo4u3WA.6fc5.05000000.79-V--x_IPTdPHux,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Do you provide audio service here as an audio service?
+im,TYPE_TEXT,2025-10-31 01:45:12 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,"I'm glad you're reaching out! However, I don't provide audio services or phone numbers for outgoing and incoming calls. My main role is to assist you with information and answer your questions. If you need help with something specific regarding your company website or any other topic, feel free to ask!"
+system,,2025-10-31 01:45:17 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,op.update-im-history
+system,,2025-12-17 14:59:52 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,room.leave
+system,,2025-12-17 14:59:52 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,hakan demir,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Sales & Demo,2025-10-31 01:22:22 (UTC+00:00),"Istanbul, TR",
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+hakan,demir,hakan-demir341@outlook.com,"=""+905342769258"""

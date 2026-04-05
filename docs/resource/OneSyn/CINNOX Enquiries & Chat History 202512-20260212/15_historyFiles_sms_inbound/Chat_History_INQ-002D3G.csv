@@ -1,0 +1,39 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-09-24 13:33:53 (UTC+00:00),wu da lang,"=""""",WxlwFGLk._gPAib1MEh5Z.fa75.05000000.o8vpd8dEbDB8Emqm,wu da lang,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-09-24 13:33:53 (UTC+00:00),wu da lang,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,wu da lang,"=""""",,0,
+im,TYPE_ADVANCED,2025-09-24 13:33:53 (UTC+00:00),wu da lang,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,wu da lang,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-09-24 13:33:53 (UTC+00:00),wu da lang,"=""""",5aca66d8-f4bc-4fbd-b13b-2f92b92f2c92@prod-hk-02@1001,wu da lang,"=""""",,0,room.pci-disclaimer
+system,,2025-09-24 13:33:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,room.join
+im,TYPE_TEXT,2025-09-24 13:34:05 (UTC+00:00),wu da lang,"=""""",WxlwFGLk._gPAib1MEh5Z.fa75.05000000.o8vpd8dEbDB8Emqm,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,你好 我需要中文客服
+im,TYPE_TEXT,2025-09-24 13:34:05 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,你好！很高兴见到你！我可以帮助你处理一些问题，但我并不是中文客服。如果你能告诉我你需要什么样的帮助，我会尽力提供信息或指导你找到合适的资源。请问你具体需要什么帮助呢？
+system,,2025-09-24 13:34:09 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-09-24 13:34:19 (UTC+00:00),wu da lang,"=""""",WxlwFGLk._gPAib1MEh5Z.fa75.05000000.o8vpd8dEbDB8Emqm,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,我想問問你 這個虛擬手機號碼 可以接收簡訊嗎
+im,TYPE_TEXT,2025-09-24 13:34:19 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,"你好！关于虚拟手机号码的接收简讯功能，以下是相关信息：
+
+**虚拟手机号码的简讯接收功能：**
+- **香港、英国和美国的号码**可以接收简讯。
+- 其他国家的虚拟号码通常不支持接收简讯。
+
+如果您有兴趣了解更多关于虚拟号码的功能或购买流程，请访问我们的[虚拟号码页面](https://servicehub.cinnox.com/buy-virtual-number)。
+
+如有其他问题，请随时问我！"
+system,,2025-09-24 13:34:24 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-09-24 13:35:07 (UTC+00:00),wu da lang,"=""""",WxlwFGLk._gPAib1MEh5Z.fa75.05000000.o8vpd8dEbDB8Emqm,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,中國的接收不了簡訊嗎
+im,TYPE_TEXT,2025-09-24 13:35:07 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,"你好！关于虚拟手机号码接收简讯的问题，通常情况下，虚拟手机号码可以接收简讯，但具体情况可能会因服务提供商而异。在中国，有些虚拟号码可能会受到限制，无法接收某些类型的简讯，尤其是来自特定运营商或服务的简讯。
+
+如果你有特定的虚拟手机号码服务提供商，或者想了解更多关于你所使用的号码的具体情况，请告诉我，我会尽量提供更多帮助！"
+system,,2025-09-24 13:35:11 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,op.update-im-history
+system,,2026-01-12 18:24:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,room.leave
+system,,2026-01-12 18:24:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,wu da lang,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2025-09-24 13:33:53 (UTC+00:00),"Taichung, TW",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+wu,da lang,aces29301@gmail.com,"=""+886958447001"""

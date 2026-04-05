@@ -1,0 +1,13 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-16 13:00:27 (UTC+00:00),Qingbin Guan,"=""""",WxlwFGLk.guuHJTbZl2SP.f358.05000000.8tp_dtUCJAWi5F96,Qingbin Guan,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-16 13:00:27 (UTC+00:00),Qingbin Guan,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Qingbin Guan,"=""""",,0,
+system,,2026-01-16 13:00:27 (UTC+00:00),Qingbin Guan,"=""""",9f210db3-6f56-42ba-9e33-6a9385002441@prod-hk-02@1001,Qingbin Guan,"=""""",,0,room.pci-disclaimer
+system,,2026-01-16 13:00:41 (UTC+00:00),Qingbin Guan,"=""""",WxlwFGLk.guuHJTbZl2SP.f358.05000000.8tp_dtUCJAWi5F96,Qingbin Guan,"=""""",,0,enquiry.missed
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-16 13:00:27 (UTC+00:00),US,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Qingbin,Guan,N/A,N/A

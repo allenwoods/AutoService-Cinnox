@@ -1,0 +1,33 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-09 23:20:31 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,luciana carvalho,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-09 23:20:31 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,luciana carvalho,"=""""",,0,
+system,,2026-01-09 23:20:31 (UTC+00:00),luciana carvalho,"=""""",d5e3b5b3-1026-4466-ae7d-965e2530daa8@prod-hk-02@1001,luciana carvalho,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-01-09 23:20:35 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,luciana carvalho,"=""""",,0,"I tried to receive an sms  and it didnt work. I sent it and it left my phone but no messages are showing on the platform. I can receive calls from numbers, but i cannot make phone calls - it says insufficient balance but i topped up twice.
+
+two problems:
+can't send or receive sms
+cant make calls due to error of unsufficient balance"
+system,,2026-01-09 23:21:09 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,luciana carvalho,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-09 23:21:43 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,0,Hi
+im,TYPE_TEXT,2026-01-09 23:21:52 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,helloo!
+im,TYPE_TEXT,2026-01-09 23:21:53 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,"I tried to receive an sms  and it didnt work. I sent it and it left my phone but no messages are showing on the platform. I can receive calls from numbers, but i cannot make phone calls - it says insufficient balance but i topped up twice.
+
+two problems:
+can't send or receive sms
+cant make calls due to error of unsufficient balance"
+im,TYPE_TEXT,2026-01-09 23:23:23 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,0,OK. Let me pass tp our operation team and reply tp you ASAP. Please leave your email address
+im,TYPE_TEXT,2026-01-09 23:23:58 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,0,OK. Let me pass to our operation team and reply to you ASAP. Please leave your email address
+im,TYPE_TEXT,2026-01-09 23:23:59 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,coreflowmarketing@gmail.com
+im,TYPE_TEXT,2026-01-09 23:24:34 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,0,OK .We will contact you ASAP
+im,TYPE_TEXT,2026-01-10 21:18:31 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,hello
+im,TYPE_TEXT,2026-01-10 21:18:46 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,can someone show me where i can see the inbox of sms and how i can respond to each sms?
+system,,2026-01-10 21:18:50 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,luciana carvalho,"=""""",,0,room.leave
+system,,2026-01-10 21:18:50 (UTC+00:00),luciana carvalho,"=""""",WxlwFGLk.iYjy1IfeTKcR.e0ca.05000000.61LpZXZn1Hi2Vp8W,luciana carvalho,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-09 23:20:31 (UTC+00:00),US,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+luciana,carvalho,coreflowmarketing@gmail.com,"=""+85257464257"""

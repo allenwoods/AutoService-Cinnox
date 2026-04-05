@@ -1,0 +1,27 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-28 17:15:57 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W," Li","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-28 17:15:57 (UTC+00:00)," Li","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," Li","=""""",,0,
+im,TYPE_ADVANCED,2026-01-28 17:15:57 (UTC+00:00)," Li","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," Li","=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-01-28 17:15:57 (UTC+00:00)," Li","=""""",c25e13cf-6639-46cf-9569-c9c80c4b3a6a@prod-hk-02@1001," Li","=""""",,0,room.pci-disclaimer
+system,,2026-01-28 17:15:58 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg," Li","=""""",,0,room.join
+system,,2026-01-28 17:16:55 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg," Li","=""""",,0,room.leave
+system,,2026-01-28 17:16:56 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Li","=""""",,0,room.join
+system,,2026-01-28 17:16:56 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W," Li","=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-01-28 17:17:12 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,0,"Hi , how may I help you?"
+im,TYPE_TEXT,2026-01-28 17:18:13 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"hi, I want to have a sms verification service or 來電驗証 功能 for my app to verify the customer phone number"
+im,TYPE_TEXT,2026-01-28 17:20:18 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,0,Currently we don't have this feature ready with our product. What you are looking for is a feature that is embedded in your app and can send OTP to your customer right?
+im,TYPE_TEXT,2026-01-28 17:22:05 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"yes u are right. client input their mobile phone number, our app want to verify it"
+im,TYPE_TEXT,2026-01-28 17:24:15 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,0,unfortuntely we are not able to support this at the moment
+im,TYPE_TEXT,2026-01-28 17:24:27 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ok thx
+system,,2026-01-28 17:24:32 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," Li","=""""",,0,room.leave
+system,,2026-01-28 17:24:32 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W," Li","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Sales & Demo,2026-01-28 17:15:57 (UTC+00:00),"Las Vegas, US",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,Li,ivanli@m543.com,"=""+85297350690"""

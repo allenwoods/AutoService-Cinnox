@@ -1,0 +1,60 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-08 23:58:15 (UTC+00:00),Yujun ZHOU,"=""""",WxlwFGLk.urSOKsoMWx-m.1868.05000000.WF7X5Q-28wOoTTFP,Yujun ZHOU,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-08 23:58:15 (UTC+00:00),Yujun ZHOU,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Yujun ZHOU,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-08 23:58:15 (UTC+00:00),Yujun ZHOU,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Yujun ZHOU,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-12-08 23:58:15 (UTC+00:00),Yujun ZHOU,"=""""",a0dc437d-f4c0-44c7-b071-99bc85661d53@prod-hk-02@1001,Yujun ZHOU,"=""""",,0,room.pci-disclaimer
+system,,2025-12-08 23:58:17 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-08 23:59:00 (UTC+00:00),Yujun ZHOU,"=""""",WxlwFGLk.urSOKsoMWx-m.1868.05000000.WF7X5Q-28wOoTTFP,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,请问你们可以提供中国虚拟电话号码帮助法国团队打中国客户的电话吗
+im,TYPE_TEXT,2025-12-08 23:59:00 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,"当然可以！CINNOX 提供中国虚拟电话号码，帮助法国团队拨打中国客户的电话。以下是相关信息：
+
+### 中国虚拟电话号码的优势
+- **本地可信度**：使用中国虚拟号码可以增强您在中国市场的可信度，帮助建立客户信任。
+- **合规性**：这些号码符合中国的电信法规，确保您的业务合法运营。
+- **全球接入**：您可以在任何地方使用这些号码，无需亲自到中国。
+
+### 可用号码类型
+- **验证的 400 号码**（免付费）
+- **+86 本地号码**
+
+### 如何购买中国虚拟号码
+1. 访问我们的 [中国虚拟号码页面](https://www.cinnox.com/china-virtual-number)。
+2. 选择您需要的号码类型。
+3. 提交您的业务信息进行验证。
+4. 完成购买并激活您的账户。
+
+如需更多信息或帮助，请随时询问！"
+system,,2025-12-08 23:59:09 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-08 23:59:40 (UTC+00:00),Yujun ZHOU,"=""""",WxlwFGLk.urSOKsoMWx-m.1868.05000000.WF7X5Q-28wOoTTFP,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,报价是多少？
+im,TYPE_TEXT,2025-12-08 23:59:40 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,"您好！关于中国虚拟电话号码的报价，您可以参考以下信息：
+
+### 中国虚拟电话号码的费用
+- **号码类型**: 
+  - 验证的400号码（免费电话）和 +86 本地号码
+- **功能**:
+  - 接听电话
+  - 拨打电话
+  - 发送短信（不支持接收短信）
+
+### 费用详情
+- **月度费用**: 具体的月费和使用费会根据您选择的号码类型和使用情况而有所不同。您可以查看我们的官方费用列表以获取详细信息。
+
+您可以通过以下链接下载官方费用列表：[官方费用列表](https://cdn.prod.website-files.com/613f142ee34aaf41e790b543/678f580dbf19848967327b57_08012025-updated-CINNOX_Official-Rate-List.xlsx)。
+
+如果您需要进一步的信息或想要购买号码，请访问我们的页面：[中国虚拟号码](https://www.cinnox.com/china-virtual-number)。
+
+如有其他问题，欢迎随时询问！"
+system,,2025-12-08 23:59:49 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:52 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,room.leave
+system,,2025-12-18 18:23:52 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Yujun ZHOU,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2025-12-08 23:58:15 (UTC+00:00),"Paris, FR",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Yujun,ZHOU,yujun.zhou@octopia.com,"=""+33630749589"""

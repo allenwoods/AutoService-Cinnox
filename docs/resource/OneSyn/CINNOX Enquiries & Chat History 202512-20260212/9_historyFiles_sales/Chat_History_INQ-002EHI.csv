@@ -1,0 +1,16 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-17 11:22:43 (UTC+00:00),辰东 辰东,"=""""",WxlwFGLk.tY8BrhHSTGh9.09a6.05000000.5o0cfI5xS4tZ__GX,辰东 辰东,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-17 11:22:44 (UTC+00:00),辰东 辰东,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,辰东 辰东,"=""""",,0,
+system,,2025-12-17 11:22:45 (UTC+00:00),辰东 辰东,"=""""",101eaa0d-0dd6-4850-b79e-f98b81735901@prod-hk-02@1001,辰东 辰东,"=""""",,0,room.pci-disclaimer
+system,,2025-12-17 11:22:54 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,辰东 辰东,"=""""",,0,room.join
+call,,2025-12-17 11:38:01 (UTC+00:00),辰东 辰东,"=""4679382548""",WxlwFGLk.tY8BrhHSTGh9.09a6.05000000.5o0cfI5xS4tZ__GX,Liu XiaoFeng,"=""10000925688720""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,16,
+system,,2025-12-17 11:38:13 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,辰东 辰东,"=""""",,0,room.leave
+system,,2025-12-17 11:38:13 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,辰东 辰东,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Direct Call Enquiry,Desktop Web,,2025-12-17 11:22:43 (UTC+00:00),"Suzhou, CN",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+辰东,辰东,y15800750711@163.com,N/A

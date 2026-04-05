@@ -1,0 +1,82 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-09 17:21:58 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,August Warren,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-09 17:21:58 (UTC+00:00),August Warren,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,August Warren,"=""""",,0,
+system,,2026-01-09 17:21:58 (UTC+00:00),August Warren,"=""""",a3e93f26-aaaa-46d1-9b27-eb57c7d76ea7@prod-hk-02@1001,August Warren,"=""""",,0,room.pci-disclaimer
+system,,2026-01-09 17:22:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-09 17:22:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,Hi
+im,TYPE_TEXT,2026-01-09 17:22:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,How may I help you?
+im,TYPE_TEXT,2026-01-09 17:22:36 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Hello! I'm trying to order a virtual phone number for my Company but I'm failing so far :(
+
+> Failed to order a new number
+> Please contact us to assist with your Virtual Number purchase."
+im,TYPE_TEXT,2026-01-09 17:23:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,can you get me a screenshot?
+im,TYPE_TEXT,2026-01-09 17:23:10 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Sure thing
+im,TYPE_FILE,2026-01-09 17:23:37 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_FILE,2026-01-09 17:24:00 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-01-09 17:24:16 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,you failed at the last step
+im,TYPE_TEXT,2026-01-09 17:24:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,?
+im,TYPE_TEXT,2026-01-09 17:24:31 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"In step 2, as shown, I press ""Login here"", log into my CINNOX account, and then it kicks me back to page 1 with the message ""Failed to order a new number"""
+im,TYPE_TEXT,2026-01-09 17:25:05 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,so it's like looping?
+im,TYPE_TEXT,2026-01-09 17:25:30 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Well, it ends at this message
+
+> Failed to order a new number
+> Please contact us to assist with your Virtual Number purchase.
+
+With no clear way to proceed.
+When I tried finishing without logging in, I got a very confusing error on page 3, ""missed number type"""
+im,TYPE_TEXT,2026-01-09 17:26:14 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"on the 1st page, you need to select DID number or toll-free, did you see that option?"
+im,TYPE_TEXT,2026-01-09 17:26:33 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Yes, I selected Local Number (DID) because I need a Hong Kong local phone number"
+im,TYPE_TEXT,2026-01-09 17:26:55 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"let me check , just a moment please"
+im,TYPE_TEXT,2026-01-09 17:28:37 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"if you need a Hong Kong number, you need to select Hong Kong as region instead of hungary"
+im,TYPE_TEXT,2026-01-09 17:28:52 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Yes, I did that. The screenshot just resets that input after kicking me back to page 1"
+im,TYPE_TEXT,2026-01-09 17:29:03 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,I see. let me check
+im,TYPE_FILE,2026-01-09 17:29:30 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-01-09 17:29:34 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"This is the state of page 1 when I press ""Next"""
+im,TYPE_TEXT,2026-01-09 17:30:33 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Then comes Page 2 with the ""Login here"" or fill in the details
+Login leads to the 
+
+> Failed to order a new number
+> Please contact us to assist with your Virtual Number purchase.
+
+Error and the kickback to page 1"
+im,TYPE_TEXT,2026-01-09 17:34:29 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,Hum..I successfully finished the process.
+im,TYPE_TEXT,2026-01-09 17:34:37 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,This page looks fine
+im,TYPE_TEXT,2026-01-09 17:35:06 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,can you start the process again and let me see the page 2?
+im,TYPE_TEXT,2026-01-09 17:35:17 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Sure thing, let me try to do this step by step with you"
+im,TYPE_TEXT,2026-01-09 17:35:29 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,thank you!
+im,TYPE_TEXT,2026-01-09 17:35:42 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,so I go to https://servicehub.cinnox.com/buy-virtual-number
+im,TYPE_FILE,2026-01-09 17:36:19 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-01-09 17:36:24 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I fill this in like this and press Next
+im,TYPE_FILE,2026-01-09 17:36:35 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-01-09 17:37:01 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"This is the next page. Do you want me to log in or fill out my details again?
+I made an account already and I have my ""workspace"" at https://t82fsigkhpbnxgx.cinnox.com/"
+im,TYPE_TEXT,2026-01-09 17:37:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"oh! then let me see your service, just a moment"
+im,TYPE_TEXT,2026-01-09 17:38:48 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"I think I know the reason. For your current free trial, it needs to be upgraded to use the call / SMS features."
+im,TYPE_TEXT,2026-01-09 17:39:20 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,Let me have a sales to help you with this
+im,TYPE_TEXT,2026-01-09 17:39:32 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"That would be nice, thank you"
+im,TYPE_TEXT,2026-01-09 17:40:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,Can I call you August?
+im,TYPE_TEXT,2026-01-09 17:41:04 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Would you be able to call on a phone number rather than here? I don't have a microphone plugged into the computer
+im,TYPE_TEXT,2026-01-09 17:41:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,I will add Gina into this chat room
+system,,2026-01-09 17:41:29 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-09 17:41:33 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,or I can find a microphone right quick
+im,TYPE_TEXT,2026-01-09 17:42:00 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"Hi, I am Gina"
+im,TYPE_TEXT,2026-01-09 17:42:08 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Hi Gina!
+im,TYPE_TEXT,2026-01-09 17:43:10 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"Hi August, I understand that you want to apply a HK DID number, right?"
+im,TYPE_TEXT,2026-01-09 17:43:24 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Yes that's right. Should we have a call then as Sandy suggested?
+im,TYPE_TEXT,2026-01-09 17:43:47 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,No problem.
+call,,2026-01-09 17:45:02 (UTC+00:00),August Warren,"=""3472486098""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,Sandy Fan,"=""7265883873""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+system,,2026-01-09 17:45:03 (UTC+00:00),August Warren,"=""""",,August Warren,"=""""",,0,op.update-call-history
+im,TYPE_TEXT,2026-01-09 17:45:09 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,https://cinnox.com/cx/XqQnMhPe You can call me via this link
+system,,2026-01-14 13:44:50 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,August Warren,"=""""",,0,room.leave
+system,,2026-01-14 13:45:20 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",,0,room.join
+system,,2026-01-14 13:45:20 (UTC+00:00),August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,August Warren,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-01-14 13:45:28 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,"hi August, how are you?"
+im,TYPE_TEXT,2026-01-14 14:33:11 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,August Warren,"=""""",WxlwFGLk.PjYVLgWlj2k6.d14f.05000000.gFSTLp9xGjzFExCX,0,Do you need help?
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-09 17:21:58 (UTC+00:00),"Budapest, HU",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+August,Warren,N/A,N/A

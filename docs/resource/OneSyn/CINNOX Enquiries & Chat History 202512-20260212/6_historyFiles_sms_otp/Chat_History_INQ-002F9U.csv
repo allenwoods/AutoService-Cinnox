@@ -1,0 +1,81 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-05 15:52:30 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,putu Ariani,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-05 15:52:30 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,putu Ariani,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-05 15:52:30 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,putu Ariani,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-02-05 15:52:30 (UTC+00:00),putu Ariani,"=""""",6541b4a6-0000-4419-a15e-9034ff8bd560@prod-hk-02@1001,putu Ariani,"=""""",,0,room.pci-disclaimer
+system,,2026-02-05 15:52:31 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,putu Ariani,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-05 15:52:40 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Hi
+im,TYPE_TEXT,2026-02-05 15:52:40 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,putu Ariani,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2026-02-05 15:52:43 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-05 15:53:25 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,does virtual mobile number can received bank verification via Whatsapp ?
+im,TYPE_TEXT,2026-02-05 15:53:25 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,putu Ariani,"=""""",,0,"That's an interesting question! Virtual mobile numbers can often receive SMS messages, but whether they can receive bank verification codes via WhatsApp depends on the specific bank and their policies. Some banks may allow verification through WhatsApp, while others may only send codes via SMS to regular mobile numbers. 
+
+Could you let me know which bank you are referring to? That way, I might be able to provide more specific information!"
+system,,2026-02-05 15:53:29 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,putu Ariani,"=""""",,0,op.update-im-history
+system,,2026-02-05 15:55:34 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,putu Ariani,"=""""",,0,room.leave
+system,,2026-02-05 15:55:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",,0,room.join
+system,,2026-02-05 15:55:35 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,putu Ariani,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-05 15:55:44 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"Hi Putu, how may I help you?"
+im,TYPE_TEXT,2026-02-05 15:56:28 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Hi Sandy, could you let me know , does CINNOx can received bank verification via Whatsapp ?"
+im,TYPE_TEXT,2026-02-05 15:56:56 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"to receive bank verificaiton via WhatsApp, you need to use the number to register WhatsApp first. However, you can only register WhatsApp Business API account, which monthly charge occurs. It might not be worth it for personal use"
+im,TYPE_TEXT,2026-02-05 15:57:24 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I need tu pruchase virtual mobile number Hong Kong
+im,TYPE_TEXT,2026-02-05 15:58:16 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,need to make sure whether can received OTP via SMS and Whatsapp?
+im,TYPE_TEXT,2026-02-05 15:59:01 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"Hong Kong number can. However, please note that if the bank uses non-regular sender ID to send the OTP, it might not be received."
+im,TYPE_TEXT,2026-02-05 15:59:19 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,WhatsApp..I will say the chance is slim
+im,TYPE_TEXT,2026-02-05 16:00:16 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,i dont understand non regulard sender ID
+im,TYPE_TEXT,2026-02-05 16:02:36 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"what I meant is, our Hong Kong number can recieve SMS. The exception is, if the bank send an OTP in a non-regular format, then we cannot receive it"
+im,TYPE_TEXT,2026-02-05 16:04:23 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,what is the regular format OTP that CINNOX receive?
+im,TYPE_TEXT,2026-02-05 16:04:55 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,it's  'numbers'. we cannot control
+im,TYPE_TEXT,2026-02-05 16:05:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"so I cannot say that you can 100% get the OTP, but most of the customer receive MSS OTP using Hong Kong number"
+im,TYPE_TEXT,2026-02-05 16:05:44 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,typo SMS
+im,TYPE_TEXT,2026-02-05 16:07:21 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,so what I need to to is just forward it the virtual number to my device/phone number right ?
+im,TYPE_TEXT,2026-02-05 16:07:33 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,nope
+im,TYPE_TEXT,2026-02-05 16:07:50 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,you have to check the message on our platform called CINNOX
+im,TYPE_TEXT,2026-02-05 16:08:20 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"when you purchase a number, an account will open for you
+https://servicehub.cinnox.com/buy-virtual-number"
+im,TYPE_TEXT,2026-02-05 16:09:00 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"the requirement is that we need a company registration, ID of person in charge and a utility bill which indicate it's a valid company."
+im,TYPE_TEXT,2026-02-05 16:10:37 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"yes, I saw the link, I meant how easy the set up in my phone ?"
+im,TYPE_TEXT,2026-02-05 16:10:59 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"it's not a sim card, so it will not be in your phone"
+im,TYPE_TEXT,2026-02-05 16:11:28 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,you can only check the OTP on CINNOX
+im,TYPE_TEXT,2026-02-05 16:11:37 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,using the browser
+im,TYPE_TEXT,2026-02-05 16:12:27 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"but why point no. 2. Set Your Call Receiving Preferences
+Where would you like to receive calls? - I put : Phone"
+im,TYPE_TEXT,2026-02-05 16:13:13 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"that's for call service, you can set your phone as destination so that when someone calls the virtual number, the call will be directed to your phone"
+im,TYPE_TEXT,2026-02-05 16:13:16 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,but not SMS
+im,TYPE_TEXT,2026-02-05 16:14:06 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,so how to know if there is incoming SMS if I don't open CONNOX ?
+im,TYPE_TEXT,2026-02-05 16:14:39 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I meant is there notification to my phone?
+im,TYPE_TEXT,2026-02-05 16:15:46 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,then you cannot see the message. there won't be a notification
+im,TYPE_TEXT,2026-02-05 16:16:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"virtual number is unlike sim card, so it works differently"
+im,TYPE_TEXT,2026-02-05 16:17:26 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"so, i need to stay login to CInnox to monitor, like that ?"
+im,TYPE_TEXT,2026-02-05 16:19:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"yes, when you trigger the OTP, you have to log in CINNOX to check"
+im,TYPE_TEXT,2026-02-05 16:21:18 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"understood, and for Whatsapp is not work right ?"
+im,TYPE_TEXT,2026-02-05 16:21:41 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,OTP by SMS only
+im,TYPE_TEXT,2026-02-05 16:22:37 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,chances are slimmer but you can try since you purchase a virtual number already.
+im,TYPE_TEXT,2026-02-05 16:23:04 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,not purchase yet
+im,TYPE_TEXT,2026-02-05 16:23:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"if you get a number, then you can try both SMS and WhatsApp"
+im,TYPE_TEXT,2026-02-05 16:24:13 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,why you asked me to try Whatsapp? meant some can and some can't ?
+im,TYPE_TEXT,2026-02-05 16:24:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,correct..
+im,TYPE_TEXT,2026-02-05 16:25:04 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"some people get the OTP from banks, some from Facebook..the origins varies"
+im,TYPE_TEXT,2026-02-05 16:25:46 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,this will be from bank
+im,TYPE_TEXT,2026-02-05 16:29:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"still, the Hong Kong number has the ability to receive SMS, but not 100% guaranteed, depending on the sender"
+im,TYPE_TEXT,2026-02-05 16:29:40 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"so far, there are 1 among of around 8 who fail to receive it"
+im,TYPE_TEXT,2026-02-05 16:31:15 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,is there a contract for virtual number ?
+im,TYPE_TEXT,2026-02-05 16:34:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,"it's subscription based together with CINNOX. It will be on a monthly basis.
+
+https://docs.cinnox.com/docs/master-service-agreement"
+im,TYPE_TEXT,2026-02-05 16:39:39 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,thank you
+im,TYPE_TEXT,2026-02-05 16:40:03 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,no problem. Feel free to let us know should you have any questions :)
+im,TYPE_TEXT,2026-02-05 16:40:23 (UTC+00:00),putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Thank you Sandy, have agreat day"
+im,TYPE_TEXT,2026-02-05 16:40:49 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",WxlwFGLk.uat2Oi9fZP_m.2cf6.05000000.2jQNFtbJxYVCOYqP,0,you too!
+system,,2026-02-05 16:41:40 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",,0,room.leave
+system,,2026-02-05 16:41:40 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,putu Ariani,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,General Information,2026-02-05 15:52:30 (UTC+00:00),ID,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+putu,Ariani,ariani@kronosinvestments.net,"=""+6285101886711"""

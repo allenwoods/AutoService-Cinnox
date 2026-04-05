@@ -1,0 +1,43 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-08 13:08:59 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,jixian zhu,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-08 13:08:59 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,jixian zhu,"=""""",,0,
+system,,2025-12-08 13:08:59 (UTC+00:00),jixian zhu,"=""""",70ab23a2-0f43-45ae-aee0-3d1be1b57871@prod-hk-02@1001,jixian zhu,"=""""",,0,room.pci-disclaimer
+system,,2025-12-08 13:09:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-08 13:09:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,"Hi, how may I help you?"
+im,TYPE_TEXT,2025-12-08 13:09:39 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我已经在手机里面下载了APP，能否测试一下打电话
+im,TYPE_TEXT,2025-12-08 13:10:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,您是要測試打一般電話號碼嗎
+im,TYPE_TEXT,2025-12-08 13:10:53 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,是的。拨打一般电话号码
+im,TYPE_TEXT,2025-12-08 13:11:08 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,您已經有購買可使用的虛擬好了嗎？
+im,TYPE_TEXT,2025-12-08 13:11:08 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我拨打了，他就是提示联系销售团队
+im,TYPE_TEXT,2025-12-08 13:11:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,您的cinnox域名可以提供一下嗎？他像是這樣xxxxxx.cinnox.com
+im,TYPE_TEXT,2025-12-08 13:11:36 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,还没有，我想测试一下，如果可以满足我们的业务需要我就会下单
+im,TYPE_TEXT,2025-12-08 13:11:48 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,shenzhen-langshitong-information-technol
+im,TYPE_TEXT,2025-12-08 13:11:55 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,這樣我需要請銷售跟您聯繫，我沒有提供號碼的權限
+im,TYPE_TEXT,2025-12-08 13:11:59 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,shenzhen-langshitong-information-technol
+im,TYPE_TEXT,2025-12-08 13:12:24 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,shenzhen-langshitong-information-technol.cinnox.com
+im,TYPE_TEXT,2025-12-08 13:12:30 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,謝謝
+im,TYPE_TEXT,2025-12-08 13:12:58 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"OK ,tanks"
+im,TYPE_TEXT,2025-12-08 13:13:15 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,請問您有微信嗎？
+im,TYPE_TEXT,2025-12-08 13:13:18 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,e
+im,TYPE_TEXT,2025-12-08 13:13:25 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,keleyuan2022
+im,TYPE_TEXT,2025-12-08 13:13:25 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,我請銷售聯繫您，因為目前是他們的午休時間
+im,TYPE_TEXT,2025-12-08 13:13:37 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好的，请问你们在哪个国家？
+im,TYPE_TEXT,2025-12-08 13:14:07 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,主要在香港，協助您的銷售是內地人，客服在台灣
+im,TYPE_TEXT,2025-12-08 13:14:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,請問您是朱先生是嗎ㄥ
+im,TYPE_TEXT,2025-12-08 13:14:28 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,那太好了。这样沟通起来就会很顺畅
+im,TYPE_TEXT,2025-12-08 13:14:31 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,是的，我是朱先生
+im,TYPE_TEXT,2025-12-08 13:14:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,好的
+im,TYPE_TEXT,2025-12-08 13:14:52 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,那就請您稍等，我請銷售用微信與您聯繫
+im,TYPE_TEXT,2025-12-08 13:14:57 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好的，谢谢
+im,TYPE_TEXT,2025-12-08 13:15:48 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,0,😊 那我先關閉這個聊天室，有問題您還是可以隨時透過這個渠道聯繫我們
+im,TYPE_TEXT,2025-12-08 13:15:55 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好的
+system,,2025-12-08 13:20:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",,0,room.leave
+system,,2025-12-08 13:20:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,jixian zhu,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-08 13:08:59 (UTC+00:00),GB,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+jixian,zhu,lishiman2025@outlook.com,"=""+8617704065503"""

@@ -1,0 +1,58 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-07 15:57:33 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-07 15:57:33 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-02-07 15:57:33 (UTC+00:00)," customer","=""""",82fd8a5b-7c6b-4e6a-a76f-19fee3226596@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2026-02-07 15:57:39 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-02-07 15:57:58 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,"Hi, What can I help"
+im,TYPE_TEXT,2026-02-07 15:58:05 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,你好，绑定号码收不到验证短信
+im,TYPE_TEXT,2026-02-07 15:58:31 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,可以帮我查询下验证码吗
+im,TYPE_TEXT,2026-02-07 15:58:54 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,"可以,電話號碼是?"
+im,TYPE_TEXT,2026-02-07 15:59:03 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,16710052439
+im,TYPE_TEXT,2026-02-07 15:59:47 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,中国号码
+im,TYPE_TEXT,2026-02-07 16:00:50 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,等等
+im,TYPE_TEXT,2026-02-07 16:05:13 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,有吗
+im,TYPE_TEXT,2026-02-07 16:06:59 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,"沒有記錄,可以再發一次嗎?"
+im,TYPE_TEXT,2026-02-07 16:07:24 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,发了
+im,TYPE_TEXT,2026-02-07 16:07:40 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,18333699534  这个有吗
+im,TYPE_TEXT,2026-02-07 16:08:56 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,都是沒有記錄
+im,TYPE_TEXT,2026-02-07 16:09:31 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,是中国号码的问题吗？
+im,TYPE_TEXT,2026-02-07 16:10:04 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,可能是
+im,TYPE_TEXT,2026-02-07 16:10:54 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,15595410806
+im,TYPE_TEXT,2026-02-07 16:15:06 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,105907
+im,TYPE_TEXT,2026-02-07 16:16:13 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,18333699534
+im,TYPE_TEXT,2026-02-07 16:16:42 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,"對不起,發錯"
+im,TYPE_FILE,2026-02-07 16:16:53 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,
+im,TYPE_TEXT,2026-02-07 16:17:36 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,还是贸易收到吗
+im,TYPE_TEXT,2026-02-07 16:17:47 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,还是没有收到吗
+im,TYPE_TEXT,2026-02-07 16:17:53 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,都是沒有紀錄
+im,TYPE_TEXT,2026-02-07 16:18:49 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,有其他客户绑定过中国号码吗
+im,TYPE_TEXT,2026-02-07 16:19:30 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,使用香港號碼比較多
+im,TYPE_TEXT,2026-02-07 16:20:31 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,绑定香港号码能接听其他国家来电吗
+im,TYPE_TEXT,2026-02-07 16:21:12 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,香港号码 57017637
+im,TYPE_TEXT,2026-02-07 16:21:58 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,585573
+im,TYPE_TEXT,2026-02-07 16:22:25 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,63699979
+im,TYPE_TEXT,2026-02-07 16:23:45 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,089058
+im,TYPE_TEXT,2026-02-07 16:25:20 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,绑定好了，谢谢  怎么没有来电提示
+im,TYPE_TEXT,2026-02-07 16:26:07 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,这是拨打出去吗？不是接听来电吗
+im,TYPE_FILE,2026-02-07 16:28:23 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,
+im,TYPE_TEXT,2026-02-07 16:28:39 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,拨打中国号码 可以开通吗
+im,TYPE_TEXT,2026-02-07 16:30:25 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,"這個要找其他同事,可以留低聯絡方法嗎?"
+im,TYPE_TEXT,2026-02-07 16:31:01 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,其他联系方式吗？
+im,TYPE_TEXT,2026-02-07 16:32:01 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,yes
+im,TYPE_FILE,2026-02-07 16:32:36 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,
+im,TYPE_TEXT,2026-02-07 16:32:37 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,中国号码  15595410806
+im,TYPE_TEXT,2026-02-07 16:32:38 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,EMAIL 或WECHAT之類
+im,TYPE_TEXT,2026-02-07 16:32:54 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,Thanks
+im,TYPE_TEXT,2026-02-07 16:33:14 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,WECHAT
+im,TYPE_TEXT,2026-02-07 16:33:29 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,我們盡快聯絡
+im,TYPE_TEXT,2026-02-07 16:33:37 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,好的 谢谢
+system,,2026-02-07 16:33:41 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.leave
+system,,2026-02-07 16:33:41 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-07 15:57:33 (UTC+00:00),"Kunming, CN",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

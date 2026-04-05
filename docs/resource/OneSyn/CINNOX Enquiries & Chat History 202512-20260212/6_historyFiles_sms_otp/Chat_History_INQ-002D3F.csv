@@ -1,0 +1,44 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-09-24 13:16:32 (UTC+00:00),Jawad Raja,"=""""",WxlwFGLk.gS-BLqtM9Rs5.3232.05000000.rdngg1fAwBV9n3sY,Jawad Raja,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-09-24 13:16:32 (UTC+00:00),Jawad Raja,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jawad Raja,"=""""",,0,
+im,TYPE_ADVANCED,2025-09-24 13:16:32 (UTC+00:00),Jawad Raja,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jawad Raja,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-09-24 13:16:32 (UTC+00:00),Jawad Raja,"=""""",9f2e4628-cfc1-4fe0-809d-35f597a42bab@prod-hk-02@1001,Jawad Raja,"=""""",,0,room.pci-disclaimer
+system,,2025-09-24 13:16:34 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jawad Raja,"=""""",,0,room.join
+im,TYPE_TEXT,2025-09-24 13:17:10 (UTC+00:00),Jawad Raja,"=""""",WxlwFGLk.gS-BLqtM9Rs5.3232.05000000.rdngg1fAwBV9n3sY,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,I'm trying to get a virtual China number for sms verification
+im,TYPE_TEXT,2025-09-24 13:17:10 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jawad Raja,"=""""",,0,"To obtain a virtual China number for SMS verification, please note that CINNOX offers specific types of numbers tailored for the Chinese market. Here’s how you can proceed:
+
+### Steps to Get a Virtual China Number:
+
+1. **Visit the CINNOX Website**: Go to the [China Virtual Number page](https://www.cinnox.com/china-virtual-number).
+
+2. **Choose the Number Type**: You can select either a verified 400 number (toll-free) or a +86 local number. However, please be aware that receiving SMS is not supported for these numbers.
+
+3. **Fill Out the Form**: Provide the necessary business information for verification. This is essential to comply with local regulations.
+
+4. **Activate Your Account**: Once your information is verified, you will need to activate your account.
+
+5. **Payment**: Complete the payment process online using a credit card.
+
+### Benefits of a Virtual China Number:
+- **Builds Local Credibility**: Having a local number helps establish trust with customers in China.
+- **Compliance**: Fully compliant with Chinese telecom regulations, ensuring smooth operations.
+- **Remote Accessibility**: You can manage calls and communications from anywhere without needing to be physically present in China.
+
+For more details on pricing and features, you can refer to the official documentation or explore the options available on the CINNOX website.
+
+If you have any further questions or need assistance with the process, feel free to ask!"
+system,,2025-09-24 13:17:19 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jawad Raja,"=""""",,0,op.update-im-history
+system,,2026-01-12 18:24:03 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jawad Raja,"=""""",,0,room.leave
+system,,2026-01-12 18:24:03 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jawad Raja,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,24/7 Support,2025-09-24 13:16:32 (UTC+00:00),"Dubai, AE",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Jawad,Raja,Jawadhraja@yahoo.com,"=""+971502665800"""

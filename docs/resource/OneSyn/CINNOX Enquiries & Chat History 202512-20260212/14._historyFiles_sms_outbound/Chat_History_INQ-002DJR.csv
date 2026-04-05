@@ -1,0 +1,62 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-10-20 18:26:35 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.rPjPrzyZhufF.8bd9.05000000.drTcD9d6META5WVO,Andrea Iovino,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-10-20 18:26:35 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andrea Iovino,"=""""",,0,
+im,TYPE_ADVANCED,2025-10-20 18:26:35 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andrea Iovino,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Customer Service Assistant. 
+
+At CINNOX, we’re on a mission to tackle business uncertainty via high-dimensional information. 
+
+I’m looking forward to serving you!"
+system,,2025-10-20 18:26:35 (UTC+00:00),Andrea Iovino,"=""""",2b9b13e0-1ec2-4601-ae43-8b820626aadd@prod-hk-02@1001,Andrea Iovino,"=""""",,0,room.pci-disclaimer
+system,,2025-10-20 18:26:36 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,room.join
+im,TYPE_TEXT,2025-10-20 18:26:52 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.rPjPrzyZhufF.8bd9.05000000.drTcD9d6META5WVO,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,HELLO
+im,TYPE_TEXT,2025-10-20 18:26:52 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,"Hello! It's great to see you here! How can I assist you today? If you have any questions or need information, feel free to ask!"
+system,,2025-10-20 18:26:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-20 18:26:58 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.rPjPrzyZhufF.8bd9.05000000.drTcD9d6META5WVO,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,assistance
+im,TYPE_TEXT,2025-10-20 18:26:58 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,"Hello! It seems like you're looking for some assistance. Could you please provide a bit more detail about what you need help with? Whether it's information, recommendations, or something else, I'm here to help!"
+system,,2025-10-20 18:27:01 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-20 18:27:03 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.rPjPrzyZhufF.8bd9.05000000.drTcD9d6META5WVO,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,help
+im,TYPE_TEXT,2025-10-20 18:27:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,"Hello! How can I assist you today? If you have any specific questions or need help with a particular feature of CINNOX, please let me know!"
+system,,2025-10-20 18:27:06 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-20 18:27:13 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.rPjPrzyZhufF.8bd9.05000000.drTcD9d6META5WVO,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,can u pass me the operator
+im,TYPE_TEXT,2025-10-20 18:27:13 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,"Hello! It seems like you're looking for assistance. Could you please clarify what you mean by ""the operator""? Are you referring to a specific service, a phone operator, or something else? Let me know so I can help you better!"
+system,,2025-10-20 18:27:19 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-20 18:27:21 (UTC+00:00),Andrea Iovino,"=""""",WxlwFGLk.rPjPrzyZhufF.8bd9.05000000.drTcD9d6META5WVO,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,"Hello,
+
+I am interested in purchasing a China (+86) virtual mobile number from your service.
+Before I proceed, I would like to confirm the following:
+
+Does the number support incoming domestic SMS from mainland China?
+
+Will I be able to receive verification SMS (OTP codes) from Chinese apps/websites (for example: Zhuanzhuan 转转)?
+
+Is the number dedicated only to me, and does it support long-term use (i.e., not just temporary)?
+
+Are there any restrictions on receiving SMS from Chinese services while the number is used from abroad (e.g., from Italy)?
+
+Thank you for your assistance."
+im,TYPE_TEXT,2025-10-20 18:27:21 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,"Hello,
+
+Thank you for your interest in purchasing a China (+86) virtual mobile number. Here are the answers to your queries:
+
+1. **Incoming Domestic SMS Support**: Unfortunately, the China virtual number does not support receiving SMS. This means you will not be able to receive verification SMS (OTP codes) from Chinese apps/websites, including Zhuanzhuan 转转.
+
+2. **Number Ownership and Long-Term Use**: The China virtual number is dedicated to you, but it does not support receiving SMS. It is intended for long-term use, complying with local regulations.
+
+3. **Restrictions on Receiving SMS from Abroad**: Since the number does not support receiving SMS, there will be no restrictions on receiving SMS from Chinese services while using the number from abroad, such as from Italy.
+
+If you have any further questions or need assistance with the purchase process, feel free to ask!
+
+For more information about the China virtual number, you can visit our page here: [China Virtual Number](https://www.cinnox.com/china-virtual-number).
+
+Thank you!"
+system,,2025-10-20 18:27:29 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,op.update-im-history
+system,,2026-01-12 18:24:11 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,room.leave
+system,,2026-01-12 18:24:11 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Andrea Iovino,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2025-10-20 18:26:35 (UTC+00:00),"Comiziano, IT",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Andrea,Iovino,info@baggyvintage.com,"=""+393926120104"""

@@ -1,0 +1,30 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-07 15:31:19 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,征 刘,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-07 15:31:19 (UTC+00:00),征 刘,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,征 刘,"=""""",,0,
+system,,2026-02-07 15:31:19 (UTC+00:00),征 刘,"=""""",504569aa-063f-46aa-bcdf-d0276912a90a@prod-hk-02@1001,征 刘,"=""""",,0,room.pci-disclaimer
+system,,2026-02-07 15:31:27 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-07 15:31:30 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,好了吗
+im,TYPE_TEXT,2026-02-07 15:37:17 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,紀錄是已經發了SMS. 你的電話號碼是?
+im,TYPE_TEXT,2026-02-07 15:43:08 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,85257004761
+im,TYPE_TEXT,2026-02-07 15:43:40 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我这边香港号码，中国号码都收不到
+im,TYPE_TEXT,2026-02-07 15:44:40 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,紀錄顯示已經發出
+im,TYPE_TEXT,2026-02-07 15:45:24 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,15595410806 这个呢
+im,TYPE_TEXT,2026-02-07 15:45:31 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,你可以輸入OTP 724726 試試看
+im,TYPE_TEXT,2026-02-07 15:46:05 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我已经不在页面了
+im,TYPE_TEXT,2026-02-07 15:46:18 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,需要重新发送验证
+im,TYPE_TEXT,2026-02-07 15:47:15 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,57004761
+im,TYPE_TEXT,2026-02-07 15:47:18 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,"好,你重新发送验证, 我幫忙看OTP"
+im,TYPE_TEXT,2026-02-07 15:47:30 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,发送了
+im,TYPE_TEXT,2026-02-07 15:48:00 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,935208
+im,TYPE_TEXT,2026-02-07 15:48:37 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,好了 谢谢
+im,TYPE_TEXT,2026-02-07 15:48:49 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,0,welcome
+system,,2026-02-07 15:49:02 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,征 刘,"=""""",,0,room.leave
+system,,2026-02-07 15:49:02 (UTC+00:00),征 刘,"=""""",WxlwFGLk.KKPipYds07e5.744d.05000000.cHMNpm7nkOoO4Ha4,征 刘,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-07 15:31:19 (UTC+00:00),HK,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+征,刘,N/A,"=""+8615595410806"""

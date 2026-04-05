@@ -1,0 +1,52 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-10-29 01:23:54 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.Jnu6tNrBMoVK.4b13.05000000._cJOo1spb1bR7uSI,Jatin Sareen,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-10-29 01:23:54 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jatin Sareen,"=""""",,0,
+im,TYPE_ADVANCED,2025-10-29 01:23:54 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jatin Sareen,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2025-10-29 01:23:54 (UTC+00:00),Jatin Sareen,"=""""",d6558323-d23a-4653-9112-6088316cf6db@prod-hk-02@1001,Jatin Sareen,"=""""",,0,room.pci-disclaimer
+system,,2025-10-29 01:23:56 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,room.join
+im,TYPE_TEXT,2025-10-29 01:24:14 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.Jnu6tNrBMoVK.4b13.05000000._cJOo1spb1bR7uSI,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Hi
+im,TYPE_TEXT,2025-10-29 01:24:14 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to chat about, feel free to share!"
+system,,2025-10-29 01:24:17 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-29 01:24:49 (UTC+00:00),Jatin Sareen,"=""""",WxlwFGLk.Jnu6tNrBMoVK.4b13.05000000._cJOo1spb1bR7uSI,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,I need to buy 8 extensions and 1 usa toll free number
+im,TYPE_TEXT,2025-10-29 01:24:49 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,"To purchase 8 extensions and 1 USA toll-free number through CINNOX, please follow these steps:
+
+### Step 1: Choose Your Plan
+1. **Select the Omnichannel Contact Centre Plan**: This plan allows you to add extensions and virtual numbers. You will need to ensure that you have a minimum of 5 licenses for the Omnichannel Contact Centre Plan.
+
+### Step 2: Purchase Extensions
+1. **Visit the CINNOX Purchase Page**: Go to the [Buy a Virtual Number](https://servicehub.cinnox.com/buy-virtual-number) page.
+2. **Select Extensions**: Choose the option to add extensions. You will need to specify that you want 8 extensions.
+3. **Complete the Purchase**: Fill out the required information and submit your business details for verification.
+
+### Step 3: Purchase a USA Toll-Free Number
+1. **Select the USA Toll-Free Number**: On the same purchase page, look for the option to add a toll-free number.
+2. **Choose the Number Type**: Select the USA toll-free number option.
+3. **Complete the Purchase**: Again, fill out the necessary information and proceed with the payment.
+
+### Step 4: Payment
+1. **Pay Online**: Use a credit card to complete your purchase for both the extensions and the toll-free number.
+
+### Additional Information
+- **Monthly Fees**: Be aware that there will be monthly fees associated with the extensions and the toll-free number.
+- **Support**: If you need assistance during the process, feel free to reach out to our support team.
+
+For more details, you can explore the following links:
+- [CINNOX Pricing](https://www.cinnox.com/pricing)
+- [Virtual Number Add-ons](https://www.cinnox.com/virtual-number-call-rate)
+
+If you have any further questions or need additional assistance, feel free to ask!"
+system,,2025-10-29 01:24:58 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:33 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,room.leave
+system,,2025-12-18 18:23:33 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Jatin Sareen,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Demo & Sales Enquiry,2025-10-29 01:23:54 (UTC+00:00),US,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Jatin,Sareen,myavshopeusa@gmail.com,N/A

@@ -1,0 +1,24 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-21 14:54:43 (UTC+00:00),KiMMI HO,"=""""",WxlwFGLk.-wxGC1vC-tiu.0cf3.05000000.8No1b29mUUihNTfZ,KiMMI HO,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-21 14:54:44 (UTC+00:00),KiMMI HO,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,KiMMI HO,"=""""",,0,
+im,TYPE_ADVANCED,2025-11-21 14:54:44 (UTC+00:00),KiMMI HO,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,KiMMI HO,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2025-11-21 14:54:44 (UTC+00:00),KiMMI HO,"=""""",b5451a1a-4cd8-4291-8dc0-809b31405891@prod-hk-02@1001,KiMMI HO,"=""""",,0,room.pci-disclaimer
+system,,2025-11-21 14:54:45 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,room.join
+im,TYPE_TEXT,2025-11-21 14:54:49 (UTC+00:00),KiMMI HO,"=""""",WxlwFGLk.-wxGC1vC-tiu.0cf3.05000000.8No1b29mUUihNTfZ,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Ask AI Assistant
+im,TYPE_TEXT,2025-11-21 14:54:49 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to chat about, feel free to share!"
+system,,2025-11-21 14:54:53 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-21 14:55:42 (UTC+00:00),KiMMI HO,"=""""",WxlwFGLk.-wxGC1vC-tiu.0cf3.05000000.8No1b29mUUihNTfZ,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,ANY AI AUTO CALL Technical service ?
+im,TYPE_TEXT,2025-11-21 14:55:42 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,"Hello! It sounds like you're looking for technical services related to AI auto call systems. Could you please provide more details about what specific services you need? For example, are you looking for setup assistance, troubleshooting, or something else?"
+system,,2025-11-21 14:55:45 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,op.update-im-history
+system,,2025-12-17 14:59:59 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,room.leave
+system,,2025-12-17 14:59:59 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,KiMMI HO,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,General Information,2025-11-21 14:54:43 (UTC+00:00),"Central, HK",Chinese (Traditional)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+KiMMI,HO,Oil.kimmiho@gmail.com,"=""+85297275553"""

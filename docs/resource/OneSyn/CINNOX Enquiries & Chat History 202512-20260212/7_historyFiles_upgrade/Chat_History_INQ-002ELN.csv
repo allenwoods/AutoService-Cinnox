@@ -1,0 +1,64 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-24 17:04:10 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-24 17:04:10 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2025-12-24 17:04:10 (UTC+00:00)," customer","=""""",2723072d-0cc8-4528-9431-a3176b4f934c@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2025-12-24 17:04:17 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-24 17:04:18 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,hello
+im,TYPE_TEXT,2025-12-24 17:04:37 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Hi! 😊 Thank you for reaching out to CINNOX. This is Tony. How may I help you?
+im,TYPE_TEXT,2025-12-24 17:05:06 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,I want to create a number that can be assigned to 10 sales representatives to answer calls. Do I need to upgrade my account?
+im,TYPE_TEXT,2025-12-24 17:05:56 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"Could I have your service domain?
+xxxx.cinnox.com"
+im,TYPE_TEXT,2025-12-24 17:06:49 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Let me check how is your current plan and agent number limit
+im,TYPE_TEXT,2025-12-24 17:09:29 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,zz@hkwmdyhh
+im,TYPE_TEXT,2025-12-24 17:11:00 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"I mean like ""hkwmdyhh"".cinnox.com"
+im,TYPE_TEXT,2025-12-24 17:11:18 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,You havent create service yet?
+im,TYPE_TEXT,2025-12-24 17:11:29 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Seems like already have one
+im,TYPE_TEXT,2025-12-24 17:11:43 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,hkwmdyhh this one
+im,TYPE_TEXT,2025-12-24 17:12:31 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,Can I use this number to set up a call queue now? But I can't add users.
+im,TYPE_TEXT,2025-12-24 17:13:45 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,I see you currently set it destination as PSTN +852 number
+im,TYPE_FILE,2025-12-24 17:13:46 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,
+im,TYPE_TEXT,2025-12-24 17:14:02 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,You could add agent as the service destionation'
+im,TYPE_TEXT,2025-12-24 17:14:32 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,By change queue setting
+im,TYPE_FILE,2025-12-24 17:14:33 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,
+im,TYPE_TEXT,2025-12-24 17:17:38 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,I cannot add employee accounts; the account addition prompts me to contact sales.
+im,TYPE_TEXT,2025-12-24 17:20:34 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,You have only one agent account at the moment
+im,TYPE_FILE,2025-12-24 17:21:53 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,
+im,TYPE_TEXT,2025-12-24 17:22:02 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,SHould I contact sales for you?
+im,TYPE_TEXT,2025-12-24 17:22:11 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,i need add
+im,TYPE_TEXT,2025-12-24 17:23:01 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,Do I need to pay to add users?
+im,TYPE_TEXT,2025-12-24 17:23:06 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Yes would let sales to provide you price about license (adding agent limit)
+im,TYPE_TEXT,2025-12-24 17:23:27 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"Oh yes, basic plan only contain one admin account"
+im,TYPE_TEXT,2025-12-24 17:23:39 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,"I need 10 customer service representatives to use this number, so I need to add 10 users, right?"
+im,TYPE_TEXT,2025-12-24 17:24:27 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"Yes, you could add as much as you wish, with the price provide by sales."
+im,TYPE_TEXT,2025-12-24 17:24:34 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,Can't I upgrade it myself on the website? Do I have to contact sales?
+im,TYPE_TEXT,2025-12-24 17:27:33 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Adding license for additional agent is not like buy a number.
+im,TYPE_TEXT,2025-12-24 17:27:53 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,So I am afraid that it could not be done by yourself.
+im,TYPE_TEXT,2025-12-24 17:28:10 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Let me ask Gina talk to you?
+system,,2025-12-24 17:28:30 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-24 17:29:28 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,I need to add ten users. How much will it cost?
+im,TYPE_TEXT,2025-12-24 17:32:26 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"I have no idea about the exact price, you need to check with Gina"
+im,TYPE_TEXT,2025-12-24 17:32:35 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,Let me forward the request to her?
+im,TYPE_TEXT,2025-12-24 17:32:47 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,Hi
+im,TYPE_TEXT,2025-12-24 17:32:50 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,I am Gina
+im,TYPE_TEXT,2025-12-24 17:34:03 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,"Yes, you need to upgrade your current plan to Omnichannel Contact Center plan to add more user licenses"
+im,TYPE_TEXT,2025-12-24 18:34:04 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,How do I need to upgrade?
+im,TYPE_TEXT,2025-12-24 18:34:30 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,I need an upgrade.
+im,TYPE_TEXT,2025-12-24 18:37:21 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,hi
+im,TYPE_TEXT,2025-12-24 18:41:10 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"Hi, Gina would follow the request with mail"
+im,TYPE_TEXT,2025-12-24 21:07:48 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,"I will prepare an eQuote covering the service upgrade to you for your consideration. How many licenses do yiu want to have? 10, right?"
+im,TYPE_TEXT,2025-12-25 16:02:56 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,20
+im,TYPE_TEXT,2025-12-25 16:03:43 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,hi
+im,TYPE_TEXT,2025-12-25 16:04:19 (UTC+00:00)," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,When can I upgrade my account?! Your work efficiency is so low!
+im,TYPE_TEXT,2025-12-25 22:02:05 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",WxlwFGLk.-RhIbu3enGx5.cbdb.05000000.8-BfOVeYw1aj-WKN,0,"It is holiday, please check with Gina.
+Merry christmas"
+system,,2025-12-25 22:02:15 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",,0,room.leave
+system,,2025-12-25 22:02:15 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,room.leave
+system,,2025-12-25 22:02:15 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-24 17:04:10 (UTC+00:00),"Central, HK",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

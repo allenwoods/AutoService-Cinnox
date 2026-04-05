@@ -1,0 +1,32 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-10 10:47:54 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,anna centurione,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-10 10:47:54 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,anna centurione,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-10 10:47:54 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,anna centurione,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Customer Service Assistant. 
+
+At CINNOX, we’re on a mission to tackle business uncertainty via high-dimensional information. 
+
+I’m looking forward to serving you!"
+system,,2026-01-10 10:47:54 (UTC+00:00),anna centurione,"=""""",73266592-67d9-4607-be7e-d254619ff875@prod-hk-02@1001,anna centurione,"=""""",,0,room.pci-disclaimer
+system,,2026-01-10 10:47:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,anna centurione,"=""""",,0,room.join
+system,,2026-01-10 10:48:21 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,anna centurione,"=""""",,0,room.leave
+system,,2026-01-10 10:48:21 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,anna centurione,"=""""",,0,room.join
+system,,2026-01-10 10:48:22 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,anna centurione,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-01-10 10:48:41 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,0,Hi! This is Tom. Is there anything I can help you with?
+im,TYPE_TEXT,2026-01-10 10:48:53 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,I am looking for a cheap toll free number pay as you go
+im,TYPE_TEXT,2026-01-10 10:49:05 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,in and out calls for the usa
+im,TYPE_TEXT,2026-01-10 10:49:24 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,1-800 number
+im,TYPE_TEXT,2026-01-10 10:49:34 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,0,https://www.m800.com/
+im,TYPE_TEXT,2026-01-10 10:51:17 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,hello can I get an answer
+im,TYPE_TEXT,2026-01-10 10:51:32 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,0,"After puchasing the numbers online, our colleague will review your provided documents and give you a reply"
+im,TYPE_TEXT,2026-01-10 10:52:01 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,what the hell I am asking for advise on what plan is required can you read
+im,TYPE_TEXT,2026-01-10 10:52:49 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,0,this is the second time I have tried to talk to this company and you are useless
+system,,2026-01-10 10:52:54 (UTC+00:00),Tom Wei,"=""""",WxlwFGLk.hw9_7G0qJvYA.83b0.05000000.yrMQu9DTWXcm-WHd,anna centurione,"=""""",,0,room.leave
+system,,2026-01-10 10:52:54 (UTC+00:00),anna centurione,"=""""",WxlwFGLk.QX2eCjObzqQc.4338.05000000.GxvVoIYQQX7bG9Lt,anna centurione,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2026-01-10 10:47:54 (UTC+00:00),US,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+anna,centurione,annacent2021@gmail.com,"=""+85298665867"""

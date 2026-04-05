@@ -1,0 +1,85 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-05 10:26:30 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Sam Alexander,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-05 10:26:30 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sam Alexander,"=""""",,0,
+system,,2025-12-05 10:26:30 (UTC+00:00),Sam Alexander,"=""""",b8f0753c-1d85-496d-b2e0-d9378ba7a83d@prod-hk-02@1001,Sam Alexander,"=""""",,0,room.pci-disclaimer
+system,,2025-12-05 10:26:38 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-05 10:26:44 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Hi! 😊 Thank you for reaching out to CINNOX. This is Tony. How may I help you?
+im,TYPE_TEXT,2025-12-05 10:27:07 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,您好，感谢您联系CINNOX客服，请问有什么可以协助您的地方？
+im,TYPE_TEXT,2025-12-05 10:27:24 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,"Hi,
+
+I want to check that Cinnox provides the services we are looking for.
+
+We require 10-20 local Hong Kong phone numbers that we can recieve and read texts from."
+im,TYPE_TEXT,2025-12-05 10:28:18 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,"We would like to rent the same numbers for over a year at a time, could you let me know what the pricing would be?"
+im,TYPE_TEXT,2025-12-05 10:28:55 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"sure, let me find the document for you"
+im,TYPE_TEXT,2025-12-05 10:29:16 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,Could you also send me the API docs
+im,TYPE_TEXT,2025-12-05 10:29:58 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,a moment
+im,TYPE_TEXT,2025-12-05 10:30:15 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"Here is the priceing page for CINNOX.
+https://www.cinnox.com/pricing.html
+
+And the link below is for the charge for each number/traffic.
+https://www.cinnox.com/documents/CINNOX_Official-Rate-List_202209-v2.xlsx
+
+If you are intersted in nowing more about the numbers and fees, you may leave your name, company and contacts, I will pass your information to sales team, and they can give you detailed information. 😊"
+im,TYPE_TEXT,2025-12-05 10:30:22 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,https://www.cinnox.com/contact-sales-buy-virtual-number
+im,TYPE_TEXT,2025-12-05 10:30:37 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"CINNOX API Reference:
+ https://docs.cinnox.com/reference/getting-started-with-the-open-api"
+im,TYPE_TEXT,2025-12-05 10:31:21 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Need sales to further intro about Cinnox ability and price?
+im,TYPE_TEXT,2025-12-05 10:31:38 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,I had read this pricing doc but it wasn't clear. Does the Omnichannel Contact Center provide access to multiple virtual phone numbers?
+im,TYPE_TEXT,2025-12-05 10:32:01 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Multiple numbers could be supported
+im,TYPE_TEXT,2025-12-05 10:32:18 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Maybe customer using more than one Virtual number
+im,TYPE_TEXT,2025-12-05 10:32:27 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Many customers
+im,TYPE_TEXT,2025-12-05 10:32:51 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Some customer service center even has dozens
+im,TYPE_TEXT,2025-12-05 10:33:19 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,But is that included in the omnichanel contact center?
+im,TYPE_TEXT,2025-12-05 10:34:07 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,I also wanted to ask whether these numbers are new or if they have been used before
+im,TYPE_TEXT,2025-12-05 10:34:23 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,No the basic service plan and each number monthly fee is independent.
+im,TYPE_TEXT,2025-12-05 10:34:37 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,What is the monthly fee per number
+im,TYPE_TEXT,2025-12-05 10:34:55 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"For more detail, ,may I add our sales to further intro for you?
+A moment please"
+im,TYPE_TEXT,2025-12-05 10:34:58 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,Yes
+im,TYPE_TEXT,2025-12-05 10:35:22 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,Do you prefer Chinese sales or in English?
+im,TYPE_TEXT,2025-12-05 10:35:29 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,English please
+im,TYPE_TEXT,2025-12-05 10:35:45 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,OK a moment
+system,,2025-12-05 10:37:05 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Sam Alexander,"=""""",,0,room.leave
+system,,2025-12-05 10:37:06 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",,0,room.join
+system,,2025-12-05 10:37:06 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Sam Alexander,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-05 10:37:31 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"Hi, Sam, this is Gina Wong from Sales team."
+im,TYPE_TEXT,2025-12-05 10:38:40 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"Hello,
+
+My name is Sam.
+
+Our company is looking to rent between 10 to 20 HK local phone numbers.
+
+The usecase is to recieve OTP from the services we use (specifically hosting / banking providers) so that our team can access the codes seamlessly.
+
+We would not require any calling capabilities.
+
+We would want to rent the same numbers for very long periods of time (over a year)."
+im,TYPE_TEXT,2025-12-05 10:39:02 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"Does this sound like a usecase that Cinnox can assist with? If so, what would be the per number monthly pricing."
+im,TYPE_TEXT,2025-12-05 10:39:48 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,The HK DID number is US$25/number/month
+im,TYPE_TEXT,2025-12-05 10:40:20 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,We can manage all incoming texts via an API correct?
+im,TYPE_TEXT,2025-12-05 10:40:50 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"So, you can leverage CINNOX SMS API to recieve OTP."
+im,TYPE_TEXT,2025-12-05 10:40:57 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Yes
+im,TYPE_TEXT,2025-12-05 10:41:11 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"Also, Is there any scenario where the phone numbers we rent would experience downtime  / be disconnected permanently?"
+im,TYPE_TEXT,2025-12-05 10:41:58 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"No.....you just use these numbers for SMS, right? NO need to call as your said, correct?"
+im,TYPE_TEXT,2025-12-05 10:42:04 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Correct
+im,TYPE_TEXT,2025-12-05 10:42:33 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,no downtime so far
+im,TYPE_TEXT,2025-12-05 10:43:18 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Ok perfect thank you
+im,TYPE_TEXT,2025-12-05 10:43:21 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,You can refer to CINNOX online guide here about the API - Send SMS (https://docs.cinnox.com/reference/send-sms)
+im,TYPE_TEXT,2025-12-05 10:43:30 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,How long does the onboarding process typically take?
+im,TYPE_TEXT,2025-12-05 10:44:03 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"I can continue to follow up with you and share more details information via this email (sam@sambermail.com), right?"
+im,TYPE_TEXT,2025-12-05 10:44:12 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Yes
+im,TYPE_TEXT,2025-12-05 10:44:30 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,"And also, this is your phone number (+886966214965), correct?"
+im,TYPE_TEXT,2025-12-05 10:45:20 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,You can subscribe a FREE Trial via my link. https://cinnox.grsm.io/ginawongeb
+im,TYPE_TEXT,2025-12-05 10:45:20 (UTC+00:00),Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Yes but I prefer all communication via email
+im,TYPE_TEXT,2025-12-05 10:45:46 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,It takes 15-30 seconds to complete the basic setup for a new user.
+im,TYPE_TEXT,2025-12-05 10:46:09 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,No problem. I can send over the related information to you for hte review first.
+im,TYPE_TEXT,2025-12-05 10:48:00 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Sam Alexander,"=""""",WxlwFGLk.YIkoNGekyU49.a2ec.05000000.XTZcmTsMurQo7a4C,0,I am preparing the information and I will send it to you via email. Let's keep in touch there from now on. Thx for your enquiry.
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-05 10:26:30 (UTC+00:00),"New Taipei, TW",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Sam,Alexander,sam@sambermail.com,"=""+886966214965"""

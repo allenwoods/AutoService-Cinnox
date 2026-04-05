@@ -1,0 +1,32 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-23 15:05:52 (UTC+00:00),Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,Niko WANG,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-23 15:05:52 (UTC+00:00),Niko WANG,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Niko WANG,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-23 15:05:52 (UTC+00:00),Niko WANG,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Niko WANG,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Customer Service Assistant. 
+
+At CINNOX, we’re on a mission to tackle business uncertainty via high-dimensional information. 
+
+I’m looking forward to serving you!"
+system,,2025-12-23 15:05:52 (UTC+00:00),Niko WANG,"=""""",b0465866-ddcb-4d1c-9764-0f696072b48c@prod-hk-02@1001,Niko WANG,"=""""",,0,room.pci-disclaimer
+system,,2025-12-23 15:05:54 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Niko WANG,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-23 15:06:21 (UTC+00:00),Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,请问有印度bc的营销通道吗
+im,TYPE_TEXT,2025-12-23 15:06:21 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Niko WANG,"=""""",,0,抱歉，我不太清楚“印度bc”的具体含义。您能否提供更多信息或解释一下“bc”指的是什么？这样我才能更好地帮助您。
+system,,2025-12-23 15:06:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Niko WANG,"=""""",,0,op.update-im-history
+system,,2025-12-23 15:06:39 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Niko WANG,"=""""",,0,room.leave
+system,,2025-12-23 15:06:40 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",,0,room.join
+system,,2025-12-23 15:06:40 (UTC+00:00),Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,Niko WANG,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-23 15:06:52 (UTC+00:00),Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,0,请问有印度的营销通道吗
+im,TYPE_TEXT,2025-12-23 15:06:53 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,0,Hi! 😊 Thank you for reaching out to CINNOX. This is Tony. How may I help you?
+im,TYPE_TEXT,2025-12-23 15:07:11 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,0,"您好，感谢您联系CINNOX客服，请问有什么可以协助您的地方？
+營銷通道是指?"
+im,TYPE_TEXT,2025-12-23 15:07:42 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,0,SMS 短信 抑或是?
+im,TYPE_TEXT,2025-12-23 15:48:05 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",WxlwFGLk.TuPjgc-QzcB7.ab85.05000000.rXIKutwy3-zcEYxc,0,由於久未收到您的訊息，此聊天室將會暫時關閉。如未來仍有可以為您服務的地方，歡迎隨時與我們聯繫，祝您一切順心😊
+system,,2025-12-23 15:48:13 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",,0,room.leave
+system,,2025-12-23 15:48:13 (UTC+00:00),Tony Hsu,"=""""",WxlwFGLk.ZXkhe4_jb21P.4548.05000000.qMk-6od-5PmCh50Q,Niko WANG,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2025-12-23 15:05:52 (UTC+00:00),"Central, HK",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Niko,WANG,wangxuefei@chengweitel.com,"=""+8618800253817"""

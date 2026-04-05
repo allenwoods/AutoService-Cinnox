@@ -1,0 +1,95 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-19 18:03:17 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Aron Casper,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-19 18:03:17 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Aron Casper,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-19 18:03:17 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Aron Casper,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2025-12-19 18:03:17 (UTC+00:00),Aron Casper,"=""""",9ea9719c-4e84-487a-9e70-41b3de9040f9@prod-hk-02@1001,Aron Casper,"=""""",,0,room.pci-disclaimer
+system,,2025-12-19 18:03:18 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Aron Casper,"=""""",,0,room.join
+system,,2025-12-19 18:03:28 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,room.join
+system,,2025-12-19 18:03:28 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Aron Casper,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-19 18:04:51 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"Hi, I need Denmark toll free."
+im,TYPE_TEXT,2025-12-19 18:04:52 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,"I'm glad you reached out! However, I don't have specific information about toll-free numbers in Denmark. Toll-free numbers can vary by service provider and purpose. If you need a toll-free number for a specific service or company, I recommend checking their official website or contacting them directly. If you have a particular company or service in mind, let me know, and I can help you find more information!"
+system,,2025-12-19 18:04:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-19 18:19:19 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,May I talk to sales team
+im,TYPE_TEXT,2025-12-19 18:19:19 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,"Sure! To connect you with the sales team, could you please provide me with the specific department or service you're interested in? This will help ensure you get the right person to assist you!"
+system,,2025-12-19 18:19:22 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-19 18:19:41 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want to buy toll free
+im,TYPE_TEXT,2025-12-19 18:19:41 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,"**This is how to Buy a Toll-Free Number in CINNOX:**
+
+To purchase a toll-free number, follow these steps:
+
+1. **Visit the Buy a Virtual Number Page:**
+   - Go to our [Buy a Virtual Number](https://servicehub.cinnox.com/buy-virtual-number) page.
+
+2. **Choose Your Country and Number Type:**
+   - Select Denmark from the list of countries.
+   - Choose the toll-free number option.
+
+3. **Set Your Call Forwarding Preference:**
+   - Decide how you want incoming calls to be forwarded (e.g., to a mobile or landline).
+
+4. **Fill Out the Form:**
+   - Provide your business information for verification.
+
+5. **Activate Your Account:**
+   - Follow the instructions to activate your account.
+
+6. **Make Payment:**
+   - Pay online using a credit card.
+
+For more details, you can watch the [Buy a Number YouTube video](https://www.youtube.com/watch?v=joObIo8FfQY).
+
+If you need further assistance, I can connect you with our sales team. Just let me know!"
+system,,2025-12-19 18:19:48 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-19 18:20:13 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"First, I need to talk to someone from sales team."
+im,TYPE_TEXT,2025-12-19 18:20:14 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,Sure! I can help you with that. Could you please provide me with your contact information or the best way for the sales team to reach you?
+system,,2025-12-19 18:20:17 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-19 18:20:38 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,cyberxteam@outlook.com
+im,TYPE_TEXT,2025-12-19 18:20:38 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,It seems like you're looking to get in touch with the sales team regarding toll-free services. Could you please provide me with more details about what specific services or features you're interested in? This will help me assist you better!
+system,,2025-12-19 18:20:42 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-19 18:21:28 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I need a calling solutions for Denmark. I have 11 user who is going to make and receive calls.
+im,TYPE_TEXT,2025-12-19 18:21:29 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0," "
+im,TYPE_TEXT,2025-12-19 18:21:38 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+im,TYPE_TEXT,2025-12-19 18:22:39 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,"All our agents are unavailable at the moment. Please try again later.
+	目前所有客服人員皆無法接收您的諮詢。請稍後再試"
+system,,2025-12-19 18:23:58 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Aron Casper,"=""""",,0,room.leave
+system,,2025-12-19 18:23:59 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Aron Casper,"=""""",,0,room.join
+system,,2025-12-19 18:23:59 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Aron Casper,"=""""",,0,enquiry.takeover
+im,TYPE_TEXT,2025-12-19 18:24:10 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"Hi there Aron, this is May."
+im,TYPE_TEXT,2025-12-19 18:24:38 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Hi May
+im,TYPE_TEXT,2025-12-19 18:24:49 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,May I confirm your requirement for Denmark virtual number?
+im,TYPE_TEXT,2025-12-19 18:24:55 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"""I need a calling solutions for Denmark. I have 11 user who is going to make and receive calls."""
+im,TYPE_TEXT,2025-12-19 18:25:17 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I need Denmark toll free with calling and receving solution for 11 users.
+im,TYPE_TEXT,2025-12-19 18:28:15 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"Thank you for confirming. I’ll now connect you with Edwin, our Sales Manager, who will assist you for your requirement."
+im,TYPE_TEXT,2025-12-19 18:28:29 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,ok
+system,,2025-12-19 18:28:57 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Aron Casper,"=""""",,0,room.leave
+system,,2025-12-19 18:28:58 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",,0,room.join
+system,,2025-12-19 18:28:58 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Aron Casper,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-19 18:29:06 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,Hi
+im,TYPE_TEXT,2025-12-19 18:29:15 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"Hello, my name is Edwin, how may I help you today?"
+im,TYPE_TEXT,2025-12-19 18:29:32 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"""I need a calling solutions for Denmark. I have 11 user who is going to make and receive calls."""
+im,TYPE_TEXT,2025-12-19 18:30:19 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"HI Aron, good to receive your inquiry"
+im,TYPE_TEXT,2025-12-19 18:32:04 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,of course we have contact centre solution called CINNOX. It would cater your needs
+im,TYPE_TEXT,2025-12-19 18:33:19 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,is it your email address?
+im,TYPE_TEXT,2025-12-19 18:34:01 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,cyberxteam@outlook.com
+im,TYPE_TEXT,2025-12-19 18:34:14 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,yes
+im,TYPE_TEXT,2025-12-19 18:34:41 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,let me kow the plan and call rate.
+im,TYPE_TEXT,2025-12-19 18:34:48 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"may I have your company name, business email address and contact information?"
+im,TYPE_TEXT,2025-12-19 18:35:21 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Wizytech LLC
+im,TYPE_TEXT,2025-12-19 18:35:35 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,info@wizytech.com
+im,TYPE_TEXT,2025-12-19 18:37:14 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"my email address is edwinwoo@m800.com, I will send you email about your case. let's keep in touch~~"
+im,TYPE_TEXT,2025-12-19 18:37:52 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Do you need any documents?
+im,TYPE_TEXT,2025-12-19 18:39:12 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,"usually, we will do some KYC with our potential customer. of course, you might send me via email then"
+im,TYPE_TEXT,2025-12-19 18:39:55 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Please send details on both email address
+im,TYPE_TEXT,2025-12-19 18:40:12 (UTC+00:00),Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,How many days will it take to activate the number?
+im,TYPE_TEXT,2025-12-19 18:52:10 (UTC+00:00),Edwin Woo,"=""""",WxlwFGLk.gKyzPbH7gYuE.b4a3.05000000.qyOk001ejlZQKy0a,Aron Casper,"=""""",WxlwFGLk.lLOnG8vrFlxc.150c.05000000.3zS8hWkR2B22vk2o,0,please check email. Let me know whether you have Demark entity. Thanks!
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Sales & Demo,2025-12-19 18:03:17 (UTC+00:00),IN,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Aron,Casper,cyberxteam@outlook.com,N/A

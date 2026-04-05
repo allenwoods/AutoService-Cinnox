@@ -1,0 +1,23 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-12 02:35:48 (UTC+00:00),Sharath Kumar,"=""""",WxlwFGLk.4Rew5bO3AyKT.bf44.05000000.teB92WoBOvgLCCk8,Sharath Kumar,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-12 02:35:48 (UTC+00:00),Sharath Kumar,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sharath Kumar,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-12 02:35:48 (UTC+00:00),Sharath Kumar,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sharath Kumar,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-12-12 02:35:48 (UTC+00:00),Sharath Kumar,"=""""",72db64c1-42f3-4fe8-b62d-cbf87dcd6d19@prod-hk-02@1001,Sharath Kumar,"=""""",,0,room.pci-disclaimer
+system,,2025-12-12 02:35:49 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sharath Kumar,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-12 02:36:21 (UTC+00:00),Sharath Kumar,"=""""",WxlwFGLk.4Rew5bO3AyKT.bf44.05000000.teB92WoBOvgLCCk8,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Working on Salesforce  CINNOX integration but not able to validate the last step to complete
+im,TYPE_TEXT,2025-12-12 02:36:21 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sharath Kumar,"=""""",,0,"It sounds like you're working on an integration between Salesforce and CINNOX, which can be quite complex! To help you better, could you provide more details about the specific step you're having trouble validating? Are you encountering any error messages or issues with data mapping? Let me know so I can assist you more effectively!"
+system,,2025-12-12 02:36:25 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sharath Kumar,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:57 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sharath Kumar,"=""""",,0,room.leave
+system,,2025-12-18 18:23:57 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sharath Kumar,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2025-12-12 02:35:48 (UTC+00:00),"Singapore, SG",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Sharath,Kumar,sharath.kumar@digitalalchemy.asia,"=""+6581793417"""

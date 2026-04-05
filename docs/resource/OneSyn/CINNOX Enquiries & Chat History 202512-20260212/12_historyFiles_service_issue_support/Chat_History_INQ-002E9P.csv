@@ -1,0 +1,83 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-02 19:13:29 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.tIdTm6ThZ41n.cc8b.05000000.Fco7tlzlbnwItzih,LaRon Young,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-02 19:13:29 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,LaRon Young,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-02 19:13:29 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,LaRon Young,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-12-02 19:13:29 (UTC+00:00),LaRon Young,"=""""",9af0dc3c-008d-4f3f-8036-485dea4a4ebd@prod-hk-02@1001,LaRon Young,"=""""",,0,room.pci-disclaimer
+system,,2025-12-02 19:13:30 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-02 19:14:01 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.tIdTm6ThZ41n.cc8b.05000000.Fco7tlzlbnwItzih,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Hi
+im,TYPE_TEXT,2025-12-02 19:14:02 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,"Hello! How can I assist you today? If you have any questions or need information, feel free to ask!"
+system,,2025-12-02 19:14:04 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-02 19:15:23 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.tIdTm6ThZ41n.cc8b.05000000.Fco7tlzlbnwItzih,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,"I have a Hotmail email account, your company doesn’t accept?"
+im,TYPE_TEXT,2025-12-02 19:15:24 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,"Hello! It sounds like you're trying to use your Hotmail email account for something specific. Could you please provide more details about what you're trying to do? For example, are you trying to sign up for a service or access a particular feature? That way, I can assist you better!"
+system,,2025-12-02 19:15:26 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-02 19:16:18 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.tIdTm6ThZ41n.cc8b.05000000.Fco7tlzlbnwItzih,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,To set up a new account.
+im,TYPE_TEXT,2025-12-02 19:16:19 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,"I'm here to assist you with setting up a new account in CINNOX! Here’s a step-by-step guide to help you through the process:
+
+### How to Set Up a New CINNOX Account
+
+1. **Visit the Sign-Up Page**:
+   - Go to the CINNOX sign-up page.
+
+2. **Fill in Your Information**:
+   - Enter your **First Name** and **Last Name**.
+   - Provide a **unique Email Address** (please note that Hotmail accounts may not be accepted).
+   - Enter your **Phone Number**.
+
+3. **Create a Strong Password**:
+   - Create a password that meets the following criteria:
+     - A mix of upper and lower case characters.
+     - At least one symbol or number.
+     - Minimum of eight characters.
+   - Retype the same password in the **Confirm Password** field.
+
+4. **Complete the Sign-Up**:
+   - Click on the **Sign Up** button to create your CINNOX account.
+
+5. **Account Activation**:
+   - After signing up, you will receive an email to activate your account. Follow the instructions in that email.
+
+6. **Log In**:
+   - Once your account is activated, you can log in to the CINNOX platform using your email and password.
+
+### Important Notes:
+- Ensure that all mandatory fields are filled out correctly.
+- If you encounter any issues with your email, consider using a different email provider.
+
+For more detailed information, you can visit our [CINNOX Documentation](https://docs.cinnox.com/docs/my-account-preferences).
+
+If you have any further questions or need assistance, feel free to ask!"
+system,,2025-12-02 19:16:27 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-02 19:18:12 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.tIdTm6ThZ41n.cc8b.05000000.Fco7tlzlbnwItzih,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Why is the Hotmail account not accepted? It’s my only account.
+im,TYPE_TEXT,2025-12-02 19:18:13 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,"I'm sorry to hear that you're having trouble with your Hotmail account! While I don't have specific details about the account setup process, it's possible that some systems may have restrictions on certain email providers for security or verification reasons. Could you please provide more information about what you're trying to set up? That way, I can assist you better!"
+system,,2025-12-02 19:18:16 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-02 19:18:55 (UTC+00:00),LaRon Young,"=""""",WxlwFGLk.tIdTm6ThZ41n.cc8b.05000000.Fco7tlzlbnwItzih,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,A new account?
+im,TYPE_TEXT,2025-12-02 19:18:55 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,"Hello! 
+
+To set up a new CINNOX account, please follow these steps:
+
+1. **Visit the Sign-Up Page**: Go to the CINNOX sign-up page.
+2. **Fill in Your Details**: Enter the required information, including your first name, last name, and a unique email address. Please note that the email address must be unique, so if your Hotmail account is not accepted, you may need to use a different email provider.
+3. **Create a Strong Password**: Choose a password that contains a mix of upper and lower case characters, at least one symbol or number, and is at least eight characters long.
+4. **Confirm Your Password**: Retype the password in the **Confirm Password** field.
+5. **Agree to Terms**: By clicking “Create an account for FREE,” you agree to the [Terms and Conditions](https://docs.cinnox.com/docs/terms-of-use) and [Privacy Policy](https://docs.cinnox.com/docs/privacy-policy).
+6. **Submit Your Information**: Click **Sign Up** to create your CINNOX account.
+7. **Activate Your Account**: Check your email for an activation link from CINNOX. Click the link to activate your account.
+
+If you encounter any issues with your Hotmail account, it may be due to specific restrictions on email domains. You might want to consider using an alternative email provider for the sign-up process.
+
+If you need further assistance, feel free to ask!"
+system,,2025-12-02 19:19:03 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:50 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,room.leave
+system,,2025-12-18 18:23:50 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,LaRon Young,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,24/7 Support,2025-12-02 19:13:29 (UTC+00:00),"Long Branch, US",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+LaRon,Young,leroi241@hotmail.com,N/A

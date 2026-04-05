@@ -1,0 +1,49 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-10 05:06:24 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.JFRpwb4GD1Pf.583a.05000000.v3qviasyQmpPIRyY,Adnan Cusic,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-10 05:06:24 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Adnan Cusic,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-10 05:06:24 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Adnan Cusic,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-02-10 05:06:24 (UTC+00:00),Adnan Cusic,"=""""",3d97a370-f400-43f6-b7a1-9f92ccb6cc46@prod-hk-02@1001,Adnan Cusic,"=""""",,0,room.pci-disclaimer
+system,,2026-02-10 05:06:26 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-10 05:06:59 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.JFRpwb4GD1Pf.583a.05000000.v3qviasyQmpPIRyY,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"Hi, I want to know about your AI OUtbound agents. how they work, which language you can use, what the pricing is etc."
+im,TYPE_TEXT,2026-02-10 05:06:59 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,"Hello! I’m here to assist you with M800, such as Virtual Numbers, SMS, and AI Voice Agents. How can I help you today?
+
+Regarding your inquiry about **AI Outbound Agents**, here's what you need to know:
+
+### AI Outbound Agents Overview
+- **AI-Powered Virtual Assistant**: Designed to engage with customers and address inquiries using advanced **NLP algorithms**. It discerns queries and provides relevant responses from your specified knowledge base.
+- **Voice Bot**: A future offering that will engage with inbound callers, understanding and responding to vocal input through NLP and machine learning.
+
+### Language Support
+- The AI solutions, including the **AI Virtual Assistant**, support **multilingual** interactions, ensuring effective communication with customers from various linguistic backgrounds.
+
+### Pricing
+- For specific pricing details regarding AI services, please refer to the **[M800 Pricing page](https://www.m800.com/pricing)**.
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2026-02-10 05:07:06 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-10 05:10:14 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.JFRpwb4GD1Pf.583a.05000000.v3qviasyQmpPIRyY,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,can I get a testcall with your AI Agent
+im,TYPE_TEXT,2026-02-10 05:10:14 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,"I'm glad you're interested in our AI Outbound agents! To help you better, could you please provide me with more details about what specific features or functionalities you're looking for in a test call? This will help me assist you more effectively!"
+system,,2026-02-10 05:10:17 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-10 05:11:05 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.JFRpwb4GD1Pf.583a.05000000.v3qviasyQmpPIRyY,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"I want the AI Agent to pitch me a service of removing bad googl reviews with a  unique service. It is supposed to check whether I am interested and if so, to offer me an appointment"
+im,TYPE_TEXT,2026-02-10 05:11:05 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,"Hello! It sounds like you're interested in a specific use case for our AI Outbound agents. They can indeed help with pitching services like removing bad Google reviews. 
+
+To get started, could you please let me know what specific features or unique aspects you want the AI agent to highlight in the service? This will help tailor the pitch to your needs!"
+system,,2026-02-10 05:11:09 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-10 05:12:33 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.JFRpwb4GD1Pf.583a.05000000.v3qviasyQmpPIRyY,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"it is important to know that the removal is done professionally, it has been developed inhouse and we are the first worldwide to impolement it. also we guarantee for our work with the biggest safety marker: we don´t charge upfront."
+im,TYPE_TEXT,2026-02-10 05:12:33 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,"It sounds like you have a very unique and compelling service for removing bad Google reviews! To better assist you with the test call and ensure the AI agent can effectively pitch your service, could you please provide more details about the specific features or benefits of your service that you would like the AI agent to highlight during the call?"
+system,,2026-02-10 05:12:36 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-10 05:14:02 (UTC+00:00),Adnan Cusic,"=""""",WxlwFGLk.JFRpwb4GD1Pf.583a.05000000.v3qviasyQmpPIRyY,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"it is not supposed to be detailled, just to see whether the company is interested in the removal of the reviews. a live agent will tell them more"
+im,TYPE_TEXT,2026-02-10 05:14:02 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+im,TYPE_TEXT,2026-02-10 05:15:07 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Adnan Cusic,"=""""",,0,"All our agents are unavailable at the moment. Please try again later.
+	目前所有客服人員皆無法接收您的諮詢。請稍後再試"
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,General Information,2026-02-10 05:06:24 (UTC+00:00),"Sarajevo, BA",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Adnan,Cusic,adnan.cusic@advista.ba,"=""+38763592567"""

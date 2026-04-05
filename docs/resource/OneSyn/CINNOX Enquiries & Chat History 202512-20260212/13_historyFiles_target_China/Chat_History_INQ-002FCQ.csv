@@ -1,0 +1,36 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-10 21:31:35 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-10 21:31:35 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-02-10 21:31:35 (UTC+00:00)," customer","=""""",82fd8a5b-7c6b-4e6a-a76f-19fee3226596@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-02-10 21:31:59 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q," customer","=""""",,0,官网网站已更新，请审核
+system,,2026-02-10 21:32:30 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-02-10 21:32:46 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,可以提供網址嗎
+im,TYPE_TEXT,2026-02-10 21:35:36 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,https://www.xiaojin.xyz
+im,TYPE_TEXT,2026-02-10 21:39:56 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,謝謝，我提交團隊審核
+im,TYPE_TEXT,2026-02-11 11:10:30 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,How long does the process of obtaining an enterprise qualification certification take?
+im,TYPE_TEXT,2026-02-11 12:23:16 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,???
+system,,2026-02-11 12:26:29 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-02-11 15:34:39 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Is it not possible to review it?
+im,TYPE_TEXT,2026-02-11 15:34:52 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,是不是审核不了？
+im,TYPE_TEXT,2026-02-11 15:35:29 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,目前在主管那邊二次審核，因為原網站第一次審核有疑慮
+im,TYPE_TEXT,2026-02-11 15:35:49 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,已经更新了啊‘
+im,TYPE_FILE,2026-02-11 15:37:17 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-11 15:41:54 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,有的 是這個網站沒錯
+im,TYPE_TEXT,2026-02-11 15:46:05 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,昨天晚上就更换了，没有审核
+im,TYPE_TEXT,2026-02-13 10:25:42 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,虚拟号码订单认证
+im,TYPE_TEXT,2026-02-13 10:26:51 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,主管有回應拒絕，不過因為我看不出來網站與營業登記不相符之處，所以我請他具體指出..等待回應中
+im,TYPE_TEXT,2026-02-13 10:29:36 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,網站與營業登記不相符？
+im,TYPE_TEXT,2026-02-13 10:30:22 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,https://www.xiaojin.xyz
+im,TYPE_FILE,2026-02-13 10:30:45 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-13 10:30:54 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,恩是這個，我有看，所以我反饋請具體指出不相符處，也有可能是弄錯，因為近日申請量很大
+im,TYPE_FILE,2026-02-13 10:31:23 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-13 10:32:28 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,0,謝謝 我也把這個提交
+im,TYPE_TEXT,2026-02-13 12:52:04 (UTC+00:00)," customer","=""""",WxlwFGLk.0CqzqyDMrbML.3336.05000000.sEiZlCU0Kg2iVZ6Q,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,怎么样了
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-10 21:31:35 (UTC+00:00),"Kunming, CN",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

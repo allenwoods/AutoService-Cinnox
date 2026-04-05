@@ -1,0 +1,13 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-17 20:25:40 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-17 20:25:40 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2025-11-17 20:25:40 (UTC+00:00)," customer","=""""",8918770c-7723-442c-b41e-2b3a2095e358@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2025-11-17 20:25:53 (UTC+00:00)," customer","=""""",WxlwFGLk._RTLGFVoFenC.b437.05000000.yjRMw_8JJybFW5ig," customer","=""""",,0,enquiry.missed
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-11-17 20:25:40 (UTC+00:00),"Skopje, MK",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

@@ -1,0 +1,43 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-17 14:46:18 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-17 14:46:18 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2025-12-17 14:46:18 (UTC+00:00)," customer","=""""",e5306fc4-4139-4eec-a75c-44775fa5bc95@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2025-12-17 14:46:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2025-12-17 14:46:30 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,can I chat with Gina
+im,TYPE_TEXT,2025-12-17 14:46:33 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,0,Sure
+system,,2025-12-17 14:46:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.leave
+system,,2025-12-17 14:46:53 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,room.join
+system,,2025-12-17 14:46:53 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz," customer","=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-17 14:47:12 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,0,"hi, I am Gina. How can I help you?"
+im,TYPE_TEXT,2025-12-19 18:37:14 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,hi Giba
+im,TYPE_TEXT,2025-12-19 18:37:21 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Gina*
+im,TYPE_TEXT,2025-12-19 18:37:29 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,0,Hi
+im,TYPE_TEXT,2025-12-19 18:37:37 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,0,How can I help you?
+im,TYPE_TEXT,2025-12-19 18:39:20 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i wanna ask if my plan will charge automatically next month?
+im,TYPE_TEXT,2025-12-19 18:40:39 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,may I know your company name or CINNOX submdomain?
+im,TYPE_TEXT,2025-12-19 19:07:47 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,chubbystream@cinnox
+im,TYPE_TEXT,2025-12-19 19:11:25 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,Are you David Poon?
+im,TYPE_TEXT,2025-12-19 19:11:33 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,yes
+im,TYPE_TEXT,2025-12-19 19:12:25 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,"If you subscribe the monthly plan of Digital Commerce, you will be charged in monthly basis indeed."
+im,TYPE_TEXT,2025-12-19 19:12:44 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,how do I stop the subscription after a month?
+im,TYPE_TEXT,2025-12-19 19:13:28 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,You can suspend your service in your CINNOX account.
+im,TYPE_TEXT,2025-12-19 19:14:16 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,web and app
+im,TYPE_TEXT,2025-12-19 19:14:43 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,which one? or both can find the unsubscribe page
+im,TYPE_TEXT,2025-12-19 19:14:46 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,You should stop the payment in your CINNOX account. But may I know you need to terminate the service?
+im,TYPE_TEXT,2025-12-19 19:15:21 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"after the current subscription, yep"
+im,TYPE_TEXT,2025-12-19 19:16:10 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,What does that mean? CINNOX cannot meet your requirements?
+im,TYPE_TEXT,2025-12-19 19:16:33 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,the price is higher than what we can afford
+im,TYPE_TEXT,2025-12-19 19:17:27 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,How many users will you need? Only 3?
+im,TYPE_TEXT,2025-12-19 19:19:17 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,Or will you consider 3x users upgrade to Omnichannel Contact Centre plan + HK DID? I try to ask for special approval for 3 users instead of 5 users license upgrade? Is it good to you?
+im,TYPE_TEXT,2025-12-19 19:27:52 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,lemme discus with my partner
+im,TYPE_TEXT,2025-12-19 19:27:59 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,thank you for your offer
+system,,2025-12-19 19:28:05 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1," customer","=""""",,0,room.leave
+system,,2025-12-19 19:28:05 (UTC+00:00)," customer","=""""",WxlwFGLk.9uZjnvhaBSy8.3be8.05000000.ib33p3af5brolyDz," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-17 14:46:18 (UTC+00:00),"To Kwa Wan, HK",Chinese (Traditional)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

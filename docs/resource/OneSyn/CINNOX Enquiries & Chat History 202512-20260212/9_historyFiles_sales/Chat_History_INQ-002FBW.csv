@@ -1,0 +1,105 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-09 16:39:23 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,祥伟 陈,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-09 16:39:23 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,祥伟 陈,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-09 16:39:23 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,祥伟 陈,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Customer Service Assistant. 
+
+At CINNOX, we’re on a mission to tackle business uncertainty via high-dimensional information. 
+
+I’m looking forward to serving you!"
+system,,2026-02-09 16:39:23 (UTC+00:00),祥伟 陈,"=""""",e7a1ddcb-2612-4c35-8271-cfb5ca444dd7@prod-hk-02@1001,祥伟 陈,"=""""",,0,room.pci-disclaimer
+system,,2026-02-09 16:39:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-09 16:39:48 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,SIP中继器如何对接
+im,TYPE_TEXT,2026-02-09 16:39:48 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,要对接SIP中继器，您需要提供一些具体的信息，比如您使用的电话系统或PBX（私有分支交换机）是什么？另外，您是否已经有了SIP中继器的配置细节？这些信息将帮助我更好地指导您如何进行对接。
+system,,2026-02-09 16:39:52 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-09 16:40:35 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,有呼叫中心系统，可以SIP 对接
+im,TYPE_TEXT,2026-02-09 16:40:35 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,"要将呼叫中心系统与SIP对接，您需要确保几个关键要素到位。首先，您需要确认您的呼叫中心系统是否支持SIP协议。大多数现代呼叫中心系统都支持这一协议，但具体实现可能会有所不同。
+
+接下来，您需要获取SIP中继的详细信息，包括SIP服务器的地址、端口号、用户名和密码等。这些信息通常由您的SIP服务提供商提供。
+
+在配置过程中，您可能还需要设置一些网络参数，例如防火墙规则，以确保SIP流量能够顺利通过。此外，您还需要确保您的网络带宽足够，以支持语音通话的质量。
+
+如果您能提供更多关于您使用的呼叫中心系统的具体信息，我可以为您提供更详细的指导！"
+system,,2026-02-09 16:40:40 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-09 16:41:22 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,支持的 ip 端口
+im,TYPE_TEXT,2026-02-09 16:41:22 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,要更好地帮助您，我需要了解您使用的呼叫中心系统的具体类型或品牌。您能告诉我吗？这样我可以提供更准确的信息。
+system,,2026-02-09 16:41:24 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-09 16:41:37 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,OKCC
+im,TYPE_TEXT,2026-02-09 16:41:37 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,您好！关于SIP中继器的对接，通常需要确认您使用的呼叫中心系统的具体型号和配置，因为不同的系统可能会有不同的要求和设置。您提到的“支持的IP端口”也可能因系统而异。请问您能提供更多关于您呼叫中心系统的信息吗？这样我可以更好地帮助您！
+system,,2026-02-09 16:41:41 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-09 16:42:05 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,品牌 OKCC
+im,TYPE_TEXT,2026-02-09 16:42:06 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,"你好！关于 OKCC 品牌的 SIP 中继器对接，我可以提供一些信息。首先，你需要确认你的呼叫中心系统支持的 SIP 端口和协议。一般来说，常用的 SIP 端口是 5060（UDP/TCP），但有些系统可能会使用其他端口。
+
+另外，你能告诉我你具体想了解哪些方面的信息吗？比如，是否需要配置步骤、兼容性、或者其他技术细节？这样我可以更好地帮助你！"
+system,,2026-02-09 16:42:10 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,op.update-im-history
+im,TYPE_FILE,2026-02-09 16:42:31 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,
+im,TYPE_TEXT,2026-02-09 16:42:40 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,115.159.58.164:8926
+im,TYPE_TEXT,2026-02-09 16:42:40 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,您好！看起来您在询问有关SIP中继器和呼叫中心系统的对接信息。您提到的IP地址和端口115.159.58.164:8926是与OKCC品牌相关的设置吗？如果您能提供更多关于您需要的具体信息，比如您希望实现的功能或遇到的问题，我将更好地帮助您！
+system,,2026-02-09 16:42:44 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-09 16:42:48 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,人工
+im,TYPE_TEXT,2026-02-09 16:42:48 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0," "
+im,TYPE_TEXT,2026-02-09 16:42:50 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+system,,2026-02-09 16:43:23 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,祥伟 陈,"=""""",,0,room.leave
+system,,2026-02-09 16:43:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",,0,room.join
+system,,2026-02-09 16:43:24 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,祥伟 陈,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-09 16:43:29 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,您好
+im,TYPE_TEXT,2026-02-09 16:43:45 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,需要SIP对接
+im,TYPE_TEXT,2026-02-09 16:43:48 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,有什麼可以幫助您的嗎
+im,TYPE_TEXT,2026-02-09 16:43:52 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,稍等一下唷
+im,TYPE_TEXT,2026-02-09 16:44:24 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,有自己的呼叫中心系统
+im,TYPE_TEXT,2026-02-09 16:44:30 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,ＳＩＰ對接是我們這邊也需要設置，且會有額外設置費用產生。我先查看一下您的CINNOX 服務
+im,TYPE_TEXT,2026-02-09 16:44:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,您的CINNOX域名方便提供嗎？
+im,TYPE_TEXT,2026-02-09 16:45:14 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我还没有购买号码、
+im,TYPE_FILE,2026-02-09 16:45:29 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-09 16:46:14 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,您要購買哪個國家的號碼
+im,TYPE_TEXT,2026-02-09 16:46:21 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,中国‘
+im,TYPE_TEXT,2026-02-09 16:50:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,您是要購買免付費電話接聽電話，還是要可以外呼的DID
+im,TYPE_TEXT,2026-02-09 16:51:07 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,免费号码 需要400号码
+im,TYPE_TEXT,2026-02-09 16:52:47 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,那您可以直接從這邊申請，最後需要提交公司登記、地址證明與負責人證件
+im,TYPE_TEXT,2026-02-09 16:52:58 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,我們收到申請後相關團隊會進行文件審核
+im,TYPE_TEXT,2026-02-09 16:55:40 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,怎么发送
+im,TYPE_TEXT,2026-02-09 16:56:25 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,"請您透過這個連結申請提交
+https://servicehub.cinnox.com/buy-virtual-number?lang=zh-cn"
+im,TYPE_TEXT,2026-02-09 16:57:04 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,您希望在哪里接听电话？
+im,TYPE_TEXT,2026-02-09 16:57:12 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,这里如何选择
+im,TYPE_TEXT,2026-02-09 16:57:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,如果您最終需要SIP 這邊您就先選Staff人員那個，這個意思只是您登入平台在我們的平台上接聽
+im,TYPE_TEXT,2026-02-09 16:58:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,SIP的設置在您購買號碼後會需要銷售人員跟您對接
+im,TYPE_TEXT,2026-02-09 16:58:34 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好的
+im,TYPE_TEXT,2026-02-09 16:58:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,在您申請前，想請問您的流量大嗎？不然SIP對接有可能不合算
+im,TYPE_TEXT,2026-02-09 16:58:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,因為設置費用比較高
+im,TYPE_TEXT,2026-02-09 16:59:04 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,明白
+im,TYPE_TEXT,2026-02-09 16:59:06 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,號碼本身的月租還好，但SIP設置有一次性費用
+im,TYPE_TEXT,2026-02-09 16:59:28 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好
+im,TYPE_TEXT,2026-02-09 16:59:53 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,我們的客戶可能是有多國號碼，建立一個SIP使用自有系統接聽，這樣比較合算
+im,TYPE_TEXT,2026-02-09 17:01:05 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,如果您願意的話，我可以把您的聯繫方式直接給我們的銷售，請他給您相關資訊
+im,TYPE_TEXT,2026-02-09 17:01:14 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,您再決定也行
+im,TYPE_TEXT,2026-02-09 17:02:45 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,可以 麻烦你转接
+im,TYPE_TEXT,2026-02-09 17:06:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,請問您的手機是您的微信嗎？同事不在座位上，我請他聯繫您
+im,TYPE_TEXT,2026-02-09 17:06:33 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,"Phone number
++8613977999749
+
+Email address
+vip001@xiaojin.xyz"
+im,TYPE_TEXT,2026-02-09 17:06:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,這是可以聯絡到您的吧？
+im,TYPE_TEXT,2026-02-09 17:07:17 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,对
+im,TYPE_TEXT,2026-02-09 17:07:58 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,好的～那請您耐心等候
+system,,2026-02-09 17:08:20 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,祥伟 陈,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-09 17:11:38 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,陈先生，您好！
+im,TYPE_TEXT,2026-02-09 17:12:48 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,你好
+im,TYPE_TEXT,2026-02-09 17:13:04 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,咨询下SIP费用
+im,TYPE_TEXT,2026-02-09 17:13:26 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,您现在电话方便吗？
+im,TYPE_TEXT,2026-02-09 17:14:17 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,方便
+im,TYPE_TEXT,2026-02-09 17:14:23 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,13977999749
+im,TYPE_TEXT,2026-02-09 17:17:18 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,微信 17387519215
+im,TYPE_TEXT,2026-02-09 17:17:33 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,0,收到，马上添加您为好友
+system,,2026-02-09 17:35:48 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,祥伟 陈,"=""""",,0,room.leave
+system,,2026-02-09 17:36:51 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,祥伟 陈,"=""""",,0,room.leave
+system,,2026-02-09 17:36:51 (UTC+00:00),祥伟 陈,"=""""",WxlwFGLk.uMI_wpNbU2Xx.522d.05000000.5cseHQEMMAiQPU8K,祥伟 陈,"=""""",,0,enquiry.transfer.missed
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2026-02-09 16:39:23 (UTC+00:00),"Kunming, CN",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+祥伟,陈,vip001@xiaojin.xyz,"=""+8613977999749"""

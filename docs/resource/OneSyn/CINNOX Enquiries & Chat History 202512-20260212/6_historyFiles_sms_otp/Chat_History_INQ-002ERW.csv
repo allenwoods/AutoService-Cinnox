@@ -1,0 +1,70 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-07 18:18:16 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,faruki mussaa,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-07 18:18:16 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,faruki mussaa,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-07 18:18:16 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,faruki mussaa,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-01-07 18:18:16 (UTC+00:00),faruki mussaa,"=""""",e07cd97d-d16b-41c4-bbfb-fdf0fb5004db@prod-hk-02@1001,faruki mussaa,"=""""",,0,room.pci-disclaimer
+system,,2026-01-07 18:18:18 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-07 18:18:24 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,hello
+im,TYPE_TEXT,2026-01-07 18:18:24 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2026-01-07 18:18:27 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:19:56 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,am about asking a question regerding your services
+im,TYPE_TEXT,2026-01-07 18:19:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,Hello! I'm glad you're interested in learning more about my services. What specific aspect of my services would you like to ask about?
+system,,2026-01-07 18:19:58 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:21:06 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,on your virtual number am going to purchase ca i send a text from that number
+im,TYPE_TEXT,2026-01-07 18:21:06 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"Hello! 
+
+Yes, you can send text messages from your **Virtual Number** with M800. This feature allows businesses to communicate effectively with their customers through SMS, enhancing engagement and providing timely information.
+
+### Benefits of Sending SMS from a Virtual Number:
+- **Cost-Effective Communication**: Sending SMS is often more affordable than making voice calls, especially for reaching a large audience.
+- **Instant Delivery**: SMS messages are delivered quickly, ensuring that your communication is timely.
+- **High Engagement Rates**: Text messages have higher open rates compared to emails, making it a reliable way to reach your customers.
+- **Flexibility**: You can send promotional messages, alerts, or reminders directly from your virtual number.
+
+### How to Send SMS from Your Virtual Number:
+1. **Log in to your M800 account**.
+2. Navigate to the **SMS section** of the dashboard.
+3. Select your **Virtual Number** from which you want to send the message.
+4. Compose your message in the provided text box.
+5. Enter the recipient's phone number.
+6. Click on the **Send** button to deliver your message.
+
+For more details on sending SMS, you can refer to our guide here: [How to Send SMS](https://docs.cinnox.com/docs/sending-sms).
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2026-01-07 18:21:14 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:21:35 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,okay thanks
+im,TYPE_TEXT,2026-01-07 18:21:36 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"Hello! I'm glad you're interested in our services. Regarding your question about the virtual number, could you please clarify which specific features you're looking for? For example, are you interested in sending texts to individuals, businesses, or both? This will help me provide you with more detailed information!"
+system,,2026-01-07 18:21:39 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:22:30 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,i want sending a text to company number
+im,TYPE_TEXT,2026-01-07 18:22:30 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"Hello! Yes, you can send a text from the virtual number you purchase. However, could you please provide more details about the company number you want to send the text to? For example, are you looking to send a message for customer support, marketing, or something else? This will help me assist you better!"
+system,,2026-01-07 18:22:34 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:23:20 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,in order to get a variefication on that sitye
+im,TYPE_TEXT,2026-01-07 18:23:20 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,It sounds like you're looking to send a text from the virtual number you're planning to purchase. Could you please clarify which company number you want to send a text to? This will help me provide more specific information about the verification process.
+system,,2026-01-07 18:23:22 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:23:53 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,microworkers
+im,TYPE_TEXT,2026-01-07 18:23:54 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,Hello! It sounds like you're interested in using a virtual number for sending a text to a company for verification. Could you please provide me with more details about the specific service or company you're trying to reach? This will help me assist you better!
+system,,2026-01-07 18:23:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:24:28 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,microworkers company
+im,TYPE_TEXT,2026-01-07 18:24:28 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"Hello! It sounds like you're interested in using a virtual number to send a text to Microworkers for verification. Just to clarify, could you let me know if you already have a virtual number purchased, or are you still in the process of selecting one? This will help me provide you with the most relevant information!"
+system,,2026-01-07 18:24:31 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:25:31 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,no still i dont purchase any
+im,TYPE_TEXT,2026-01-07 18:25:31 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"It sounds like you're looking to send a text message from a virtual number to Microworkers for verification. Just to clarify, are you asking if you can send a text from the virtual number once you purchase it, or do you need information on how to purchase the virtual number itself?"
+system,,2026-01-07 18:25:35 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-07 18:25:52 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,yes
+im,TYPE_TEXT,2026-01-07 18:25:52 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,"Hello! It sounds like you're interested in using a virtual number to send a text for verification with Microworkers. Just to clarify, are you asking if you can send a text from the virtual number once you purchase it? If so, yes, typically you can send texts from a virtual number, but it may depend on the specific service provider's features. 
+
+If you have any more questions or need further details, feel free to ask!"
+system,,2026-01-07 18:25:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,op.update-im-history
+system,,2026-01-07 18:26:37 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,faruki mussaa,"=""""",,0,room.leave
+system,,2026-01-07 18:26:37 (UTC+00:00),faruki mussaa,"=""""",WxlwFGLk.bFpemuo1-M82.287d.05000000.OxOtSkTPQlFBXLbu,faruki mussaa,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,General Information,2026-01-07 18:18:16 (UTC+00:00),"Songea, TZ",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+faruki,mussaa,farouqmussa123@gmail.com,"=""+255788989818"""

@@ -1,0 +1,78 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-28 15:04:42 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sayyed Mushfik,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-28 15:04:42 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sayyed Mushfik,"=""""",,0,
+im,TYPE_ADVANCED,2025-11-28 15:04:42 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sayyed Mushfik,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2025-11-28 15:04:42 (UTC+00:00),Sayyed Mushfik,"=""""",70434743-7f72-462f-9117-5e1b7fbb53d3@prod-hk-02@1001,Sayyed Mushfik,"=""""",,0,room.pci-disclaimer
+system,,2025-11-28 15:04:43 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,room.join
+im,TYPE_TEXT,2025-11-28 15:04:57 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,Hello.
+im,TYPE_TEXT,2025-11-28 15:04:57 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,"Hello! It's great to chat with you. How can I assist you today? If you have any specific questions or topics in mind, feel free to share!"
+system,,2025-11-28 15:05:00 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-28 15:05:30 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"yes, can you please confirm if your company deals in VoIP services too ?"
+im,TYPE_TEXT,2025-11-28 15:05:30 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,"I'm glad you reached out! However, I don't have information about my company's specific services, including whether we deal in VoIP services. If you could provide me with the name of the company or any additional context, I might be able to help you better!"
+system,,2025-11-28 15:05:37 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-28 15:06:14 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,M800 is your company right ?
+im,TYPE_TEXT,2025-11-28 15:06:14 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,"Yes, that's correct! We are M800, and we specialize in various communication solutions, including VoIP services. Our offerings encompass a range of features designed to enhance connectivity for businesses and individuals alike. If you have any specific questions about our VoIP services or any other offerings, feel free to ask!"
+system,,2025-11-28 15:06:18 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-28 15:06:47 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,do you buy & sell routes for VoIP termination?
+im,TYPE_TEXT,2025-11-28 15:06:47 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,"Hello! Yes, M800 is indeed the name of our company. We do offer VoIP services, including buying and selling routes for VoIP termination. This allows us to provide reliable and cost-effective communication solutions for our clients. If you have any specific questions about our services or need more details, feel free to ask!"
+system,,2025-11-28 15:06:51 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-28 15:07:32 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,what you offer in your VoIP services can you elaborate ?
+im,TYPE_TEXT,2025-11-28 15:07:32 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,"Hello! Yes, I'd be happy to elaborate on our VoIP services. At M800, we offer a range of VoIP solutions designed to meet the needs of businesses and individuals. Our services include:
+
+1. **VoIP Termination**: We provide high-quality VoIP termination services, allowing you to make calls over the internet to traditional phone networks. This can help reduce costs significantly compared to traditional telephony.
+
+2. **VoIP Origination**: Our origination services enable you to receive calls from traditional phone networks over the internet, ensuring you never miss a call, no matter where you are.
+
+3. **SIP Trunking**: We offer SIP trunking solutions that allow businesses to connect their existing phone systems to the internet, facilitating seamless communication and scalability.
+
+4. **Hosted PBX**: Our hosted PBX services provide a cloud-based phone system that is easy to manage and offers features like call forwarding, voicemail, and conferencing without the need for on-premises equipment.
+
+5. **Mobile VoIP**: We also provide mobile VoIP solutions, allowing users to make calls using their smartphones over Wi-Fi or mobile data, which is great for those on the go.
+
+6. **Call Analytics**: Our platform includes advanced call analytics tools that help businesses track call performance, monitor usage, and optimize communication strategies.
+
+If you have specific needs or questions about any of these services, feel free to ask!"
+system,,2025-11-28 15:07:38 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-28 15:07:56 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,can you connect me with your live agent please
+im,TYPE_TEXT,2025-11-28 15:07:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+system,,2025-11-28 15:08:01 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Sayyed Mushfik,"=""""",,0,room.leave
+system,,2025-11-28 15:08:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",,0,room.join
+system,,2025-11-28 15:08:02 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sayyed Mushfik,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-11-28 15:08:08 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,Hello
+im,TYPE_TEXT,2025-11-28 15:08:12 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Hey sandy, how are you ?"
+im,TYPE_TEXT,2025-11-28 15:08:16 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,very well thank you
+im,TYPE_TEXT,2025-11-28 15:08:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,is there anything I can help you with?
+im,TYPE_TEXT,2025-11-28 15:08:39 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,You want to know about our Voip service right?
+im,TYPE_TEXT,2025-11-28 15:08:54 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"yes, can you please confirm if your company deal in buying & selling of routes for VoIP termination.."
+im,TYPE_TEXT,2025-11-28 15:10:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,"I am not sure if I understand your question correctly. We sell virtual numbers of 160+ countries, and customers can use the numbers to make/recieve calls or SMS"
+im,TYPE_TEXT,2025-11-28 15:11:02 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Okay so your company only offers virtual numbers ?
+im,TYPE_TEXT,2025-11-28 15:11:16 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,yes
+im,TYPE_TEXT,2025-11-28 15:11:57 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,you want to confirm if we have our own routes?
+im,TYPE_TEXT,2025-11-28 15:12:32 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"yes..
+or do you deal in reselling of the routes ?"
+im,TYPE_TEXT,2025-11-28 15:13:00 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,"Just a moment please, let me consult our technical team"
+im,TYPE_TEXT,2025-11-28 15:13:17 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Sure.
+im,TYPE_TEXT,2025-11-28 15:15:56 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,the responsible team is in a meeting I will get back to you the soonest possible
+im,TYPE_TEXT,2025-11-28 15:20:52 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Okay, so should wait here?"
+im,TYPE_TEXT,2025-11-28 15:21:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,I will drop an email to mushfik@teloz.com
+im,TYPE_TEXT,2025-11-28 15:21:14 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,if you don't mind
+im,TYPE_TEXT,2025-11-28 15:23:29 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Okay sure..
+or you can whatsapp me as I am mostly available there.."
+im,TYPE_TEXT,2025-11-28 15:27:11 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,no problem
+im,TYPE_TEXT,2025-11-28 15:27:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,thanks for your patience
+im,TYPE_TEXT,2025-11-28 15:39:10 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Okay.
+im,TYPE_TEXT,2025-11-28 16:43:14 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,0,"Hi Sayyed, my colleague said that we do this kind of business. I will send an email to you and connect you with the responsible person. You can share your request details via email."
+im,TYPE_TEXT,2025-11-28 19:22:35 (UTC+00:00),Sayyed Mushfik,"=""""",WxlwFGLk.eDFYhMo_LM8w.59d9.05000000.Fib3A_aKjVZLfE9p,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,sure please.
+system,,2026-01-08 11:54:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",,0,room.leave
+system,,2026-01-08 11:54:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Sayyed Mushfik,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,General Information,2025-11-28 15:04:42 (UTC+00:00),IN,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Sayyed,Mushfik,mushfik@teloz.com,N/A

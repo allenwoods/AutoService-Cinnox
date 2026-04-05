@@ -1,0 +1,25 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-02 02:13:12 (UTC+00:00),Andrew Ro,"=""""",WxlwFGLk.dL0vGrBzLBKF.2dc2.05000000.qk_zXuUE9LWJjgDi,Andrew Ro,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-02 02:13:12 (UTC+00:00),Andrew Ro,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andrew Ro,"=""""",,0,
+im,TYPE_ADVANCED,2025-11-02 02:13:12 (UTC+00:00),Andrew Ro,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Andrew Ro,"=""""",,0,"Good day! How can I assist you? Click on the 'Connect with a live agent' button for immediate support. Our team is available Monday to Friday, 9:00 to 18:00 (GMT+8). For assistance outside these hours, please email us at support@cinnox.com. Your satisfaction is our priority!  感謝聯絡 CINNOX！如需即時協助，請點擊 “Find a live agent/尋找線上客服” 以獲得即時支援。我們的團隊在週一至週五的9:00至18:00（GMT+8）提供服務。在非辦公時間，請透過電郵support@cinnox.com聯絡我們，我們將盡快回覆。"
+system,,2025-11-02 02:13:12 (UTC+00:00),Andrew Ro,"=""""",36f530df-1774-4e88-8cf1-bf5bc3e73dc0@prod-hk-02@1001,Andrew Ro,"=""""",,0,room.pci-disclaimer
+system,,2025-11-02 02:13:13 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,room.join
+im,TYPE_TEXT,2025-11-02 02:13:26 (UTC+00:00),Andrew Ro,"=""""",WxlwFGLk.dL0vGrBzLBKF.2dc2.05000000.qk_zXuUE9LWJjgDi,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,email link expired in 30 seconds
+im,TYPE_TEXT,2025-11-02 02:13:26 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,"It sounds like you're experiencing an issue with an email link that expires very quickly! Could you provide more details about the context? For example, what type of email link are you referring to? Is it for a password reset, account verification, or something else? This will help me assist you better!"
+system,,2025-11-02 02:13:30 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-02 02:13:48 (UTC+00:00),Andrew Ro,"=""""",WxlwFGLk.dL0vGrBzLBKF.2dc2.05000000.qk_zXuUE9LWJjgDi,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,i am trying to verify email link
+im,TYPE_TEXT,2025-11-02 02:13:49 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,"It sounds like you're having trouble with an email verification link that expired quickly. Can you tell me which service or website you're trying to verify your email for? That way, I can provide more specific assistance!"
+system,,2025-11-02 02:13:51 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-02 02:13:58 (UTC+00:00),Andrew Ro,"=""""",WxlwFGLk.dL0vGrBzLBKF.2dc2.05000000.qk_zXuUE9LWJjgDi,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,call me
+im,TYPE_TEXT,2025-11-02 02:13:58 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,"It seems like you're having trouble with an expired email verification link. Unfortunately, I can't make calls, but I can help you troubleshoot the issue! Could you let me know which service or platform you're trying to verify your email with? That way, I can provide more specific assistance!"
+system,,2025-11-02 02:14:01 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:23:36 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,room.leave
+system,,2025-12-18 18:23:36 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Andrew Ro,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2025-11-02 02:13:12 (UTC+00:00),"Herndon, US",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Andrew,Ro,aro@aovcapital.com,N/A

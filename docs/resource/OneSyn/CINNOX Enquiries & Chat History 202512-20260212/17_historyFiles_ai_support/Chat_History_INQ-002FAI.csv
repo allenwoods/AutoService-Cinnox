@@ -1,0 +1,57 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-06 14:29:38 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,vrunda babariya,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-06 14:29:39 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,vrunda babariya,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-06 14:29:39 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,vrunda babariya,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-02-06 14:29:39 (UTC+00:00),vrunda babariya,"=""""",18787667-1097-44cc-ac56-152208f5e6eb@prod-hk-02@1001,vrunda babariya,"=""""",,0,room.pci-disclaimer
+system,,2026-02-06 14:29:40 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-06 14:29:47 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"Hello,
+I am evaluating your platform for AI outbound calling.
+Please confirm:
+1) What is the maximum number of concurrent / simultaneous outbound calls supported per plan?
+2) Can this be increased to 100 or more? If yes, which plan tier supports that?
+3) What are the pricing details for higher concurrency?
+Thank you!"
+im,TYPE_TEXT,2026-02-06 14:29:47 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,"Hello! I'm glad you're considering our platform for AI outbound calling. Let me provide you with some details:
+
+1) The maximum number of concurrent outbound calls supported per plan can vary based on the specific plan you choose. Typically, our basic plans support a lower number of concurrent calls, while our higher-tier plans allow for more.
+
+2) Yes, it is possible to increase the number of concurrent calls to 100 or more. This is generally available in our premium or enterprise plan tiers, which are designed for businesses with higher calling needs.
+
+3) As for pricing details for higher concurrency, it also depends on the specific plan you select. Higher-tier plans usually come with a different pricing structure that reflects the increased capabilities. I recommend checking our pricing page or contacting our sales team for the most accurate and up-to-date information.
+
+If you have any more questions or need further clarification, feel free to ask!"
+system,,2026-02-06 14:29:53 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-06 14:30:20 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,what is pricing of your enterprise plan
+im,TYPE_TEXT,2026-02-06 14:30:21 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,"Hello! I’m here to assist you with M800, such as Virtual Numbers, SMS, and AI Voice Agents. How can I help you today?
+
+Regarding your question about the pricing of our enterprise plan, I recommend visiting the **[M800 Pricing page](https://www.m800.com/pricing)** for detailed information on the various plans and their costs. If you have specific needs or require a quote, you can also **[get a quote](https://www.m800.com/get-a-quote)** directly from our website.
+
+If you have any other questions or need further assistance, feel free to ask!"
+system,,2026-02-06 14:30:26 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-06 14:33:05 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,i can't uderstand properly can you give me details here i'm from india
+im,TYPE_TEXT,2026-02-06 14:33:05 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,"Hello! I'd be happy to help clarify the details for you. Since you're asking about the pricing of the enterprise plan, could you please provide more information about what specific features or aspects you're interested in? For example, are you looking for details on the pricing structure, the number of users, or any specific functionalities included in the enterprise plan? Let me know so I can assist you better!"
+system,,2026-02-06 14:33:09 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,op.update-im-history
+system,,2026-02-06 14:33:11 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,vrunda babariya,"=""""",,0,room.leave
+system,,2026-02-06 14:33:11 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,vrunda babariya,"=""""",,0,room.join
+system,,2026-02-06 14:33:12 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,vrunda babariya,"=""""",,0,enquiry.takeover
+im,TYPE_TEXT,2026-02-06 14:33:41 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,0,"Good afternoon, Vrunda 👋 . This is May from M800."
+im,TYPE_TEXT,2026-02-06 14:34:00 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,0,Thanks for your interest in our AI Agent Solution Platform.
+im,TYPE_TEXT,2026-02-06 14:34:52 (UTC+00:00),vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,i want to knnow about concurrennncy limit like at a same timehow much customer handle o outbound call
+im,TYPE_TEXT,2026-02-06 14:38:25 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,0,"Our based for concurrent call = 50 but it can be increased as upon request.
+As for the pricing, this depends on the country of outbound calling."
+im,TYPE_TEXT,2026-02-06 14:39:18 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,vrunda babariya,"=""""",WxlwFGLk.IrDHmVg7GTxw.7c9a.05000000.V7PUOUQydGfxrwWF,0,"Prior to providing you more details, we recommend to provide us your Business Use Case and other details for better engagement.
+
+Kindly fill this form?
+https://www.m800.com/ai-sales-agent-get-a-quote
+
+Thank you very much."
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,General Information,2026-02-06 14:29:38 (UTC+00:00),"Ahmedabad, IN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+vrunda,babariya,vrundababariya31@gmail.com,N/A

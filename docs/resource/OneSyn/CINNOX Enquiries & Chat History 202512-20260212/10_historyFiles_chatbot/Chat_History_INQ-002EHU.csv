@@ -1,0 +1,246 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-17 14:27:53 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,David Poon,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-17 14:27:53 (UTC+00:00),David Poon,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,David Poon,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-17 14:27:53 (UTC+00:00),David Poon,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,David Poon,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-12-17 14:27:53 (UTC+00:00),David Poon,"=""""",560774eb-0d5d-487c-a534-c9b50ad18055@prod-hk-02@1001,David Poon,"=""""",,0,room.pci-disclaimer
+system,,2025-12-17 14:27:55 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-17 14:28:01 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,anyone here?
+im,TYPE_TEXT,2025-12-17 14:28:01 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,"Hello! Yes, I'm here to assist you. How can I help you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2025-12-17 14:28:05 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 14:28:20 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,"i wanna make phone calls with this app, how do I upgrade my plan?"
+im,TYPE_TEXT,2025-12-17 14:28:20 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,"**This is how to Upgrade Your CINNOX Plan for Phone Calls:**
+
+To upgrade your plan in CINNOX and enable phone call features, follow these steps:
+
+1. **Visit the Pricing Page:**
+   - Go to the [CINNOX Pricing](https://www.cinnox.com/pricing) page to review the available plans.
+
+2. **Select Your Desired Plan:**
+   - Choose a plan that includes the phone call features you need. Make sure to check the details for each plan to ensure it meets your requirements.
+
+3. **Sign In to Your Account:**
+   - Log in to your CINNOX account using your credentials.
+
+4. **Navigate to Account Settings:**
+   - Once logged in, go to your account settings or billing section.
+
+5. **Upgrade Your Plan:**
+   - Look for the option to upgrade your plan. Follow the prompts to select the new plan and confirm your choice.
+
+6. **Payment:**
+   - Complete the payment process as instructed. Ensure that your payment information is up to date.
+
+7. **Confirmation:**
+   - After upgrading, you should receive a confirmation email. Check your account to ensure that the new features are activated.
+
+For more detailed information or assistance, you can refer to the [CINNOX Documentation](https://docs.cinnox.com/) or contact our support team.
+
+If you have any further questions or need additional help, feel free to ask!"
+system,,2025-12-17 14:28:30 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 14:29:27 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,can you help me upgrade now?
+im,TYPE_TEXT,2025-12-17 14:29:27 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,"To help you with upgrading your plan, I need to know which app you are referring to. Could you please provide the name of the app you're using?"
+system,,2025-12-17 14:29:30 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 14:29:38 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,cinnox
+im,TYPE_TEXT,2025-12-17 14:29:38 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,"To upgrade your CINNOX plan and start making phone calls, please follow these steps:
+
+1. **Log in to your CINNOX Account**: Go to the CINNOX website and log in with your credentials.
+
+2. **Navigate to the Pricing or Plans Section**: Look for the section that details the different plans available. This is typically found in the main menu or under your account settings.
+
+3. **Select Your Desired Plan**: Review the available plans and select the one that best fits your needs for making phone calls.
+
+4. **Upgrade Your Plan**: Click on the option to upgrade. You may need to confirm your selection and agree to any terms and conditions.
+
+5. **Payment**: Enter your payment information to complete the upgrade process. Ensure that you review the pricing details before finalizing.
+
+6. **Confirmation**: After the payment is processed, you should receive a confirmation email regarding your plan upgrade.
+
+If you need more detailed instructions or assistance, you can refer to the CINNOX documentation or contact our support team.
+
+For further assistance, let me know if you have any specific questions or need help with any step!"
+system,,2025-12-17 14:29:46 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 14:29:58 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,i want to upgrade on the website
+im,TYPE_TEXT,2025-12-17 14:29:58 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,"To upgrade your plan on the CINNOX website, please follow these steps:
+
+1. **Visit the CINNOX Website**: Go to the [CINNOX homepage](https://www.cinnox.com).
+
+2. **Navigate to Pricing**: Look for the ""Pricing"" section in the main menu to view the different plans available.
+
+3. **Select Your Desired Plan**: Review the plans and select the one that best fits your business needs.
+
+4. **Add to Cart**: Click on the option to add the selected plan to your cart.
+
+5. **Proceed to Checkout**: Follow the prompts to proceed to the checkout page.
+
+6. **Enter Payment Information**: Fill in your payment details. Currently, CINNOX accepts Mastercard and Visa.
+
+7. **Confirm Your Upgrade**: Review your order and confirm the upgrade.
+
+8. **Activate Your Plan**: Once your payment is processed, your new plan will be activated.
+
+If you need further assistance or have specific questions about the plans, feel free to ask!
+
+Additionally, you can start with a **14-day free trial** to experience the features of CINNOX without any obligation: [Free Sign-Up](https://servicehub.cinnox.com/free-sign-up?step=email)."
+system,,2025-12-17 14:30:07 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-12-17 14:30:32 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,how to upgrade without submitting that form
+im,TYPE_TEXT,2025-12-17 14:30:32 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0," "
+im,TYPE_TEXT,2025-12-17 14:30:37 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+system,,2025-12-17 14:30:43 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,David Poon,"=""""",,0,room.leave
+system,,2025-12-17 14:30:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,David Poon,"=""""",,0,room.join
+system,,2025-12-17 14:30:43 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,David Poon,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-17 14:30:48 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,hello hello?
+im,TYPE_TEXT,2025-12-17 14:30:52 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,Hi David
+im,TYPE_TEXT,2025-12-17 14:31:00 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I wanna upgrade my plan to make phone calls
+im,TYPE_TEXT,2025-12-17 14:31:17 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,i\m now using the $20usd per staff one
+im,TYPE_TEXT,2025-12-17 14:31:25 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,how do I upgrade now?
+im,TYPE_TEXT,2025-12-17 14:32:12 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"Hi sandy, you there?"
+im,TYPE_TEXT,2025-12-17 14:32:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,I will add your account manager Gina here to help you with this
+im,TYPE_TEXT,2025-12-17 14:32:46 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,Just a moment please
+im,TYPE_TEXT,2025-12-17 14:32:52 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,sure
+system,,2025-12-17 14:33:36 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,David Poon,"=""""",,0,room.leave
+system,,2025-12-17 14:33:52 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",,0,room.join
+system,,2025-12-17 14:33:52 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,David Poon,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2025-12-17 14:34:05 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Hi, I am Gina."
+im,TYPE_TEXT,2025-12-17 14:34:30 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"hi there, can you read thru the chat history, or I need to retype my problem again?"
+im,TYPE_TEXT,2025-12-17 14:34:39 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"You want to upgrade your current plan, right?"
+im,TYPE_TEXT,2025-12-17 14:34:42 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,yesss
+im,TYPE_TEXT,2025-12-17 14:34:47 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i wanna make phone calls
+im,TYPE_TEXT,2025-12-17 14:34:59 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"no need, I can see your chat history"
+im,TYPE_TEXT,2025-12-17 14:35:06 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,thanks
+im,TYPE_TEXT,2025-12-17 14:35:34 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,what is web call btw
+im,TYPE_TEXT,2025-12-17 14:36:29 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"You can make web call with NO cost. Similar to WhatsApp, you can make web call"
+im,TYPE_TEXT,2025-12-17 14:37:05 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i can web call any local number?
+im,TYPE_TEXT,2025-12-17 14:39:30 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"no, web call is not a local number."
+im,TYPE_TEXT,2025-12-17 14:40:00 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"so if I wanna make calls to local number, I need to upgrade my plan?"
+im,TYPE_TEXT,2025-12-17 14:40:08 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"You need to apply a local number, like a HK DID number to make calls to HK or anywhere via telecom channel"
+im,TYPE_TEXT,2025-12-17 14:40:31 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"yes, your current Digital Commerce plan can only allow web call only."
+im,TYPE_TEXT,2025-12-17 14:40:47 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,No capability to add-on a local DID number to make calls
+im,TYPE_TEXT,2025-12-17 14:41:09 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"So, you need to upgrade your current plan from Digital Commerce to Omnichannel Contact Centre plan"
+im,TYPE_TEXT,2025-12-17 14:41:19 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,for making calls right?
+im,TYPE_TEXT,2025-12-17 14:41:53 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"but Ive already paid the digital commercer plan, can I add on for the upgrade?"""
+im,TYPE_TEXT,2025-12-17 14:42:18 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"after I upgraded, do I still need any HK DID Number for making calls?"
+im,TYPE_TEXT,2025-12-17 14:42:34 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,https://www.cinnox.com/pricing
+im,TYPE_FILE,2025-12-17 14:42:35 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,
+im,TYPE_TEXT,2025-12-17 14:43:07 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"yes, i know the price, i;m on that page too"
+im,TYPE_TEXT,2025-12-17 14:43:37 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,You need to upgrade your current plan from US$20/license to min 5x US$50/license + Virtual Number (e.g. HK DID number at US$25/number/month)
+im,TYPE_TEXT,2025-12-17 14:44:07 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"after I upgraded, still need HK DID number?"
+im,TYPE_TEXT,2025-12-17 14:44:43 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Yes,  you need to have a Virtual Number (acts as a caller ID) to make a phone call"
+im,TYPE_TEXT,2025-12-17 14:45:03 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"icic, okok"
+im,TYPE_TEXT,2025-12-17 14:46:10 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,Do you locate in HK? Your phone number is 7071 0263.
+im,TYPE_TEXT,2025-12-17 14:47:40 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,yes
+im,TYPE_TEXT,2025-12-17 14:49:35 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"but i\ve just made a purchase of the $20 per staff plan, is it possible to just add on"
+im,TYPE_TEXT,2025-12-17 14:49:39 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,its like double charge
+im,TYPE_TEXT,2025-12-17 14:50:05 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"if I knew that the basic plan could not make phone calls, I would have had subscribed the upgraded version\"
+im,TYPE_TEXT,2025-12-17 14:50:19 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,US$20/staff license is a digital commerce plan which cannot support add-on Virtual Number to make any telecom call.
+im,TYPE_TEXT,2025-12-17 14:51:07 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"i know, thats why i'm asking for an upgrade"
+im,TYPE_TEXT,2025-12-17 14:52:06 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,is it possible that I can add the difference for my plan?
+im,TYPE_TEXT,2025-12-17 14:52:36 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,As I said that you need to upgrade to Omnichannel Contact Centre plan at 5 x US$50/mth + HK Virtual Number at US$25/mth = **US$275/mth x 12 months (annual prepayment)**
+im,TYPE_TEXT,2025-12-17 14:54:01 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Well, I can assist you for the payment of difference. We can issue a prepayment invoice with a cost difference for your payment. Once you can settle the prepayment, your account can be upgraded into Omnichannel Contact Centre plan + HK DID number automatically."
+im,TYPE_TEXT,2025-12-17 14:55:34 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,can i use it like monthly?
+im,TYPE_TEXT,2025-12-17 14:55:42 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Since you are paying US$87/mth (3x license), you can pay the difference of US$275/mth x 12 mths - US$87"
+im,TYPE_TEXT,2025-12-17 14:55:43 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i would like to use it for a month first
+im,TYPE_TEXT,2025-12-17 14:56:52 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,No problem. You can upgrade to MONTHLY plan of Omnichannel Contact Center plan at US$59 x 5 license per month + HK DID number at US$25 per month (min 3 months prepayment)
+im,TYPE_FILE,2025-12-17 14:57:51 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,
+im,TYPE_TEXT,2025-12-17 14:58:10 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,which means I have to pay three months fee at once?
+im,TYPE_TEXT,2025-12-17 14:58:20 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,even if I may just use it for a month?
+im,TYPE_TEXT,2025-12-17 14:58:21 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,yes...min 3 months
+im,TYPE_TEXT,2025-12-17 14:58:44 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"prepay 3 months, and then pay monthly"
+im,TYPE_TEXT,2025-12-17 14:59:11 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"if I just use it for month and then terminate the subscription, will I get refund?"
+im,TYPE_TEXT,2025-12-17 14:59:37 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,NO refund...min 3 months
+im,TYPE_TEXT,2025-12-17 14:59:55 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,The Virtual Number should be subscribed min 3 months
+im,TYPE_TEXT,2025-12-17 15:00:47 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"well. i could use it for three months actually, not a big problem"
+im,TYPE_TEXT,2025-12-17 15:00:54 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i have to pay anyways
+im,TYPE_TEXT,2025-12-17 15:01:20 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,so how much i should be paying?
+im,TYPE_TEXT,2025-12-17 15:04:10 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"just wanna clarify, with the current  plan, I can only for example, call my girlfriend thru web call to her whatsapp number?"
+im,TYPE_TEXT,2025-12-17 15:04:40 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"yes, (US$59/license/month x 5 licenses + US$25/number/month (HK DID)) x 3 months = US$960 - supposing your current US$87 = **US$873**. For deducting your paid US$87 (Digital Commerce Plan), I need to double check your current plan and get back to you the arrangement. So, you may take this US$873 as the reference price first."
+im,TYPE_TEXT,2025-12-17 15:04:42 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"but with the upgraded version, I could call her local number using the virtual number, is that the difference?"
+im,TYPE_TEXT,2025-12-17 15:05:41 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"For your current plan of Digital Commerce, you can send over a web call like to your girl friend, then she click this link and talk with you instantly."
+im,TYPE_TEXT,2025-12-17 15:06:17 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,like she will receive the link on her whatsapp account?
+im,TYPE_TEXT,2025-12-17 15:06:27 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,whatsapp message? or SMS?
+im,TYPE_TEXT,2025-12-17 15:06:37 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"But with the upgraded Omnichannel Contact Centre plan, you can make a telecom call with your girl friend's fixed/mobile phone number directly."
+im,TYPE_TEXT,2025-12-17 15:08:11 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,can she call me back thru my virtual no.?
+im,TYPE_TEXT,2025-12-17 15:09:20 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Please note that the link is not related to her whatsapp account. Currently, you can send over a weblink or QR code to your girl friend, she can click this weblink or scan the QR code to connect with you via a web call or web chat."
+im,TYPE_TEXT,2025-12-17 15:09:27 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,yes
+im,TYPE_TEXT,2025-12-17 15:09:54 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,so she can call back and leave voice message too?
+im,TYPE_TEXT,2025-12-17 15:09:57 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,This Virtual Number is a HK local number. She can make a call to you via this number.
+im,TYPE_TEXT,2025-12-17 15:10:07 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,yes
+im,TYPE_TEXT,2025-12-17 15:10:38 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,like a generic phone number to make/receive call
+im,TYPE_TEXT,2025-12-17 15:10:40 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,I will receive the voice message in my cinnox app?
+im,TYPE_TEXT,2025-12-17 15:11:34 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,yes
+im,TYPE_TEXT,2025-12-17 15:11:45 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,can I change my virtual number monthly？
+im,TYPE_TEXT,2025-12-17 15:12:39 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"no, you need to use this number at least 3 months"
+im,TYPE_TEXT,2025-12-17 15:12:58 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,ok
+im,TYPE_TEXT,2025-12-17 15:13:53 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"If you can confirm the upgrade, I can prepare an eQuotation to you for your review, sign-off and prepayment."
+im,TYPE_TEXT,2025-12-17 15:15:11 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,5 LICENCES pair with one virtual no.?
+im,TYPE_TEXT,2025-12-17 15:15:20 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,or separate 5 virtual numbers?
+im,TYPE_TEXT,2025-12-17 15:15:31 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"HK local DID number, right?"
+im,TYPE_TEXT,2025-12-17 15:15:39 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,yes
+im,TYPE_TEXT,2025-12-17 15:16:06 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"OK, you only need 1x HK DID number, right? Or 5 numbers?"
+im,TYPE_TEXT,2025-12-17 15:17:10 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,can I clarify the meaning of 5 LICENCES?
+im,TYPE_TEXT,2025-12-17 15:17:16 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"For Virtual Number subscription, please send over your company business registration copy for the number application."
+im,TYPE_TEXT,2025-12-17 15:17:28 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,5 x user accounts
+im,TYPE_TEXT,2025-12-17 15:17:40 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,and five user accounts using one virtual number?
+im,TYPE_TEXT,2025-12-17 15:18:37 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Yes, you can subscribe 5x user accounts + 1x HK DID number first. If you need more HK DID number, you can apply then. Anyway, 1x number is fine for you to make/receive call first."
+im,TYPE_TEXT,2025-12-17 15:19:06 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,and five users can use one DID number at once?
+im,TYPE_TEXT,2025-12-17 15:19:14 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,or have to wait til the other hung up?
+im,TYPE_TEXT,2025-12-17 15:20:10 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,yes
+im,TYPE_TEXT,2025-12-17 15:20:17 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,No need to wait
+im,TYPE_TEXT,2025-12-17 15:20:36 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,5x users can use 1 number simultaneously
+im,TYPE_TEXT,2025-12-17 15:20:55 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"what if the customer call back at at once, it would be confusing"
+im,TYPE_TEXT,2025-12-17 15:21:07 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,?
+im,TYPE_TEXT,2025-12-17 15:22:12 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"No, it may jump to voice mail"
+im,TYPE_TEXT,2025-12-17 15:23:09 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,will the system help me to categorize these voice message belongs to which user?
+im,TYPE_TEXT,2025-12-17 15:24:04 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"yes, there is a clear indication who handle the call. No worry."
+im,TYPE_TEXT,2025-12-17 15:24:11 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,good!
+im,TYPE_TEXT,2025-12-17 15:24:26 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"if the customer call back, i can also pick up right?"
+im,TYPE_TEXT,2025-12-17 15:24:36 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,as long as not two customers calling back at the same time
+im,TYPE_TEXT,2025-12-17 15:24:45 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Since I will be engaged in a customer meeting, I need to leave for a while and get back to you later."
+im,TYPE_TEXT,2025-12-17 15:24:53 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,yes
+im,TYPE_TEXT,2025-12-17 15:25:09 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"sure, thanks for your help"
+im,TYPE_TEXT,2025-12-17 15:25:34 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,or you can contact me via WhatsApp  (+852) 9150 5088 anytime.
+im,TYPE_TEXT,2025-12-17 15:26:26 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Otherwise, I may call you later via your provided mobile phone if you can accept call. Or you need to keep online using this room for the chat continuously. Anyway, I need to leave for a while first. Thanks for your enquiry."
+im,TYPE_TEXT,2025-12-17 15:29:56 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",,0,"As per request, you can send over your company Business Registration copy to me first"
+im,TYPE_TEXT,2026-01-23 16:53:37 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Hi Gina?
+im,TYPE_TEXT,2026-01-23 16:54:14 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Hi David, how are you?"
+im,TYPE_TEXT,2026-01-23 16:54:28 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,I would like to cancel the subscription from my account
+im,TYPE_TEXT,2026-01-23 16:54:48 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,I think I already cancelled last month
+im,TYPE_TEXT,2026-01-23 16:55:01 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,now it auto-subscribed one more month
+im,TYPE_TEXT,2026-01-23 17:01:08 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"You should terminate your service in your account. Otherwise, the numbers had been effective already. Can you terminate your account now?"
+im,TYPE_TEXT,2026-01-23 17:04:36 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i just logged in and cancelled again.  can you double check if the auto charge is cancelled?
+im,TYPE_TEXT,2026-01-23 17:07:51 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Let me check, BTW, may I know why you need to terminate the service? You don't satify with CINNOX service. Our service cannot meet your requirement. Any issue?"
+im,TYPE_TEXT,2026-01-23 17:08:11 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,pricy
+im,TYPE_TEXT,2026-01-23 17:08:43 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,Really? How many licenses do you need to have?
+im,TYPE_TEXT,2026-01-23 17:09:21 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,Or you just need 1x user license for your use?
+im,TYPE_TEXT,2026-01-23 17:10:12 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"So, your subscribed number service fitted your need, right?"
+im,TYPE_TEXT,2026-01-23 17:15:36 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"its alrite, i just wanna cancel the auto charge, is it done?"
+im,TYPE_TEXT,2026-01-23 17:17:59 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Please wait, just confirmed the suspenion of auto renewal."
+im,TYPE_FILE,2026-01-23 17:17:59 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,
+im,TYPE_TEXT,2026-01-23 17:18:46 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"NO worry. If you still interest in our service, I can assist you and review the cost for you."
+im,TYPE_TEXT,2026-01-23 17:52:35 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,thank you so much
+im,TYPE_TEXT,2026-01-28 11:51:08 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"Hi Gina, this is David again"
+im,TYPE_TEXT,2026-01-28 11:52:16 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,"can you make sure if the account is cancelled successfully? Also, since I wanted to cancel the auto charge during the first month I use this account, can I apply for a refund for the auto charge?"
+im,TYPE_TEXT,2026-01-28 12:40:11 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Hello?
+im,TYPE_TEXT,2026-01-28 12:44:11 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,You can use this CINNOX account but no auto renew only.
+im,TYPE_TEXT,2026-01-28 12:44:58 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"You just want to cancel the auto charge, right?"
+im,TYPE_TEXT,2026-01-28 12:45:38 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"So, no refund"
+im,TYPE_TEXT,2026-01-28 12:45:42 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,i want to cancel and ask for the recent auto charge be refunded
+im,TYPE_TEXT,2026-01-28 12:45:55 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,cancel the auto charge is for not charging me next month.
+im,TYPE_TEXT,2026-01-28 12:46:05 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,Refund is for the auto-charge of the current period
+im,TYPE_TEXT,2026-01-28 12:46:15 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,I have not used the account at all
+im,TYPE_TEXT,2026-01-28 12:46:20 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"So, please clarify you want to terminate the service or just cancel the auto charge?"
+im,TYPE_TEXT,2026-01-28 12:46:38 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,completely terminate the service
+im,TYPE_TEXT,2026-01-28 12:47:13 (UTC+00:00),David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,0,and refund the recently charged bill
+im,TYPE_TEXT,2026-01-28 12:51:16 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,David Poon,"=""""",WxlwFGLk.nXg4sC_DgVUo.1d03.05000000.RKPUTcK7MLOnAC9g,0,"Your current CINNOX service will be suspended on next bill cycle (already cancel the auto charge on 17 Feb 26). While you still can use your current CINNOX account indeed. Or else you want to terminate your current CINNOX service now with an official email request. But anyway, there is no refund can be arranged."
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2025-12-17 14:27:53 (UTC+00:00),"Central, HK",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+David,Poon,christybb1030@gmail.com,"=""+85270710263"""

@@ -1,0 +1,46 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-17 17:07:21 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-17 17:07:21 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-01-17 17:07:21 (UTC+00:00)," customer","=""""",978c6262-1cb8-42f5-9b4b-be00fe21b892@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2026-01-17 17:07:33 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-01-17 17:07:40 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我要怎么增加员工账号
+im,TYPE_TEXT,2026-01-17 17:07:54 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,？
+system,,2026-01-17 17:08:19 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-01-17 17:08:26 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,稍等我截圖給您
+im,TYPE_TEXT,2026-01-17 17:09:25 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我需要付费开通？
+im,TYPE_FILE,2026-01-17 17:09:27 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,
+im,TYPE_TEXT,2026-01-17 17:09:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,您要開通什麼功能呢
+im,TYPE_TEXT,2026-01-17 17:09:42 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,提示我联系销售
+im,TYPE_TEXT,2026-01-17 17:09:59 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,你要使用什麼功能時出現這個訊息？
+im,TYPE_TEXT,2026-01-17 17:10:06 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我需要增加20个账号作为客服
+im,TYPE_TEXT,2026-01-17 17:10:57 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,当我点击窗口账号时候提示
+im,TYPE_TEXT,2026-01-17 17:11:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,這個頁面的右上角，您有幾個座席？超過這個數量的需要人工增加
+im,TYPE_TEXT,2026-01-17 17:12:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,您可以提供CINNOX域名嗎？格式像是這樣XXXXX.cinnox.com
+im,TYPE_TEXT,2026-01-17 17:12:36 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,adm@chlesdafood.com
+im,TYPE_TEXT,2026-01-17 17:12:46 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我要联系谁开通
+im,TYPE_TEXT,2026-01-17 17:12:54 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,稍等 我看下
+im,TYPE_TEXT,2026-01-17 17:13:01 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我目前没有坐席
+im,TYPE_TEXT,2026-01-17 17:13:10 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,我现在要开通
+im,TYPE_TEXT,2026-01-17 17:14:56 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,？
+im,TYPE_TEXT,2026-01-17 17:15:06 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,請稍等
+im,TYPE_TEXT,2026-01-17 17:18:13 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,我會請負責貴司的銷售Gina與您聯繫，由於CINNOX是訂閱制，您增加坐席就會增加費用，這需要先讓您知道
+im,TYPE_TEXT,2026-01-17 17:18:34 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,什么时候联系我
+im,TYPE_TEXT,2026-01-17 17:20:35 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,營運團隊週一上班，當天確定需要增加的座席與功能，當天就能開通
+im,TYPE_TEXT,2026-01-17 17:21:20 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,您目前的方案是線上購買號碼的特殊方案，我會建議您與Gina討論後選擇最適合您的方案
+im,TYPE_TEXT,2026-01-17 17:21:22 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,确定
+im,TYPE_TEXT,2026-01-17 17:22:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,當然如果您維持目前的方案也可以，只是不見得最合算
+im,TYPE_TEXT,2026-01-17 17:25:42 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,請問您是Key Soon CHOI嗎？我請Gina週一電話您確認，她馬上可以提供合約給您
+im,TYPE_TEXT,2026-01-17 17:34:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,目前已與Gina告知您的需求，週一她會與您聯繫，謝謝您的等待
+im,TYPE_TEXT,2026-01-17 17:36:44 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,邮箱联系我
+im,TYPE_TEXT,2026-01-17 17:36:51 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3,0,好的
+system,,2026-01-17 19:37:13 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.leave
+system,,2026-01-17 19:41:46 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.leave
+system,,2026-01-17 19:41:46 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-17 17:07:21 (UTC+00:00),HK,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

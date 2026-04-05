@@ -1,0 +1,119 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-11 11:28:22 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,冰 徐,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-11 11:28:22 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,冰 徐,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-11 11:28:22 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,冰 徐,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2026-02-11 11:28:22 (UTC+00:00),冰 徐,"=""""",ccaff228-3298-41c6-a067-e04312af73eb@prod-hk-02@1001,冰 徐,"=""""",,0,room.pci-disclaimer
+system,,2026-02-11 11:28:24 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-11 11:28:53 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,是否有普通话销售人员可以电话沟通。
+im,TYPE_TEXT,2026-02-11 11:28:53 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,抱歉，我不确定是否有普通话销售人员可以进行电话沟通。您能否提供更多信息，例如您需要联系的具体产品或服务？这样我可能能更好地帮助您！
+system,,2026-02-11 11:28:56 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 11:29:01 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,关于香港did号码
+im,TYPE_TEXT,2026-02-11 11:29:01 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,抱歉，我不太清楚关于香港did号码的具体信息。您能否提供更多的背景或具体问题，以便我更好地帮助您呢？
+system,,2026-02-11 11:29:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 11:29:15 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,虚拟号码
+im,TYPE_TEXT,2026-02-11 11:29:15 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,"您好！关于虚拟号码，我可以为您提供一些信息。
+
+### 虚拟号码的功能和优势
+虚拟号码是为国际业务设计的，提供多种功能，包括：
+- 接收电话
+- 拨打电话
+- 发送短信（仅限于香港、泰国、英国和美国的号码）
+- 将来电转接到任何电话号码
+- 语音信箱支持
+- 通话录音和转录
+- ACD路由
+
+### 费用信息
+关于虚拟号码的费用，以下是一些示例：
+- **美国**：从固定电话拨打的每分钟费用为 $0.024
+- **英国**：从固定电话拨打的每分钟费用为 $0.070
+- **中国**：从固定电话拨打的每分钟费用为 $0.141
+
+具体的费用信息可以参考我们的定价页面：[价格信息](https://www.m800.com/pricing)。
+
+### 如何购买虚拟号码
+您可以通过以下步骤在线购买虚拟号码：
+1. 访问我们的 [购买虚拟号码](https://servicehub.cinnox.com/buy-virtual-number) 页面。
+2. 选择您的国家和号码类型。
+3. 设置您的来电转接偏好。
+4. 填写表格并提交您的商业信息以进行验证。
+5. 激活您的账户。
+6. 使用信用卡在线支付。
+
+如需更多详细信息，请查看我们的在线帮助中心：[CINNOX 文档](https://docs.cinnox.com/docs/manage-virtual-numbers)。
+
+如果您有其他问题或需要进一步的帮助，请告诉我！"
+system,,2026-02-11 11:29:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 11:29:27 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,购买虚拟号码
+im,TYPE_TEXT,2026-02-11 11:29:27 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,"要购买虚拟号码，请按照以下步骤操作：
+
+1. **访问购买页面**：
+   - 前往我们的 [购买虚拟号码](https://servicehub.cinnox.com/buy-virtual-number) 页面。
+
+2. **选择国家和号码类型**：
+   - 从下拉菜单中选择您希望购买虚拟号码的国家和号码类型。
+
+3. **设置呼叫转接偏好**：
+   - 选择您希望将来电转接到的电话号码。
+
+4. **填写表单**：
+   - 填写所需的表单，提交您的商业信息以进行验证。
+
+5. **激活账户**：
+   - 完成验证后，激活您的账户。
+
+6. **在线支付**：
+   - 使用信用卡在线支付。
+
+您可以观看此 [购买号码的YouTube视频](https://www.youtube.com/watch?v=joObIo8FfQY) 以获取更多详细信息。
+
+如需进一步了解虚拟号码的费用和使用率，请访问 [CINNOX定价](https://www.m800.com/pricing)。
+
+如果您有其他问题或需要更多帮助，请随时告诉我！"
+system,,2026-02-11 11:29:34 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 11:29:39 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,人工服务
+im,TYPE_TEXT,2026-02-11 11:29:39 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,您好！关于人工服务，您是想了解有关什么方面的信息呢？比如说，您需要与销售人员沟通的具体内容，或者是有关虚拟号码的服务？请提供更多细节，我会尽力帮助您！
+system,,2026-02-11 11:29:42 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,op.update-im-history
+system,,2026-02-11 11:30:01 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,冰 徐,"=""""",,0,room.leave
+system,,2026-02-11 11:30:02 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,冰 徐,"=""""",,0,room.join
+system,,2026-02-11 11:30:02 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,冰 徐,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-11 11:30:10 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,您好～請問有什麼可以協助的嗎
+im,TYPE_TEXT,2026-02-11 11:30:33 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我的公司想购买香港的虚拟号码
+im,TYPE_TEXT,2026-02-11 11:30:42 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,想了解一下价格和条件
+im,TYPE_TEXT,2026-02-11 11:31:35 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,中国大陆的公司。大概需要20个号码。 如何使用。 如何定价。需求是在中国大陆拨打/接听中国、香港、澳门。 发送/接收短信。
+im,TYPE_TEXT,2026-02-11 11:32:06 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,由於您的需求較大，我請銷售與您對接
+system,,2026-02-11 11:32:14 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-11 11:32:19 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,好的
+im,TYPE_TEXT,2026-02-11 11:33:42 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,徐总，您好。
+im,TYPE_TEXT,2026-02-11 11:34:02 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,你好
+im,TYPE_TEXT,2026-02-11 11:34:20 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,中国大陆的公司。大概需要20个号码。 如何使用。 如何定价。需求是在中国大陆拨打/接听中国、香港、澳门。 发送/接收短信。
+im,TYPE_TEXT,2026-02-11 11:34:35 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,您需要20个中国的号码吗？
+im,TYPE_TEXT,2026-02-11 11:35:03 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,中国、香港的都需要。
+im,TYPE_TEXT,2026-02-11 11:35:14 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,是否可以一号多人使用。
+im,TYPE_TEXT,2026-02-11 11:35:29 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,你们是通过app拨打使用还是怎样
+im,TYPE_TEXT,2026-02-11 11:36:35 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,您是否方便电话沟通，我将详细的向您介绍
+im,TYPE_TEXT,2026-02-11 11:36:53 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,18612596624
+im,TYPE_TEXT,2026-02-11 11:37:07 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,如果大陆电话不方便 Google meet也ok
+im,TYPE_TEXT,2026-02-11 11:37:15 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,我现在打给您
+im,TYPE_TEXT,2026-02-11 11:37:18 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ok
+im,TYPE_TEXT,2026-02-11 12:03:00 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,hi
+im,TYPE_TEXT,2026-02-11 12:03:02 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,还在吗～
+im,TYPE_TEXT,2026-02-11 12:03:08 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,在
+im,TYPE_TEXT,2026-02-11 12:03:16 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,https://servicehub.cinnox.com/buy-virtual-number?lang=zh-cn
+im,TYPE_TEXT,2026-02-11 12:03:30 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,我在注册平台时候 显示未找到匹配号码是为什么
+im,TYPE_TEXT,2026-02-11 12:04:01 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,加一下微信吧
+im,TYPE_TEXT,2026-02-11 12:04:47 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,晚点微信沟通
+im,TYPE_TEXT,2026-02-11 12:04:51 (UTC+00:00),Liu XiaoFeng,"=""""",WxlwFGLk.uwN9bv0eB3SM.9a63.05000000.GrTnZYS29Z1I0-vi,冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,0,已经添加微信
+im,TYPE_TEXT,2026-02-11 12:05:44 (UTC+00:00),冰 徐,"=""""",WxlwFGLk.srpEacwy_9NM.ebbc.05000000.52WpRGgHBMB5LrmA,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,ok 晚些联系
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2026-02-11 11:28:22 (UTC+00:00),"Hangzhou, CN",Chinese (Traditional)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+冰,徐,anlonely.rain@gmail.com,"=""+8618612596624"""

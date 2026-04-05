@@ -1,0 +1,35 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-10 15:22:20 (UTC+00:00),yang robin,"=""""",WxlwFGLk.xWsPNY2Ye-rB.50b4.05000000.VI4A1go8LD3DpSJ8,yang robin,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-10 15:22:20 (UTC+00:00),yang robin,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,yang robin,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-10 15:22:20 (UTC+00:00),yang robin,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,yang robin,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Customer Service Assistant. 
+
+At CINNOX, we’re on a mission to tackle business uncertainty via high-dimensional information. 
+
+I’m looking forward to serving you!"
+system,,2026-01-10 15:22:20 (UTC+00:00),yang robin,"=""""",c040bb06-367c-4758-859d-b61da92ccfeb@prod-hk-02@1001,yang robin,"=""""",,0,room.pci-disclaimer
+system,,2026-01-10 15:22:22 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-10 15:22:25 (UTC+00:00),yang robin,"=""""",WxlwFGLk.xWsPNY2Ye-rB.50b4.05000000.VI4A1go8LD3DpSJ8,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,你好
+im,TYPE_TEXT,2026-01-10 15:22:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,你好！很高兴见到你！有什么我可以帮助你的吗？
+system,,2026-01-10 15:22:28 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-10 15:22:29 (UTC+00:00),yang robin,"=""""",WxlwFGLk.xWsPNY2Ye-rB.50b4.05000000.VI4A1go8LD3DpSJ8,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,支持稳重吗？
+im,TYPE_TEXT,2026-01-10 15:22:29 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,你好！关于“支持稳重”，你是指在什么方面的支持呢？比如情感支持、决策支持，还是其他方面？请提供更多信息，这样我可以更好地帮助你！
+system,,2026-01-10 15:22:32 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-10 15:22:32 (UTC+00:00),yang robin,"=""""",WxlwFGLk.xWsPNY2Ye-rB.50b4.05000000.VI4A1go8LD3DpSJ8,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,中文
+im,TYPE_TEXT,2026-01-10 15:22:32 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,你好！我很高兴和你聊天。关于“稳重”，你是指在什么方面的稳重呢？比如情绪、决策还是其他方面？请告诉我更多细节，这样我可以更好地帮助你！
+system,,2026-01-10 15:22:35 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-10 15:23:04 (UTC+00:00),yang robin,"=""""",WxlwFGLk.xWsPNY2Ye-rB.50b4.05000000.VI4A1go8LD3DpSJ8,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,您的虚拟手机号可以用于中国大陆的各种APP用来接收验证码短信吗？
+im,TYPE_TEXT,2026-01-10 15:23:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,抱歉，我不清楚我的虚拟手机号是否可以用于中国大陆的各种APP接收验证码短信。不同的APP可能有不同的政策和要求。如果您有特定的APP想要了解，可以告诉我，我会尽量提供相关信息！
+system,,2026-01-10 15:23:07 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-10 15:23:49 (UTC+00:00),yang robin,"=""""",WxlwFGLk.xWsPNY2Ye-rB.50b4.05000000.VI4A1go8LD3DpSJ8,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,比如说东郊到家APP
+im,TYPE_TEXT,2026-01-10 15:23:49 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,您好！关于您的问题，您是想知道我的虚拟手机号是否可以用于接收东郊到家APP的验证码短信吗？如果是这样，我需要告诉您，我并不具备提供虚拟手机号的功能，因此无法确认是否可以用于特定的APP。您可以尝试使用您自己的手机号注册，通常这样会更顺利。还有其他我可以帮助您的吗？
+system,,2026-01-10 15:23:53 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,op.update-im-history
+system,,2026-01-12 18:24:34 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,room.leave
+system,,2026-01-12 18:24:34 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,yang robin,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Service,2026-01-10 15:22:20 (UTC+00:00),"Singapore, SG",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+yang,robin,7286074@qq.com,"=""+8613116190817"""

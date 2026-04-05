@@ -1,0 +1,64 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-04 11:01:48 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,elsa shaw,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-04 11:01:48 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,elsa shaw,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-04 11:01:48 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,elsa shaw,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2026-02-04 11:01:48 (UTC+00:00),elsa shaw,"=""""",0d2e5b83-8588-4440-90fb-1d24ea5b4fb1@prod-hk-02@1001,elsa shaw,"=""""",,0,room.pci-disclaimer
+system,,2026-02-04 11:01:49 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-04 11:02:14 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,hello
+im,TYPE_TEXT,2026-02-04 11:02:14 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,"Hello! It's great to see you here! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2026-02-04 11:02:17 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-04 11:02:52 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want to buy a virtual number in Thailand to receive text messages.
+im,TYPE_TEXT,2026-02-04 11:02:52 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,"That's great! To help you better, could you please let me know if you're looking for a specific type of virtual number, such as a personal or business number? Additionally, do you have any preferences for the service provider or features you'd like the number to have?"
+system,,2026-02-04 11:02:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,op.update-im-history
+im,TYPE_FILE,2026-02-04 11:03:36 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,
+im,TYPE_TEXT,2026-02-04 11:04:04 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"However, it shows that no matching number was found."
+im,TYPE_TEXT,2026-02-04 11:04:04 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,"It sounds like you're having trouble finding a virtual number in Thailand. Could you let me know which service or platform you are using to search for the virtual number? That way, I can provide more specific assistance!"
+system,,2026-02-04 11:04:07 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,op.update-im-history
+im,TYPE_FILE,2026-02-04 11:05:52 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,
+im,TYPE_TEXT,2026-02-04 11:06:34 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want to buy a local Thai number (+66) to receive text messages.
+im,TYPE_TEXT,2026-02-04 11:06:35 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,"It sounds like you're looking for a local Thai virtual number to receive text messages. Can you tell me which service or provider you are trying to use to purchase this number? That way, I can provide more specific assistance!"
+system,,2026-02-04 11:06:38 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-04 11:07:07 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I need human customer service.
+im,TYPE_TEXT,2026-02-04 11:07:07 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+system,,2026-02-04 11:07:16 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,elsa shaw,"=""""",,0,room.leave
+system,,2026-02-04 11:07:16 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",,0,room.join
+system,,2026-02-04 11:07:16 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,elsa shaw,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-04 11:07:24 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,hello
+im,TYPE_TEXT,2026-02-04 11:07:26 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"Hi Elsa, how may I help you?"
+im,TYPE_TEXT,2026-02-04 11:07:36 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I want to buy a local Thai number (+66) to receive text messages.
+im,TYPE_FILE,2026-02-04 11:07:47 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-04 11:07:55 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"However, it shows that no matching number was found."
+im,TYPE_TEXT,2026-02-04 11:08:07 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,currently we only have Hong Kong number to receive SMS from other countries
+im,TYPE_TEXT,2026-02-04 11:08:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,unfortunately we don't have a Thai number
+im,TYPE_TEXT,2026-02-04 11:08:43 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,We offer virtual number and it's slightly different from mobile sim card
+im,TYPE_TEXT,2026-02-04 11:09:13 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Do you have virtual numbers from Thailand?
+im,TYPE_TEXT,2026-02-04 11:09:39 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Can it be used to register for Shopee?
+im,TYPE_TEXT,2026-02-04 11:09:52 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"yes, DID number can be used for outbound and inbound call."
+im,TYPE_TEXT,2026-02-04 11:10:24 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"is there any verificaiton process for shopee? if it's call verification, then yes"
+im,TYPE_TEXT,2026-02-04 11:10:55 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Shopee has an SMS verification step.
+im,TYPE_TEXT,2026-02-04 11:11:06 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,then cannot use Thai number.
+im,TYPE_TEXT,2026-02-04 11:11:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,our Thai virtual number cannot support SMS verificaiton
+im,TYPE_TEXT,2026-02-04 11:11:59 (UTC+00:00),elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Can it only accept incoming and outgoing phone calls?
+im,TYPE_TEXT,2026-02-04 11:12:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"yes, can only recieve calls or make calls"
+im,TYPE_TEXT,2026-02-04 11:12:57 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"by the way, for the region field, you need to fill in the country of the number you request for"
+im,TYPE_TEXT,2026-02-04 11:27:22 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"If you'd like to purchase the number, please complete the application and we will review in 2 working days."
+im,TYPE_TEXT,2026-02-04 11:45:31 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"(Private) Good morning, Sandy.
+
+As we confirmed with Brian before.
+we have Thai Virtual Numbers that can send and receive SMS. 🙏"
+im,TYPE_TEXT,2026-02-04 11:46:14 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,(Private) But maybe we need to update our IPP and add Thai Virtual Numbers so the customer can order online.
+im,TYPE_TEXT,2026-02-04 11:46:33 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,(Private) Let me check with Brian
+im,TYPE_TEXT,2026-02-04 11:46:38 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,(Private) thanks
+im,TYPE_TEXT,2026-02-04 11:46:57 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,"(Private) if we have one, then I will send an email to the customer"
+im,TYPE_TEXT,2026-02-04 11:49:18 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,elsa shaw,"=""""",WxlwFGLk.RvrBsWAlJunf.8903.05000000.SCqgjbqJ1J14tn--,0,(Private) Thank you so much
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Sales & Demo,2026-02-04 11:01:48 (UTC+00:00),"Dhaka, BD",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+elsa,shaw,elsa.shaw@aliyun.com,N/A

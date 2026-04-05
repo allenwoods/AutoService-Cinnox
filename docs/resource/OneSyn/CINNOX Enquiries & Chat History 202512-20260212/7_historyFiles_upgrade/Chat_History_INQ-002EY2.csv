@@ -1,0 +1,13 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-17 17:07:12 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-17 17:07:12 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-01-17 17:07:12 (UTC+00:00)," customer","=""""",978c6262-1cb8-42f5-9b4b-be00fe21b892@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2026-01-17 17:07:20 (UTC+00:00)," customer","=""""",WxlwFGLk.bGOcE_cYvxm0.0abf.05000000.Jed3W1dvb8_DqnC3," customer","=""""",,0,enquiry.missed
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-01-17 17:07:12 (UTC+00:00),HK,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

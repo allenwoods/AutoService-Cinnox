@@ -1,0 +1,71 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-15 03:16:09 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Alberto Samuels,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-15 03:16:09 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Alberto Samuels,"=""""",,0,
+im,TYPE_ADVANCED,2025-11-15 03:16:09 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Alberto Samuels,"=""""",,0,"Welcome to M800!
+
+Interested in any of the following?"
+system,,2025-11-15 03:16:09 (UTC+00:00),Alberto Samuels,"=""""",8386ddd8-0793-400b-9679-fe7208a2140d@prod-hk-02@1001,Alberto Samuels,"=""""",,0,room.pci-disclaimer
+system,,2025-11-15 03:16:10 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,room.join
+im,TYPE_TEXT,2025-11-15 03:16:38 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,pricing please for voice agents
+im,TYPE_TEXT,2025-11-15 03:16:38 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0," "
+im,TYPE_TEXT,2025-11-15 03:16:42 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+im,TYPE_TEXT,2025-11-15 03:17:43 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"All our agents are unavailable at the moment. Please try again later.
+	目前所有客服人員皆無法接收您的諮詢。請稍後再試"
+im,TYPE_TEXT,2025-11-15 04:38:52 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,pricing please for voice agents
+im,TYPE_TEXT,2025-11-15 04:38:52 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"I'm glad you're interested in voice agents! However, I need a bit more information to provide you with accurate pricing. Could you please specify which type of voice agents you're referring to? Are you looking for pricing on a specific platform, service, or perhaps a particular feature set? Let me know so I can assist you better!"
+system,,2025-11-15 04:38:58 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-15 04:40:16 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I am looking for voice agents that I can use for cold calling.   They would cold call my lists and set appointments for me.
+im,TYPE_TEXT,2025-11-15 04:40:16 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"It sounds like you're looking for voice agents specifically designed for cold calling and appointment setting! To provide you with the most accurate pricing and options, could you please share how many voice agents you are considering or if you have a specific budget in mind?"
+system,,2025-11-15 04:40:20 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-15 04:41:19 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I am not sure how voice agents work.  I am starting with a budget of about 300 dollars a month.
+im,TYPE_TEXT,2025-11-15 04:41:19 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"Voice agents are automated systems that can make phone calls on your behalf, often using artificial intelligence to interact with the person on the other end. They can be programmed to follow a script, respond to questions, and even schedule appointments. 
+
+With a budget of about $300 a month, there are several options available, but the specific features and capabilities can vary widely. Some services may offer basic cold calling features, while others might include advanced AI capabilities, such as natural language processing and machine learning.
+
+To better assist you, could you provide more details about the volume of calls you expect to make each month? This will help me recommend the most suitable options within your budget."
+system,,2025-11-15 04:41:24 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-15 04:42:22 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I would estimate about 3000 calls a month to start.
+im,TYPE_TEXT,2025-11-15 04:42:22 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"That's a great starting point! With a budget of $300 a month and an estimated 3,000 calls, you're looking at about 10 cents per call, which is quite reasonable. 
+
+Voice agents typically work by using automated systems or AI technology to make calls on your behalf. They can follow scripts, respond to basic questions, and even schedule appointments based on your criteria. 
+
+To help you better, could you let me know if you have any specific features or capabilities in mind for the voice agents? For example, do you need them to handle objections, or would you prefer a more straightforward approach?"
+system,,2025-11-15 04:42:27 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-15 04:44:34 (UTC+00:00),Alberto Samuels,"=""""",WxlwFGLk.RnKV6qvIEIH8.a442.05000000.l918Ybb8JQMzcAVU,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"I am looking for certain features like voicemail detection.  handle basic questions or objections. Local caller ID,  high contact rate."
+im,TYPE_TEXT,2025-11-15 04:44:34 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,"Thank you for your interest in M800's AI Voice Agent capabilities! 
+
+### Features of M800 AI Voice Agents
+M800's AI Voice Agents are designed to enhance your cold calling efforts with several advanced features:
+
+1. **Voicemail Detection**: The AI can identify when a call goes to voicemail, allowing for more efficient call management and follow-up strategies.
+
+2. **Handling Basic Questions and Objections**: The AI is equipped to respond to common inquiries and objections, streamlining the conversation and increasing the chances of setting appointments.
+
+3. **Local Caller ID**: This feature allows the AI to display a local number when making calls, which can improve the likelihood of the call being answered.
+
+4. **High Contact Rate**: With intelligent routing and real-time inquiry handling, the AI can maximize the number of successful connections made during your calling campaigns.
+
+### Benefits for Your Business
+Utilizing M800's AI Voice Agents can significantly impact your business by:
+- **Increasing Efficiency**: Automating routine tasks allows your team to focus on more complex interactions.
+- **Cost Savings**: Reducing the need for extensive human resources for cold calling can help you stay within your budget.
+- **Improved Customer Engagement**: Personalized interactions lead to higher satisfaction and better appointment-setting rates.
+
+### Next Steps
+To explore pricing and get a tailored solution for your needs, please fill out our [contact form](https://www.m800.com/contact-us), and one of our Sales Representatives will reach out to you.
+
+For more details about the capabilities of the M800 AI Voice Agent, you can visit our [AI Voice Agent page](https://www.m800.com/ai-agent).
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2025-11-15 04:44:47 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,op.update-im-history
+system,,2025-12-17 14:59:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,room.leave
+system,,2025-12-17 14:59:56 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Alberto Samuels,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,General Information,2025-11-15 03:16:09 (UTC+00:00),"Brooklyn, US",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Alberto,Samuels,aesamuels@gmail.com,N/A

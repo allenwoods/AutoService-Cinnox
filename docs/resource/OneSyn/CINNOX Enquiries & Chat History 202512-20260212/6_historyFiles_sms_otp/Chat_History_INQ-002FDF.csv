@@ -1,0 +1,82 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-11 16:41:57 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Putu Ariani,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-11 16:41:57 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Putu Ariani,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-11 16:41:57 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Putu Ariani,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2026-02-11 16:41:57 (UTC+00:00),Putu Ariani,"=""""",aabc1c2d-ac91-4d9b-ac59-1f6bc8f703c6@prod-hk-02@1001,Putu Ariani,"=""""",,0,room.pci-disclaimer
+system,,2026-02-11 16:41:58 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-11 16:44:29 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Hi
+im,TYPE_TEXT,2026-02-11 16:44:29 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! How can I assist you today? If you have any questions or need information about something specific, feel free to ask!"
+system,,2026-02-11 16:44:32 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:44:49 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,inquiry for free trial
+im,TYPE_TEXT,2026-02-11 16:44:50 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! 
+
+You can experience the power of CINNOX with a **14-day free trial**. Here's what you need to know:
+
+- **No Credit Card Required**: You can start your trial without any payment information.
+- **User Licenses**: During the trial, you will have access to up to **3 user licenses**.
+- **Features Included**: You can connect Facebook Messenger, emails, and install the Web Widget with Live Chat and Web Call—all free of charge, with no usage fees for staff-to-staff calls, chats, and video/audio calls.
+- **Support**: Enjoy the same high standards of security, a Service Level Agreement (SLA) of **99.95%**, and access to our customer success team along with 24/7 technical support.
+
+To get started, simply sign up here: [Free Sign-Up](https://servicehub.cinnox.com/free-sign-up?step=email).
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2026-02-11 16:44:56 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:45:35 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Virtual phone number
+im,TYPE_TEXT,2026-02-11 16:45:35 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! It sounds like you're interested in a virtual phone number. Could you please provide a bit more detail about what you need? For example, are you looking for a virtual phone number for personal use, business purposes, or something else? This will help me assist you better!"
+system,,2026-02-11 16:45:38 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:45:57 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,for business please
+im,TYPE_TEXT,2026-02-11 16:45:57 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! It sounds like you're interested in a free trial for a virtual phone number specifically for business purposes. Could you please provide a bit more detail about what features you're looking for in a virtual phone number? For example, are you interested in call forwarding, voicemail, or maybe even text messaging capabilities? This will help me assist you better!"
+system,,2026-02-11 16:46:00 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:46:28 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,SMS
+im,TYPE_TEXT,2026-02-11 16:46:28 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! 
+
+It looks like you're interested in SMS rates for virtual phone numbers with CINNOX. Here’s a summary of the SMS rates per country in USD:
+
+- **USA**: $0.016
+- **United Kingdom**: $0.066
+- **Canada**: $0.019
+- **Australia**: $0.045
+- **China**: $0.04
+- **India**: $0.045
+- **Germany**: $0.163
+- **France**: $0.13
+- **Brazil**: $0.069
+- **Japan**: $0.104
+
+For a complete list of SMS rates by country, please refer to the [CINNOX SMS Rates Documentation](https://docs.cinnox.com/docs/sending-sms).
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2026-02-11 16:46:34 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:47:42 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,to received SMS OTP bank verification
+im,TYPE_TEXT,2026-02-11 16:47:42 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,Hello! It sounds like you're looking for a virtual phone number to receive SMS OTPs for bank verification. Could you please provide me with the country or region where you need this virtual phone number? This will help me give you more specific information!
+system,,2026-02-11 16:47:45 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:47:57 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,hong kong
+im,TYPE_TEXT,2026-02-11 16:47:57 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"It sounds like you're looking for a virtual phone number in Hong Kong that can receive SMS for bank verification, specifically for OTPs. Could you please clarify if you need the virtual number for a specific bank or service, or are you looking for general options? This will help me provide you with more tailored information!"
+system,,2026-02-11 16:48:00 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:48:35 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,general and online bank
+im,TYPE_TEXT,2026-02-11 16:48:35 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! It sounds like you're interested in obtaining a virtual phone number for your business in Hong Kong, specifically for receiving SMS OTPs for online banking verification. That's a great way to enhance your security!
+
+To help you better, could you please specify which bank you're looking to receive the OTPs from? Different banks may have different requirements or processes for using virtual phone numbers."
+system,,2026-02-11 16:48:39 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:50:33 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,https://www.welab.bank/en/
+im,TYPE_TEXT,2026-02-11 16:50:33 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! It sounds like you're looking for a virtual phone number service that can receive SMS for bank verification in Hong Kong. To help you better, could you please specify which online bank you are interested in? This will help me provide you with more tailored information regarding the virtual phone number options available for that bank."
+system,,2026-02-11 16:50:36 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-11 16:51:00 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Welab bank
+im,TYPE_TEXT,2026-02-11 16:51:00 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,"Hello! It sounds like you're looking for a virtual phone number to receive SMS OTPs for bank verification with Welab Bank in Hong Kong. That's a great choice for managing your banking needs! 
+
+To assist you better, could you please clarify if you're looking for a specific service provider for the virtual phone number, or do you need recommendations on where to get one?"
+system,,2026-02-11 16:51:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,op.update-im-history
+system,,2026-02-11 16:51:49 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Putu Ariani,"=""""",,0,room.leave
+system,,2026-02-11 16:51:49 (UTC+00:00),Putu Ariani,"=""""",WxlwFGLk.x8c410WNX-a1.e14a.05000000.QKOJ6J-NALk05n7n,Putu Ariani,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2026-02-11 16:41:57 (UTC+00:00),ID,English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Putu,Ariani,ariani@kronosinvesments.net,"=""+6285101886711"""

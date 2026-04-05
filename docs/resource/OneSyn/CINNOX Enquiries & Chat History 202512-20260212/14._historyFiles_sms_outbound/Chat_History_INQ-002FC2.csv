@@ -1,0 +1,40 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-10 01:20:14 (UTC+00:00),Corina A,"=""""",WxlwFGLk.TWTBWIamC0Z8.c7f2.05000000.ObjqYxdkfF6AGtR2,Corina A,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-10 01:20:14 (UTC+00:00),Corina A,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Corina A,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-10 01:20:14 (UTC+00:00),Corina A,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Corina A,"=""""",,0,"Welcome! Thank you for connecting with us. 😊
+
+Feel free to ask us anything about CINNOX, and let's explore how we can help you with your business. 🤝 "
+system,,2026-02-10 01:20:14 (UTC+00:00),Corina A,"=""""",86f01f0b-d6fb-4573-b3b6-e2f0a422ba85@prod-hk-02@1001,Corina A,"=""""",,0,room.pci-disclaimer
+system,,2026-02-10 01:20:15 (UTC+00:00),Engagement bot,"=""""",WxlwFGLk.ONn4c3Za6Jig.530f.05000000.O690pdxZ7HFNrb-Q,Corina A,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-10 01:20:39 (UTC+00:00),Corina A,"=""""",WxlwFGLk.TWTBWIamC0Z8.c7f2.05000000.ObjqYxdkfF6AGtR2,Engagement bot,"=""""",WxlwFGLk.ONn4c3Za6Jig.530f.05000000.O690pdxZ7HFNrb-Q,0,"Hi, I`d like to confirm I can purchase HK number and it will have SMS capabilities? to receive and to send"
+system,,2026-02-10 01:20:51 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Corina A,"=""""",,0,room.join
+system,,2026-02-10 01:20:51 (UTC+00:00),Corina A,"=""""",WxlwFGLk.TWTBWIamC0Z8.c7f2.05000000.ObjqYxdkfF6AGtR2,Corina A,"=""""",,0,enquiry.transfer.picked.up
+im,TYPE_TEXT,2026-02-10 01:20:56 (UTC+00:00),Corina A,"=""""",WxlwFGLk.TWTBWIamC0Z8.c7f2.05000000.ObjqYxdkfF6AGtR2,Engagement bot,"=""""",WxlwFGLk.ONn4c3Za6Jig.530f.05000000.O690pdxZ7HFNrb-Q,0,"Hi, I`d like to confirm I can purchase HK number and it will have SMS capabilities? to receive and to send"
+im,TYPE_TEXT,2026-02-10 01:20:57 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Corina A,"=""""",,0,"Yes, you can purchase a Hong Kong (HK) virtual number, and it will have SMS capabilities. You can **send SMS** and **receive SMS** from this number. However, please note that receiving SMS is specifically supported for numbers from Hong Kong, Thailand, the UK, and the USA.
+
+If you're interested in purchasing a virtual number, you can follow these steps:
+
+1. Visit our [Buy a Virtual Number](https://servicehub.cinnox.com/buy-virtual-number) page.
+2. Choose Hong Kong as your country and select the type of number you wish to purchase.
+3. Set your call forwarding preferences.
+4. Fill out the required form with your business information for verification.
+5. Activate your account.
+6. Pay online using a Credit Card.
+
+For more details, you can also check our documentation on managing virtual numbers: [Manage Virtual Numbers](https://docs.cinnox.com/docs/manage-virtual-numbers).
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2026-02-10 01:21:04 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Corina A,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-10 01:21:42 (UTC+00:00),Corina A,"=""""",WxlwFGLk.TWTBWIamC0Z8.c7f2.05000000.ObjqYxdkfF6AGtR2,Engagement bot,"=""""",WxlwFGLk.ONn4c3Za6Jig.530f.05000000.O690pdxZ7HFNrb-Q,0,SO I will not be able to receive SMS from Europe?
+im,TYPE_TEXT,2026-02-10 01:21:42 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Corina A,"=""""",,0,"I'm sorry, but you will not be able to receive SMS from Europe using a Hong Kong virtual number. The SMS capabilities for the Hong Kong number allow you to send and receive SMS, but receiving SMS is limited to numbers from Hong Kong, Thailand, the UK, and the USA only.
+
+If you have any more questions or need further assistance, feel free to ask!"
+system,,2026-02-10 01:21:46 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Corina A,"=""""",,0,op.update-im-history
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Customer Success,2026-02-10 01:20:14 (UTC+00:00),"Nicosia, CY",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Corina,A,finance@impactsolutionsmarketing.com,"=""+40749806037"""

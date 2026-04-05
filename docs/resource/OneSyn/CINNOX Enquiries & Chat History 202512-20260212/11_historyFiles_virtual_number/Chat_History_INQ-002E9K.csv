@@ -1,0 +1,67 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-02 15:34:39 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,Rajan Goyal,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-02 15:34:39 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Rajan Goyal,"=""""",,0,
+system,,2025-12-02 15:34:39 (UTC+00:00),Rajan Goyal,"=""""",e6702a92-99ad-4975-9c73-abebb822cca2@prod-hk-02@1001,Rajan Goyal,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2025-12-02 15:34:56 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,Rajan Goyal,"=""""",,0,Hi May
+system,,2025-12-02 15:35:05 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-02 15:35:06 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,this is Rajan
+im,TYPE_TEXT,2025-12-02 15:35:15 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",,0,Hello Rajan.
+im,TYPE_TEXT,2025-12-02 15:35:32 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,Hope you are doing well
+im,TYPE_TEXT,2025-12-02 15:35:51 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,so as per your email please tell me how to go about the toll free number
+im,TYPE_TEXT,2025-12-02 15:36:20 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,18552506552  is this number already approved for me?
+im,TYPE_TEXT,2025-12-02 15:36:23 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",,0,Thanks. I hope you too are doing well.
+im,TYPE_TEXT,2025-12-02 15:36:32 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,yes I am good too
+im,TYPE_TEXT,2025-12-02 15:36:58 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",,0,"Yes, have you login to
+your CINNOX Dashboard?"
+im,TYPE_TEXT,2025-12-02 15:37:43 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,yes I am logged in
+im,TYPE_TEXT,2025-12-02 15:38:30 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,pls guide me now
+im,TYPE_TEXT,2025-12-02 15:39:59 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",,0,"Alright. You have order 2 TF numbers, right?
+
+The other number is for payment. You can click on it then a pop page will appear -- that the payment link"
+im,TYPE_TEXT,2025-12-02 15:41:55 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,and can i use the number for my business to receive calls from usa customers
+im,TYPE_TEXT,2025-12-02 15:42:04 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,that is correct
+im,TYPE_TEXT,2025-12-02 15:42:58 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,ok got it
+im,TYPE_TEXT,2025-12-02 15:43:29 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,and can you also explain how many minutes will i get with this toll free number
+im,TYPE_TEXT,2025-12-02 15:44:31 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,For the Numbe Fee and Usage - please check this page for USA https://www.m800.com/rate-table/usa
+im,TYPE_TEXT,2025-12-02 15:45:02 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,and will i be able to make outogoing calls using this number
+im,TYPE_TEXT,2025-12-02 15:46:22 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,"A toll-free number is for receiving call (in general speaking)
+if you need a virtual number to receive and making calls - get a local number"
+im,TYPE_TEXT,2025-12-02 15:46:37 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,ok got it
+im,TYPE_TEXT,2025-12-02 15:46:54 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,now one more question before i pay for it
+im,TYPE_TEXT,2025-12-02 15:47:19 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,i will receive calls on my indian mobile is that right?
+im,TYPE_TEXT,2025-12-02 15:47:37 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,and also can i set up soft phone to receive calls.
+im,TYPE_TEXT,2025-12-02 15:51:02 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,Hi May you there?
+im,TYPE_TEXT,2025-12-02 15:51:59 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,"Yes, this section is in our buy a number section.
+---
+**2. Set Your Call Receiving Preferences**
+Where would you like to receive calls? 
+- Phone Number --- would route the call according.
+
+Please note that the usage rate will be higher when a call is received from a different country/region."
+im,TYPE_TEXT,2025-12-02 15:54:08 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,Hi Rajan
+im,TYPE_TEXT,2025-12-02 15:54:40 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,i tried to make the payment
+im,TYPE_TEXT,2025-12-02 15:54:49 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,but it was unsuccessful
+im,TYPE_TEXT,2025-12-02 15:54:57 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,"(Error code: 0, CID: 1764662024951T493242840)
+this is what i got"
+im,TYPE_TEXT,2025-12-02 15:56:02 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,"It says - card declined by the payment gateway.
+Your card does not support this type of purchase."
+im,TYPE_TEXT,2025-12-02 15:56:37 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,can i try another card
+im,TYPE_TEXT,2025-12-02 15:56:48 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,Oh okay
+im,TYPE_TEXT,2025-12-02 15:59:40 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,i will try in some time the other card
+im,TYPE_TEXT,2025-12-02 15:59:53 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,"Okay, no rush. Thanks"
+im,TYPE_TEXT,2025-12-02 16:00:26 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,can you please tell me. Will i be able to receive on soft phone with indian mobile or not
+im,TYPE_TEXT,2025-12-02 16:07:01 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,You can receive calls with the CINNOX app installed on your mobile phone.
+im,TYPE_TEXT,2025-12-02 16:12:06 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,ok thanks May
+im,TYPE_TEXT,2025-12-02 16:12:51 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,You are welcome.
+im,TYPE_TEXT,2025-12-02 16:12:58 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,0,"Also, even through the web (CINNOX Dashboard), a call can receive as well."
+im,TYPE_TEXT,2025-12-02 16:13:02 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,0,have a good day
+system,,2025-12-02 16:13:08 (UTC+00:00),May Isais,"=""""",WxlwFGLk.TeaUWiLtgNNN.0de7.05000000.vr96G7oBRs0y9i1j,Rajan Goyal,"=""""",,0,room.leave
+system,,2025-12-02 16:13:08 (UTC+00:00),Rajan Goyal,"=""""",WxlwFGLk.sI06M2swaJCi.6c6c.05000000.iyYK1h-gW3XkmaK9,Rajan Goyal,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Direct Chat Enquiry,Desktop Web,,2025-12-02 15:34:39 (UTC+00:00),"New Delhi, IN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Rajan,Goyal,rajangmong@gmail.com,"=""+919818968405"""

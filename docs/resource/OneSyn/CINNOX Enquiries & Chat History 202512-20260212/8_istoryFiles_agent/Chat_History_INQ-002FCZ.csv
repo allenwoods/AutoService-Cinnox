@@ -1,0 +1,74 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-11 11:13:43 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Mack Zetty,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-11 11:13:43 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Mack Zetty,"=""""",,0,
+system,,2026-02-11 11:13:43 (UTC+00:00),Mack Zetty,"=""""",94d3d1b2-eb3a-43bc-8d54-405c1b5e0051@prod-hk-02@1001,Mack Zetty,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2026-02-11 11:13:51 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Mack Zetty,"=""""",,0,??
+system,,2026-02-11 11:14:03 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-11 11:14:10 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,This ia my USA DID- +19479859836
+im,TYPE_TEXT,2026-02-11 11:14:21 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,"Hi Mack, let me check the record"
+im,TYPE_TEXT,2026-02-11 11:14:27 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,It was working properly 3 hours back
+im,TYPE_TEXT,2026-02-11 11:14:32 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,but not it's not
+im,TYPE_TEXT,2026-02-11 11:14:51 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,3 Calls are in open but not getting forward
+im,TYPE_FILE,2026-02-11 11:16:00 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-11 11:18:23 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,yes I saw it
+im,TYPE_TEXT,2026-02-11 11:18:42 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,USA DID number is working fine. So no issue there
+im,TYPE_TEXT,2026-02-11 11:18:56 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,2-3 hours back everything was good
+im,TYPE_TEXT,2026-02-11 11:19:03 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,It just happened in 1 hour
+im,TYPE_TEXT,2026-02-11 11:19:15 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,That it stopped forwarding
+im,TYPE_TEXT,2026-02-11 11:19:56 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,noted
+system,,2026-02-11 11:21:46 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",,0,room.join
+im,TYPE_FILE,2026-02-11 11:23:49 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_FILE,2026-02-11 11:24:01 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,
+im,TYPE_TEXT,2026-02-11 11:24:10 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,This is where i'm forwarding
+im,TYPE_TEXT,2026-02-11 11:24:15 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,only 1 call
+im,TYPE_TEXT,2026-02-11 11:29:21 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,is it fixed ??
+im,TYPE_TEXT,2026-02-11 11:34:23 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Sandy
+im,TYPE_TEXT,2026-02-11 11:34:28 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Please update
+im,TYPE_TEXT,2026-02-11 11:57:09 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,"for the issue, unfortunately not yet find out the cause because the signaling all shows normal. technical team is still checking. 
+
+now I am discussing with Gina to see if we can provide a new number"
+im,TYPE_TEXT,2026-02-11 12:06:37 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,"Hi Mack, can you or team who can login your CINNOX account to pick up the calls first instead of arranging call forwarding to a US local destination number via PSTN connection?"
+im,TYPE_TEXT,2026-02-11 12:19:26 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I forward calls to multiple offices. So it is difficult for me
+im,TYPE_TEXT,2026-02-11 12:19:45 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Like 4-5 offices
+im,TYPE_TEXT,2026-02-11 12:21:09 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,It means that the subscribed Australia's TF number is redirected to your provided US local number and then the calls of this local number are transferred to 4-5 offices?
+im,TYPE_TEXT,2026-02-11 12:21:19 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Yes
+im,TYPE_TEXT,2026-02-11 12:22:53 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,But it's got nothing to with call not getting landed on the Forwarding DID
+im,TYPE_TEXT,2026-02-11 12:25:11 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,"So, you are using Voxofy for the call routing to your 4-5 offices? your team using Voxofy to pick up calls?"
+im,TYPE_TEXT,2026-02-11 12:25:19 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Yes
+im,TYPE_TEXT,2026-02-11 12:28:07 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,"well, my technical team needs time to check it out the call routing first"
+im,TYPE_TEXT,2026-02-11 12:28:33 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Thats ok. But i've been having issues from last 10 days i guess
+im,TYPE_TEXT,2026-02-11 12:28:56 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Something or the other is happening and not able to use Cinnox properly. Like at the full extent
+im,TYPE_TEXT,2026-02-11 12:29:09 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I've got a call flow of 200-250 Calls everyday
+im,TYPE_TEXT,2026-02-11 12:29:30 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Have been using Twillio on the other hand
+im,TYPE_TEXT,2026-02-11 12:29:55 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,"But need Cinnox , So that i can move all my call flow here"
+im,TYPE_TEXT,2026-02-11 12:30:54 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,I wonder you may consider the call connection via SIP instead of PSTN to avoid many call restrictions issues
+im,TYPE_TEXT,2026-02-11 12:31:26 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Sip is a problem as it is not possible for my layout
+im,TYPE_TEXT,2026-02-11 12:31:51 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,Voxofy cannot support to connect SIP?
+im,TYPE_TEXT,2026-02-11 12:32:10 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I've used cinnox in the past. Never had a problem
+im,TYPE_TEXT,2026-02-11 12:32:41 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,same call routing setting from Australia TF to a US local number?
+im,TYPE_TEXT,2026-02-11 12:32:48 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,It can support. But its not possible for my layout as it'll be difficult for me to keep a tap
+im,TYPE_TEXT,2026-02-11 12:32:51 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Yes
+im,TYPE_TEXT,2026-02-11 12:33:21 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Try changing the vendor for the TFN
+im,TYPE_TEXT,2026-02-11 12:33:26 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,let me escaluate for the support
+im,TYPE_TEXT,2026-02-11 12:33:33 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Or maybe try giving a TFN from a different vendor
+im,TYPE_TEXT,2026-02-11 12:40:18 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Ok
+im,TYPE_TEXT,2026-02-11 12:40:37 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Will be waiting for the revert
+im,TYPE_TEXT,2026-02-11 13:29:34 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,"Mack, is your PSTN number get an IVR?"
+im,TYPE_TEXT,2026-02-11 13:29:41 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,0,or it's a direct call picked up by agents
+im,TYPE_TEXT,2026-02-11 14:55:34 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Direct Call pick up
+im,TYPE_TEXT,2026-02-11 14:55:35 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,Direct call pick up
+im,TYPE_TEXT,2026-02-11 15:09:10 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,It is working now
+im,TYPE_TEXT,2026-02-11 15:09:21 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I did test call. All is working ok for now
+im,TYPE_TEXT,2026-02-11 15:09:39 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,I need another AU TFN. Can you please add
+im,TYPE_TEXT,2026-02-11 15:09:48 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,0,and try from a different vendor if possible
+system,,2026-02-11 19:21:09 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA,Mack Zetty,"=""""",,0,room.leave
+system,,2026-02-11 19:21:09 (UTC+00:00),Gina Wong,"=""""",WxlwFGLk.ekubY4JxRKGa.8e0e.05000000.cWR5MJZ1mFDy_BB1,Mack Zetty,"=""""",,0,room.leave
+system,,2026-02-11 19:21:09 (UTC+00:00),Mack Zetty,"=""""",WxlwFGLk.clZcN9mD30VO.93cb.05000000.RkKx9KcKrto5NvAp,Mack Zetty,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-11 11:13:43 (UTC+00:00),"Melbourne, AU",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Mack,Zetty,N/A,N/A

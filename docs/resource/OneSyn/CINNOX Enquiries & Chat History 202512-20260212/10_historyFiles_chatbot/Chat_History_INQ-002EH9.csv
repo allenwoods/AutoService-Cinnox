@@ -1,0 +1,37 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-17 00:17:04 (UTC+00:00),Sam Lam,"=""""",WxlwFGLk.-tnirk4uq1xj.de73.05000000.dvNAPCPl2S1lCjOj,Sam Lam,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-17 00:17:04 (UTC+00:00),Sam Lam,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sam Lam,"=""""",,0,
+im,TYPE_ADVANCED,2025-12-17 00:17:04 (UTC+00:00),Sam Lam,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Sam Lam,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Sales Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information.
+
+I'm looking forward to serving you!"
+system,,2025-12-17 00:17:04 (UTC+00:00),Sam Lam,"=""""",85c0e6f1-7c30-4bf7-b683-8de9542a205a@prod-hk-02@1001,Sam Lam,"=""""",,0,room.pci-disclaimer
+system,,2025-12-17 00:17:06 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sam Lam,"=""""",,0,room.join
+im,TYPE_TEXT,2025-12-17 00:17:41 (UTC+00:00),Sam Lam,"=""""",WxlwFGLk.-tnirk4uq1xj.de73.05000000.dvNAPCPl2S1lCjOj,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,How to create a virtual hong kong phone number
+im,TYPE_TEXT,2025-12-17 00:17:41 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sam Lam,"=""""",,0,"Creating a virtual Hong Kong phone number can be quite useful for various purposes, such as business communications or maintaining privacy. Here are some steps you can follow to get one:
+
+1. **Choose a Virtual Phone Service Provider**: There are several providers that offer virtual phone numbers, such as Google Voice, Grasshopper, or local services like HKT or 1010. Research their offerings to find one that suits your needs.
+
+2. **Sign Up for an Account**: Once you've chosen a provider, you'll need to create an account. This usually involves providing some personal information and verifying your identity.
+
+3. **Select a Hong Kong Number**: After setting up your account, you can typically choose a number from a list of available Hong Kong numbers. Some services may allow you to choose a specific area code or number pattern.
+
+4. **Set Up Call Forwarding and Features**: Most virtual phone services offer features like call forwarding, voicemail, and text messaging. Customize these settings according to your preferences.
+
+5. **Download the App**: If your provider has a mobile app, download it to your smartphone. This will allow you to make and receive calls and texts using your virtual number.
+
+6. **Start Using Your Number**: Once everything is set up, you can start using your virtual Hong Kong phone number for calls and messages.
+
+If you have a specific provider in mind or need help with a particular step, feel free to ask!"
+system,,2025-12-17 00:17:49 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sam Lam,"=""""",,0,op.update-im-history
+system,,2025-12-17 00:18:04 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Sam Lam,"=""""",,0,room.leave
+system,,2025-12-17 00:18:04 (UTC+00:00),Sam Lam,"=""""",WxlwFGLk.-tnirk4uq1xj.de73.05000000.dvNAPCPl2S1lCjOj,Sam Lam,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Demo & Sales Enquiry,2025-12-17 00:17:04 (UTC+00:00),"Central, HK",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Sam,Lam,kaisam321.sl@gmail.com,"=""+85296310233"""

@@ -1,0 +1,68 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-22 00:06:38 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Fili Kyriaki,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-22 00:06:38 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Fili Kyriaki,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-22 00:06:38 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Fili Kyriaki,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2026-01-22 00:06:38 (UTC+00:00),Fili Kyriaki,"=""""",f4860383-0ff4-4763-932c-5380aba060ab@prod-hk-02@1001,Fili Kyriaki,"=""""",,0,room.pci-disclaimer
+system,,2026-01-22 00:06:39 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-22 00:07:47 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,"Hi. Could you tell me please, what is a procedure for register a SMS template for sending to mainland China numbers?"
+im,TYPE_TEXT,2026-01-22 00:07:47 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,"To register an SMS template for sending to mainland China numbers, you'll typically need to follow a specific procedure that may vary depending on the SMS service provider you are using. Here are the general steps you might need to take:
+
+1. **Choose an SMS Service Provider**: Select a reputable SMS gateway or service provider that supports sending messages to mainland China. Some popular providers include Twilio, Nexmo, and Alibaba Cloud.
+
+2. **Create an Account**: Sign up for an account with your chosen provider. You may need to provide some personal or business information during this process.
+
+3. **Understand Compliance Requirements**: Familiarize yourself with the regulations and compliance requirements for sending SMS in China. This may include obtaining necessary licenses or approvals, as China has strict telecommunications regulations.
+
+4. **Prepare Your SMS Template**: Draft the SMS template you wish to register. Make sure it complies with local regulations, including content restrictions and language requirements.
+
+5. **Submit Your Template for Approval**: Most providers will require you to submit your SMS template for approval. This may involve filling out a form and providing details about the message content, purpose, and target audience.
+
+6. **Wait for Approval**: After submission, there will be a waiting period during which the provider reviews your template. This can take anywhere from a few hours to several days, depending on the provider.
+
+7. **Testing**: Once approved, you may want to conduct tests to ensure that your SMS messages are being delivered correctly to mainland China numbers.
+
+8. **Start Sending**: After successful testing, you can begin sending your SMS messages using the registered template.
+
+If you have a specific SMS service provider in mind, I can provide more detailed information tailored to that provider. Which provider are you considering?"
+system,,2026-01-22 00:07:55 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-22 00:08:21 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Can you obtain approval for our business?
+im,TYPE_TEXT,2026-01-22 00:08:21 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,"I'm glad you're here! To help you better, could you please provide more details about the type of business you are referring to? Are you looking for approval for a specific service or product, or is it related to a regulatory requirement? Let me know so I can assist you more effectively!"
+system,,2026-01-22 00:08:23 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-22 00:08:40 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,for specific SMS template
+im,TYPE_TEXT,2026-01-22 00:08:40 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,"To help you with the procedure for registering an SMS template for sending to mainland China numbers, could you please provide more details about your business? Specifically, what type of messages do you intend to send, and do you already have a service provider in mind for SMS delivery? This information will help me give you the most accurate guidance!"
+system,,2026-01-22 00:08:43 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-22 00:09:36 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,We will use you. Our business is a fitness app. We'd like to send purchase confirmation SMSs and SMS with TTN for physical goods delivery
+im,TYPE_TEXT,2026-01-22 00:09:36 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,"To register an SMS template for sending to mainland China numbers, you'll typically need to follow a specific procedure that involves several steps. Here’s a general outline:
+
+1. **Understand Regulations**: Familiarize yourself with the local regulations regarding SMS marketing in China. The country has strict rules about messaging, and compliance is crucial.
+
+2. **Choose a Service Provider**: Select a reliable SMS service provider that operates in China and can facilitate the registration of your SMS templates. Providers often have their own processes and requirements.
+
+3. **Prepare Your Template**: Draft the SMS template you wish to register. Make sure it adheres to the guidelines set by the Chinese government and your service provider. For example, your purchase confirmation SMS should clearly state the purpose and include relevant details like order number and contact information.
+
+4. **Submit for Approval**: Once your template is ready, submit it to your SMS service provider for approval. They will review it to ensure it meets all regulatory requirements.
+
+5. **Receive Confirmation**: After your template is approved, you will receive confirmation from your service provider. This may take some time, so be patient.
+
+6. **Testing**: Before fully implementing the SMS template, conduct tests to ensure it is delivered correctly and appears as intended.
+
+Regarding your question about obtaining approval for your business, could you please provide more details about what specific approvals you are looking for? This will help me assist you better!"
+system,,2026-01-22 00:09:43 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-22 00:10:02 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,Can you do this for us?
+im,TYPE_TEXT,2026-01-22 00:10:02 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,"I'm glad to hear about your fitness app! However, I cannot directly obtain approval for SMS templates or send messages on your behalf. The process typically involves registering your SMS templates with the relevant telecommunications authority in mainland China, which may require specific documentation and adherence to local regulations. 
+
+To assist you better, could you please provide more information about the specific SMS template you want to register? For example, what content will it include, and are there any particular requirements you are aware of?"
+system,,2026-01-22 00:10:06 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Fili Kyriaki,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-22 00:10:31 (UTC+00:00),Fili Kyriaki,"=""""",WxlwFGLk.3TRtLEG3llZa.9ee0.05000000.nKMUeoPIKtDM3aBx,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,May i speek with real person?
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2026-01-22 00:06:38 (UTC+00:00),"Kyiv, UA",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Fili,Kyriaki,fitwellpro.ltd@outlook.com,"=""+35799935861"""

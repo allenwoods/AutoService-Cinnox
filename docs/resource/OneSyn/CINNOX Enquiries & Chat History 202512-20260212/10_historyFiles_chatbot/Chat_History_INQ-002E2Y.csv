@@ -1,0 +1,87 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-11-18 16:49:31 (UTC+00:00),Gal Singer,"=""""",WxlwFGLk.sTfDC5mZWfMz.6d48.05000000.NXhmukyKQgJAHjIK,Gal Singer,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-11-18 16:49:31 (UTC+00:00),Gal Singer,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Gal Singer,"=""""",,0,
+im,TYPE_ADVANCED,2025-11-18 16:49:31 (UTC+00:00),Gal Singer,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Gal Singer,"=""""",,0,"Welcome! Thank you for connecting with us. 😊
+ 
+You're in the right place if you need virtual numbers, SMS, voice, live chat, audio and video call support, OTP, messaging, or AI contact centre solutions for your business.
+ 
+Please share your name, email, and phone number to provide personalised assistance. Then, feel free to ask us anything about CINNOX, and let's discuss how we can support your business. 🤝"
+system,,2025-11-18 16:49:31 (UTC+00:00),Gal Singer,"=""""",1a0e3daa-fdce-4292-afbe-6a4ebf13da1a@prod-hk-02@1001,Gal Singer,"=""""",,0,room.pci-disclaimer
+system,,2025-11-18 16:49:31 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Gal Singer,"=""""",,0,room.join
+im,TYPE_TEXT,2025-11-18 16:50:34 (UTC+00:00),Gal Singer,"=""""",WxlwFGLk.sTfDC5mZWfMz.6d48.05000000.NXhmukyKQgJAHjIK,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,"I’m looking to purchase a Hong Kong virtual mobile number that can receive OTP / SMS verification codes reliably.
+
+The purpose is very specific:
+I need the number to receive Google Play Console verification SMS codes for setting up a developer account.
+
+Before I proceed, I need to confirm a few things:
+
+Can your Hong Kong virtual mobile numbers receive OTP / SMS from Google?
+(Some virtual numbers are blocked by Google, so I need confirmation.)
+
+What is the exact monthly price for:
+• A Hong Kong mobile number (with SMS receiving enabled)
+• Any additional subscription fees
+• Any setup fees
+
+What documents do you require from me, if any, to activate a Hong Kong virtual number?
+
+If it works for OTP from Google, I will subscribe immediately.
+
+Thank you!"
+im,TYPE_TEXT,2025-11-18 16:50:34 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Gal Singer,"=""""",,0,"Thank you for your inquiry about purchasing a Hong Kong virtual mobile number for receiving OTP/SMS verification codes.
+
+### 1. **Can your Hong Kong virtual mobile numbers receive OTP/SMS from Google?**
+Unfortunately, our Hong Kong virtual mobile numbers **do not support receiving SMS** from Google for verification purposes. Google often blocks virtual numbers for security reasons, which may prevent you from receiving OTPs.
+
+### 2. **Monthly Pricing for Hong Kong Virtual Number**
+- **Hong Kong Mobile Number (with SMS receiving enabled)**: Currently, we do not offer a mobile number that can reliably receive SMS from Google. 
+- **Additional Subscription Fees**: There are no additional subscription fees specified for the virtual number service.
+- **Setup Fees**: There are no setup fees mentioned for acquiring a virtual number.
+
+### 3. **Required Documents for Activation**
+To activate a Hong Kong virtual number, you may need to provide business verification documents. However, since the number cannot receive Google SMS, this may not be necessary.
+
+### Conclusion
+Given that our Hong Kong virtual numbers do not support receiving OTP/SMS from Google, I recommend considering alternative solutions for your Google Play Console verification needs.
+
+If you have any further questions or need assistance with anything else, feel free to ask!"
+system,,2025-11-18 16:50:50 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Gal Singer,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-11-18 16:52:38 (UTC+00:00),Gal Singer,"=""""",WxlwFGLk.sTfDC5mZWfMz.6d48.05000000.NXhmukyKQgJAHjIK,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,what does your Hong Kong virtual numbers supprt? what documents are needed? and what is the price?
+im,TYPE_TEXT,2025-11-18 16:52:38 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Gal Singer,"=""""",,0,"**Overview of Hong Kong Virtual Numbers**
+
+CINNOX offers **Hong Kong virtual numbers** that are designed for international use, providing businesses with the ability to receive calls and SMS, including OTP (One-Time Password) verification codes. However, it's important to note that while these numbers can receive SMS, there may be limitations with certain services, such as Google, which sometimes blocks virtual numbers from receiving OTPs.
+
+### Features of Hong Kong Virtual Numbers
+- **Receive Calls**: You can receive calls from anywhere, enhancing your business's accessibility.
+- **Make Calls**: Initiate calls using the virtual number.
+- **Send SMS**: Send SMS messages, although receiving SMS is limited to specific numbers.
+- **Voicemail Support**: Ensure you never miss important messages.
+- **Call Recording and Transcription**: Keep records of your calls for compliance or quality assurance.
+
+### Pricing Information
+- **Monthly Recurring Charges (MRC)**: The exact monthly price for a Hong Kong virtual number can vary. Please refer to the official rate list for detailed pricing.
+- **Additional Subscription Fees**: There may be additional fees based on your usage and selected features.
+- **Setup Fees**: Typically, there are no setup fees, but it's best to confirm during the purchase process.
+
+### Required Documents for Activation
+To activate a Hong Kong virtual number, you may need to provide:
+- Business verification documents
+- Identification proof (if required)
+
+### Next Steps
+To ensure that the virtual number can receive OTPs from Google, it's advisable to test the number once activated. If you confirm that it works for your needs, you can proceed with the subscription.
+
+For more detailed information on purchasing a virtual number, you can visit our [Buy a Virtual Number](https://servicehub.cinnox.com/buy-virtual-number) page.
+
+If you have any further questions or need assistance, feel free to ask!"
+system,,2025-11-18 16:52:51 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Gal Singer,"=""""",,0,op.update-im-history
+system,,2025-12-18 18:06:01 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,Gal Singer,"=""""",,0,room.leave
+system,,2025-12-18 18:06:01 (UTC+00:00),Gal Singer,"=""""",system,Gal Singer,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2025-11-18 16:49:31 (UTC+00:00),"Haifa, IL",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Gal,Singer,Gal@sunkeer.com,"=""+972546721117"""

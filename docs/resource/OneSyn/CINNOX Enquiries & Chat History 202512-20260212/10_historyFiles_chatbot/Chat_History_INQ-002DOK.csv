@@ -1,0 +1,41 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-10-27 23:59:43 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,yun wei,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-10-27 23:59:43 (UTC+00:00),yun wei,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,yun wei,"=""""",,0,
+im,TYPE_ADVANCED,2025-10-27 23:59:43 (UTC+00:00),yun wei,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,yun wei,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2025-10-27 23:59:43 (UTC+00:00),yun wei,"=""""",e74af9af-505c-40d2-8a57-55d42106a9d5@prod-hk-02@1001,yun wei,"=""""",,0,room.pci-disclaimer
+system,,2025-10-27 23:59:44 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,room.join
+im,TYPE_TEXT,2025-10-28 00:00:07 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,hey
+im,TYPE_TEXT,2025-10-28 00:00:07 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,"Hello! How can I assist you today? If you have any questions or topics you'd like to discuss, feel free to share!"
+system,,2025-10-28 00:00:10 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-28 00:00:19 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,你们有没有台湾本地号码
+im,TYPE_TEXT,2025-10-28 00:00:19 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,是的，我们提供台湾本地号码。您可以选择本地的双向语音号码（DID）。如果您需要更多信息或想要购买号码，请访问我们的[购买虚拟号码](https://servicehub.cinnox.com/buy-virtual-number)页面。
+system,,2025-10-28 00:00:24 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-28 00:01:17 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,是的
+im,TYPE_TEXT,2025-10-28 00:01:17 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,你好！很高兴见到你！关于台湾本地号码，你是想了解什么呢？比如说，你需要什么类型的号码？是手机号码、固定电话，还是其他的？请告诉我更多细节，我会尽力帮助你！
+system,,2025-10-28 00:01:20 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-28 00:01:29 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,我购买不了台湾号码
+im,TYPE_TEXT,2025-10-28 00:01:29 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,"您好！关于购买台湾本地号码的问题，CINNOX确实提供台湾的本地号码服务。请确保您按照正确的步骤进行购买。如果您在购买过程中遇到困难，建议您访问我们的官方网站，查看相关的购买指南，或者直接联系我们的客服团队以获得进一步的帮助。
+
+如果您需要更多信息或具体的购买步骤，请告诉我！"
+system,,2025-10-28 00:01:34 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-28 00:01:47 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,联系客服
+im,TYPE_TEXT,2025-10-28 00:01:47 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,"感谢您的询问！如果您需要联系客户服务，请访问我们的联系页面以提交请求，我们的团队会尽快与您联系。您可以通过以下链接找到更多信息：[联系我们](https://www.cinnox.com/contact-sales)。 
+
+如果您有其他关于CINNOX的问题或需要进一步的帮助，请随时告诉我！"
+system,,2025-10-28 00:01:51 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2025-10-28 00:01:54 (UTC+00:00),yun wei,"=""""",WxlwFGLk.RXmiqLApafgQ.2fd8.05000000.HqEuOlesuUjpUKyg,Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,0,转人工
+im,TYPE_TEXT,2025-10-28 00:01:54 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0," "
+system,,2025-12-18 18:23:32 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,room.leave
+system,,2025-12-18 18:23:32 (UTC+00:00),Chihiro,"=""""",WxlwFGLk.G5box1vOCSQb.0aa9.05000000.UBLuJjYtqZdo6bK2,yun wei,"=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,24/7 Support,2025-10-27 23:59:43 (UTC+00:00),HK,
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+yun,wei,dd5_4jt2swb3l@dingtalk.com,"=""+8618176097370"""

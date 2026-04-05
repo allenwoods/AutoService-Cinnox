@@ -1,0 +1,35 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-23 13:13:14 (UTC+00:00),Jannik Riesinger,"=""""",WxlwFGLk.Wn2i6wbEREKu.16eb.05000000.dLUQDVVZEt-1N5WD,Jannik Riesinger,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-23 13:13:14 (UTC+00:00),Jannik Riesinger,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jannik Riesinger,"=""""",,0,
+im,TYPE_ADVANCED,2026-01-23 13:13:14 (UTC+00:00),Jannik Riesinger,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Jannik Riesinger,"=""""",,0,"Welcome to CINNOX! I'm Vega, your Conversational AI and Virtual Technical Support Assistant. 
+
+At CINNOX, we're on a mission to tackle business uncertainty via high-dimensional information. 
+
+I'm looking forward to serving you!"
+system,,2026-01-23 13:13:14 (UTC+00:00),Jannik Riesinger,"=""""",2d15a9f2-4a0e-4929-8bdd-b1fb9fd2f00d@prod-hk-02@1001,Jannik Riesinger,"=""""",,0,room.pci-disclaimer
+system,,2026-01-23 13:13:15 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jannik Riesinger,"=""""",,0,room.join
+im,TYPE_TEXT,2026-01-23 13:13:24 (UTC+00:00),Jannik Riesinger,"=""""",WxlwFGLk.Wn2i6wbEREKu.16eb.05000000.dLUQDVVZEt-1N5WD,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,Hello
+im,TYPE_TEXT,2026-01-23 13:13:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jannik Riesinger,"=""""",,0,"Hello! It's great to chat with you. How can I assist you today? If you have any specific questions or topics in mind, feel free to share!"
+system,,2026-01-23 13:13:27 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jannik Riesinger,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-01-23 13:14:19 (UTC+00:00),Jannik Riesinger,"=""""",WxlwFGLk.Wn2i6wbEREKu.16eb.05000000.dLUQDVVZEt-1N5WD,Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,0,I need to verify my Hong Kong Company via SMS to connect my facebook business account. I am currently located in Thailand. Can you help me with that?
+im,TYPE_TEXT,2026-01-23 13:14:19 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jannik Riesinger,"=""""",,0,"I'm glad to help you with your inquiry! To verify your Hong Kong company via SMS, you'll typically need to receive a verification code sent to the phone number associated with your business account. However, since you're currently in Thailand, there are a couple of things to consider:
+
+1. **International SMS**: Make sure that the phone number you provided for your Hong Kong company can receive international SMS messages. Sometimes, there might be restrictions or delays in receiving messages from overseas.
+
+2. **Facebook Business Settings**: Ensure that your Facebook business account is set up correctly and that you have access to the phone number linked to it. You can check this in the settings of your Facebook Business Manager.
+
+3. **Alternative Verification Methods**: If you're having trouble receiving the SMS, Facebook may offer alternative verification methods, such as email verification or using an authentication app.
+
+If you need more specific guidance, could you please provide the exact steps you've taken so far to verify your account, or any error messages you've encountered? This will help me assist you better!"
+system,,2026-01-23 13:14:25 (UTC+00:00),Vega (Virtual Assistant),"=""""",WxlwFGLk.UyK4JcUSZRv4.013a.05000000.k_8WMZi43Df1VsBs,Jannik Riesinger,"=""""",,0,op.update-im-history
+system,,2026-01-23 13:16:47 (UTC+00:00),Jannik Riesinger,"=""""",WxlwFGLk.Wn2i6wbEREKu.16eb.05000000.dLUQDVVZEt-1N5WD,Jannik Riesinger,"=""""",,0,enquiry.transfer.missed
+call,,2026-01-23 13:16:50 (UTC+00:00),Jannik Riesinger,"=""0029249625""",WxlwFGLk.Wn2i6wbEREKu.16eb.05000000.dLUQDVVZEt-1N5WD,Jannik Riesinger,"=""N/A""",,0,
+system,,2026-01-23 13:16:51 (UTC+00:00),Jannik Riesinger,"=""""",,Jannik Riesinger,"=""""",,0,op.update-call-history
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,24/7 Support,2026-01-23 13:13:14 (UTC+00:00),"Ayutthaya, TH",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Jannik,Riesinger,contact@rsnstudios.com,"=""+66823848341"""

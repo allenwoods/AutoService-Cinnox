@@ -1,0 +1,15 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2025-12-03 21:34:05 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,jixian zhu,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2025-12-03 21:34:05 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,jixian zhu,"=""""",,0,
+system,,2025-12-03 21:34:05 (UTC+00:00),jixian zhu,"=""""",70ab23a2-0f43-45ae-aee0-3d1be1b57871@prod-hk-02@1001,jixian zhu,"=""""",,0,room.pci-disclaimer
+im,TYPE_TEXT,2025-12-03 21:35:04 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,jixian zhu,"=""""",,0,我想获得一个虚拟的中国大陆的手机电话号码，可以和我的中国客户进行联系
+system,,2025-12-03 21:35:13 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,jixian zhu,"=""""",,0,enquiry.missed
+im,TYPE_TEXT,2025-12-03 21:38:32 (UTC+00:00),jixian zhu,"=""""",WxlwFGLk.S731k5FMweUd.8bf5.05000000.sWy3OBOXdAhQ8AaV,jixian zhu,"=""""",,0,e-mail:lishiman2025@outlook.com        telegram:    @nadro2025
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2025-12-03 21:34:05 (UTC+00:00),GB,Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+jixian,zhu,lishiman2025@outlook.com,"=""+8617704065503"""

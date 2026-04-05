@@ -1,0 +1,19 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-01-28 12:02:28 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W," Li","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-01-28 12:02:28 (UTC+00:00)," Li","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," Li","=""""",,0,
+im,TYPE_ADVANCED,2026-01-28 12:02:28 (UTC+00:00)," Li","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," Li","=""""",,0,Hi there! Please leave your message here or fill in the form with your requirements. Our team will contact you as soon as possible.
+system,,2026-01-28 12:02:28 (UTC+00:00)," Li","=""""",00f5b6ab-160c-4f86-aff4-7453d667876c@prod-hk-02@1001," Li","=""""",,0,room.pci-disclaimer
+system,,2026-01-28 12:02:31 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg," Li","=""""",,0,room.join
+im,TYPE_TEXT,2026-01-28 12:04:28 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,I want to have sms or 來電驗証 for my developing taxi app verfication. please coNtact me or whatsapp me at 9735 0690 thx
+im,TYPE_TEXT,2026-01-28 12:04:28 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg," Li","=""""",,0,"I'm glad to hear about your developing taxi app! However, I can't contact you directly or send messages via WhatsApp. But I can help you with information on SMS or call verification methods for your app. Could you provide more details about what specific features you are looking for in the verification process? For example, are you interested in using a third-party service, or do you have a specific technology stack in mind?"
+system,,2026-01-28 12:04:33 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg," Li","=""""",,0,op.update-im-history
+system,,2026-01-28 12:04:59 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg," Li","=""""",,0,room.leave
+system,,2026-01-28 12:04:59 (UTC+00:00)," Li","=""""",WxlwFGLk.ZO2lPDwXwXvV.09ed.05000000.iSSphPlmUbG4gq4W," Li","=""""",,0,enquiry.terminate
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Mobile Web,Get a Quote,2026-01-28 12:02:28 (UTC+00:00),"Central, HK",Chinese (Traditional)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,Li,ivanli@m543.com,"=""+85297350690"""

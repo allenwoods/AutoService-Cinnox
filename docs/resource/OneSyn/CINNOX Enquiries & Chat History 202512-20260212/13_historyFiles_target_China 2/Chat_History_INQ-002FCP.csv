@@ -1,0 +1,18 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-10 19:00:49 (UTC+00:00)," customer","=""""",WxlwFGLk.MJPp8CdGD7Uv.850b.05000000.S-GWm2EeH_G_f8yL," customer","=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-10 19:00:49 (UTC+00:00)," customer","=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF," customer","=""""",,0,
+system,,2026-02-10 19:00:50 (UTC+00:00)," customer","=""""",eceb6711-3887-4a3d-8439-3652f75bbf80@prod-hk-02@1001," customer","=""""",,0,room.pci-disclaimer
+system,,2026-02-10 19:01:04 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-02-10 19:01:29 (UTC+00:00),Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ," customer","=""""",WxlwFGLk.MJPp8CdGD7Uv.850b.05000000.S-GWm2EeH_G_f8yL,0,"Hi, What can i help?"
+im,TYPE_TEXT,2026-02-10 19:02:57 (UTC+00:00)," customer","=""""",WxlwFGLk.MJPp8CdGD7Uv.850b.05000000.S-GWm2EeH_G_f8yL,Thomas Lee,"=""""",WxlwFGLk.USZhlzoCRPnr.d937.05000000.8xLWcL__vNLwXWaJ,0,Why hasn't the review result come out yet?
+system,,2026-02-10 19:03:17 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",,0,room.join
+im,TYPE_TEXT,2026-02-10 19:14:07 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.MJPp8CdGD7Uv.850b.05000000.S-GWm2EeH_G_f8yL,0,每張號碼需求單大概需一個工作天，如果審核團隊同意明天中午前號碼會綁定在您的CINNOX
+im,TYPE_TEXT,2026-02-10 19:14:15 (UTC+00:00),Sandy Fan,"=""""",WxlwFGLk.YWeCuUT08PuU.e248.05000000.sATu_m6zWxaHLdwA," customer","=""""",WxlwFGLk.MJPp8CdGD7Uv.850b.05000000.S-GWm2EeH_G_f8yL,0,明早我會幫您追蹤
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Onboarding Live Support,2026-02-10 19:00:49 (UTC+00:00),"Kunming, CN",Chinese (Simplified)
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+N/A,customer,N/A,N/A

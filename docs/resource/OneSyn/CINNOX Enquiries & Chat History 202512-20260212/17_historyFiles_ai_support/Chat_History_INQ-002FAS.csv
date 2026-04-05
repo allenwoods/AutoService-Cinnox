@@ -1,0 +1,22 @@
+﻿
+Chat History
+Type,IM Content Type,Time,From Name,Caller,From EID,To Name,Callee,To EID,Call Duration,Message
+system,,2026-02-07 01:44:05 (UTC+00:00),Akash Parida,"=""""",WxlwFGLk.ihmdB6Vc5L_E.97b7.05000000.aHjEVlTeZpLI7jDQ,Akash Parida,"=""""",,0,enquiry.visitor.activated
+im,TYPE_PRECHAT,2026-02-07 01:44:05 (UTC+00:00),Akash Parida,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Akash Parida,"=""""",,0,
+im,TYPE_ADVANCED,2026-02-07 01:44:05 (UTC+00:00),Akash Parida,"=""""",WxlwFGLk.dLC5fQvnLtWE.80bf.05000000.oNiaVYtxlKV9FGpF,Akash Parida,"=""""",,0,Hi there! Please leave your message here or fill in the form with your requirements. Our team will contact you as soon as possible.
+system,,2026-02-07 01:44:05 (UTC+00:00),Akash Parida,"=""""",74af4a4b-5dd6-4c35-9797-7cb1bab9a999@prod-hk-02@1001,Akash Parida,"=""""",,0,room.pci-disclaimer
+system,,2026-02-07 01:44:06 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Akash Parida,"=""""",,0,room.join
+im,TYPE_TEXT,2026-02-07 01:44:45 (UTC+00:00),Akash Parida,"=""""",WxlwFGLk.ihmdB6Vc5L_E.97b7.05000000.aHjEVlTeZpLI7jDQ,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"Hey, we are looking for an AI agent which can help us with outbound prospecting"
+im,TYPE_TEXT,2026-02-07 01:44:45 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Akash Parida,"=""""",,0,"That sounds like an exciting project! Outbound prospecting can be a crucial part of business development. Could you share a bit more about your specific needs? For example, are you looking for an AI agent that can help with lead generation, email outreach, or perhaps managing follow-ups? The more details you provide, the better I can assist you!"
+system,,2026-02-07 01:44:50 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Akash Parida,"=""""",,0,op.update-im-history
+im,TYPE_TEXT,2026-02-07 01:48:05 (UTC+00:00),Akash Parida,"=""""",WxlwFGLk.ihmdB6Vc5L_E.97b7.05000000.aHjEVlTeZpLI7jDQ,Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,0,"We are looking for a software which can help us with calling. so we have alot of raw data and our SDRs are calling on these data and some of our data is ir relevant and also connect ratio is low. so we are looking for a software which can help our SDR during or before calls. like AI agent can leave VM and if a real person answers the call, it gets transfered to SDR"
+im,TYPE_TEXT,2026-02-07 01:48:06 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Akash Parida,"=""""",,0,"Transferring enquiry...
+	正在轉移諮詢..."
+im,TYPE_TEXT,2026-02-07 01:49:07 (UTC+00:00),Mira (Virtual Assistant),"=""""",WxlwFGLk.ZL3b6iXtx2xP.6a12.05000000.NBLOKJqjuY2HiPyg,Akash Parida,"=""""",,0,"All our agents are unavailable at the moment. Please try again later.
+	目前所有客服人員皆無法接收您的諮詢。請稍後再試"
+Enquiry Information
+Enquiry Type,Source,Tag,Enquiry Initiate Time,Location,Language
+Broadcast Chat Enquiry,Desktop Web,Get a Quote,2026-02-07 01:44:05 (UTC+00:00),"Chandigarh, IN",English
+Visitor Profile
+First Name,Last Name,Email,Mobile Number
+Akash,Parida,akash@docupile.com,"=""+918699097385"""
