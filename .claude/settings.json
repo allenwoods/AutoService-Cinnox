@@ -1,4 +1,6 @@
 {
+  "enableAllProjectMcpServers": true,
+  "channelsEnabled": true,
   "permissions": {
     "allow": [
       "Read(*)",
