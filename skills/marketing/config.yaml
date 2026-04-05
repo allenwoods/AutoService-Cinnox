@@ -1,0 +1,20 @@
+# Marketing Skill Configuration
+domain: marketing
+language: zh  # Supported: zh, en (default: zh)
+database_path: .autoservice/database/marketing
+
+labels:
+  product: "产品"
+  customer: "客户角色"
+  operator: "销售策略"
+
+roles:
+  assistant: "salesperson"
+  user: "customer"
+  assistant_label: "销售员"
+  user_label: "客户"
+
+session:
+  title_prefix: "Sales Session"
+  start_marker: "--- Sales Call Started ---"
+  end_marker: "--- Sales Call Ended ---"

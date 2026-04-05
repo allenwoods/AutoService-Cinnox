@@ -1,0 +1,131 @@
+{
+  "web": [
+    {
+      "id": "w1",
+      "url": "https://docs.cinnox.com",
+      "name": "CINNOX Documentation",
+      "description": "Official CINNOX user manual and product documentation",
+      "crawl_depth": 2,
+      "max_pages": 50,
+      "domain": "contact_center",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "w2",
+      "url": "https://www.cinnox.com",
+      "name": "CINNOX Official Website",
+      "description": "CINNOX main website with product features and use cases",
+      "crawl_depth": 1,
+      "max_pages": 20,
+      "domain": "contact_center",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "w3",
+      "url": "https://www.m800.com",
+      "name": "M800 Official Website",
+      "description": "M800 main website with company and product information",
+      "crawl_depth": 1,
+      "max_pages": 20,
+      "domain": "contact_center",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "w4",
+      "url": "https://www.m800.com/pricing",
+      "name": "M800 Pricing",
+      "description": "M800 international numbers and call/SMS rates",
+      "crawl_depth": 1,
+      "max_pages": 5,
+      "domain": "global_telecom",
+      "region": "global",
+      "language": "en"
+    }
+  ],
+  "files": [
+    {
+      "id": "f1",
+      "path": "docs/resource/OneSyn/AI Sales Bot/AI Sales Bot Charging Model.pdf",
+      "name": "AI Sales Bot Charging Model",
+      "type": "pdf",
+      "description": "AI Sales Bot pricing and charging structure",
+      "domain": "ai_sales_bot",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "f2",
+      "path": "docs/resource/OneSyn/AI Sales Bot/EN_AI_Sales_Bot_Feature_List_v2026.xlsx",
+      "name": "AI Sales Bot Feature List 2026",
+      "type": "xlsx",
+      "description": "Complete AI Sales Bot feature list for 2026",
+      "domain": "ai_sales_bot",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "f3",
+      "path": "docs/resource/OneSyn/AI Sales Bot/M800 AI-Powered-Sales-Voice-Bot - V 202510 - Basic for EB+IB - EN Ver.pdf",
+      "name": "M800 AI Sales Voice Bot Overview",
+      "type": "pdf",
+      "description": "M800 AI-powered sales voice bot product overview",
+      "domain": "ai_sales_bot",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "f4",
+      "path": "docs/resource/OneSyn/CINNOX/EN_CINNOX_Feature_List_v2026.xlsx",
+      "name": "CINNOX Feature List 2026",
+      "type": "xlsx",
+      "description": "Complete CINNOX platform feature list for 2026",
+      "domain": "contact_center",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "f5",
+      "path": "docs/resource/OneSyn/CINNOX/EN_CINNOX_Pricing_07012024_v3.xlsx",
+      "name": "CINNOX Pricing",
+      "type": "xlsx",
+      "description": "CINNOX platform pricing and subscription plans",
+      "domain": "contact_center",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "f6",
+      "path": "docs/resource/OneSyn/CINNOX/M800 Introduction - V 202602 - Basic for EB+IB - EN Ver.pdf",
+      "name": "M800 Introduction",
+      "type": "pdf",
+      "description": "M800 company and product introduction deck",
+      "domain": "contact_center",
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "id": "f7",
+      "path": "docs/resource/OneSyn/Global Telecom/M800 VN, Call and SMS Rates.xlsx",
+      "name": "M800 Global Rates",
+      "type": "xlsx",
+      "description": "M800 virtual number, call and SMS rates by country",
+      "domain": "global_telecom",
+      "region": "global",
+      "language": "en",
+      "is_rate_table": true
+    },
+    {
+      "id": "f8",
+      "path": "docs/resource/OneSyn/Global Telecom/M800_Global_Telecom_2026.pdf",
+      "name": "M800 Global Telecom 2026",
+      "type": "pdf",
+      "description": "M800 global telecommunications services overview 2026",
+      "domain": "global_telecom",
+      "region": "global",
+      "language": "en"
+    }
+  ]
+}

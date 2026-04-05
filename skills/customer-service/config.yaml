@@ -1,0 +1,20 @@
+# Customer Service Skill Configuration
+domain: customer_service
+language: zh  # Supported: zh, en (default: zh)
+database_path: .autoservice/database/customer_service
+
+labels:
+  product: "产品/服务"
+  customer: "客户角色"
+  operator: "客服策略"
+
+roles:
+  assistant: "agent"
+  user: "customer"
+  assistant_label: "客服"
+  user_label: "客户"
+
+session:
+  title_prefix: "Customer Service Session"
+  start_marker: "--- Service Call Started ---"
+  end_marker: "--- Service Call Ended ---"
