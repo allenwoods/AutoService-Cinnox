@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AutoService — Access</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f3f6fb;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 28px 44px 44px;
+      width: 400px;
+      max-width: calc(100vw - 32px);
+      box-shadow: 0 8px 40px rgba(0, 60, 180, 0.10);
+      text-align: center;
+    }
+
+    @media (max-width: 480px) {
+      .card { padding: 24px 20px 32px; }
+      #code-input { font-size: 22px; letter-spacing: 4px; padding: 12px 14px; }
+    }
+
+    .logo-area { margin-bottom: 6px; text-align: center; }
+    .logo-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: #111827;
+      margin-bottom: 4px;
+    }
+
+    .subtitle {
+      color: #6b7280;
+      font-size: 14px;
+      margin-bottom: 40px;
+    }
+
+    label {
+      display: block;
+      text-align: left;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #374151;
+      margin-bottom: 10px;
+    }
+
+    #code-input {
+      width: 100%;
+      padding: 14px 16px;
+      border: 2px solid #e5e7eb;
+      border-radius: 10px;
+      font-size: 26px;
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      color: #111827;
+      outline: none;
+      transition: border-color 0.18s, box-shadow 0.18s;
+    }
+    #code-input::placeholder { color: #d1d5db; letter-spacing: 4px; }
+    #code-input:focus {
+      border-color: #002855;
+      box-shadow: 0 0 0 3px rgba(0, 40, 85, 0.12);
+    }
+    #code-input.error-state { border-color: #ef4444; }
+
+    .btn {
+      width: 100%;
+      margin-top: 20px;
+      padding: 14px;
+      background: #002855;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.18s, transform 0.1s;
+    }
+    .btn:hover:not(:disabled) { background: #001d40; }
+    .btn:active:not(:disabled) { transform: scale(0.98); }
+    .btn:disabled { background: #9ca3af; cursor: not-allowed; }
+
+    .error-msg {
+      margin-top: 14px;
+      font-size: 13px;
+      color: #ef4444;
+      min-height: 18px;
+    }
+
+    .inuse-banner {
+      display: none;
+      margin-top: 14px;
+      padding: 12px 14px;
+      background: #fff8ed;
+      border: 1.5px solid #f59e0b;
+      border-radius: 10px;
+      font-size: 13px;
+      color: #92400e;
+      line-height: 1.55;
+      text-align: left;
+    }
+    .inuse-banner.visible { display: block; }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 12px;
+      color: #9ca3af;
+      line-height: 1.6;
+    }
+
+    .lang-toggle {
+      display: block;
+      margin: 0 0 16px auto;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 5px 0;
+      width: 48px;
+      text-align: center;
+      border: 1.5px solid #e5e7eb;
+      border-radius: 8px;
+      background: #fff;
+      color: #374151;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+    .lang-toggle:hover { border-color: #0057ff; color: #0057ff; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <button class="lang-toggle" id="lang-btn" onclick="toggleLang()"></button>
+
+    <div class="logo-area">
+      <div class="logo-title">AutoService</div>
+    </div>
+    <p class="subtitle" id="subtitle"><span id="subtitle-text">Enter your access code to begin</span></p>
+
+    <label for="code-input" id="code-label">Access Code</label>
+    <input
+      id="code-input"
+      type="text"
+      maxlength="8"
+      placeholder="XXXXXXXX"
+      autocomplete="off"
+      autocorrect="off"
+      autocapitalize="characters"
+      spellcheck="false"
+      autofocus
+    >
+
+    <button class="btn" id="submit-btn" onclick="verify()">Continue &rarr;</button>
+
+    <p class="error-msg" id="error-msg"></p>
+    <div class="inuse-banner" id="inuse-banner"></div>
+
+    <div class="footer" id="footer-text">
+      Contact your demo organiser for an access code.
+    </div>
+    <div class="footer" style="margin-top:16px">
+      <div id="login-ver" style="font-size:11px;color:#c0c4cc">v0.0.0</div>
+    </div>
+  </div>
+
+  <script>
+    const L = {
+      en: {
+        langBtn: 'ZH',
+        subtitleText: 'Enter your access code to begin',
+        codeLabel: 'Access Code',
+        continueBtn: 'Continue \u2192',
+        footer: 'Contact your demo organiser for an access code.',
+        verifying: 'Verifying\u2026',
+        errShort: 'Please enter the full access code.',
+        errInvalid: 'Invalid or expired code. Please try again.',
+        errNetwork: 'Network error. Please check your connection.',
+        inUse: (mins) => `This access code is currently in use.\nIt will be available in ~${mins} min if no further activity.`,
+      },
+      zh: {
+        langBtn: 'EN',
+        subtitleText: '\u8f93\u5165\u8bbf\u95ee\u7801\u5f00\u59cb',
+        codeLabel: '\u8bbf\u95ee\u7801',
+        continueBtn: '\u7ee7\u7eed \u2192',
+        footer: '\u8bf7\u8054\u7cfb\u60a8\u7684\u6f14\u793a\u7ec4\u7ec7\u8005\u83b7\u53d6\u8bbf\u95ee\u7801\u3002',
+        verifying: '\u9a8c\u8bc1\u4e2d\u2026',
+        errShort: '\u8bf7\u8f93\u5165\u5b8c\u6574\u7684\u8bbf\u95ee\u7801\u3002',
+        errInvalid: '\u8bbf\u95ee\u7801\u65e0\u6548\u6216\u5df2\u8fc7\u671f\uff0c\u8bf7\u91cd\u8bd5\u3002',
+        errNetwork: '\u7f51\u7edc\u9519\u8bef\uff0c\u8bf7\u68c0\u67e5\u8fde\u63a5\u3002',
+        inUse: (mins) => `\u6b64\u8bbf\u95ee\u7801\u6b63\u5728\u4f7f\u7528\u4e2d\u3002\n\u7ea6 ${mins} \u5206\u949f\u65e0\u64cd\u4f5c\u540e\u81ea\u52a8\u91ca\u653e\u3002`,
+      }
+    };
+    let lang = localStorage.getItem('autoservice_lang') || 'en';
+    function tl(k) { return (L[lang] || L.en)[k] || L.en[k]; }
+    function applyLang() {
+      document.getElementById('lang-btn').textContent = tl('langBtn');
+      document.getElementById('subtitle-text').textContent = tl('subtitleText');
+      document.getElementById('code-label').textContent = tl('codeLabel');
+      btn.textContent = tl('continueBtn');
+      document.getElementById('footer-text').textContent = tl('footer');
+    }
+    function toggleLang() {
+      lang = lang === 'en' ? 'zh' : 'en';
+      localStorage.setItem('autoservice_lang', lang);
+      applyLang();
+      fetchLoginVersion();
+    }
+
+    const input  = document.getElementById('code-input');
+    const btn    = document.getElementById('submit-btn');
+    const errMsg = document.getElementById('error-msg');
+    const inuseBanner = document.getElementById('inuse-banner');
+
+    input.addEventListener('keydown', e => { if (e.key === 'Enter') verify(); });
+    input.addEventListener('input',   () => {
+      input.classList.remove('error-state');
+      errMsg.textContent = '';
+      inuseBanner.classList.remove('visible');
+    });
+
+    async function verify() {
+      const code = input.value.trim().toUpperCase();
+      if (code.length < 6) {
+        showError(tl('errShort'));
+        return;
+      }
+
+      btn.disabled    = true;
+      btn.textContent = tl('verifying');
+      errMsg.textContent = '';
+
+      try {
+        const res = await fetch('/auth/verify', {
+          method:  'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body:    JSON.stringify({ code }),
+        });
+
+        if (res.ok) {
+          const data = await res.json();
+          sessionStorage.setItem('autoservice_token',      data.token);
+          sessionStorage.setItem('autoservice_expires_at', data.expires_at);
+          sessionStorage.setItem('autoservice_label',      data.label || '');
+          window.location.href = '/chat';
+        } else if (res.status === 409) {
+          const err = await res.json().catch(() => ({}));
+          const detail = err.detail || {};
+          showInUse(detail.remaining_minutes || detail.idle_timeout_minutes || 15);
+        } else {
+          const err = await res.json().catch(() => ({}));
+          showError(typeof err.detail === 'string' ? err.detail : tl('errInvalid'));
+        }
+      } catch {
+        showError(tl('errNetwork'));
+      } finally {
+        if (btn.disabled) {
+          btn.disabled    = false;
+          btn.textContent = tl('continueBtn');
+        }
+      }
+    }
+
+    function showError(msg) {
+      errMsg.textContent = msg;
+      inuseBanner.classList.remove('visible');
+      input.classList.add('error-state');
+      input.select();
+      btn.disabled    = false;
+      btn.textContent = tl('continueBtn');
+    }
+
+    function showInUse(remainingMins) {
+      errMsg.textContent = '';
+      input.classList.remove('error-state');
+      inuseBanner.textContent = tl('inUse')(remainingMins);
+      inuseBanner.classList.add('visible');
+      btn.disabled    = false;
+      btn.textContent = tl('continueBtn');
+    }
+
+    function fetchLoginVersion() {
+      fetch('/api/changelog?lang=' + lang).then(r => r.json()).then(d => {
+        document.getElementById('login-ver').textContent = d.version;
+      }).catch(() => {});
+    }
+    fetchLoginVersion();
+    applyLang();
+  </script>
+</body>
+</html>
