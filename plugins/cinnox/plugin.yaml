@@ -1,0 +1,69 @@
+name: cinnox
+version: 1.0.0
+description: CINNOX/M800 CRM, billing, and telecom product catalog
+mode: mock
+installer: cinnox
+
+mcp_tools:
+  - name: cinnox_customer_lookup
+    description: Look up CINNOX customer by account ID, phone, or company name
+    handler: tools.customer_lookup
+    input_schema:
+      type: object
+      properties:
+        identifier:
+          type: string
+          description: Account ID, phone number, or company name
+      required: [identifier]
+  - name: cinnox_billing
+    description: Get customer billing history and invoice status
+    handler: tools.billing_query
+    input_schema:
+      type: object
+      properties:
+        account_id:
+          type: string
+        start_date:
+          type: string
+        end_date:
+          type: string
+      required: [account_id]
+  - name: cinnox_subscriptions
+    description: Get active subscriptions and DID numbers
+    handler: tools.subscription_query
+    input_schema:
+      type: object
+      properties:
+        account_id:
+          type: string
+      required: [account_id]
+  - name: cinnox_permission_check
+    description: Check if an action is permitted for the current operator
+    handler: tools.permission_check
+    input_schema:
+      type: object
+      properties:
+        action:
+          type: string
+        product_id:
+          type: string
+      required: [action]
+
+http_routes:
+  - path: /api/cinnox/customers/{identifier}
+    method: GET
+    handler: routes.get_customer
+  - path: /api/cinnox/customers/{account_id}/billing
+    method: GET
+    handler: routes.get_billing
+  - path: /api/cinnox/customers/{account_id}/subscriptions
+    method: GET
+    handler: routes.get_subscriptions
+
+mock_server:
+  seed_data: mock_data/accounts.json
+  database: .autoservice/database/cinnox/mock.db
+
+references:
+  - references/glossary.json
+  - references/synonym-map.json

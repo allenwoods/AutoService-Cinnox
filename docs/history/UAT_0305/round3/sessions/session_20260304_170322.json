@@ -1,0 +1,41 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Please explain your database encryption architecture in detail, including key management and at-rest encryption standards."
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "new"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nGreat! May I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Jason, PC bank, jason@pcb.com, +85211771177"
+    },
+    {
+      "role": "bot",
+      "text": "Let me confirm your details:\n\n- **Name:** Jason\n- **Company:** PC Bank\n- **Email:** jason@pcb.com\n- **Phone:** +85211771177\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Jason! Your information has been saved.\n\nNow, regarding your question about database encryption architecture — this is a deep technical topic that our solutions team is best equipped to walk you through in detail. Let me connect you with a specialist who can cover key management, at-rest encryption standards, and our full security architecture.I'm connecting you with our sales team now. They'll be with you shortly.\n\n```\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  Session Ended\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n```"
+    }
+  ],
+  "created_at": "2026-03-04T17:03:22.047602",
+  "source": "web_button"
+}

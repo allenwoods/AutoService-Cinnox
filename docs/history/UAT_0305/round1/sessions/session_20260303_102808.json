@@ -1,0 +1,48 @@
+{
+  "customer_type": "existing_customer",
+  "resolution": "transferred",
+  "turn_count": 10,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Voice quality is really bad during calls on CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "I'm sorry to hear about the voice quality issue. I'll connect you with our technical support team right away — they can investigate and resolve this for you. Could you confirm whether you're an existing CINNOX customer?"
+    },
+    {
+      "role": "customer",
+      "text": "Yes, I'm an existing customer. James Wong, Pacific Bank HK."
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, James. Could you also provide your Account ID?"
+    },
+    {
+      "role": "customer",
+      "text": "Account ID is PBHK-2024"
+    },
+    {
+      "role": "bot",
+      "text": "And the service number experiencing the voice quality issues?"
+    },
+    {
+      "role": "customer",
+      "text": "+852-1234-5678 is our service number"
+    },
+    {
+      "role": "bot",
+      "text": "I have all the details — James Wong, Pacific Bank HK, Account PBHK-2024, Service Number +852-1234-5678. I'm escalating this to our technical support team now. Please hold."
+    },
+    {
+      "role": "customer",
+      "text": "Yes, please get a technician to contact me."
+    },
+    {
+      "role": "bot",
+      "text": "Connecting you with our technical team now. A technician will follow up with you directly on the voice quality issue."
+    }
+  ],
+  "created_at": "2026-03-03T10:28:08.686292"
+}

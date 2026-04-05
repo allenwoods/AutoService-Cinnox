@@ -1,0 +1,41 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Does CINNOX support WhatsApp integration?"
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "new"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nGreat! May I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Chris Tanaka, Tokyo Commerce Co., chris@tokyocommerce.jp, +81-3-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThanks, Chris! Let me confirm your details:\n\n- **Name:** Chris Tanaka\n- **Company:** Tokyo Commerce Co.\n- **Email:** chris@tokyocommerce.jp\n- **Phone:** +81-3-1234-5678\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Chris! Your information has been saved.\n\nNow, regarding your question about WhatsApp integration — let me look that up for you.Yes, CINNOX does support WhatsApp integration! According to our CINNOX product documentation, you can connect WhatsApp as a social channel using **360dialog** as the WhatsApp Business Solution Provider (BSP). This lets you manage WhatsApp enquiries right alongside your other channels like Messenger, WeChat, LINE, and email — all in one platform.\n\nWould you like to know more about how to set it up, or do you have any other questions?"
+    }
+  ],
+  "created_at": "2026-03-04T16:31:17.950842",
+  "source": "web_button"
+}

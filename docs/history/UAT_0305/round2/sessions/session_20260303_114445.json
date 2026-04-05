@@ -1,0 +1,76 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 17,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "How much is a US DID number per month?"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your name first?"
+    },
+    {
+      "role": "customer",
+      "text": "Kevin Han"
+    },
+    {
+      "role": "bot",
+      "text": "Which company are you from?"
+    },
+    {
+      "role": "customer",
+      "text": "Seoul Commerce Inc."
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "kevin.han@seoulcommerce.kr"
+    },
+    {
+      "role": "bot",
+      "text": "And a phone number?"
+    },
+    {
+      "role": "customer",
+      "text": "+82-2-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "US DID MRC is USD 19/month, call rate USD 0.02/min, KYC required."
+    },
+    {
+      "role": "customer",
+      "text": "Is there a setup fee?"
+    },
+    {
+      "role": "bot",
+      "text": "No separate setup fee for DID numbers in documentation. KYC required before activation."
+    },
+    {
+      "role": "customer",
+      "text": "Do we need to verify anything to get a number?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, KYC verification is mandatory for all virtual numbers including DID."
+    },
+    {
+      "role": "customer",
+      "text": "Which plan do we need to be on to use DID numbers?"
+    },
+    {
+      "role": "bot",
+      "text": "BCC/OCC/CXHub support US DID. DC is limited to HK DID only."
+    },
+    {
+      "role": "customer",
+      "text": "okay"
+    }
+  ],
+  "created_at": "2026-03-03T11:44:45.046696"
+}

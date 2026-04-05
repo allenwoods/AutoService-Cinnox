@@ -1,0 +1,36 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 7,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to arrange a demo of CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Could I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Emma Laurent, Lyon Digital Agency, emma@lyondigital.com"
+    },
+    {
+      "role": "bot",
+      "text": "Just one more — could I get a phone number?"
+    },
+    {
+      "role": "customer",
+      "text": "I'd rather not give my phone number."
+    },
+    {
+      "role": "bot",
+      "text": "We ask for phone to confirm demo appointment. If preferred not to share, I can connect you with our team directly."
+    },
+    {
+      "role": "customer",
+      "text": "yes, please connect me"
+    }
+  ],
+  "created_at": "2026-03-03T11:54:36.735827"
+}

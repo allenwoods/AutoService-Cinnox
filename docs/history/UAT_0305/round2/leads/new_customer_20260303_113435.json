@@ -1,0 +1,10 @@
+{
+  "type": "new_customer",
+  "data": {
+    "name": "Li Wei",
+    "company": "ShangBao Bank",
+    "email": "li.wei@shangbao.com",
+    "phone": "+86-21-1234-5678"
+  },
+  "created_at": "2026-03-03T11:34:35.585688"
+}

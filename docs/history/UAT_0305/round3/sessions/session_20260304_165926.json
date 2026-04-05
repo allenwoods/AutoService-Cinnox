@@ -1,0 +1,33 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 6,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I think I was overcharged on last month's bill."
+    },
+    {
+      "role": "bot",
+      "text": "I'm sorry to hear that! I'd be happy to help get this sorted out.\n\nCould I get your company name and Account ID so I can pull up your account?"
+    },
+    {
+      "role": "customer",
+      "text": "Tom Bradley, Hartley Insurance UK"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThank you, Tom. Could I also get your Account ID so I can locate your account?"
+    },
+    {
+      "role": "customer",
+      "text": "HART-UK-2023"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Tom. Let me save your details and get you connected with the right team.I've located your account, Tom. Since this is a billing concern, I'm connecting you with our billing team now. They'll be with you shortly.\n\n```\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  Session Ended\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n```"
+    }
+  ],
+  "created_at": "2026-03-04T16:59:26.364246",
+  "source": "web_button"
+}

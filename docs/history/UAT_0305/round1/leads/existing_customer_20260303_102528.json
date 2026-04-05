@@ -1,0 +1,10 @@
+{
+  "type": "existing_customer",
+  "data": {
+    "name": "Tom Bradley",
+    "company": "Hartley Insurance UK",
+    "email": "tom@hartley.co.uk",
+    "account_id": "HART-UK-2023"
+  },
+  "created_at": "2026-03-03T10:25:28.583481"
+}

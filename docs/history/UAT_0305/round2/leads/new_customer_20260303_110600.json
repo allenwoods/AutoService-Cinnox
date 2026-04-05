@@ -1,0 +1,10 @@
+{
+  "type": "new_customer",
+  "data": {
+    "name": "Emma Xu",
+    "company": "Bright Retail",
+    "email": "emma.xu@brightretail.com",
+    "phone": "+852-9123-4567"
+  },
+  "created_at": "2026-03-03T11:06:00.491172"
+}

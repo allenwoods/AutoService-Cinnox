@@ -1,0 +1,49 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 10,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "We are a system integrator and want to explore a partnership with CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "That's great to hear! We'd love to explore a partnership with you.\n\nTo get things started, may I have your name?"
+    },
+    {
+      "role": "customer",
+      "text": "My name is David Park from Nexus SI in Singapore."
+    },
+    {
+      "role": "bot",
+      "text": "Nice to meet you, David! Nexus SI sounds like a great fit for a CINNOX partnership.\n\nCould I get your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "david.park@nexussi.com"
+    },
+    {
+      "role": "bot",
+      "text": "Got it! And lastly, a phone number we can reach you on?"
+    },
+    {
+      "role": "customer",
+      "text": "+65-8123-4567"
+    },
+    {
+      "role": "bot",
+      "text": "Let me confirm your details before I pass these on:\n\n- **Name**: David Park\n- **Company**: Nexus SI (Singapore)\n- **Email**: david.park@nexussi.com\n- **Phone**: +65-8123-4567\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, David! Your information has been saved.\n\nThank you for your interest in partnering with us! Our partnership team will be in touch shortly. Let me connect you now. 🤝"
+    }
+  ],
+  "created_at": "2026-03-04T15:48:30.913230",
+  "source": "web_button"
+}

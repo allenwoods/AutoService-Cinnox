@@ -1,0 +1,24 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 4,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Do you have whtsapp intergration?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, CINNOX supports WhatsApp Business integration. You can manage WhatsApp customer inquiries directly from the CINNOX platform, alongside your other communication channels. It's available on the OCC and CXHub plans. Source: CINNOX Feature List 2026 (EN_CINNOX_Feature_List_v2026)."
+    },
+    {
+      "role": "customer",
+      "text": "Does it support WhatsApp campaigns too?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, WhatsApp campaign messaging is supported via 360dialog integration. This allows you to send outbound WhatsApp messages to your customer base for marketing or service updates. Campaign management is included in the feature set. Source: CINNOX Feature List 2026."
+    }
+  ],
+  "created_at": "2026-03-03T10:32:56.014017"
+}

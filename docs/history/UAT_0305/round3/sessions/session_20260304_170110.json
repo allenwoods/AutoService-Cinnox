@@ -1,0 +1,41 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Voice quality is really bad during calls on CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "I'm sorry to hear you're experiencing voice quality issues. I'd be happy to help get this resolved!\n\nCould I get your company name and Account ID so I can pull up your account?"
+    },
+    {
+      "role": "customer",
+      "text": "PBHK-2024"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you! And could you also provide your company name so I can locate your account?"
+    },
+    {
+      "role": "customer",
+      "text": "Pacific Bank HK."
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThank you! Let me save your account details.\n\nSince you're reporting a voice quality issue, I'll need a couple more details to help our support team investigate:\n\n1. What is the **service number** affected?\n2. What is the **name of the agent** experiencing the issue?"
+    },
+    {
+      "role": "customer",
+      "text": "+852-1234-5678, name not available"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThank you for the details. Let me save this and connect you with our support team right away.I'm connecting you with our support team now. They'll be with you shortly.\n\nThey'll have your account details and the service number (+852-1234-5678) on file to investigate the voice quality issue.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  Session Ended\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    }
+  ],
+  "created_at": "2026-03-04T17:01:10.660049",
+  "source": "web_button"
+}

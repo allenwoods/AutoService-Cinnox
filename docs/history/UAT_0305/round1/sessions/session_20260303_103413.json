@@ -1,0 +1,40 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want something for customer service."
+    },
+    {
+      "role": "bot",
+      "text": "Happy to help! To recommend the right solution, could you tell me a bit more about your team? For example, how many agents would be handling customer interactions?"
+    },
+    {
+      "role": "customer",
+      "text": "We have about 10 people on our team."
+    },
+    {
+      "role": "bot",
+      "text": "Good to know — 10 agents is a great size for our plans. Do your customers mainly reach you by phone, or do you also handle other channels like chat, email, or messaging apps?"
+    },
+    {
+      "role": "customer",
+      "text": "Mostly phone calls, but we also use WhatsApp with some customers."
+    },
+    {
+      "role": "bot",
+      "text": "That's helpful context — phone plus WhatsApp is a common combination we support well. What type of business are you in? That helps me recommend the right features."
+    },
+    {
+      "role": "customer",
+      "text": "What would you recommend?"
+    },
+    {
+      "role": "bot",
+      "text": "Based on what you've shared — 10 agents, phone + WhatsApp — I'd recommend the Omnichannel Contact Centre (OCC) plan. It covers inbound/outbound calls with ACD routing, WhatsApp Business integration, and reporting. It's designed for teams of this size and scales well. Would you like to see a demo or get a pricing breakdown?"
+    }
+  ],
+  "created_at": "2026-03-03T10:34:13.988538"
+}

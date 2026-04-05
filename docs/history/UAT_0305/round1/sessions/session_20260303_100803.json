@@ -1,0 +1,48 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 10,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Hi, we are looking for a contact center solution for our team."
+    },
+    {
+      "role": "bot",
+      "text": "Hello! Welcome to CINNOX. I'd be happy to help you explore our contact center solutions. To get started, may I have your name?"
+    },
+    {
+      "role": "customer",
+      "text": "My name is Emma Xu, and I'm from Bright Retail."
+    },
+    {
+      "role": "bot",
+      "text": "Great to meet you, Emma! Thanks for sharing. Could I also get your email address to follow up with more information?"
+    },
+    {
+      "role": "customer",
+      "text": "Sure, my email is emma.xu@brightretail.com"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you. And may I have your phone number so our team can reach you directly?"
+    },
+    {
+      "role": "customer",
+      "text": "My phone number is +852-9123-4567"
+    },
+    {
+      "role": "bot",
+      "text": "Perfect — I have all your details: Emma Xu, Bright Retail Ltd, emma.xu@brightretail.com, +852-9123-4567. Would you like to schedule a product demo with our sales team?"
+    },
+    {
+      "role": "customer",
+      "text": "Yes, a demo would be great."
+    },
+    {
+      "role": "bot",
+      "text": "Wonderful! I've noted your request. Our sales team will reach out shortly to schedule a demo at a time that works for you. Is there anything else I can help with in the meantime?"
+    }
+  ],
+  "created_at": "2026-03-03T10:08:03.308277"
+}

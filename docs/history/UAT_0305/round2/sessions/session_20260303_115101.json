@@ -1,0 +1,92 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 21,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Hi, I am interested in CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Marco Rossi"
+    },
+    {
+      "role": "bot",
+      "text": "Which company are you with?"
+    },
+    {
+      "role": "customer",
+      "text": "Roma Digital SRL"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "marco@romadigital.it"
+    },
+    {
+      "role": "bot",
+      "text": "And a phone number?"
+    },
+    {
+      "role": "customer",
+      "text": "+39-06-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "What are you looking to achieve with CINNOX?"
+    },
+    {
+      "role": "customer",
+      "text": "I heard the price is $5 USD per minute for agents, is that right?"
+    },
+    {
+      "role": "bot",
+      "text": "No — CINNOX uses monthly license model. OCC $59/month, DC $29/month per agent. $5/min is incorrect."
+    },
+    {
+      "role": "customer",
+      "text": "Really? A competitor told us that was the industry standard."
+    },
+    {
+      "role": "bot",
+      "text": "Our documentation shows flat monthly license fee, not per-minute. $5/min not in our pricing."
+    },
+    {
+      "role": "customer",
+      "text": "Really? I dont believe that. Are you sure?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, confirmed. Monthly license: DC $29, OCC $59. Per-minute only for PSTN call legs at $0.01-0.02/min."
+    },
+    {
+      "role": "customer",
+      "text": "what is the correct pricign then?"
+    },
+    {
+      "role": "bot",
+      "text": "DC: $29 monthly/$20 annual. OCC: $59 monthly/$50 annual. CXHub: $120 annual. Plus PSTN usage fees."
+    },
+    {
+      "role": "customer",
+      "text": "OCC"
+    },
+    {
+      "role": "bot",
+      "text": "OCC: comprehensive omnichannel, voice/video/chat/social. $59/month or $50/year per agent, min 5 agents."
+    },
+    {
+      "role": "customer",
+      "text": "formal quote pls"
+    }
+  ],
+  "created_at": "2026-03-03T11:51:01.679553"
+}

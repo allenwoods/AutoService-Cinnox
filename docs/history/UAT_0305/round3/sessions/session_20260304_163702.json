@@ -1,0 +1,57 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Do you support hologram video calling? We saw it at a trade show."
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "we are new"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nGreat! May I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Alex Kim, FutureMedia Corp, alex.kim@futuremedia.com, +1-415-555-0199"
+    },
+    {
+      "role": "bot",
+      "text": "Let me confirm your details:\n\n- **Name:** Alex Kim\n- **Company:** FutureMedia Corp\n- **Email:** alex.kim@futuremedia.com\n- **Phone:** +1-415-555-0199\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Alex! Your information has been saved.\n\nNow, regarding your question about hologram video calling — let me look that up for you.Hologram video calling is not listed in our current feature documentation. CINNOX does support standard **video calling**, **voice**, and **conference modes** — but hologram capabilities are not part of the platform today.\n\nI want to make sure you have accurate information — would you like me to connect you with our team who can give you the definitive answer?"
+    },
+    {
+      "role": "customer",
+      "text": "Are you sure? We specifically saw the CINNOX name on the booth."
+    },
+    {
+      "role": "bot",
+      "text": "\n\nI understand you saw something at a trade show, and I appreciate you bringing it up! However, based on our current product documentation, hologram video calling is not a feature listed for CINNOX. I wouldn't want to confirm something I can't verify.\n\nIt's possible it was a concept demo or a partner showcase — but I don't have details on that. To get you the most accurate answer, let me connect you with our sales team who would know exactly what was presented. Would you like me to do that?"
+    },
+    {
+      "role": "customer",
+      "text": "What video features do you actually support?"
+    },
+    {
+      "role": "bot",
+      "text": "According to our product documentation, CINNOX supports these video-related features:\n\n- **Video Calling** — 1-to-1 video calls with customers and team members\n- **Screen Sharing** — share your screen during calls\n- **Conference Calls** — instant and scheduled video/voice conferences, including upgrading a 1-to-1 call to a conference\n- **Call Recording & Transcripts** — record video sessions for quality and training\n\nThese are all part of CINNOX's omnichannel contact centre capabilities, alongside live chat, voice, and social media channels.\n\nWould you like more detail on any of these, Alex, or shall we talk about how they might fit FutureMedia Corp's needs?"
+    }
+  ],
+  "created_at": "2026-03-04T16:37:02.622734",
+  "source": "web_button"
+}

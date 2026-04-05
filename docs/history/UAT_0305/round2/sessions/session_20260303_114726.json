@@ -1,0 +1,72 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 16,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "What is your pricing for 50 agents?"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your name first?"
+    },
+    {
+      "role": "customer",
+      "text": "Fatima Al-Rashid"
+    },
+    {
+      "role": "bot",
+      "text": "Which company are you with?"
+    },
+    {
+      "role": "customer",
+      "text": "Dubai Commerce Group"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "fatima@dubaicommerce.ae"
+    },
+    {
+      "role": "bot",
+      "text": "And a phone number?"
+    },
+    {
+      "role": "customer",
+      "text": "+971-4-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "Licensing is per-account. For 50 agents, OCC or CXHub recommended. Connecting to sales for tailored quote."
+    },
+    {
+      "role": "customer",
+      "text": "Is there a discount for larger teams?"
+    },
+    {
+      "role": "bot",
+      "text": "No explicit volume discount rate in docs. OCC/CXHub designed for scale. Sales can confirm."
+    },
+    {
+      "role": "customer",
+      "text": "What if we pay annually instead of monthly?"
+    },
+    {
+      "role": "bot",
+      "text": "Annual rates: DC $20, OCC $50 vs monthly DC $29, OCC $59 per agent. CXHub annual via sales."
+    },
+    {
+      "role": "customer",
+      "text": "Can you give us a formal quote?"
+    },
+    {
+      "role": "bot",
+      "text": "Connecting to sales team for formal quote now."
+    }
+  ],
+  "created_at": "2026-03-03T11:47:26.283354"
+}

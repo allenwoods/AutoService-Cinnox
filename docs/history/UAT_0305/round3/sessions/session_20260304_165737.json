@@ -1,0 +1,49 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 10,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to arrange a demo of CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Great to hear you're interested in CINNOX! I'd love to help arrange that for you.\n\nTo get you connected with the right team, may I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Emma Laurent, Lyon Digital Agency, emma@lyondigital.com"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nNice to meet you, Emma! And thanks for that info.\n\nJust one more detail — what's a phone number we can reach you on?"
+    },
+    {
+      "role": "customer",
+      "text": "I'd rather not give my phone number."
+    },
+    {
+      "role": "bot",
+      "text": "\n\nNo problem at all, Emma! We can reach you by email instead. Would that work for you?"
+    },
+    {
+      "role": "customer",
+      "text": "I really don't want to share it. Please proceed without it."
+    },
+    {
+      "role": "bot",
+      "text": "\n\nUnderstood, Emma — no problem at all. Let me confirm what I have:\n\n- **Name:** Emma Laurent\n- **Company:** Lyon Digital Agency\n- **Email:** emma@lyondigital.com\n\nIs that all correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Emma! Your information has been saved.\n\nNow, regarding the demo — let me connect you with our sales team who can schedule that for you. They'll reach out to you at emma@lyondigital.com to arrange a convenient time.I'm connecting you with our sales team now. They'll be with you shortly. 😊"
+    }
+  ],
+  "created_at": "2026-03-04T16:57:37.322901",
+  "source": "web_button"
+}

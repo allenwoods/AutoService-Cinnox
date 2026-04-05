@@ -1,0 +1,76 @@
+{
+  "customer_type": "existing_customer",
+  "resolution": "resolved",
+  "turn_count": 17,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "How much is a UK local number?"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your name?"
+    },
+    {
+      "role": "customer",
+      "text": "James Wong"
+    },
+    {
+      "role": "bot",
+      "text": "Which company?"
+    },
+    {
+      "role": "customer",
+      "text": "Pacific Bank HK"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your email?"
+    },
+    {
+      "role": "customer",
+      "text": "not now, I would like to know the price first"
+    },
+    {
+      "role": "bot",
+      "text": "We collect email to send accurate quote. Could I grab email and phone quickly?"
+    },
+    {
+      "role": "customer",
+      "text": "why is that"
+    },
+    {
+      "role": "bot",
+      "text": "Helps verify inquiry and send personalised quote. Offer to connect with team member."
+    },
+    {
+      "role": "customer",
+      "text": "Account ID is PBHK-2024"
+    },
+    {
+      "role": "bot",
+      "text": "UK DID: MRC USD 19/month, inbound landline $0.02/min, mobile $0.50/min, outbound to landline $0.74/min, mobile $5.60/min. KYC required."
+    },
+    {
+      "role": "customer",
+      "text": "What about Germany?"
+    },
+    {
+      "role": "bot",
+      "text": "Germany DID: MRC USD 19/month, inbound $0.02/min, outbound to mobile $0.57/min, landline $1.483/min."
+    },
+    {
+      "role": "customer",
+      "text": "And for Hong Kong?"
+    },
+    {
+      "role": "bot",
+      "text": "HK DID: MRC USD 25/month, inbound $0.02/min, outbound to mobile $0.07/min, landline $0.05/min. Comparison table provided."
+    },
+    {
+      "role": "customer",
+      "text": "nothing else, thank you"
+    }
+  ],
+  "created_at": "2026-03-03T13:57:40.723801"
+}

@@ -1,0 +1,40 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "What is your pricing for 50 agents?"
+    },
+    {
+      "role": "bot",
+      "text": "CINNOX uses a per-agent (per-license) billing model — each agent requires a separate license on your chosen plan. For a team of 50 agents, I'd recommend the OCC or CXHub plan. For exact per-agent pricing and volume options, the best path is to get a formal quote from our sales team. Source: CINNOX Pricing (EN_CINNOX_Pricing_07012024_v3)."
+    },
+    {
+      "role": "customer",
+      "text": "Is there a discount for larger teams?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, volume discounts for larger deployments are available through our enterprise pricing — this would be discussed with our sales team for a custom quote. Larger teams like yours typically qualify for preferred pricing. Source: CINNOX Pricing — directs to cinnox.com/pricing for full plan details."
+    },
+    {
+      "role": "customer",
+      "text": "What if we pay annually instead of monthly?"
+    },
+    {
+      "role": "bot",
+      "text": "Annual payment plans are available and typically offer a saving compared to monthly billing. The exact annual rate for your plan would be included in the quote from our sales team. It's worth asking for the annual vs monthly breakdown when we connect you. Source: CINNOX Pricing."
+    },
+    {
+      "role": "customer",
+      "text": "Can you give us a formal quote?"
+    },
+    {
+      "role": "bot",
+      "text": "Absolutely. Let me connect you with our sales team — they'll be able to prepare a formal quote tailored for a 50-agent OCC or CXHub deployment, including volume pricing and annual payment options. Please hold for a moment."
+    }
+  ],
+  "created_at": "2026-03-03T10:22:06.443211"
+}

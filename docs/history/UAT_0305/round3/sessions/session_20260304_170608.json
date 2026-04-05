@@ -1,0 +1,57 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "How much is a UK local number?"
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "new   Jason, PC bank, jason@pcb.com, +85211771177"
+    },
+    {
+      "role": "bot",
+      "text": "Thanks, Jason! Let me confirm your details:\n\n- **Name:** Jason\n- **Company:** PC Bank\n- **Email:** jason@pcb.com\n- **Phone:** +85211771177\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Jason! Your information has been saved.\n\nNow, regarding your question about UK local number pricing — let me look that up for you.According to our published rate sheet, a **UK local number (DID)** has a monthly fee of **US$19/month**.\n\nHere are the associated usage rates:\n\n| Rate Type | Price (US$) |\n|---|---|\n| Monthly fee (MRC) | $19 |\n| Receive call – from mobile | $0.50/min |\n| Receive call – from fixed/landline | $0.02/min |\n| Make call – to mobile | $5.60/min |\n| Make call – to fixed/landline | $0.74/min |\n\nIs there anything else you'd like to know, Jason?"
+    },
+    {
+      "role": "customer",
+      "text": "What about Germany?"
+    },
+    {
+      "role": "bot",
+      "text": "A **Germany local number (DID)** is also **US$19/month**. Here are the usage rates:\n\n| Rate Type | Price (US$) |\n|---|---|\n| Monthly fee (MRC) | $19 |\n| Receive call – from mobile | $0.02/min |\n| Receive call – from fixed/landline | $0.02/min |\n| Make call – to mobile | $0.57/min |\n| Make call – to fixed/landline | $1.483/min |\n\nNotably, Germany's inbound call rates are lower than the UK's. Would you like to compare any other countries, Jason?"
+    },
+    {
+      "role": "customer",
+      "text": "And for Hong Kong?"
+    },
+    {
+      "role": "bot",
+      "text": "A **Hong Kong local number (DID)** is **US$25/month** — slightly higher than the UK and Germany. Here are the usage rates:\n\n| Rate Type | Price (US$) |\n|---|---|\n| Monthly fee (MRC) | $25 |\n| Receive call – from mobile | $0.02/min |\n| Receive call – from fixed/landline | $0.02/min |\n| Make call – to mobile | $0.07/min |\n| Make call – to fixed/landline | $0.05/min |\n\nHong Kong has very competitive outbound call rates compared to the other two regions. Would you like to see any other countries, Jason?"
+    },
+    {
+      "role": "customer",
+      "text": "no"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nAlright! If you have any other questions about CINNOX, feel free to ask anytime. I'm here to help, Jason! 😊"
+    }
+  ],
+  "created_at": "2026-03-04T17:06:08.274894",
+  "source": "web_button"
+}

@@ -1,0 +1,48 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 10,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to arrange a demo of CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help! Could I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Emma Laurent, Lyon Digital Agency, emma@lyondigital.com"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Emma — I have your name, company, and email. Could I also get your phone number? Our team uses it to schedule the demo and reach you quickly if needed."
+    },
+    {
+      "role": "customer",
+      "text": "I'd rather not give my phone number."
+    },
+    {
+      "role": "bot",
+      "text": "No problem — we ask for a phone number to make scheduling faster and easier, but it's not mandatory. If you'd prefer, our team can coordinate entirely via email at emma@lyondigital.com. Would you like to proceed on that basis, or would you prefer I connect you with a team member directly?"
+    },
+    {
+      "role": "customer",
+      "text": "I really don't want to share it. Please proceed without it."
+    },
+    {
+      "role": "bot",
+      "text": "Understood — I'll proceed with email contact only. Let me connect you with one of our team members who can assist you directly and arrange the demo. Please hold for a moment."
+    },
+    {
+      "role": "customer",
+      "text": "Okay, please connect me with someone."
+    },
+    {
+      "role": "bot",
+      "text": "Connecting you now. A team member will be with you shortly to arrange your demo."
+    }
+  ],
+  "created_at": "2026-03-03T10:25:21.329860"
+}

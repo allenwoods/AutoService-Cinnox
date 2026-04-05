@@ -1,0 +1,57 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Hi, I'm interested in CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Hi there! Welcome to CINNOX — great to have you here! 😊\n\nTo make sure I can best assist you, may I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Marco Rossi, Roma Digital SRL , marco@romadigital.it, +39-06-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "Thanks, Marco! Let me confirm your details:\n\n- **Name:** Marco Rossi\n- **Company:** Roma Digital SRL\n- **Email:** marco@romadigital.it\n- **Phone:** +39-06-1234-5678\n\nIs that all correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Marco! Your information has been saved.\n\nNow, what would you like to know about CINNOX? I'm happy to help with features, pricing, integrations — whatever you need! 😊"
+    },
+    {
+      "role": "customer",
+      "text": "I heard the price is $5 USD per minute for agents, is that right?"
+    },
+    {
+      "role": "bot",
+      "text": "Actually, Marco, that doesn't match our published pricing. Based on our pricing documentation, CINNOX charges are structured as **license fees** (per account, based on package) and **usage fees** (per minute/per message depending on the service). For example, some per-minute rates like SIP Dial-In and Audio Transcription are listed at **$0.01 USD per minute** — far from $5.\n\nSpecific rates for services like Virtual Number Dial-In and PSTN Dial-Out follow a rate table that varies by region. I'd recommend visiting [cinnox.com/pricing](https://www.cinnox.com/pricing) for full package details, or I can look up a specific service rate for you. What would you like to know more about?"
+    },
+    {
+      "role": "customer",
+      "text": "Really? A competitor told us that was the industry standard."
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThat's not accurate, Marco. Based on our pricing documentation, CINNOX rates are significantly lower than $5/minute — some usage fees start as low as **$0.01 USD per minute**.\n\nI'd take what competitors say with a grain of salt! 😊 Specific rates do vary by service type and region, so if you tell me which services you're most interested in (e.g., voice calls, SMS, virtual numbers), I can look up the exact rates for you.\n\nWhat does Roma Digital SRL mainly need?"
+    },
+    {
+      "role": "customer",
+      "text": "So what IS the correct pricing then?"
+    },
+    {
+      "role": "bot",
+      "text": "Great question, Marco! Based on our pricing documentation, CINNOX offers three main packages:\n\n| Package | Best For |\n|---|---|\n| **Basic Contact Center (BCC)** | Virtual number call routing to agents |\n| **Digital Commerce (DC)** | E-commerce — live chat, video calls, real-time engagement |\n| **Omnichannel Contact Center (OCC)** | Full omnichannel customer experience |\n\nLicense fees are **per account** and vary by package. Some usage fees for reference:\n\n- **SMS-In:** $0.01 USD/message\n- **SIP Dial-In:** $0.01 USD/minute\n- **Audio Transcription:** $0.01 USD/minute\n- **PSTN Dial-Out & Virtual Number Dial-In:** varies by region (rate table)\n\nFor the full package pricing breakdown, you can visit [cinnox.com/pricing](https://www.cinnox.com/pricing). Or if you'd like, I can connect you with our sales team to get a tailored quote for Roma Digital SRL — would that be helpful?"
+    }
+  ],
+  "created_at": "2026-03-04T16:47:48.387913",
+  "source": "web_button"
+}

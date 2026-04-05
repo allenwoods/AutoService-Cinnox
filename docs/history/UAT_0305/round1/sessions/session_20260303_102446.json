@@ -1,0 +1,40 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Hi, I'm interested in CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Hello! Welcome. I'd be happy to tell you about CINNOX. What are you looking to achieve with a contact center solution?"
+    },
+    {
+      "role": "customer",
+      "text": "I heard the price is $5 USD per minute for agents, is that right?"
+    },
+    {
+      "role": "bot",
+      "text": "That's not correct. CINNOX does not charge agents on a per-minute basis. According to our pricing documentation, agent access is billed as a license fee — a flat subscription per account/agent on your chosen plan (DC, OCC, or CXHub). While there are separate per-minute usage fees for outbound PSTN calls, the agent license itself is not per-minute. Source: CINNOX Pricing (EN_CINNOX_Pricing_07012024_v3)."
+    },
+    {
+      "role": "customer",
+      "text": "Really? A competitor told us that was the industry standard."
+    },
+    {
+      "role": "bot",
+      "text": "I understand the confusion, but I can confirm that CINNOX's model is license-based, not per-minute for agent access. This is documented clearly in our pricing materials. Different vendors have different models — CINNOX uses a subscription license per plan. Source: CINNOX Pricing."
+    },
+    {
+      "role": "customer",
+      "text": "So what IS the correct pricing then?"
+    },
+    {
+      "role": "bot",
+      "text": "CINNOX offers three main plans — Digital Commerce (DC), Omnichannel Contact Centre (OCC), and Ultimate CX Hub (CXHub) — each with a flat license fee per account. You can view the plan comparison and current pricing at cinnox.com/pricing, or I can connect you with our sales team for a tailored quote. Source: CINNOX Pricing (EN_CINNOX_Pricing_07012024_v3)."
+    }
+  ],
+  "created_at": "2026-03-03T10:24:46.507924"
+}

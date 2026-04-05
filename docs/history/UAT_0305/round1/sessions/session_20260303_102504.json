@@ -1,0 +1,56 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to arrange a demo of CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Great! I'd be happy to help arrange a demo. Could I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Emma Laurent"
+    },
+    {
+      "role": "bot",
+      "text": "Nice to meet you, Emma! And which company are you with?"
+    },
+    {
+      "role": "customer",
+      "text": "Lyon Digital Agency"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you. Could I also get your email address so our team can send you the demo confirmation?"
+    },
+    {
+      "role": "customer",
+      "text": "emma@lyondigital.com"
+    },
+    {
+      "role": "bot",
+      "text": "Perfect. And finally, a phone number so our team can reach you to schedule?"
+    },
+    {
+      "role": "customer",
+      "text": "+33-6-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Emma! I've noted all your details — Emma Laurent, Lyon Digital Agency, emma@lyondigital.com, +33-6-1234-5678. Your demo request has been submitted. Our sales team will reach out shortly to schedule it. Do you have a preferred time — for example, weekday mornings or afternoons?"
+    },
+    {
+      "role": "customer",
+      "text": "Yes, any weekday afternoon works for me."
+    },
+    {
+      "role": "bot",
+      "text": "Noted — weekday afternoons. Our team will be in touch very soon to confirm the details. Is there anything specific you'd like to see in the demo?"
+    }
+  ],
+  "created_at": "2026-03-03T10:25:04.940666"
+}

@@ -1,0 +1,41 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Do you have whtsapp intergration?"
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "new Ryan Park , Seoul Media Group , ryan@seoulmediad.com, +82-2-5678-1234"
+    },
+    {
+      "role": "bot",
+      "text": "Nice to meet you, Ryan! Let me confirm your details:\n\n- **Name:** Ryan Park\n- **Company:** Seoul Media Group\n- **Email:** ryan@seoulmediad.com\n- **Phone:** +82-2-5678-1234\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Ryan! Your information has been saved.\n\nNow, regarding your question about WhatsApp integration — let me look that up for you.Yes, CINNOX does support **WhatsApp integration**! According to our product documentation, you can connect WhatsApp as a social channel through **360dialog** (a WhatsApp BSP). This lets you manage WhatsApp conversations alongside your other channels — like Messenger, WeChat, LINE, and Email — all within the CINNOX platform.\n\nWould you like to know more about any other channels or features, Ryan?"
+    },
+    {
+      "role": "customer",
+      "text": "Does it support WhatsApp campaigns too?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, it does! According to our product documentation, CINNOX supports **WhatsApp marketing campaigns** — for example, businesses use them to send seasonal promotions, holiday specials, and product information to customers.\n\nYou can also add a **WhatsApp chatbot** to handle common queries, and CINNOX provides dedicated support in setting up and managing your WhatsApp Business account.\n\nWould you like to know more about how campaigns work, or any other CINNOX features, Ryan?"
+    }
+  ],
+  "created_at": "2026-03-04T17:07:35.891464",
+  "source": "web_button"
+}

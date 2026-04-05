@@ -1,0 +1,57 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Hi, we are looking for a contact center solution for our team."
+    },
+    {
+      "role": "bot",
+      "text": "Hi there! Welcome to CINNOX — I'd love to help you find the right contact center solution for your team! 😊\n\nTo get started, may I have your name?"
+    },
+    {
+      "role": "customer",
+      "text": "My name is Emma Xu, and I'm from Bright Retail."
+    },
+    {
+      "role": "bot",
+      "text": "Nice to meet you, Emma! And thanks for sharing that you're from Bright Retail. 😊\n\nWhat's the best email address to reach you at?"
+    },
+    {
+      "role": "customer",
+      "text": "Sure, my email is emma.xu@brightretail.com"
+    },
+    {
+      "role": "bot",
+      "text": "Perfect, got it! And a phone number we can reach you on?"
+    },
+    {
+      "role": "customer",
+      "text": "My phone number is +852-9123-4567"
+    },
+    {
+      "role": "bot",
+      "text": "Let me confirm your details before I save them:\n\n- **Name**: Emma Xu\n- **Company**: Bright Retail\n- **Email**: emma.xu@brightretail.com\n- **Phone**: +852-9123-4567\n\nDoes that all look correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Emma! Your information has been saved. 😊\n\nNow, regarding your interest in a contact center solution — let me look that up for you!Great news, Emma! CINNOX offers a dedicated contact center solution tailored for businesses like Bright Retail.\n\nBased on our product documentation, CINNOX provides:\n- **Voice & virtual number services** — handle inbound/outbound customer calls with local or virtual numbers\n- **Digital messaging** — SMS campaigns, notifications, and customer engagement tools\n- **Omnichannel support** — serve customers across voice, chat, and messaging channels from a single platform\n\nWe have packages ranging from a **Basic Contact Center** (ideal for voice-first teams) to more advanced **Digital Commerce** plans for retailers looking to engage customers across multiple channels.\n\nCould you tell me a bit more about your team's needs? For example:\n- How many agents will be using the platform?\n- Are you looking to support voice calls, digital messaging, or both?"
+    },
+    {
+      "role": "customer",
+      "text": "10 agents. Mainly voice calss"
+    },
+    {
+      "role": "bot",
+      "text": "Based on our pricing documentation, the **Basic Contact Center (BCC)** plan sounds like a great fit for Bright Retail — it's designed specifically for voice-first teams using virtual numbers with CINNOX agents.\n\nHere's what's included:\n- **Voice customer service** via virtual & online virtual numbers\n- **SIP Dial-In**: USD $0.01/min per leg\n- **Audio Transcription**: USD $0.01/min\n\nFor a team of **10 agents**, I'd recommend connecting you with our sales team to get an accurate license fee quote tailored to your team size. Let me connect you with them now!"
+    }
+  ],
+  "created_at": "2026-03-04T15:43:45.662726",
+  "source": "web_button"
+}

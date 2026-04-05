@@ -1,0 +1,32 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 6,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Does CINNOX support WhatsApp integration?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, CINNOX supports WhatsApp Business integration. According to our CINNOX Feature List (2026), you can manage WhatsApp inquiries directly from the CINNOX platform, alongside other channels. Source: EN_CINNOX_Feature_List_v2026."
+    },
+    {
+      "role": "customer",
+      "text": "Which pricing plan includes WhatsApp?"
+    },
+    {
+      "role": "bot",
+      "text": "WhatsApp is available on the Omnichannel Contact Centre (OCC) and Ultimate CX Hub (CXHub) plans. It is not included in the Digital Commerce (DC) plan. Source: CINNOX Documentation — Signup a CINNOX Account."
+    },
+    {
+      "role": "customer",
+      "text": "Can we run WhatsApp marketing campaigns?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, WhatsApp campaign messaging is supported. Based on our Feature List, campaign management is available, and WhatsApp campaigns can be run with 360dialog integration. You can also purchase a WhatsApp Business number as an add-on — for specific number pricing, I'd recommend speaking with our sales team for an accurate quote. Source: EN_CINNOX_Feature_List_v2026."
+    }
+  ],
+  "created_at": "2026-03-03T10:13:12.835637"
+}

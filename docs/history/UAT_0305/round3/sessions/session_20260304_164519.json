@@ -1,0 +1,41 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "What is your pricing for 50 agents?"
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with pricing for 50 agents! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "we are new, Fatima Al-Rashid"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nNice to meet you, Fatima! And what's your company name?"
+    },
+    {
+      "role": "customer",
+      "text": "Dubai Commerce Group, fatima@dubaicommerce.ae, +971-4-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThank you, Fatima! Let me confirm your details:\n\n- **Name:** Fatima Al-Rashid\n- **Company:** Dubai Commerce Group\n- **Email:** fatima@dubaicommerce.ae\n- **Phone:** +971-4-1234-5678\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Fatima! Your information has been saved.\n\nNow, regarding your question about pricing for 50 agents — let me look that up for you.Based on our pricing documentation, CINNOX offers several plans that could fit your needs:\n\n- **Digital Commerce (DC)** — focused on online customer engagement with live chat, video calls, and real-time tools\n- **Omnichannel Contact Centre (OCC)** — the most popular plan for multi-channel customer support\n- **Ultimate CX Hub** — advanced customer experience tools\n\nHowever, a deployment of **50 agents** would typically require a custom enterprise quote tailored to your specific needs and usage. Our documentation directs larger deployments to work directly with our sales team for the best pricing.\n\nI'm connecting you with our sales team now. They'll be with you shortly — they can put together a customised package and pricing for Dubai Commerce Group's 50-agent setup.━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  Session Ended\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    }
+  ],
+  "created_at": "2026-03-04T16:45:19.893928",
+  "source": "web_button"
+}

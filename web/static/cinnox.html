@@ -1,0 +1,1993 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CINNOX AI Bot</title>
+  <script src="/static/js/marked.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --brand:      #0057ff;
+      --brand-dark: #0048d4;
+      --brand-bg:   #eef3ff;
+      --bot-bg:     #f3f6fb;
+      --user-bg:    #0057ff;
+      --user-color: #fff;
+      --header-h:   60px;
+      --input-h:    72px;
+      --sidebar-w:  260px;
+      --radius:     14px;
+    }
+
+    html, body { height: 100%; overflow: hidden; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f3f6fb;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────────── */
+    header {
+      height: var(--header-h);
+      background: #fff;
+      border-bottom: 1px solid #e5e7eb;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      flex-shrink: 0;
+      z-index: 10;
+    }
+
+    .hd-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .hd-logo { flex-shrink: 0; }
+    .hd-ver {
+      font-size: 11px;
+      font-weight: 600;
+      background: #e8f0fe;
+      color: #002855;
+      border-radius: 20px;
+      padding: 2px 9px;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .hd-ver:hover { background: #d0e0fc; }
+
+    .hd-right {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    #conn-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #9ca3af;
+      transition: background 0.3s;
+    }
+    #conn-dot.live { background: #22c55e; }
+    #conn-dot.err  { background: #ef4444; }
+    #conn-label { font-size: 12px; color: #6b7280; }
+
+    .btn-end, .btn-logout {
+      font-size: 13px;
+      font-weight: 600;
+      padding: 6px 16px;
+      border: 1.5px solid #e5e7eb;
+      border-radius: 8px;
+      background: #fff;
+      color: #374151;
+      cursor: pointer;
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .btn-end:hover    { border-color: #ef4444; color: #ef4444; }
+    .btn-logout       { color: #6b7280; }
+    .btn-logout:hover { border-color: #6b7280; color: #374151; }
+
+    /* ── Body layout ─────────────────────────────────────────────────── */
+    .layout {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+    }
+
+    /* ── Chat column ─────────────────────────────────────────────────── */
+    .chat-col {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 24px 20px 12px;
+      scroll-behavior: smooth;
+    }
+
+    /* welcome */
+    .welcome {
+      text-align: center;
+      padding: 32px 16px;
+      color: #9ca3af;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+    .welcome strong { color: #374151; display: block; font-size: 16px; margin-bottom: 6px; }
+
+    /* bubble row */
+    .msg-row {
+      display: flex;
+      margin-bottom: 18px;
+    }
+    .msg-row.user { justify-content: flex-end; }
+    .msg-row.bot  { justify-content: flex-start; }
+
+    .bubble {
+      padding: 12px 16px;
+      border-radius: var(--radius);
+      font-size: 14px;
+      line-height: 1.65;
+      word-break: break-word;
+    }
+    .msg-row.user .bubble {
+      max-width: 72%;
+      background: var(--user-bg);
+      color:      var(--user-color);
+      border-bottom-right-radius: 4px;
+      white-space: pre-wrap;
+      position: relative;
+    }
+    .queued-badge {
+      display: inline-block;
+      margin-left: 8px;
+      padding: 1px 8px;
+      font-size: 11px;
+      color: rgba(255,255,255,0.8);
+      background: rgba(255,255,255,0.2);
+      border-radius: 8px;
+      vertical-align: middle;
+    }
+    .msg-row.bot .bubble {
+      max-width: 85%;
+      background: #fff;
+      color:      #1f2937;
+      border-bottom-left-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+    /* Markdown elements inside bot bubbles */
+    .msg-row.bot .bubble p  { margin: 0 0 8px; }
+    .msg-row.bot .bubble p:last-child { margin-bottom: 0; }
+    .msg-row.bot .bubble ul,
+    .msg-row.bot .bubble ol { margin: 4px 0 8px 18px; }
+    .msg-row.bot .bubble li { margin-bottom: 3px; }
+    .msg-row.bot .bubble strong { font-weight: 700; }
+    .msg-row.bot .bubble em    { font-style: italic; }
+    .msg-row.bot .bubble code  {
+      background: #f3f4f6; padding: 1px 5px; border-radius: 4px;
+      font-family: monospace; font-size: 12.5px;
+    }
+    .msg-row.bot .bubble pre {
+      background: #f3f4f6; padding: 10px 12px; border-radius: 8px;
+      overflow-x: auto; margin: 6px 0;
+    }
+    .msg-row.bot .bubble pre code { background: none; padding: 0; font-size: 12.5px; }
+    .msg-row.bot .bubble .table-wrap {
+      overflow-x: auto; margin: 6px 0;
+    }
+    .msg-row.bot .bubble table {
+      border-collapse: collapse; width: max-content; min-width: 100%; font-size: 13px;
+    }
+    .msg-row.bot .bubble th,
+    .msg-row.bot .bubble td {
+      border: 1px solid #e5e7eb; padding: 5px 10px; text-align: left; white-space: nowrap;
+    }
+    .msg-row.bot .bubble th { background: #f9fafb; font-weight: 700; }
+    .msg-row.bot .bubble hr { border: none; border-top: 1px solid #e5e7eb; margin: 8px 0; }
+
+    /* bot avatar — CINNOX brand dark blue */
+    .avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #002855;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      margin-right: 10px;
+      margin-top: 2px;
+    }
+    .avatar svg { width: 17px; height: 17px; fill: #fff; }
+
+    /* human agent avatar — green gradient */
+    .avatar.human { background: linear-gradient(135deg, #059669 0%, #34d399 100%); }
+
+    /* human agent bubble — subtle green tint */
+    .msg-row.human-agent .bubble {
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      border-bottom-left-radius: 4px;
+    }
+    .msg-row.human-agent .bubble p  { margin: 0 0 8px; }
+    .msg-row.human-agent .bubble p:last-child { margin-bottom: 0; }
+    .msg-row.human-agent .bubble strong { font-weight: 700; }
+    .msg-row.human-agent .bubble code {
+      background: #dcfce7; padding: 1px 5px; border-radius: 4px;
+      font-family: monospace; font-size: 12.5px;
+    }
+    .agent-label {
+      font-size: 10px; font-weight: 700; color: #059669;
+      margin-bottom: 3px; letter-spacing: 0.03em;
+    }
+
+    /* typing indicator */
+    .typing-row { display: flex; margin-bottom: 18px; }
+    .typing-bubble {
+      background: #fff;
+      border-radius: var(--radius);
+      border-bottom-left-radius: 4px;
+      padding: 14px 18px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+      display: flex;
+      gap: 5px;
+      align-items: center;
+    }
+    .dot { width: 7px; height: 7px; border-radius: 50%; background: #9ca3af; animation: bounce 1.2s infinite; }
+    .dot:nth-child(2) { animation-delay: 0.2s; }
+    .dot:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes bounce {
+      0%, 80%, 100% { transform: translateY(0); }
+      40%           { transform: translateY(-6px); }
+    }
+
+    /* KB sources card */
+    .kb-card {
+      margin: -10px 0 14px 42px;
+      background: var(--brand-bg);
+      border: 1px solid #c7d9ff;
+      border-radius: 10px;
+      overflow: hidden;
+      font-size: 12.5px;
+    }
+    .kb-card-header {
+      padding: 8px 14px;
+      font-weight: 700;
+      color: var(--brand);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      user-select: none;
+    }
+    .kb-card-header .arrow { transition: transform 0.2s; }
+    .kb-card-header.open .arrow { transform: rotate(180deg); }
+    .kb-card-body { display: none; border-top: 1px solid #c7d9ff; }
+    .kb-card-body.open { display: block; }
+    .kb-source {
+      padding: 9px 14px;
+      border-bottom: 1px solid #dce8ff;
+      color: #374151;
+      line-height: 1.5;
+    }
+    .kb-source:last-child { border-bottom: none; }
+    .kb-source .src-name { font-weight: 600; color: #0057ff; }
+
+    /* ── Subagent Trace panel ────────────────────────────────────── */
+    .subagent-card {
+      margin: -10px 0 14px 42px;
+      background: #f8f6ff;
+      border: 1px solid #d4ccff;
+      border-radius: 10px;
+      overflow: hidden;
+      font-size: 12.5px;
+    }
+    .subagent-card-header {
+      padding: 8px 14px;
+      font-weight: 700;
+      color: #6b21a8;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      user-select: none;
+    }
+    .subagent-card-header .arrow { transition: transform 0.2s; }
+    .subagent-card-header.open .arrow { transform: rotate(180deg); }
+    .subagent-card-body { display: none; border-top: 1px solid #d4ccff; }
+    .subagent-card-body.open { display: block; }
+    .subagent-entry {
+      padding: 8px 14px;
+      border-bottom: 1px solid #e8e0ff;
+      color: #374151;
+      line-height: 1.5;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    .subagent-entry:last-child { border-bottom: none; }
+    .subagent-entry .sa-icon { flex-shrink: 0; font-size: 13px; }
+    .subagent-entry .sa-name { font-weight: 600; color: #6b21a8; min-width: 110px; }
+    .subagent-entry .sa-time { color: #9ca3af; font-size: 11.5px; min-width: 45px; }
+    .subagent-entry .sa-preview { color: #6b7280; font-size: 11.5px; margin-top: 2px; }
+    .subagent-live {
+      margin: -10px 0 4px 42px;
+      font-size: 12px;
+      color: #6b21a8;
+    }
+    .kb-source .src-section { font-style: italic; color: #6b7280; margin-left: 6px; }
+    .kb-source .src-snippet { margin-top: 4px; color: #4b5563; }
+
+    /* Input area */
+    .input-area {
+      height: var(--input-h);
+      background: #fff;
+      border-top: 1px solid #e5e7eb;
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      gap: 10px;
+      flex-shrink: 0;
+    }
+
+    #msg-input {
+      flex: 1;
+      padding: 11px 16px;
+      border: 1.5px solid #e5e7eb;
+      border-radius: 10px;
+      font-size: 14px;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.15s;
+      background: #f9fafb;
+    }
+    #msg-input:focus { border-color: var(--brand); background: #fff; }
+    #msg-input:disabled { background: #f3f4f6; color: #9ca3af; cursor: not-allowed; }
+
+    .btn-send {
+      padding: 11px 22px;
+      background: var(--brand);
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+      flex-shrink: 0;
+    }
+    .btn-send:hover:not(:disabled) { background: var(--brand-dark); }
+    .btn-send:disabled { background: #9ca3af; cursor: not-allowed; }
+
+    /* ── Sidebar ─────────────────────────────────────────────────────── */
+    .sidebar {
+      width: var(--sidebar-w);
+      background: #fff;
+      border-left: 1px solid #e5e7eb;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+
+    .sb-section {
+      padding: 18px 16px 14px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .sb-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #9ca3af;
+      margin-bottom: 12px;
+    }
+
+    .info-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      margin-bottom: 9px;
+      font-size: 13px;
+    }
+    .info-key {
+      color: #6b7280;
+      width: 68px;
+      flex-shrink: 0;
+      padding-top: 1px;
+    }
+    .info-val {
+      color: #111827;
+      font-weight: 500;
+      word-break: break-all;
+    }
+    .pill {
+      display: inline-block;
+      padding: 2px 9px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 700;
+    }
+    .pill-blue   { background: var(--brand-bg); color: var(--brand); }
+    .pill-green  { background: #d1fae5; color: #065f46; }
+    .pill-gray   { background: #f3f4f6; color: #6b7280; }
+    .pill-orange { background: #fff7ed; color: #92400e; }
+
+    .field-row {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      margin-bottom: 7px;
+      font-size: 13px;
+      color: #374151;
+    }
+    .field-row .tick { font-size: 12px; }
+    .tick.done { color: #22c55e; }
+    .tick.wait { color: #d1d5db; }
+
+    .kb-stat {
+      font-size: 13px;
+      color: #374151;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 6px;
+    }
+    .kb-stat span:last-child { font-weight: 600; color: #111827; }
+
+    #kb-query-list { font-size: 12px; color: #6b7280; margin-top: 4px; }
+    .kb-query-item {
+      padding: 4px 0;
+      border-bottom: 1px dashed #e5e7eb;
+      color: #374151;
+    }
+    .kb-query-item:last-child { border: none; }
+
+    /* Session history */
+    .sess-item {
+      padding: 7px 0;
+      border-bottom: 1px solid #f0f0f0;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .sess-item:last-child { border: none; }
+    .sess-item:hover .sess-id { color: var(--brand); }
+    .sess-id   { font-weight: 600; color: #374151; font-size: 11px; }
+    .sess-meta { color: #9ca3af; margin-top: 2px; display: flex; gap: 6px; flex-wrap: wrap; }
+
+    /* Session detail modal */
+    .modal-backdrop {
+      display: none;
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .modal-backdrop.open { display: flex; opacity: 1; }
+    .modal {
+      background: #fff;
+      border-radius: 14px;
+      width: min(680px, 92vw);
+      max-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 12px 48px rgba(0,0,0,0.22);
+      transform: translateY(12px);
+      transition: transform 0.2s;
+    }
+    .modal-backdrop.open .modal { transform: translateY(0); }
+    .modal-header {
+      padding: 16px 20px;
+      border-bottom: 1px solid #e5e7eb;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .modal-header h3 { font-size: 15px; font-weight: 700; }
+    .modal-close {
+      border: none; background: #f3f4f6; font-size: 18px;
+      cursor: pointer; color: #6b7280; line-height: 1;
+      width: 28px; height: 28px; border-radius: 6px;
+      display: flex; align-items: center; justify-content: center;
+      transition: background 0.15s, color 0.15s;
+    }
+    .modal-close:hover { background: #e5e7eb; color: #111827; }
+    .modal-body {
+      padding: 16px 20px;
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    /* Changelog modal markdown styling */
+    #changelog-body h2 { font-size: 15px; font-weight: 700; color: #111827; margin: 20px 0 8px; padding-bottom: 6px; border-bottom: 1px solid #f0f0f0; }
+    #changelog-body h2:first-child { margin-top: 0; }
+    #changelog-body h3 { font-size: 13px; font-weight: 600; color: #002855; margin: 12px 0 4px; }
+    #changelog-body ul { margin: 4px 0 12px 18px; padding: 0; }
+    #changelog-body li { font-size: 13px; line-height: 1.7; color: #374151; margin-bottom: 2px; }
+    #changelog-body code { background: #f3f4f6; padding: 1px 5px; border-radius: 4px; font-size: 12px; }
+    .modal-meta { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; font-size: 13px; }
+    .modal-meta span { color: #6b7280; }
+    .modal-meta strong { color: #111827; }
+    .conv-turn {
+      margin-bottom: 10px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .conv-turn.bot  { background: #f3f6fb; }
+    .conv-turn.user { background: var(--brand-bg); text-align: right; }
+    .conv-turn .turn-role { font-size: 10px; font-weight: 700; text-transform: uppercase;
+                            letter-spacing: 0.06em; color: #9ca3af; margin-bottom: 3px; }
+    .conv-empty { color: #9ca3af; font-size: 13px; text-align: center; padding: 20px 0; }
+
+    /* Modal footer */
+    .modal-footer {
+      padding: 12px 20px;
+      border-top: 1px solid #e5e7eb;
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+    .btn-resume {
+      padding: 9px 20px;
+      background: var(--brand);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .btn-resume:hover { background: var(--brand-dark); }
+
+    /* Resume indicator in history list */
+    .sess-resume-dot {
+      display: inline-block;
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: #22c55e;
+      vertical-align: middle;
+      margin-right: 3px;
+    }
+
+    /* ── Mode tabs ───────────────────────────────────────────────────── */
+    .mode-tabs {
+      display: flex;
+      background: #f3f4f6;
+      border-radius: 8px;
+      padding: 3px;
+      gap: 2px;
+    }
+    .mode-tab {
+      padding: 5px 16px;
+      border: none;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      background: transparent;
+      color: #6b7280;
+      transition: all 0.15s;
+    }
+    .mode-tab.active.sales   { background: var(--brand); color: #fff; }
+    .mode-tab.active.service { background: #f97316;      color: #fff; }
+    .mode-tab:not(.active):hover { background: #e5e7eb; color: #374151; }
+
+    /* Language toggle — fixed width to prevent layout shift */
+    .lang-toggle {
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 0;
+      width: 42px;
+      text-align: center;
+      border: 1.5px solid #e5e7eb;
+      border-radius: 6px;
+      background: #fff;
+      color: #374151;
+      cursor: pointer;
+      transition: border-color 0.15s;
+      user-select: none;
+      flex-shrink: 0;
+    }
+    .lang-toggle:hover { border-color: var(--brand); color: var(--brand); }
+
+    /* ── Mobile hamburger toggle ───────────────────────────────────────── */
+    .btn-sidebar-toggle {
+      display: none;
+      border: 1.5px solid #e5e7eb;
+      border-radius: 8px;
+      background: #fff;
+      padding: 6px 10px;
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 1;
+      color: #374151;
+      flex-shrink: 0;
+    }
+    .btn-sidebar-toggle:hover { border-color: var(--brand); color: var(--brand); }
+
+    /* ── Mobile sidebar overlay backdrop ─────────────────────────────── */
+    .sidebar-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      top: var(--header-h);
+      background: rgba(0,0,0,0.35);
+      z-index: 49;
+    }
+    .sidebar-backdrop.open { display: block; }
+
+    /* ── Responsive ─────────────────────────────────────────────────────── */
+    /* ── Mobile sidebar action buttons (End / Exit) ──────────────── */
+    .sb-actions {
+      display: none;       /* hidden on desktop */
+      padding: 14px 16px;
+      border-bottom: 1px solid #f0f0f0;
+      gap: 10px;
+    }
+    .sb-actions .btn-end,
+    .sb-actions .btn-logout { flex: 1; text-align: center; }
+
+    @media (max-width: 768px) {
+      :root { --sidebar-w: 280px; --header-h: auto; }
+
+      .btn-sidebar-toggle { display: block; }
+
+      /* Header: two-row layout */
+      header {
+        flex-wrap: wrap;
+        padding: 8px 12px;
+        height: auto;
+        gap: 6px;
+      }
+      /* Row 1: brand left, actions right */
+      .hd-brand { gap: 6px; order: 1; }
+      .hd-right { gap: 8px; order: 2; }
+      /* Row 2: mode tabs — flat underline style on mobile */
+      .mode-tabs {
+        order: 3;
+        width: 100%;
+        justify-content: center;
+        background: none;
+        border-radius: 0;
+        border-top: 1px solid #e5e7eb;
+        padding: 0;
+        margin: 2px -12px -8px;   /* bleed to header edges, pull down to border */
+        gap: 0;
+      }
+      .mode-tab {
+        flex: 1;
+        border-radius: 0;
+        padding: 8px 0;
+        border-bottom: 2.5px solid transparent;
+        transition: color 0.15s, border-color 0.15s;
+      }
+      .mode-tab.active.sales   { background: none; color: var(--brand); border-bottom-color: var(--brand); }
+      .mode-tab.active.service { background: none; color: #f97316;      border-bottom-color: #f97316; }
+      .mode-tab:not(.active)   { color: #9ca3af; }
+      .mode-tab:not(.active):hover { background: none; color: #374151; }
+
+      /* Hide End/Exit buttons from header on mobile — they move to sidebar */
+      .hd-right > .btn-end,
+      .hd-right > .btn-logout { display: none; }
+      #conn-label { display: none; }
+
+      /* Show action buttons in sidebar on mobile */
+      .sb-actions { display: flex; }
+
+      /* Sidebar: off-screen overlay */
+      .sidebar {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 50;
+        transform: translateX(100%);
+        transition: transform 0.25s ease;
+        box-shadow: -4px 0 20px rgba(0,0,0,0.12);
+      }
+      .sidebar.mobile-open { transform: translateX(0); }
+
+      /* Backdrop covers from top */
+      .sidebar-backdrop { top: 0; }
+
+      /* Chat area stretches full width */
+      .chat-col { width: 100%; }
+
+      /* Smaller bubbles */
+      .bubble { max-width: 88%; }
+      #messages { padding: 16px 12px 8px; }
+      .input-area { padding: 0 10px; gap: 8px; }
+    }
+
+    @media (max-width: 480px) {
+      .mode-tab { padding: 4px 10px; font-size: 11px; }
+      .hd-ver { font-size: 10px; padding: 2px 7px; }
+      .lang-toggle { width: 36px; font-size: 11px; }
+      .btn-send { padding: 11px 16px; font-size: 13px; }
+    }
+
+    /* Powered-by footer in sidebar */
+    .sb-m800 {
+      padding: 14px 16px;
+      margin-top: auto;
+      text-align: center;
+      border-top: 1px solid #f0f0f0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      color: #9ca3af;
+      font-size: 12px;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────────────────────── -->
+<header>
+  <div class="hd-brand">
+    <img src="/static/img/m800-logo.png" alt="M800" style="height:22px">
+    <img src="/static/img/cinnox-logo.svg" alt="CINNOX" style="height:16px">
+    <span class="hd-ver" id="hd-ver" onclick="showChangelog()" title="View changelog">v0.0.0</span>
+  </div>
+  <div class="mode-tabs">
+    <button class="mode-tab sales active" onclick="switchMode('sales')" data-i18n="salesAI">Sales AI</button>
+    <button class="mode-tab service"       onclick="switchMode('service')" data-i18n="supportAI">Support AI</button>
+  </div>
+
+  <div class="hd-right">
+    <button class="lang-toggle" id="lang-btn" onclick="toggleLang()">中文</button>
+    <div id="conn-dot"></div>
+    <span id="conn-label">Connecting…</span>
+    <button class="btn-end" id="btn-end" onclick="endSession()">End Session</button>
+    <button class="btn-logout" id="btn-logout" onclick="logout()" title="Sign out and release access code">Exit</button>
+    <button class="btn-sidebar-toggle" id="btn-sidebar-toggle" onclick="toggleSidebar()" title="Toggle sidebar">☰</button>
+  </div>
+</header>
+
+<!-- ── Body ────────────────────────────────────────────────────────────── -->
+<div class="layout">
+
+  <!-- Chat column -->
+  <div class="chat-col">
+    <div id="messages">
+      <div class="welcome" id="welcome-msg">
+        <strong data-i18n="welcomeTitleSales">CINNOX Sales AI is ready</strong>
+        <span data-i18n="welcomeDescSales">Ask about our products, features, pricing, or integrations.</span><br>
+        <span data-i18n="welcomeBegin">Type a message below to begin.</span>
+      </div>
+    </div>
+    <div class="input-area">
+      <input id="msg-input" type="text"
+             placeholder="Ask about CINNOX features or pricing…"
+             disabled>
+      <button class="btn-send" id="send-btn" onclick="send()" disabled></button>
+    </div>
+  </div>
+
+  <!-- Sidebar backdrop (mobile) -->
+  <div class="sidebar-backdrop" id="sidebar-backdrop" onclick="toggleSidebar()"></div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+
+    <!-- Mobile-only: End Session / Exit buttons -->
+    <div class="sb-actions">
+      <button class="btn-end" onclick="endSession()" data-i18n="endSession">End Session</button>
+      <button class="btn-logout" onclick="logout()" data-i18n="logoutBtn">Exit</button>
+    </div>
+
+    <div class="sb-section">
+      <div class="sb-title" data-i18n="sbSession">Session</div>
+      <div class="info-row">
+        <span class="info-key" data-i18n="sbType">Type</span>
+        <span class="info-val" id="si-type"><span class="pill pill-gray" data-i18n="typeUnknown">Unknown</span></span>
+      </div>
+      <div class="info-row">
+        <span class="info-key" data-i18n="sbStatus">Status</span>
+        <span class="info-val" id="si-status"><span class="pill pill-gray" data-i18n="statusIdle">Idle</span></span>
+      </div>
+    </div>
+
+    <div class="sb-section" id="fields-section">
+      <div class="sb-title" data-i18n="sbLeadInfo">Lead Info</div>
+      <div class="field-row"><span class="tick wait" id="f-name-tick">●</span> <span data-i18n="fName">Name</span></div>
+      <div class="field-row"><span class="tick wait" id="f-company-tick">●</span> <span data-i18n="fCompany">Company</span></div>
+      <div class="field-row"><span class="tick wait" id="f-email-tick">●</span> <span data-i18n="fEmail">Email</span></div>
+      <div class="field-row"><span class="tick wait" id="f-phone-tick">●</span> <span data-i18n="fPhone">Phone</span></div>
+    </div>
+
+    <div class="sb-section" id="service-fields-section" style="display:none">
+      <div class="sb-title" data-i18n="sbAccountInfo">Account Info</div>
+      <div class="field-row"><span class="tick wait" id="f-accountid-tick">●</span> <span data-i18n="fAccountId">Account ID</span></div>
+      <div class="field-row"><span class="tick wait" id="f-agentname-tick">●</span> <span data-i18n="fAgentName">Agent Name</span></div>
+      <div class="field-row"><span class="tick wait" id="f-serviceno-tick">●</span> <span data-i18n="fServiceNo">Service No.</span></div>
+      <div class="field-row"><span class="tick wait" id="f-issue-tick">●</span> <span data-i18n="fIssue">Issue Type</span></div>
+    </div>
+
+    <div class="sb-section" id="agent-section" style="display:none">
+      <div class="sb-title" data-i18n="sbAgent">Agent</div>
+      <div style="display:flex;align-items:center;gap:8px;margin-top:4px">
+        <div style="width:28px;height:28px;border-radius:50%;background:linear-gradient(135deg,#059669,#34d399);display:flex;align-items:center;justify-content:center;flex-shrink:0">
+          <svg viewBox="0 0 24 24" style="width:14px;height:14px;fill:#fff"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>
+        </div>
+        <div>
+          <div id="agent-name" style="font-size:13px;font-weight:700;color:#1f2937"></div>
+          <div id="agent-role" style="font-size:11px;color:#6b7280"></div>
+        </div>
+        <span style="margin-left:auto;font-size:10px;font-weight:700;color:#059669;background:#dcfce7;padding:2px 7px;border-radius:99px">Online</span>
+      </div>
+    </div>
+
+    <div class="sb-section">
+      <div class="sb-title" data-i18n="sbKB">Knowledge Base</div>
+      <div class="kb-stat"><span data-i18n="kbQueries">Queries</span><span id="kb-count">0</span></div>
+      <div id="kb-query-list"></div>
+    </div>
+
+    <div class="sb-section">
+      <div class="sb-title" data-i18n="sbAccess">Access</div>
+      <div class="info-row">
+        <span class="info-key" data-i18n="sbLabel">Label</span>
+        <span class="info-val" id="si-label">—</span>
+      </div>
+      <div class="info-row">
+        <span class="info-key" data-i18n="sbExpires">Expires</span>
+        <span class="info-val" id="si-expires">—</span>
+      </div>
+    </div>
+
+    <div class="sb-section">
+      <div class="sb-title" data-i18n="sbHistory">History</div>
+      <div id="sess-list"><span style="font-size:12px;color:#9ca3af" data-i18n="loading">Loading…</span></div>
+    </div>
+
+    <div class="sb-m800">
+      <span data-i18n="poweredBy">Powered by</span>
+      <img src="/static/img/onesyn-logo.svg" alt="OneSyn" style="height:40px">
+    </div>
+
+  </aside>
+</div><!-- .layout -->
+
+<!-- ── Session detail modal ─────────────────────────────────────────────── -->
+<div class="modal-backdrop" id="sess-modal" onclick="closeModal(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <h3 id="modal-title" data-i18n="modalTitle">Session Detail</h3>
+      <button class="modal-close" onclick="closeModal()">×</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-meta" id="modal-meta"></div>
+      <div id="modal-conv"></div>
+    </div>
+    <div class="modal-footer" id="modal-footer"></div>
+  </div>
+</div>
+
+<!-- ── Changelog modal ──────────────────────────────────────────────────── -->
+<div class="modal-backdrop" id="changelog-modal" onclick="closeChangelog(event)">
+  <div class="modal" style="max-width:560px">
+    <div class="modal-header">
+      <h3 id="changelog-title">Changelog</h3>
+      <button class="modal-close" onclick="closeChangelog()">×</button>
+    </div>
+    <div class="modal-body" id="changelog-body"></div>
+  </div>
+</div>
+
+<script>
+// ── Auth check ──────────────────────────────────────────────────────────
+const token     = sessionStorage.getItem('cinnox_token');
+const expiresAt = sessionStorage.getItem('cinnox_expires_at');
+const label     = sessionStorage.getItem('cinnox_label') || '';
+
+if (!token) { window.location.href = '/login'; }
+
+document.getElementById('si-label').textContent   = label   || '(demo)';
+document.getElementById('si-expires').textContent = expiresAt || '—';
+
+// ── i18n ────────────────────────────────────────────────────────────────
+const I18N = {
+  en: {
+    // Header
+    badge: 'AI Bot Demo', salesAI: 'Sales AI', supportAI: 'Support AI',
+    endSession: 'End Session', logoutBtn: 'Exit', langBtn: '中文',
+    // Connection
+    connecting: 'Connecting…', connected: 'Connected', disconnected: 'Disconnected',
+    // Welcome
+    welcomeTitleSales: 'CINNOX Sales AI is ready',
+    welcomeTitleService: 'CINNOX Support AI is ready',
+    welcomeDescSales: 'Ask about our products, features, pricing, or integrations.',
+    welcomeDescService: "Describe your issue or ask about your account — I'm here to help.",
+    welcomeBegin: 'Type a message below to begin.',
+    // Input
+    placeholderSales: 'Ask about CINNOX features or pricing…',
+    placeholderService: 'Describe your issue or ask about your account…',
+    sendBtn: 'Send',
+    // Sidebar
+    sbSession: 'Session', sbType: 'Type', sbStatus: 'Status',
+    sbLeadInfo: 'Lead Info', sbAccountInfo: 'Account Info',
+    sbAgent: 'Agent', sbKB: 'Knowledge Base', kbQueries: 'Queries',
+    sbAccess: 'Access', sbLabel: 'Label', sbExpires: 'Expires',
+    sbHistory: 'History',
+    // Fields
+    fName: 'Name', fCompany: 'Company', fEmail: 'Email', fPhone: 'Phone',
+    fAccountId: 'Account ID', fAgentName: 'Agent Name', fServiceNo: 'Service No.', fIssue: 'Issue Type',
+    // Status pills
+    statusIdle: 'Idle', statusActive: 'Active', statusEnded: 'Ended',
+    statusConnecting: 'Connecting…', statusResuming: 'Resuming…', statusEnding: 'Ending…',
+    statusAgentOnline: 'Agent Online', statusResumed: 'Resumed',
+    // Type pills
+    typeUnknown: 'Unknown', typeNew: 'New Customer', typeExisting: 'Existing Customer',
+    typePartner: 'Partner', typeExistingShort: 'Existing',
+    // Resolution pills
+    resResolved: 'Resolved', resTransferred: 'Transferred', resAbandoned: 'Abandoned', resUnknown: 'Unknown',
+    // Modal
+    modalTitle: 'Session Detail', modalMode: 'Mode', modalType: 'Type',
+    modalResolution: 'Resolution', modalDate: 'Date', modalTurns: 'Turns',
+    modalResume: '▶ Resume This Session', modalNotResumable: 'Not resumable (no Claude session ID)',
+    modalNoConv: 'No conversation turns recorded.',
+    // History
+    loading: 'Loading…', noSessions: 'No sessions yet', loadFailed: 'Failed to load',
+    turns: 'turns',
+    // System messages
+    sessionEnded: 'Session ended. Thank you!',
+    agentJoined: 'has joined the conversation',
+    sessionResumed: 'Resumed session',
+    prevConvAbove: '—— Previous conversation above · Continue below ——',
+    waitSwitch: 'The bot is still responding — please wait a moment, then switch to',
+    notConnected: 'Not connected — please wait for connection and try again.',
+    waitReply: 'Please wait for the current reply to finish before resuming a session.',
+    // Mode labels
+    salesLabel: 'Sales', supportLabel: 'Support',
+    salesAILabel: 'Sales AI', supportAILabel: 'Support AI',
+    poweredBy: 'Powered by',
+    thinkingWait: 'Thinking, please wait...',
+    thinkingAnalyze: 'Analyzing your question...',
+    thinkingKB: 'Searching knowledge base...',
+    thinkingSaveLead: 'Saving your information...',
+    thinkingOrganize: 'Organizing results...',
+    queued: 'queued',
+  },
+  zh: {
+    badge: 'AI 机器人演示', salesAI: '销售 AI', supportAI: '客服 AI',
+    endSession: '结束会话', logoutBtn: '退出', langBtn: 'EN',
+    connecting: '连接中…', connected: '已连接', disconnected: '已断开',
+    welcomeTitleSales: 'CINNOX 销售 AI 已就绪',
+    welcomeTitleService: 'CINNOX 客服 AI 已就绪',
+    welcomeDescSales: '了解我们的产品、功能、定价或集成方案。',
+    welcomeDescService: '描述您的问题或查询您的账户——我随时为您服务。',
+    welcomeBegin: '在下方输入消息开始对话。',
+    placeholderSales: '询问 CINNOX 功能或价格…',
+    placeholderService: '描述您的问题或查询账户…',
+    sendBtn: '发送',
+    sbSession: '会话', sbType: '类型', sbStatus: '状态',
+    sbLeadInfo: '线索信息', sbAccountInfo: '账户信息',
+    sbAgent: '客服专员', sbKB: '知识库', kbQueries: '查询次数',
+    sbAccess: '访问', sbLabel: '标签', sbExpires: '过期时间',
+    sbHistory: '历史记录',
+    fName: '姓名', fCompany: '公司', fEmail: '邮箱', fPhone: '电话',
+    fAccountId: '账户 ID', fAgentName: '客服姓名', fServiceNo: '服务号码', fIssue: '问题类型',
+    statusIdle: '空闲', statusActive: '活跃', statusEnded: '已结束',
+    statusConnecting: '连接中…', statusResuming: '恢复中…', statusEnding: '结束中…',
+    statusAgentOnline: '客服在线', statusResumed: '已恢复',
+    typeUnknown: '未知', typeNew: '新客户', typeExisting: '现有客户',
+    typePartner: '合作伙伴', typeExistingShort: '现有客户',
+    resResolved: '已解决', resTransferred: '已转接', resAbandoned: '已放弃', resUnknown: '未知',
+    modalTitle: '会话详情', modalMode: '模式', modalType: '类型',
+    modalResolution: '结果', modalDate: '日期', modalTurns: '轮次',
+    modalResume: '▶ 恢复此会话', modalNotResumable: '不可恢复（无 Claude 会话 ID）',
+    modalNoConv: '没有对话记录。',
+    loading: '加载中…', noSessions: '暂无会话', loadFailed: '加载失败',
+    turns: '轮',
+    sessionEnded: '会话已结束，谢谢！',
+    agentJoined: '已加入对话',
+    sessionResumed: '已恢复会话',
+    prevConvAbove: '—— 以上为历史对话 · 继续对话请在下方输入 ——',
+    waitSwitch: '机器人正在回复中——请稍候再切换到',
+    notConnected: '未连接——请等待连接后重试。',
+    waitReply: '请等待当前回复完成后再恢复会话。',
+    salesLabel: '销售', supportLabel: '客服',
+    salesAILabel: '销售 AI', supportAILabel: '客服 AI',
+    poweredBy: '技术支持',
+    thinkingWait: '正在思考中，请稍候...',
+    thinkingAnalyze: '正在分析您的问题...',
+    thinkingKB: '正在查询知识库...',
+    thinkingSaveLead: '正在保存您的信息...',
+    thinkingOrganize: '正在整理查询结果...',
+    queued: '排队中',
+  }
+};
+
+let currentLang = localStorage.getItem('cinnox_lang') || 'en';
+
+function t(key) { return (I18N[currentLang] || I18N.en)[key] || (I18N.en)[key] || key; }
+
+function applyI18n() {
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.getAttribute('data-i18n');
+    const text = t(key);
+    if (text) el.textContent = text;
+  });
+  // Special elements
+  document.getElementById('lang-btn').textContent    = t('langBtn');
+  document.getElementById('btn-end').textContent     = t('endSession');
+  document.getElementById('btn-logout').textContent  = t('logoutBtn');
+  document.getElementById('send-btn').textContent    = t('sendBtn');
+  // Update placeholder based on mode
+  const inp = document.getElementById('msg-input');
+  if (!inp.disabled) {
+    inp.placeholder = currentMode === 'sales' ? t('placeholderSales') : t('placeholderService');
+  }
+}
+
+function toggleLang() {
+  currentLang = currentLang === 'en' ? 'zh' : 'en';
+  localStorage.setItem('cinnox_lang', currentLang);
+  applyI18n();
+  loadSessions();
+  fetchChangelog();
+}
+
+// ── DOM refs ────────────────────────────────────────────────────────────
+const msgDiv   = document.getElementById('messages');
+const msgInput = document.getElementById('msg-input');
+const sendBtn  = document.getElementById('send-btn');
+const connDot  = document.getElementById('conn-dot');
+const connLbl  = document.getElementById('conn-label');
+
+// ── Sidebar state ───────────────────────────────────────────────────────
+let kbQueryCount = 0;
+const kbQueryList = document.getElementById('kb-query-list');
+
+function sbSetType(type) {
+  const map = {
+    new_customer:      ['typeNew',      'pill-blue'],
+    existing_customer: ['typeExisting', 'pill-orange'],
+    existing:          ['typeExisting', 'pill-orange'],
+    partner:           ['typePartner',  'pill-green'],
+    unknown:           ['typeUnknown',  'pill-gray'],
+  };
+  const [key, cls] = map[type] || ['typeUnknown', 'pill-gray'];
+  document.getElementById('si-type').innerHTML = `<span class="pill ${cls}">${t(key)}</span>`;
+}
+
+function sbSetStatus(txt, cls='pill-gray') {
+  document.getElementById('si-status').innerHTML = `<span class="pill ${cls}">${txt}</span>`;
+}
+
+function sbMarkField(field) {
+  const el = document.getElementById(`f-${field}-tick`);
+  if (el) { el.textContent = '✓'; el.classList.replace('wait', 'done'); }
+}
+
+// Detect lead info from complete bot message (called once per turn with full text)
+function parseLeadHints(text) {
+  // ── Customer type ──────────────────────────────────────────────────────
+  // Customer type — use else-if so bot option menus (listing all types) don't cause overwrites.
+  // The allSaved block below will definitively set the correct type once all fields are collected.
+  // partner: match "partner", "partners", "partnership", "partnerships"
+  if (/\bpartner(?:ship)?s?\b|reseller|system integrator|代理商|分销商/i.test(text)
+      && !/新客户|new customer|existing customer|现有客户/i.test(text))
+    sbSetType('partner');
+  else if (/existing customer|现有客户|account\s*id|账户.*id|service number|坐席|虚拟电话|无法接听/i.test(text)
+           && !/新客户|new customer/i.test(text))
+    sbSetType('existing_customer');
+  else if (/new customer|新客户|what.*your name|may i.*your name|请问.*姓名|您的姓名|nice to meet you|很高兴认识您|很高兴认识|your (email address|phone number)|could you share your (email|phone|company name)|请问您的.*(邮箱|电话|公司)|请问.*公司名称|电子邮箱地址/i.test(text))
+    sbSetType('new_customer');
+
+  // ── All fields saved at once ──────────────────────────────────────────
+  // English: "Your details have been saved", "I've recorded your info"
+  // Chinese: "资料已成功记录", "信息已收齐", "您的资料已成功记录"
+  // Summary format EN: Name:...Company:...Email:   CN: 姓名：…公司：…邮箱：
+  const allSaved =
+    /信息已成功保存|已成功保存.*信息|成功保存了您的|信息已保存|已登记信息|资料已成功记录|信息已收齐|您的资料已成功|successfully (saved|recorded)|i.ve (recorded|saved) your (info|details)|details.*have.*been.*saved|your.*details.*saved|saved.*your.*details/i.test(text)
+    || /\bname\b[\s\S]{0,60}\bcompany\b[\s\S]{0,80}\bemail\b/i.test(text)
+    || /姓名[：:][\s\S]{0,60}公司[：:][\s\S]{0,60}邮箱[：:]/i.test(text);
+  if (allSaved) {
+    ['name', 'company', 'email', 'phone'].forEach(sbMarkField);
+    // Don't override to new_customer if the same message contains partner signals
+    if (!/\bpartner(?:ship)?s?\b|reseller|system integrator|代理商|分销商/i.test(text))
+      sbSetType('new_customer');
+    return;
+  }
+
+  // ── Individual field confirmations ──────────────────────────────────────
+  if (/姓名[：:☑✓]|很高兴认识您|很高兴认识|thank you.*name|(got it|great|perfect|nice to meet you).*,?\s+\w/i.test(text)) sbMarkField('name');
+  if (/公司[：:☑✓]|公司名称是|(thank you|got it|great|好的|收到).*公司|noted.*company|company.*noted/i.test(text))         sbMarkField('company');
+  if (/邮箱[：:☑✓]|电子邮件[：:]|(thank you|got it|great|收到).*email|noted.*email/i.test(text))                         sbMarkField('email');
+  if (/电话[：:☑✓]|电话[号码]*[：:]\s*\d|(thank you|got it|great).*phone|noted.*phone/i.test(text))                      sbMarkField('phone');
+}
+
+// Detect account info from complete bot message (service mode)
+function sbMarkServiceField(field) {
+  const el = document.getElementById(`f-${field}-tick`);
+  if (el) { el.textContent = '✓'; el.classList.replace('wait', 'done'); }
+}
+
+function parseServiceHints(text) {
+  // ── Customer type (check partner first, then existing, most-specific signals) ──
+  if (/\bpartner\b|合作伙伴|reseller|distributor|system integrator|代理商/i.test(text))
+    sbSetType('partner');
+  else if (/existing customer|现有客户|my account|our agent|cannot receive|billing|overcharged|we (are |)using cinnox|账户\s*(id|号)|account\s*id|坐席|客服.*座席|虚拟电话|通话质量|无法接听|无法拨出|服务异常/i.test(text))
+    sbSetType('existing_customer');
+
+  // ── All fields at once (confirmation summary) ──
+  if (/信息已成功保存|account.*noted|details.*recorded|i.ve.*noted your (account|details)|已记录您的账户/i.test(text)) {
+    ['accountid','agentname','serviceno','issue'].forEach(sbMarkServiceField);
+    return;
+  }
+
+  // ── Individual field confirmations (Chinese + English) ──
+  if (/account\s*id|账户\s*(id|号).*[，,。！\?]|收到.*账户|账户.*记下/i.test(text))  sbMarkServiceField('accountid');
+  if (/agent.?name|noted.*agent|坐席|操作员|技术员|员工.*姓名|姓名.*坐席/i.test(text)) sbMarkServiceField('agentname');
+  if (/service\s*(number|no\.?)|服务号码|服务号/i.test(text))                          sbMarkServiceField('serviceno');
+  if (/issue.*noted|problem.*noted|问题.*记录|issue type|got it.*issue|了解.*问题|问题.*了解/i.test(text)) sbMarkServiceField('issue');
+}
+
+// ── Mode management ──────────────────────────────────────────────────────
+let currentMode = 'sales';  // 'sales' | 'service'
+
+function applyMode(mode) {
+  currentMode = mode;
+  const isSales = mode === 'sales';
+
+  // Mode tabs
+  document.querySelectorAll('.mode-tab').forEach(btn => {
+    const isThis = btn.classList.contains(mode);
+    btn.classList.toggle('active', isThis);
+  });
+
+  // Sidebar sections
+  document.getElementById('fields-section').style.display         = isSales ? '' : 'none';
+  document.getElementById('service-fields-section').style.display = isSales ? 'none' : '';
+
+  // Input placeholder
+  msgInput.placeholder = isSales ? t('placeholderSales') : t('placeholderService');
+}
+
+function switchMode(mode) {
+  if (mode === currentMode) return;
+  if (waitingReply) {
+    const modeLabel = mode === 'sales' ? t('salesAILabel') : t('supportAILabel');
+    addSystemMsg(`⏳ ${t('waitSwitch')} ${modeLabel}.`);
+    scroll();
+    return;
+  }
+
+  // Fully detach old socket before creating new one
+  if (ws) {
+    ws.onopen    = null;
+    ws.onclose   = null;
+    ws.onmessage = null;
+    ws.onerror   = null;
+    if (ws.readyState < WebSocket.CLOSING) ws.close();
+    ws = null;
+  }
+
+  applyMode(mode);
+
+  // Reset chat and sidebar
+  msgDiv.innerHTML = `
+    <div class="welcome">
+      <strong>${mode === 'sales' ? t('welcomeTitleSales') : t('welcomeTitleService')}</strong>
+      ${mode === 'sales' ? t('welcomeDescSales') : t('welcomeDescService')}
+      <br>${t('welcomeBegin')}
+    </div>`;
+  sbSetType('unknown');
+  sbSetStatus(t('statusConnecting'), 'pill-gray');
+  enableInput(false);
+  kbQueryCount = 0;
+  currentHumanAgent = null;
+  document.getElementById('agent-section').style.display = 'none';
+  document.getElementById('kb-count').textContent = '0';
+  kbQueryList.innerHTML = '';
+
+  // Reset tick fields
+  ['name','company','email','phone'].forEach(f => {
+    const el = document.getElementById(`f-${f}-tick`);
+    if (el) { el.textContent = '●'; el.className = 'tick wait'; }
+  });
+  ['accountid','agentname','serviceno','issue'].forEach(f => {
+    const el = document.getElementById(`f-${f}-tick`);
+    if (el) { el.textContent = '●'; el.className = 'tick wait'; }
+  });
+
+  connect();
+}
+
+// ── WebSocket ───────────────────────────────────────────────────────────
+let ws = null;
+let waitingReply = false;
+let msgQueue = [];               // queued user messages while AI is responding
+let currentWebSessionId = null;  // web_session_id received from server
+let pendingBotRow    = null;   // current bot message row element
+let pendingBotBubble = null;   // bubble div inside pendingBotRow (for delta appends)
+let pendingBotText   = '';     // raw markdown text accumulated during streaming
+let pendingKbCard    = null;   // pending KB card (attached after bot text)
+let pendingSubagentTrace = []; // accumulated subagent entries for current bot turn
+let currentHumanAgent = null;  // {name, role} once agent has joined, else null
+let lastWsMsgTime = 0;         // timestamp of last received WS message (for watchdog)
+let wsWatchdogTimer = null;    // client-side watchdog to detect stuck state
+
+function sbShowHumanAgent(name, role) {
+  document.getElementById('agent-name').textContent = name;
+  document.getElementById('agent-role').textContent = role;
+  document.getElementById('agent-section').style.display = '';
+}
+
+// Configure marked: safe rendering, no mangle
+marked.setOptions({ breaks: true, gfm: true });
+function renderMd(text) {
+  let html = marked.parse(text || '');
+  // Wrap tables in scrollable container
+  html = html.replace(/<table>/g, '<div class="table-wrap"><table>').replace(/<\/table>/g, '</table></div>');
+  return html;
+}
+
+function startWatchdog() {
+  stopWatchdog();
+  wsWatchdogTimer = setInterval(() => {
+    if (!waitingReply) { stopWatchdog(); return; }
+    const elapsed = Date.now() - lastWsMsgTime;
+    if (elapsed > 30000) {
+      // No WS message for 30s while waiting — connection likely dead
+      console.warn('[watchdog] no WS message for 30s, forcing reconnect');
+      stopWatchdog();
+      if (ws) {
+        ws.onclose = null; // prevent double reconnect
+        ws.close();
+      }
+      removeTyping();
+      msgQueue = []; // clear queue on disconnect
+      _turnDone();
+      setTimeout(connect, 500);
+    }
+  }, 10000);
+}
+function stopWatchdog() {
+  if (wsWatchdogTimer) { clearInterval(wsWatchdogTimer); wsWatchdogTimer = null; }
+}
+
+function connect() {
+  setConn('connecting');
+  const proto = location.protocol === 'https:' ? 'wss:' : 'ws:';
+  ws = new WebSocket(`${proto}//${location.host}/ws/cinnox`);
+
+  ws.onopen = () => {
+    ws.send(JSON.stringify({ token, mode: currentMode }));
+  };
+
+  ws.onclose = (ev) => {
+    setConn('error');
+    stopWatchdog();
+    if (ev.code === 1008) {
+      // Auth failure — back to login
+      sessionStorage.clear();
+      window.location.href = '/login';
+    } else {
+      // Reconnect after 3 s
+      setTimeout(connect, 3000);
+    }
+  };
+
+  ws.onerror = () => setConn('error');
+
+  ws.onmessage = (ev) => {
+    lastWsMsgTime = Date.now();
+    const data = JSON.parse(ev.data);
+    if (data.type !== 'bot_text_delta' && data.type !== 'heartbeat') {
+      console.log('[ws]', data.type, data);
+    }
+    handleMsg(data);
+  };
+}
+
+function handleMsg(data) {
+  switch (data.type) {
+
+    case 'ready':
+      setConn('live');
+      removeTyping();
+      waitingReply = false;
+      enableInput(true);  // ready is initial connect — always enable, don't drain
+      sbSetStatus(t('statusActive'), 'pill-green');
+      currentWebSessionId = data.web_session_id || null;
+      if (data.mode) applyMode(data.mode);
+      loadSessions();
+      break;
+
+    // ── Session resumed (history loaded) ─────────────────────────────────
+    case 'session_resumed': {
+      closeModal();
+      if (data.mode) applyMode(data.mode);
+      currentWebSessionId = data.web_session_id;
+      // Restore human agent state variables
+      const resumeAgentActive = !!data.human_agent_active;
+      const resumeAgentName   = data.human_agent_name || '';
+      const resumeAgentRole   = data.human_agent_role || '';
+      const resumeEscTurn     = (data.escalation_turn >= 0) ? data.escalation_turn : -1;
+      // Clear chat and replay history
+      msgDiv.innerHTML = '';
+      addSystemMsg(`▶ ${t('sessionResumed')}: ${(data.web_session_id || '').replace('session_', '').replace(/_/g, ' ')}`);
+      const hist = data.history || [];
+      let agentJoinMsgShown = false;
+      hist.forEach((t, i) => {
+        if (t.role === 'user') {
+          addUserBubble(t.content);
+        } else {
+          const isAgentMsg = resumeAgentActive && resumeEscTurn >= 0 && i >= resumeEscTurn;
+          // Insert agent-joined system message before first agent bubble during replay
+          if (isAgentMsg && !agentJoinMsgShown && resumeAgentName) {
+            currentHumanAgent = { name: resumeAgentName, role: resumeAgentRole };
+            addSystemMsg(`👤 ${resumeAgentName} (${resumeAgentRole}) ${t('agentJoined')}`);
+            agentJoinMsgShown = true;
+          }
+          addBotBubble(t.content, isAgentMsg);
+        }
+      });
+      addSystemMsg(t('prevConvAbove'));
+      waitingReply = false;
+      enableInput(true);  // resume — always enable, don't drain
+      // Restore Type from saved session data
+      if (data.customer_type) sbSetType(data.customer_type);
+      // Restore human agent sidebar if session had agent active
+      if (resumeAgentActive && resumeAgentName) {
+        currentHumanAgent = { name: resumeAgentName, role: resumeAgentRole };
+        sbShowHumanAgent(resumeAgentName, resumeAgentRole);
+        sbSetStatus(t('statusAgentOnline'), 'pill-green');
+      } else {
+        const resMap = { resolved: ['resResolved', 'pill-green'], transferred: ['resTransferred', 'pill-orange'], abandoned: ['resAbandoned', 'pill-gray'] };
+        const [rKey, rCls] = resMap[data.resolution] || ['statusResumed', 'pill-blue'];
+        sbSetStatus(t(rKey), rCls);
+      }
+      scroll();
+      break;
+    }
+
+    // ── Human agent joined ────────────────────────────────────────────────
+    case 'agent_joined': {
+      currentHumanAgent = data.agent;
+      sbShowHumanAgent(data.agent.name, data.agent.role);
+      addSystemMsg(`👤 ${data.agent.name} (${data.agent.role}) ${t('agentJoined')}`);
+      sbSetStatus(t('statusAgentOnline'), 'pill-green');
+      scroll();
+      break;
+    }
+
+    // ── Turn metadata (model selection) ────────────────────────────────────
+    case 'turn_meta': {
+      _currentTurnModel = data.model || 'haiku';
+      if (_currentTurnModel !== 'haiku') {
+        _activatePatienceTimer(); // only sonnet gets patience placeholder
+      }
+      break;
+    }
+
+    // ── Thinking / processing status (updates placeholder bubble) ─────────
+    case 'thinking': {
+      if (pendingBotBubble && pendingBotBubble.dataset.placeholder) {
+        const _lu2 = [...msgDiv.querySelectorAll('.msg-row.user .bubble')].pop();
+        const _cl = (_lu2 && /[\u4e00-\u9fff]/.test(_lu2.textContent)) ? 'zh' : 'en';
+        const txt = data.i18n_key
+          ? (I18N[_cl] || I18N.en)[data.i18n_key] || data.i18n_key
+          : data.content;
+        if (txt) {
+          pendingBotBubble.innerHTML = `<p>${escHtml(txt)}</p>`;
+          scroll();
+        }
+      }
+      break;
+    }
+
+    // ── Streaming text delta (local Claude runtime) ───────────────────────
+    case 'bot_text_delta': {
+      removeTyping();
+      _clearPatienceTimer();
+      const thinkEl = document.getElementById('thinking-indicator');
+      if (thinkEl) thinkEl.remove();
+      if (!pendingBotRow) {
+        const result = addBotBubble('', !!currentHumanAgent);
+        pendingBotRow    = result.row;
+        pendingBotBubble = result.bubble;
+        pendingBotText   = '';
+      }
+      // Clear placeholder if it was showing
+      if (pendingBotBubble && pendingBotBubble.dataset.placeholder) {
+        delete pendingBotBubble.dataset.placeholder;
+        pendingBotText = '';
+      }
+      // Accumulate raw markdown, re-render the whole bubble
+      pendingBotText += data.content;
+      const label = currentHumanAgent ? `<div class="agent-label">${currentHumanAgent.name}</div>` : '';
+      pendingBotBubble.innerHTML = label + renderMd(pendingBotText);
+      scroll();
+      break;
+    }
+
+    // ── KB search in progress ──────────────────────────────────────────────
+    case 'kb_searching': {
+      // Show a small searching indicator above the typing dots
+      const el = document.getElementById('kb-searching-indicator');
+      if (!el) {
+        const ind = document.createElement('div');
+        ind.id = 'kb-searching-indicator';
+        ind.style.cssText = 'text-align:center;color:#0057ff;font-size:12px;margin:4px 0 2px;';
+        ind.textContent = `🔍 Searching KB: "${(data.query||'').slice(0,50)}"`;
+        msgDiv.appendChild(ind);
+      }
+      recordKbQuery(data.query, []);
+      scroll();
+      break;
+    }
+
+    // ── KB sources (parsed from tool result JSON) ──────────────────────────
+    case 'kb_sources': {
+      const ind = document.getElementById('kb-searching-indicator');
+      if (ind) ind.remove();
+      if ((data.sources || []).length > 0) {
+        recordKbQuery(data.query, data.sources);
+        pendingKbCard = buildKbCard(data.query, data.sources);
+      }
+      break;
+    }
+
+    // ── Subagent dispatched ────────────────────────────────────────────────
+    case 'subagent_start': {
+      const saInd = document.getElementById('subagent-live-indicator');
+      if (saInd) {
+        saInd.textContent = `\u2699\uFE0F Subagent: ${(data.name||'').slice(0,40)}...`;
+      } else {
+        const ind = document.createElement('div');
+        ind.id = 'subagent-live-indicator';
+        ind.className = 'subagent-live';
+        ind.textContent = `\u2699\uFE0F Subagent: ${(data.name||'').slice(0,40)}...`;
+        msgDiv.appendChild(ind);
+      }
+      scroll();
+      break;
+    }
+
+    // ── Subagent returned ───────────────────────────────────────────────────
+    case 'subagent_result': {
+      pendingSubagentTrace.push({
+        name: data.name || 'unknown',
+        elapsed: data.elapsed || 0,
+        result_preview: (data.result_preview || '').slice(0, 300),
+      });
+      const saInd2 = document.getElementById('subagent-live-indicator');
+      if (saInd2) saInd2.textContent = `\u2705 ${data.name} done (${data.elapsed||0}s)`;
+      break;
+    }
+
+    // ── Full bot_text (fallback, not normally used with local runtime) ─────
+    case 'bot_text': {
+      removeTyping();
+      if (!pendingBotRow) {
+        const result = addBotBubble('');
+        pendingBotRow    = result.row;
+        pendingBotBubble = result.bubble;
+        pendingBotBubble.innerHTML = renderMd(data.content);
+      }
+      if (pendingKbCard) {
+        pendingBotRow.after(pendingKbCard);
+        pendingKbCard = null;
+      }
+      parseLeadHints(data.content);
+      scroll();
+      break;
+    }
+
+    case 'done': {
+      stopWatchdog();
+      _clearPatienceTimer();
+      try {
+        const thinkInd = document.getElementById('thinking-indicator');
+        if (thinkInd) thinkInd.remove();
+        const ind2 = document.getElementById('kb-searching-indicator');
+        if (ind2) ind2.remove();
+        const saInd3 = document.getElementById('subagent-live-indicator');
+        if (saInd3) saInd3.remove();
+        // Attach any pending KB card below the bot bubble
+        let lastAttached = pendingBotRow;
+        if (pendingBotRow && pendingKbCard) {
+          pendingBotRow.after(pendingKbCard);
+          lastAttached = pendingKbCard;
+        }
+        // Build subagent trace card (use done payload or accumulated entries)
+        const traceEntries = (data.subagent_trace && data.subagent_trace.length)
+          ? data.subagent_trace : pendingSubagentTrace;
+        if (traceEntries.length > 0 && lastAttached) {
+          const saCard = buildSubagentCard(traceEntries);
+          lastAttached.after(saCard);
+        }
+        // Parse the complete bot reply for sidebar updates
+        if (pendingBotText) {
+          if (currentMode === 'sales') parseLeadHints(pendingBotText);
+          else parseServiceHints(pendingBotText);
+        }
+      } catch (e) {
+        console.error('[done] error in post-processing:', e);
+      }
+      pendingBotRow    = null;
+      pendingBotBubble = null;
+      pendingBotText   = '';
+      pendingKbCard    = null;
+      pendingSubagentTrace = [];
+      loadSessions();
+      _turnDone();  // drain queue or re-enable input
+      break;
+    }
+
+    case 'session_ended':
+      addSystemMsg(t('sessionEnded'));
+      enableInput(false);
+      sbSetStatus(t('statusEnded'), 'pill-gray');
+      loadSessions();
+      break;
+
+    case 'error':
+      removeTyping();
+      _clearPatienceTimer();
+      const ind3 = document.getElementById('kb-searching-indicator');
+      if (ind3) ind3.remove();
+      addSystemMsg('⚠ ' + data.content);
+      msgQueue = []; // clear queue on error
+      _turnDone();
+      break;
+
+    case 'heartbeat':
+      // Server keepalive during long operations — no action needed
+      break;
+  }
+}
+
+// ── Patience placeholder (shows in chat bubble for sonnet turns only) ────
+let _patienceTimer = null;
+let _currentTurnModel = 'haiku';  // updated by turn_meta from server
+function _startPatienceTimer() {
+  _clearPatienceTimer();
+  // Don't start timer — will be activated by turn_meta if model is sonnet
+}
+function _activatePatienceTimer() {
+  _clearPatienceTimer();
+  _patienceTimer = setTimeout(() => {
+    if (!pendingBotRow && waitingReply) {
+      removeTyping();
+      // Follow chat language (not UI language) — check last user message
+      const _lu = [...msgDiv.querySelectorAll('.msg-row.user .bubble')].pop();
+      const _chatLang = (_lu && /[\u4e00-\u9fff]/.test(_lu.textContent)) ? 'zh' : 'en';
+      const msg = (I18N[_chatLang] || I18N.en).thinkingWait;
+      const result = addBotBubble('', !!currentHumanAgent);
+      pendingBotRow    = result.row;
+      pendingBotBubble = result.bubble;
+      pendingBotText   = '';
+      pendingBotBubble.innerHTML = `<p>${msg}</p>`;
+      pendingBotBubble.dataset.placeholder = '1';
+      scroll();
+    }
+  }, 6000); // 6s after turn_meta arrives (sonnet only)
+}
+function _clearPatienceTimer() {
+  if (_patienceTimer) { clearTimeout(_patienceTimer); _patienceTimer = null; }
+}
+
+// ── Send message (non-blocking: queue if AI is responding) ──────────────
+function send() {
+  const text = msgInput.value.trim();
+  if (!text || !ws || ws.readyState !== WebSocket.OPEN) return;
+
+  msgInput.value = '';
+
+  if (waitingReply) {
+    // AI is responding — queue the message, show it in chat with "queued" badge
+    msgQueue.push(text);
+    addUserBubble(text, true);  // true = queued
+    msgInput.focus();
+    return;
+  }
+
+  _sendNow(text);
+}
+
+function _sendNow(text, skipBubble) {
+  if (!skipBubble) addUserBubble(text);
+  waitingReply   = true;
+  lastWsMsgTime  = Date.now();
+  pendingKbCard  = null;
+  pendingSubagentTrace = [];
+  addTyping();
+  startWatchdog();
+  _startPatienceTimer();
+  // Keep input enabled — user can queue more messages
+  msgInput.focus();
+
+  ws.send(JSON.stringify({ type: 'user_message', content: text }));
+}
+
+// Process next queued message (called when AI finishes a turn)
+function _drainQueue() {
+  if (msgQueue.length > 0) {
+    const next = msgQueue.shift();
+    // Remove "queued" badge from the corresponding user bubble
+    const queuedBadges = msgDiv.querySelectorAll('.queued-badge');
+    if (queuedBadges.length > 0) queuedBadges[0].remove();
+    _sendNow(next, true);  // skip bubble — already shown when queued
+    return true;
+  }
+  return false;
+}
+
+// Called when AI finishes a turn — drain queue or re-enable input
+function _turnDone() {
+  waitingReply = false;
+  if (!_drainQueue()) {
+    enableInput(true);
+  }
+}
+
+msgInput.addEventListener('keydown', e => { if (e.key === 'Enter') send(); });
+
+// ── End session ─────────────────────────────────────────────────────────
+function endSession() {
+  if (ws && ws.readyState === WebSocket.OPEN) {
+    ws.send(JSON.stringify({ type: 'end_session' }));
+  }
+  sbSetStatus(t('statusEnding'), 'pill-gray');
+}
+
+// ── Logout (release code lock and return to login) ───────────────────────
+async function logout() {
+  const tok = sessionStorage.getItem('cinnox_token');
+  if (tok) {
+    try { await fetch('/auth/logout', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ token: tok }) }); }
+    catch (_) {}
+  }
+  sessionStorage.clear();
+  window.location.href = '/login';
+}
+
+// ── Bubble helpers ──────────────────────────────────────────────────────
+function addUserBubble(text, queued) {
+  const row    = document.createElement('div');
+  row.className = 'msg-row user';
+  const badge = queued ? `<span class="queued-badge">${t('queued')}</span>` : '';
+  row.innerHTML  = `<div class="bubble">${escHtml(text)}${badge}</div>`;
+  msgDiv.appendChild(row);
+  scroll();
+}
+
+function addBotBubble(text, isHumanAgent) {
+  const row = document.createElement('div');
+  row.className = isHumanAgent ? 'msg-row bot human-agent' : 'msg-row bot';
+  const avatarClass = isHumanAgent ? 'avatar human' : 'avatar';
+  const avatarIcon  = isHumanAgent
+    ? `<svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>`
+    : `<svg viewBox="0 0 24 24"><path d="M20 2H4C2.9 2 2 2.9 2 4v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>`;
+  const label = isHumanAgent && currentHumanAgent
+    ? `<div class="agent-label">${currentHumanAgent.name}</div>` : '';
+  row.innerHTML = `
+    <div class="${avatarClass}">${avatarIcon}</div>
+    <div><div class="bubble">${label}${text ? renderMd(text) : ''}</div></div>`;
+  msgDiv.appendChild(row);
+  return { row, bubble: row.querySelector('.bubble') };
+}
+
+function addTyping() {
+  const row    = document.createElement('div');
+  row.className = 'typing-row';
+  row.id        = 'typing-indicator';
+  row.innerHTML  = `
+    <div class="avatar">
+      <svg viewBox="0 0 24 24"><path d="M20 2H4C2.9 2 2 2.9 2 4v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>
+    </div>
+    <div class="typing-bubble"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>`;
+  msgDiv.appendChild(row);
+  scroll();
+}
+
+function removeTyping() {
+  const el = document.getElementById('typing-indicator');
+  if (el) el.remove();
+}
+
+function addSystemMsg(text) {
+  const el     = document.createElement('div');
+  el.style.cssText = 'text-align:center;color:#9ca3af;font-size:12px;margin:10px 0;';
+  el.textContent   = text;
+  msgDiv.appendChild(el);
+  scroll();
+}
+
+// ── KB card ─────────────────────────────────────────────────────────────
+function buildKbCard(query, sources) {
+  const card   = document.createElement('div');
+  card.className = 'kb-card';
+  const count    = sources.length;
+  const hdr      = document.createElement('div');
+  hdr.className  = 'kb-card-header open';
+  hdr.innerHTML  = `
+    <span>📚 KB: "${escHtml(query)}" — ${count} result${count !== 1 ? 's' : ''}</span>
+    <span class="arrow">▾</span>`;
+  const body    = document.createElement('div');
+  body.className = 'kb-card-body open';
+  sources.forEach(s => {
+    const src      = document.createElement('div');
+    src.className  = 'kb-source';
+    src.innerHTML  = `
+      <span class="src-name">${escHtml(s.source_name || 'Unknown')}</span>
+      ${s.section ? `<span class="src-section">${escHtml(s.section)}</span>` : ''}
+      <div class="src-snippet">${escHtml((s.snippet || '').slice(0, 220))}${(s.snippet || '').length > 220 ? '…' : ''}</div>`;
+    body.appendChild(src);
+  });
+  hdr.addEventListener('click', () => {
+    hdr.classList.toggle('open');
+    body.classList.toggle('open');
+  });
+  card.appendChild(hdr);
+  card.appendChild(body);
+  return card;
+}
+
+function buildSubagentCard(entries) {
+  const card = document.createElement('div');
+  card.className = 'subagent-card';
+  const totalT = entries.reduce((s, e) => s + (e.elapsed || 0), 0);
+  const hdr = document.createElement('div');
+  hdr.className = 'subagent-card-header';
+  hdr.innerHTML = `
+    <span>\u2699\uFE0F Subagent Trace (${entries.length} agent${entries.length !== 1 ? 's' : ''}, ${totalT.toFixed(1)}s)</span>
+    <span class="arrow">\u25BE</span>`;
+  const body = document.createElement('div');
+  body.className = 'subagent-card-body';
+  entries.forEach(e => {
+    const row = document.createElement('div');
+    row.className = 'subagent-entry';
+    const preview = (e.result_preview || '').slice(0, 150).replace(/\n/g, ' ');
+    row.innerHTML = `
+      <span class="sa-icon">\u2705</span>
+      <span class="sa-name">${escHtml(e.name)}</span>
+      <span class="sa-time">${e.elapsed || 0}s</span>
+      <span class="sa-preview">${escHtml(preview)}${(e.result_preview||'').length > 150 ? '\u2026' : ''}</span>`;
+    body.appendChild(row);
+  });
+  hdr.addEventListener('click', () => {
+    hdr.classList.toggle('open');
+    body.classList.toggle('open');
+  });
+  card.appendChild(hdr);
+  card.appendChild(body);
+  return card;
+}
+
+function recordKbQuery(query, sources) {
+  kbQueryCount++;
+  document.getElementById('kb-count').textContent = kbQueryCount;
+  const item       = document.createElement('div');
+  item.className   = 'kb-query-item';
+  item.textContent = `${kbQueryCount}. ${(query || '').slice(0, 40)}${(query || '').length > 40 ? '…' : ''}`;
+  kbQueryList.appendChild(item);
+}
+
+// ── Helpers ─────────────────────────────────────────────────────────────
+function setConn(state) {
+  connDot.className = '';
+  if (state === 'live') {
+    connDot.classList.add('live');
+    connLbl.textContent = t('connected');
+  } else if (state === 'error') {
+    connDot.classList.add('err');
+    connLbl.textContent = t('disconnected');
+  } else {
+    connLbl.textContent = t('connecting');
+  }
+}
+
+function enableInput(on) {
+  // Input is always enabled (non-blocking mode) — only truly disable on disconnect
+  if (on) {
+    msgInput.disabled = false;
+    sendBtn.disabled  = false;
+    msgInput.focus();
+  } else if (!ws || ws.readyState !== WebSocket.OPEN) {
+    // Only disable when disconnected
+    msgInput.disabled = true;
+    sendBtn.disabled  = true;
+  }
+  // When AI is responding, input stays enabled — messages will queue
+}
+
+function scroll() { msgDiv.scrollTop = msgDiv.scrollHeight; }
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/\n/g, '<br>');
+}
+
+// ── Session history ───────────────────────────────────────────────────────
+function TYPE_LABELS(type) {
+  const map = {
+    new_customer:      ['typeNew',           'pill-blue'],
+    existing_customer: ['typeExistingShort', 'pill-orange'],
+    partner:           ['typePartner',       'pill-green'],
+    unknown:           ['typeUnknown',       'pill-gray'],
+  };
+  const [key, cls] = map[type] || map.unknown;
+  return [t(key), cls];
+}
+function RES_LABELS(res) {
+  const map = {
+    resolved:    ['resResolved',    'pill-green'],
+    transferred: ['resTransferred', 'pill-orange'],
+    abandoned:   ['resAbandoned',   'pill-gray'],
+    unknown:     ['resUnknown',     'pill-gray'],
+  };
+  const [key, cls] = map[res] || map.unknown;
+  return [t(key), cls];
+}
+
+async function loadSessions() {
+  const list = document.getElementById('sess-list');
+  try {
+    const res = await fetch(`/api/sessions?token=${encodeURIComponent(token)}`);
+    if (!res.ok) { list.innerHTML = `<span style="font-size:12px;color:#9ca3af">—</span>`; return; }
+    const sessions = await res.json();
+    if (!sessions.length) {
+      list.innerHTML = `<span style="font-size:12px;color:#9ca3af">${t('noSessions')}</span>`;
+      return;
+    }
+    list.innerHTML = '';
+    sessions.forEach(s => {
+      const [tTxt, tCls] = TYPE_LABELS(s.customer_type);
+      const [rTxt, rCls] = RES_LABELS(s.resolution);
+      const date = s.created_at ? s.created_at.replace('T', ' ').slice(0, 16) : '—';
+      const resumeDot = s.can_resume ? '<span class="sess-resume-dot" title="Resumable"></span>' : '';
+      const modePill  = s.mode === 'service'
+        ? `<span class="pill" style="font-size:10px;background:#fff7ed;color:#ea580c">${t('supportLabel')}</span>`
+        : `<span class="pill pill-blue" style="font-size:10px">${t('salesLabel')}</span>`;
+      const el = document.createElement('div');
+      el.className = 'sess-item';
+      el.innerHTML = `
+        <div class="sess-id">${resumeDot}${s.id.replace('session_', '').replace(/_/g, ' ')}</div>
+        <div class="sess-meta">
+          ${modePill}
+          <span class="pill ${tCls}" style="font-size:10px">${tTxt}</span>
+          <span class="pill ${rCls}" style="font-size:10px">${rTxt}</span>
+          ${s.turn_count ? `<span>${s.turn_count} ${t('turns')}</span>` : ''}
+        </div>`;
+      el.addEventListener('click', () => openSessionModal(s.id));
+      list.appendChild(el);
+    });
+  } catch {
+    list.innerHTML = `<span style="font-size:12px;color:#9ca3af">${t('loadFailed')}</span>`;
+  }
+}
+
+async function openSessionModal(id) {
+  const res = await fetch(`/api/sessions/${id}?token=${encodeURIComponent(token)}`);
+  if (!res.ok) return;
+  const s = await res.json();
+  const [tTxt] = TYPE_LABELS(s.customer_type);
+  const [rTxt] = RES_LABELS(s.resolution);
+  const date = (s.created_at || '').replace('T', ' ').slice(0, 16);
+  document.getElementById('modal-title').textContent = id.replace('session_', '').replace(/_/g, ' ');
+  const modeLabel = s.mode === 'service' ? t('supportAILabel') : t('salesAILabel');
+  document.getElementById('modal-meta').innerHTML = `
+    <span>${t('modalMode')}: <strong>${modeLabel}</strong></span>
+    <span>${t('modalType')}: <strong>${tTxt}</strong></span>
+    <span>${t('modalResolution')}: <strong>${rTxt}</strong></span>
+    <span>${t('modalDate')}: <strong>${date}</strong></span>
+    <span>${t('modalTurns')}: <strong>${s.turn_count || 0}</strong></span>`;
+  const convEl = document.getElementById('modal-conv');
+  const turns = s.conversation || [];
+  if (!turns.length) {
+    convEl.innerHTML = `<div class="conv-empty">${t('modalNoConv')}</div>`;
+  } else {
+    convEl.innerHTML = turns.map(t => `
+      <div class="conv-turn ${t.role || 'bot'}">
+        <div class="turn-role">${t.role || 'bot'}</div>
+        <div>${escHtml(t.content || '')}</div>
+      </div>`).join('');
+  }
+  // Footer: Resume button if resumable
+  const footerEl = document.getElementById('modal-footer');
+  if (s.can_resume) {
+    footerEl.innerHTML = `<button class="btn-resume" onclick="resumeSession('${id}')">${t('modalResume')}</button>`;
+  } else {
+    footerEl.innerHTML = `<span style="font-size:12px;color:#9ca3af">${t('modalNotResumable')}</span>`;
+  }
+  document.getElementById('sess-modal').classList.add('open');
+}
+
+function closeModal(e) {
+  if (!e || e.target === document.getElementById('sess-modal')) {
+    document.getElementById('sess-modal').classList.remove('open');
+  }
+}
+
+function resumeSession(webSessionId) {
+  if (!ws || ws.readyState !== WebSocket.OPEN) {
+    alert(t('notConnected'));
+    return;
+  }
+  if (waitingReply) {
+    alert(t('waitReply'));
+    return;
+  }
+  ws.send(JSON.stringify({ type: 'resume_session', web_session_id: webSessionId }));
+  sbSetStatus(t('statusResuming'), 'pill-gray');
+}
+
+// ── Changelog ────────────────────────────────────────────────────────────
+let _changelogCache = null;
+
+async function fetchChangelog() {
+  try {
+    const res = await fetch('/api/changelog?lang=' + currentLang);
+    if (res.ok) {
+      _changelogCache = await res.json();
+      document.getElementById('hd-ver').textContent = _changelogCache.version;
+    }
+  } catch {}
+}
+
+function showChangelog() {
+  if (!_changelogCache) return;
+  const body = document.getElementById('changelog-body');
+  if (typeof marked !== 'undefined') {
+    body.innerHTML = marked.parse(_changelogCache.content);
+  } else {
+    body.textContent = _changelogCache.content;
+  }
+  document.getElementById('changelog-title').textContent =
+    `CINNOX AI Demo — ${_changelogCache.version}`;
+  document.getElementById('changelog-modal').classList.add('open');
+}
+
+function closeChangelog(e) {
+  if (!e || e.target === document.getElementById('changelog-modal'))
+    document.getElementById('changelog-modal').classList.remove('open');
+}
+
+// Escape key closes any open modal
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    document.getElementById('changelog-modal').classList.remove('open');
+    document.getElementById('sess-modal').classList.remove('open');
+  }
+});
+
+// ── Mobile sidebar toggle ────────────────────────────────────────────────
+function toggleSidebar() {
+  const sidebar  = document.getElementById('sidebar');
+  const backdrop = document.getElementById('sidebar-backdrop');
+  const isOpen   = sidebar.classList.toggle('mobile-open');
+  backdrop.classList.toggle('open', isOpen);
+}
+
+// ── Boot ─────────────────────────────────────────────────────────────────
+applyI18n();
+connect();
+loadSessions();
+fetchChangelog();
+</script>
+</body>
+</html>

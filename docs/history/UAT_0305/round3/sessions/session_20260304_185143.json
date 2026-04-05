@@ -1,0 +1,57 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want something for customer service."
+    },
+    {
+      "role": "bot",
+      "text": "Great to hear you're interested in CINNOX for customer service! We have solutions designed to help teams manage customer interactions across multiple channels.\n\nTo make sure I connect you with the right resources — may I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Sarah Mitchell"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nNice to meet you, Sarah! And your company name?"
+    },
+    {
+      "role": "customer",
+      "text": "Austin Digital Agency"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nGot it. What's your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "sarah@austindigital.com"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nPerfect. And a phone number we can reach you on?"
+    },
+    {
+      "role": "customer",
+      "text": "+1-512-555-0123"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nLet me confirm your details:\n\n- **Name:** Sarah Mitchell\n- **Company:** Austin Digital Agency\n- **Email:** sarah@austindigital.com\n- **Phone:** +1-512-555-0123\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Sarah! Your information has been saved.\n\nNow, regarding your interest in customer service solutions — let me look that up for you.CINNOX offers an **omnichannel contact center** solution perfect for customer service teams. Key capabilities include:\n\n- **Web widgets, live chat, and web calling** — so your customers can reach you through multiple channels from a single platform\n- **Lightweight CRM** — gives your support team a 360-degree view of each customer's digital footprint (location, device, browser, etc.)\n- **Data retention & security** — built-in compliance features for managing data securely\n\nIt's designed to eliminate data silos and let one service station handle online support across channels.\n\nWould you like to know more about specific features, pricing, or how it might fit Austin Digital Agency's needs?"
+    }
+  ],
+  "created_at": "2026-03-04T18:51:43.288164",
+  "source": "web_button"
+}

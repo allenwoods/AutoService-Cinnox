@@ -1,0 +1,65 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 14,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "ow much is a US DID number per month?"
+    },
+    {
+      "role": "bot",
+      "text": "I'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "new"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nGreat! May I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Kevin Han， Seoul Commerce Inc.， kevin.han@seoulcommerce.kr， +82-2-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "Let me confirm your details:\n\n- **Name:** Kevin Han\n- **Company:** Seoul Commerce Inc.\n- **Email:** kevin.han@seoulcommerce.kr\n- **Phone:** +82-2-1234-5678\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Kevin! Your information has been saved.\n\nNow, regarding your question about US DID number pricing — let me look that up for you.Kevin, according to our pricing documentation, DID number fees are charged as an add-on per number, with the monthly fee varying by **number type and region**. The specific rates are maintained in a separate rate table, and KYC verification is required.\n\nUnfortunately, the exact US DID monthly rate isn't available in the materials I have access to. For accurate US DID pricing, let me connect you with our sales team — they can provide you with the specific rate for your region. Would you like me to do that?"
+    },
+    {
+      "role": "customer",
+      "text": "Is there a setup fee?"
+    },
+    {
+      "role": "bot",
+      "text": "Good question, Kevin! According to our pricing documentation:\n\n- **Professional Onboarding Training (On-site):** One-time fee of **US$4,000 per session** — this is a 3-day onsite onboarding program. Note that for locations outside Hong Kong, transportation, hotel, and catering costs are additional.\n- **AI Sales Bot:** The first bot script setup is **free of charge**. Additional scripts created by M800 are subject to a Professional Services fee of **US$1,000 per script**.\n- **BYOC (Bring Your Own Carrier):** An additional setup fee is required on top of the US$500/month carrier set fee.\n\nWould you like more details on any of these, or is there anything else I can help with?"
+    },
+    {
+      "role": "customer",
+      "text": "Do we need to verify anything to get a number?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes! According to our pricing documentation, **KYC (Know Your Customer) verification is required** for all virtual numbers — including TF, DID, and Two-way Voice numbers.\n\nFor specific details on what documents or information are needed for the KYC process, I'd recommend speaking with our sales team. Would you like me to connect you?"
+    },
+    {
+      "role": "customer",
+      "text": "Which plan do we need to be on to use DID numbers?"
+    },
+    {
+      "role": "bot",
+      "text": "According to our pricing documentation, DID numbers are available as an **add-on** across CINNOX packages:\n\n| Package | DID Number Availability |\n|---|---|\n| **Basic Contact Center (BCC)** | Monthly fee by number type & region |\n| **Digital Commerce (DC)** | Included (e.g., HK DID Number referenced) |\n| **Omnichannel Contact Center (OCC)** | Available — see full rate list |\n\nSo DID numbers aren't restricted to a specific plan — they're available as an add-on across all three packages, with the monthly fee varying by region and number type.\n\nWould you like me to go into more detail on any of the plans, or is there anything else I can help with, Kevin?"
+    }
+  ],
+  "created_at": "2026-03-04T16:43:28.232402",
+  "source": "web_button"
+}

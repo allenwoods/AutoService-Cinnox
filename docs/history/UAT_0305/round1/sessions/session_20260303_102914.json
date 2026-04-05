@@ -1,0 +1,24 @@
+{
+  "customer_type": "unknown",
+  "resolution": "transferred",
+  "turn_count": 4,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to talk to a human representative immediately."
+    },
+    {
+      "role": "bot",
+      "text": "Of course! Let me connect you with a human agent right away. Please hold for a moment."
+    },
+    {
+      "role": "customer",
+      "text": "Please don't ask me any questions, just connect me."
+    },
+    {
+      "role": "bot",
+      "text": "Connecting you now — no questions asked. A representative will be with you shortly."
+    }
+  ],
+  "created_at": "2026-03-03T10:29:14.782898"
+}

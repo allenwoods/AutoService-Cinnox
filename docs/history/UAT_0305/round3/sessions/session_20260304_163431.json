@@ -1,0 +1,57 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "We are a bank. Can you handle high volume inbound calls? About 10,000 per day."
+    },
+    {
+      "role": "bot",
+      "text": "That sounds like a great use case — CINNOX is built for high-volume contact centres! \n\nTo make sure I connect you with the right resources, may I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Li Wei, ShangBao Bank,li.wei@shangbao.com, +86-21-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nThank you, Li Wei! Let me confirm your details:\n\n- **Name:** Li Wei\n- **Company:** ShangBao Bank\n- **Email:** li.wei@shangbao.com\n- **Phone:** +86-21-1234-5678\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Li Wei! Your information has been saved.\n\nNow, regarding your question about handling high-volume inbound calls — let me look that up for you.Great question, Li Wei. According to our product documentation, CINNOX offers an **Omnichannel Contact Center (OCC)** package specifically designed for businesses with multiple-tier teams and **high security requirements** — which fits banking perfectly.\n\nThe platform is built for scale — our AI-powered voice solutions can handle **thousands of calls without adding headcount**, with intelligent routing and 24/7 availability.\n\nThat said, a deployment of **10,000 inbound calls per day** for a bank would be an enterprise-level setup. I'd recommend connecting you with our sales team to discuss a tailored solution, including capacity planning, security compliance, and pricing for your specific volume.\n\nWould you like me to connect you with our sales team for a custom quote?"
+    },
+    {
+      "role": "customer",
+      "text": "How do you route calls to the right agents?"
+    },
+    {
+      "role": "bot",
+      "text": "Great question, Li Wei. According to our product documentation, CINNOX offers several call routing options:\n\n- **Advanced Call System** — Routes inbound calls to the right agents using configurable routing rules, including **Fixed Order** and **Simultaneous** distribution across service groups.\n- **IVR (Interactive Voice Response)** — Collects information through caller keystrokes to manage routing and can automatically direct calls to the specified agent group.\n- **Prompt System** — Supports greeting messages, hold music, and busy messages for a professional caller experience.\n\nFor a bank handling 10,000 calls per day, the combination of IVR + advanced routing rules would let you triage calls (e.g., loans, cards, account enquiries) and match them to the right team automatically.\n\nWould you like to know more about a specific routing feature, or shall I connect you with our sales team to discuss an enterprise setup for ShangBao Bank?"
+    },
+    {
+      "role": "customer",
+      "text": "Do you have IVR capabilities?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, Li Wei — CINNOX does offer **IVR (Interactive Voice Response)**. According to our product documentation:\n\n- **Reduces workload** by handling simple and common inquiries automatically.\n- **Collects caller input** through keystrokes to manage call routing and automatically direct calls to the specified agent group.\n- Sits alongside other advanced call features like **voicemail, call recording, AI transcription, call forwarding, and conferencing**.\n\nFor a bank like ShangBao, IVR would be ideal for triaging calls — e.g., \"Press 1 for account enquiries, Press 2 for loans, Press 3 for cards\" — before routing to the right team.\n\nTo set up IVR, you'd work with your CINNOX account manager on the configuration. Would you like me to connect you with our sales team to discuss the full setup for your 10,000 daily calls?"
+    },
+    {
+      "role": "customer",
+      "text": "What plan would you recommend for our size?"
+    },
+    {
+      "role": "bot",
+      "text": "Based on our pricing documentation, CINNOX offers these plans:\n\n| Plan | Best For | Key Capabilities |\n|---|---|---|\n| **Basic Contact Center (BCC)** | Simple call routing + live chat | Route to phone/agent, free live chat |\n| **Digital Commerce (DC)** | Online retailers | Live chat + social media + agent |\n| **Omnichannel Contact Center (OCC)** | Multi-channel support | Voice, video, chat, social media, advanced routing, outbound campaigns, analytics |\n| **Ultimate CX Hub** | High-security, multi-tier teams | All OCC features + advanced analytics for exceptional CX |\n\nFor ShangBao Bank, I'd point you toward the **Ultimate CX Hub** — it's designed for businesses with **multiple-tier teams and high security requirements**, which aligns perfectly with banking.\n\nHowever, at **10,000 calls per day**, this is firmly in enterprise territory. Standard plan pricing won't apply — you'd need a **custom quote** that accounts for your call volume, number of agents, virtual numbers, and usage fees.\n\nI'd recommend connecting you with our sales team who can put together a tailored package for ShangBao Bank. Shall I do that?"
+    }
+  ],
+  "created_at": "2026-03-04T16:34:31.577298",
+  "source": "web_button"
+}

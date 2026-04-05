@@ -1,0 +1,40 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "We are a bank. Can you handle high volume inbound calls? About 10,000 per day."
+    },
+    {
+      "role": "bot",
+      "text": "Yes, CINNOX is designed to handle high-volume contact center workloads. Our platform includes robust call routing and queue management built for enterprise-scale operations. For a bank at 10,000 calls per day, I'd recommend looking at our Omnichannel Contact Centre (OCC) or Ultimate CX Hub (CXHub) plans. Could I tell you more about how we route those calls?"
+    },
+    {
+      "role": "customer",
+      "text": "How do you route calls to the right agents?"
+    },
+    {
+      "role": "bot",
+      "text": "CINNOX uses Automatic Enquiry Distribution (ACD) to route calls. According to our documentation, routing modes include Simultaneous (all agents ring at once) and Fixed Order (priority-based assignment), along with skill-based, language, location, and time-based routing options. Source: CINNOX Documentation — Automatic Enquiry Distribution; CINNOX Feature List 2026."
+    },
+    {
+      "role": "customer",
+      "text": "Do you have IVR capabilities?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, IVR Menu is a confirmed feature in CINNOX. It allows callers to navigate through menu options before being routed to the appropriate agent or support group. Source: CINNOX Feature List 2026 (EN_CINNOX_Feature_List_v2026)."
+    },
+    {
+      "role": "customer",
+      "text": "What plan would you recommend for our size?"
+    },
+    {
+      "role": "bot",
+      "text": "For a high-volume banking environment with 10,000 calls per day, I'd recommend the OCC or CXHub plan — these are designed for full contact center operations with ACD, IVR, and omnichannel support. The DC plan is not suited for this scale. For a detailed capacity discussion and custom quote, I'd suggest connecting with our sales team."
+    }
+  ],
+  "created_at": "2026-03-03T10:15:07.283163"
+}

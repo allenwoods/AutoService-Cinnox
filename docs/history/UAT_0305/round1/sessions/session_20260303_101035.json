@@ -1,0 +1,48 @@
+{
+  "customer_type": "partner",
+  "resolution": "transferred",
+  "turn_count": 10,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "We are a system integrator and want to explore a partnership with CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "That's great to hear! We welcome partnerships with system integrators. Could I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "My name is David Park from Nexus SI in Singapore."
+    },
+    {
+      "role": "bot",
+      "text": "Nice to meet you, David! Could I get your email address for our partnership team to follow up?"
+    },
+    {
+      "role": "customer",
+      "text": "david.park@nexussi.com"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you. And your phone number?"
+    },
+    {
+      "role": "customer",
+      "text": "+65-8123-4567"
+    },
+    {
+      "role": "bot",
+      "text": "Perfect. Thank you for your interest in partnering with CINNOX, David! Our partnership and business development team will be in touch shortly to discuss opportunities including reseller arrangements. Let me connect you now."
+    },
+    {
+      "role": "customer",
+      "text": "Yes, we'd like to discuss reseller opportunities."
+    },
+    {
+      "role": "bot",
+      "text": "Absolutely. I've noted your interest in reseller opportunities — our BD team will reach out to you at david.park@nexussi.com or +65-8123-4567."
+    }
+  ],
+  "created_at": "2026-03-03T10:10:35.788421"
+}

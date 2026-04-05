@@ -1,0 +1,40 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Please explain your database encryption architecture in detail, including key management and at-rest encryption standards."
+    },
+    {
+      "role": "bot",
+      "text": "I want to give you accurate information — detailed database encryption architecture and key management specifications are not covered in the documentation I have access to. I wouldn't want to speculate on technical details at that level. I can connect you with our technical security team who can provide the authoritative answer. Source: Available KB does not cover DB encryption architecture specifics."
+    },
+    {
+      "role": "customer",
+      "text": "Are you SOC2 compliant? What about GDPR?"
+    },
+    {
+      "role": "bot",
+      "text": "M800 has established security certifications and compliance programs — our documentation references international awards and a rigorous security framework including capacity planning, availability, and data protection. For a confirmed list of current certifications such as SOC2 or GDPR compliance status, I'd recommend speaking with our compliance team directly, as my documentation does not explicitly list current certifications by name. Source: M800 Introduction (Page 20 — International Awards & Security Certifications)."
+    },
+    {
+      "role": "customer",
+      "text": "What encryption is used for data in transit?"
+    },
+    {
+      "role": "bot",
+      "text": "CINNOX requires TLS v1.2 or above for all browser and client connections — this is confirmed in our technical documentation. For server-to-server encryption specifics, our technical team would have the full details. Source: CINNOX Documentation — Browser Configuration."
+    },
+    {
+      "role": "customer",
+      "text": "Can we speak to a technical security specialist?"
+    },
+    {
+      "role": "bot",
+      "text": "Absolutely. Let me connect you with our technical security team now. They'll be able to address your database encryption, key management, and compliance questions in full detail."
+    }
+  ],
+  "created_at": "2026-03-03T10:28:55.423279"
+}

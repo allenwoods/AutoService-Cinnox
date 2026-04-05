@@ -1,0 +1,40 @@
+{
+  "customer_type": "existing_customer",
+  "resolution": "transferred",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "We are an existing CINNOX customer. Does CINNOX support CRM integration via API?"
+    },
+    {
+      "role": "bot",
+      "text": "CINNOX supports third-party integration via Webhook URL and Message API. Specific CRM connectors not confirmed in docs. Would you like to connect with a specialist?"
+    },
+    {
+      "role": "customer",
+      "text": "ok"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your account ID or company name?"
+    },
+    {
+      "role": "customer",
+      "text": "account NVHK-2025."
+    },
+    {
+      "role": "bot",
+      "text": "And could I get your name or the agent name on the account?"
+    },
+    {
+      "role": "customer",
+      "text": "Sophie Liu"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Sophie. Connecting to technical specialist now."
+    }
+  ],
+  "created_at": "2026-03-03T11:26:21.300294"
+}

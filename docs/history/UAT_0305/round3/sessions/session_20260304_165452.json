@@ -1,0 +1,65 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 14,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to arrange a demo of CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  CINNOX AI Bot — UAT Demo Session\n  Knowledge Base: 418 chunks\n  Mode: Pre-sales & Support Triage\n  Language: English\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nWelcome! We'd love to help you get started with CINNOX. To make sure we connect you with the right team, may I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Emma Laurent"
+    },
+    {
+      "role": "bot",
+      "text": "Nice to meet you, Emma! And your company name?"
+    },
+    {
+      "role": "customer",
+      "text": "Lyon Digital Agency, emma@lyondigital.com, +33-6-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "Thanks, Emma! Let me confirm your details:\n\n- **Name:** Emma Laurent\n- **Company:** Lyon Digital Agency\n- **Email:** emma@lyondigital.com\n- **Phone:** +33-6-1234-5678\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Emma! Your information has been saved.\n\nNow, regarding arranging a demo of CINNOX — let me look into what we can offer you. Could you tell me a bit more about what you're looking for? For example, are you interested in a specific feature area like omnichannel messaging, voice solutions, or our full platform overview?"
+    },
+    {
+      "role": "customer",
+      "text": "nothing specific, just want to look around what you got and what we can do with cinnox"
+    },
+    {
+      "role": "bot",
+      "text": "Great question, Emma! Here's a quick overview of what CINNOX offers:\n\nCINNOX is an omnichannel engagement platform with several package tiers to fit different needs:\n\n- **Basic Contact Center (BCC)** — Voice customer service with virtual numbers, forwarded to your phone or CINNOX agents, plus web-based online support.\n- **Digital Commerce (DC)** — Focused on digital sales and customer engagement channels.\n\nThe platform includes **multimedia capabilities** like live chat, voice calls, video calls, video conferencing with screen sharing, and content filtering.\n\nIt also offers **rich integration with third-party apps** via an open API platform, so it connects natively with common enterprise software you may already use.\n\nWould you like me to dive deeper into any of these areas — such as pricing, specific integrations, or a particular use case for your agency?"
+    },
+    {
+      "role": "customer",
+      "text": "no"
+    },
+    {
+      "role": "bot",
+      "text": "No worries! If you'd like to explore anything specific later, I'm right here. Is there anything else I can help you with, Emma?"
+    },
+    {
+      "role": "customer",
+      "text": "Yes, for the time of demo, any weekday afternoon works for me."
+    },
+    {
+      "role": "bot",
+      "text": "Thanks for letting us know your availability, Emma! Scheduling a demo is something our sales team handles directly.\n\nI'm connecting you with our sales team now. They'll be with you shortly to arrange a convenient time for your demo.━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  Session Ended\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    }
+  ],
+  "created_at": "2026-03-04T16:54:52.538269",
+  "source": "web_button"
+}

@@ -1,0 +1,56 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "resolved",
+  "turn_count": 12,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want to arrange a demo of CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Emma Laurent"
+    },
+    {
+      "role": "bot",
+      "text": "Which company are you with?"
+    },
+    {
+      "role": "customer",
+      "text": "Lyon Digital Agency"
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "emma@lyondigital.com"
+    },
+    {
+      "role": "bot",
+      "text": "And a phone number?"
+    },
+    {
+      "role": "customer",
+      "text": "+33-6-1234-5678"
+    },
+    {
+      "role": "bot",
+      "text": "Details noted. Anything specific for the demo?"
+    },
+    {
+      "role": "customer",
+      "text": "Only weekday afternoons work for me. DID numbers and volume discounts."
+    },
+    {
+      "role": "bot",
+      "text": "Noted. Demo scheduled for weekday afternoons covering DID numbers and volume discounts."
+    }
+  ],
+  "created_at": "2026-03-03T11:52:52.999140"
+}

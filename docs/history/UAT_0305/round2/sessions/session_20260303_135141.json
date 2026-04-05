@@ -1,0 +1,36 @@
+{
+  "customer_type": "unknown",
+  "resolution": "transferred",
+  "turn_count": 7,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "Please explain your database encryption architecture in detail, including key management and at-rest encryption standards."
+    },
+    {
+      "role": "bot",
+      "text": "Security features confirmed: encryption auth, 2FA, DDoS protection, audit logs. Detailed DB encryption architecture not in documentation. Offering to connect with security specialist."
+    },
+    {
+      "role": "customer",
+      "text": "Are you SOC2 compliant? What about GDPR?"
+    },
+    {
+      "role": "bot",
+      "text": "GDPR confirmed per M800 documentation. Multiple international compliance certifications noted. SOC2 not explicitly mentioned — cannot confirm. Offering to connect."
+    },
+    {
+      "role": "customer",
+      "text": "What encryption is used for data in transit?"
+    },
+    {
+      "role": "bot",
+      "text": "TLS v1.2+ required for browser connections, HTTPS/SSL for call services. Full cipher suite specs not in documentation."
+    },
+    {
+      "role": "customer",
+      "text": "okay"
+    }
+  ],
+  "created_at": "2026-03-03T13:51:41.965174"
+}

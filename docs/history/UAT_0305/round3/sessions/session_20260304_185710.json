@@ -1,0 +1,73 @@
+{
+  "customer_type": "unknown",
+  "resolution": "abandoned",
+  "turn_count": 16,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "I want something for customer service."
+    },
+    {
+      "role": "bot",
+      "text": "\n\nI'd be happy to help with that! To make sure I connect you with the right resources — are you an existing CINNOX customer, or are you new to us?"
+    },
+    {
+      "role": "customer",
+      "text": "new"
+    },
+    {
+      "role": "bot",
+      "text": "\n\nGreat! May I start with your name?"
+    },
+    {
+      "role": "customer",
+      "text": "Sarah Mitchell，Austin Digital Agency，sarah@austindigital.com，+1-512-555-0123"
+    },
+    {
+      "role": "bot",
+      "text": "Thanks, Sarah! Let me confirm your details:\n\n- **Name:** Sarah Mitchell\n- **Company:** Austin Digital Agency\n- **Email:** sarah@austindigital.com\n- **Phone:** +1-512-555-0123\n\nIs that correct?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you, Sarah! Your information has been saved.\n\nNow, you mentioned you're looking for something for customer service — could you tell me a bit more about what you need? For example, are you looking for omnichannel support, live chat, call center features, or something else?"
+    },
+    {
+      "role": "customer",
+      "text": "We have about 10 people on our team."
+    },
+    {
+      "role": "bot",
+      "text": "Thanks for sharing that, Sarah! Let me look up what CINNOX offers for customer service teams your size.Great news, Sarah! According to our product documentation, CINNOX offers an **Omnichannel Contact Center** solution that would be a great fit for a 10-person team. Here's a quick overview:\n\n- **Live chat, video calls, and web calling** — all from one unified platform\n- **Smart call routing** — including round robin, most idle, and sticky routing to distribute inquiries across your team\n- **AI-powered chat translation** supporting 26 languages, so your team can serve multilingual customers seamlessly\n- **Customizable AI agents** to reduce workload and boost efficiency\n\nCINNOX also offers a **Digital Commerce** plan focused on online customer engagement, if that's more aligned with your agency's needs.\n\nWould you like me to go into pricing details, or is there a specific feature you'd like to know more about?"
+    },
+    {
+      "role": "customer",
+      "text": "weostly phone calls, but we also use WhatsApp with some customers."
+    },
+    {
+      "role": "bot",
+      "text": "Great to know! Let me check what CINNOX offers for phone and WhatsApp support.CINNOX is a great fit for that, Sarah! According to the CINNOX website:\n\n- **WhatsApp integration** is fully supported — CINNOX connects with WhatsApp (via 360dialog as a WhatsApp BSP), so your team can manage WhatsApp conversations right alongside other channels.\n- **Voice & video calls** are core features, including call recording, IVR, voicemail, and smart call routing to distribute calls across your 10 agents.\n\nEverything comes into **one unified inbox**, so your team won't need to switch between apps for phone calls and WhatsApp messages.\n\nWould you like to see the pricing plans, or do you have any other questions about specific features?"
+    },
+    {
+      "role": "customer",
+      "text": "What would you recommend?"
+    },
+    {
+      "role": "bot",
+      "text": "Let me pull up our plans to find the best match for your team.Based on our pricing documentation, I'd recommend the **Omnichannel Contact Center (OCC)** plan for your team. Here's why:\n\n- It's designed for **small to medium businesses** that need voice, chat, and social media channels in one platform\n- It includes **advanced call routing and outbound campaigns** — perfect since phone calls are your primary channel\n- **WhatsApp integration** is supported, so your team handles calls and WhatsApp from one inbox\n- It also comes with **detailed analytics** to help optimize your team's performance\n\nFor exact per-agent pricing for a 10-person team, I'd recommend speaking with our sales team — they can put together a tailored quote and walk you through onboarding options (including a 3-day training program).\n\nWould you like me to connect you with our sales team for a custom quote?"
+    },
+    {
+      "role": "customer",
+      "text": "yes"
+    },
+    {
+      "role": "bot",
+      "text": "I'm connecting you with our sales team now. They'll be with you shortly.\n\nThey'll have your details on file and can put together a tailored OCC quote for your 10-person team with phone and WhatsApp. Thanks for your interest, Sarah! 😊"
+    }
+  ],
+  "created_at": "2026-03-04T18:57:10.706365",
+  "source": "web_button"
+}

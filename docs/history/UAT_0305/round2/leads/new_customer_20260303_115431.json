@@ -1,0 +1,10 @@
+{
+  "type": "new_customer",
+  "data": {
+    "name": "Emma Laurent",
+    "company": "Lyon Digital Agency",
+    "email": "emma@lyondigital.com",
+    "phone": ""
+  },
+  "created_at": "2026-03-03T11:54:31.980532"
+}

@@ -1,0 +1,40 @@
+{
+  "customer_type": "partner",
+  "resolution": "transferred",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "We are a system integrator and want to explore a partnership with CINNOX."
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your name please?"
+    },
+    {
+      "role": "customer",
+      "text": "My name is David Park from Nexus SI in Singapore."
+    },
+    {
+      "role": "bot",
+      "text": "Could I get your email address?"
+    },
+    {
+      "role": "customer",
+      "text": "david.park@nexussi.com"
+    },
+    {
+      "role": "bot",
+      "text": "And lastly, could I get a phone number for you?"
+    },
+    {
+      "role": "customer",
+      "text": "+65-8123-4567"
+    },
+    {
+      "role": "bot",
+      "text": "Thank you. Connecting to partnership team now."
+    }
+  ],
+  "created_at": "2026-03-03T11:23:44.692644"
+}

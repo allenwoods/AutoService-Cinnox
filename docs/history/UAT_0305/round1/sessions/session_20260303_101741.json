@@ -1,0 +1,40 @@
+{
+  "customer_type": "new_customer",
+  "resolution": "transferred",
+  "turn_count": 8,
+  "conversation": [
+    {
+      "role": "customer",
+      "text": "How much is a US DID number per month?"
+    },
+    {
+      "role": "bot",
+      "text": "DID (local virtual) numbers are priced per region. Specific US DID pricing wasn't surfaced in the rate materials I have access to right now. For the most accurate US number pricing, I'd recommend checking cinnox.com/pricing or I can connect you with our sales team. Source: M800 Global Rates (f7)."
+    },
+    {
+      "role": "customer",
+      "text": "Is there a setup fee?"
+    },
+    {
+      "role": "bot",
+      "text": "The pricing document shows DID numbers are billed as a usage-based subscription (monthly recurring charge per number). I don't see a separate one-time setup fee listed for standard DID numbers — but for US-specific details, our sales team would give you the exact breakdown. Source: CINNOX Pricing (EN_CINNOX_Pricing_07012024_v3)."
+    },
+    {
+      "role": "customer",
+      "text": "Do we need to verify anything to get a number?"
+    },
+    {
+      "role": "bot",
+      "text": "Yes, virtual numbers typically require business verification as part of the provisioning process. For detailed compliance and documentation requirements, our sales team can guide you through the steps. I'd recommend connecting with them to get a US number set up."
+    },
+    {
+      "role": "customer",
+      "text": "Which plan do we need to be on to use DID numbers?"
+    },
+    {
+      "role": "bot",
+      "text": "Based on our pricing documentation, virtual numbers (DID) are available on the BCC, OCC, and CXHub plans. They are billed as a usage fee on top of your license — so they're not included in the base license at no extra cost. Source: CINNOX Pricing (EN_CINNOX_Pricing_07012024_v3)."
+    }
+  ],
+  "created_at": "2026-03-03T10:17:41.417287"
+}
