@@ -1,4 +1,6 @@
 {
+  "enableAllProjectMcpServers": true,
+  "channelsEnabled": true,
   "permissions": {
     "allow": [
       "Read(*)",
@@ -11,5 +13,8 @@
       "Bash(mkdir *)"
     ],
     "defaultMode": "acceptEdits"
+  },
+  "enabledPlugins": {
+    "agent-setup@agent-setup": true
   }
 }
