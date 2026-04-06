@@ -289,7 +289,7 @@ class ChannelServer:
                     self._recent_sent.add(resp.data.message_id)
                     self._msg_counter["sent"] += 1
             except Exception as e:
-                log.debug("_reply_feishu error: %s", e)
+                log.warning("_reply_feishu error: %s", e)
 
         threading.Thread(target=_do_send, daemon=True).start()
 
@@ -451,8 +451,9 @@ class ChannelServer:
                 "message_id": msg_id,
                 "user": display_name,
                 "user_id": sender_id,
+                "source": "feishu",
                 "runtime_mode": current_mode,
-                "business_mode": "customer_service",
+                "business_mode": "sales",
                 "ts": ts,
             }
             log.info("[feishu] %s: %s", display_name, text[:60])
@@ -825,9 +826,14 @@ class ChannelServer:
     @staticmethod
     async def _send(ws: ServerConnection, msg: dict) -> None:
         try:
-            await ws.send(json.dumps(msg))
+            data = json.dumps(msg, ensure_ascii=False)
+            await ws.send(data)
+            log.debug("Sent %d bytes to %s: type=%s chat_id=%s",
+                       len(data), getattr(ws, 'id', '?'), msg.get('type'), msg.get('chat_id'))
         except websockets.ConnectionClosed:
-            log.debug("Send failed -- connection already closed")
+            log.warning("Send failed -- connection already closed")
+        except Exception as e:
+            log.error("Send error: %s", e)
 
     async def _notify_admin(self, text: str) -> None:
         """Fire-and-forget admin notification. Degrades gracefully."""
