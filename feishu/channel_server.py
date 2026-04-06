@@ -820,6 +820,21 @@ async def _async_main() -> None:
         loop.add_signal_handler(sig, lambda: asyncio.create_task(server.stop()))
 
     await server.start()
+
+    sep = "=" * 60
+    print(f"\n{sep}")
+    print("  AutoService Channel Server")
+    print(f"  Listening  : ws://localhost:{port}")
+    print(f"  Feishu     : {'enabled' if feishu_enabled else 'disabled'}")
+    if admin_chat_id:
+        print(f"  Admin group: {admin_chat_id}")
+    print()
+    print("  Next steps:")
+    print(f"    1. Start Claude Code:  ./autoservice.sh")
+    print(f"    2. Start Claude Code:  ./autoservice.sh oc_<chat_id>")
+    print(f"    3. Start Web server:   make run-web")
+    print(sep + "\n")
+
     await server._stop_event.wait()
 
 
