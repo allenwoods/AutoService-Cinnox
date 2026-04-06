@@ -476,8 +476,10 @@ class ChannelServer:
             app_id=app_id,
             app_secret=app_secret,
             event_handler=handler,
-            log_level=lark.LogLevel.WARNING,
+            log_level=lark.LogLevel.ERROR,  # suppress "processor not found" warnings for unhandled event types
         )
+        # Suppress noisy Lark logger for unhandled event types (reaction, message_read, etc.)
+        logging.getLogger("Lark").setLevel(logging.CRITICAL)
 
         def ws_thread():
             # lark_oapi.ws.client captures asyncio.get_event_loop() at import
