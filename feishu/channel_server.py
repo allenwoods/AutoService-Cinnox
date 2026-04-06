@@ -746,8 +746,9 @@ class ChannelServer:
         chat_id = msg.get("chat_id", "")
 
         if chat_id.startswith("oc_"):
-            # Feishu -- would call Feishu API (placeholder)
-            log.info("Reply to Feishu chat_id=%s text=%s", chat_id, msg.get("text", "")[:60])
+            text = msg.get("text", "")
+            log.info("Reply to Feishu chat_id=%s text=%s", chat_id, text[:60])
+            await self._reply_feishu(chat_id, text)
         elif chat_id.startswith("web_"):
             # WebSocket relay -- find the web instance that owns this chat_id
             target = self.exact_routes.get(chat_id) or self._find_prefix_instance(chat_id)
@@ -763,12 +764,14 @@ class ChannelServer:
             log.warning("Reply for unknown channel prefix: chat_id=%s", chat_id)
 
     async def _handle_react(self, ws: ServerConnection, msg: dict) -> None:
-        """Forward a reaction to Feishu API (placeholder)."""
-        log.info(
-            "React message_id=%s emoji=%s",
-            msg.get("message_id", "?"),
-            msg.get("emoji_type", "?"),
-        )
+        """Forward a reaction to Feishu API."""
+        message_id = msg.get("message_id", "")
+        emoji_type = msg.get("emoji_type", "THUMBSUP")
+        log.info("React message_id=%s emoji=%s", message_id, emoji_type)
+        if message_id and self._feishu_client:
+            threading.Thread(
+                target=self._send_reaction, args=(message_id, emoji_type), daemon=True
+            ).start()
 
     async def _handle_inbound_message(self, ws: ServerConnection, msg: dict) -> None:
         """Handle an inbound message from a web client or other source."""
