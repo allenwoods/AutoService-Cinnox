@@ -480,6 +480,10 @@ class ChannelServer:
         )
 
         def ws_thread():
+            # lark.ws.Client.start() calls asyncio.run() internally,
+            # which fails if the current thread has an event loop set.
+            # Ensure a clean asyncio state for this thread.
+            asyncio.set_event_loop(asyncio.new_event_loop())
             try:
                 ws_client.start()
             except Exception as e:
