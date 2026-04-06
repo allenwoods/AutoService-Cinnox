@@ -73,8 +73,8 @@ class ChannelClient:
                     self.ws = ws
                     await self._register(ws)
                     await self._message_loop(ws)
-            except (ConnectionRefusedError, websockets.ConnectionClosed) as e:
-                log.warning(f"channel-server disconnected ({e}), retrying in 3s...")
+            except Exception as e:
+                log.warning(f"channel-server disconnected ({type(e).__name__}: {e}), retrying in 3s...")
                 self.ws = None
                 await asyncio.sleep(3)
 
