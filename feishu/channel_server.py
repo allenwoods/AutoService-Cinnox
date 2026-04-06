@@ -840,38 +840,50 @@ class ChannelServer:
     def status_text(self) -> str:
         """Generate human-readable status for /status command."""
         lines = ["📊 Channel Server Status"]
-        lines.append(f"Messages: {self._msg_counter.get('received', 0)} in / {self._msg_counter.get('sent', 0)} out")
+        lines.append(f"消息统计: {self._msg_counter.get('received', 0)} 收 / {self._msg_counter.get('sent', 0)} 发")
         lines.append("")
 
-        # Instances
-        lines.append(f"🔌 Instances ({len(self._ws_to_instance)}):")
-        for inst in self._ws_to_instance.values():
+        # Service desks (Claude Code instances)
+        desks = [i for i in self._ws_to_instance.values() if i.role != "web"]
+        web_clients = [i for i in self._ws_to_instance.values() if i.role == "web"]
+        lines.append(f"🖥️ 服务台 ({len(desks)}):")
+        for inst in desks:
             uptime = datetime.now(timezone.utc) - inst.connected_at
             mins = int(uptime.total_seconds() // 60)
-            chat_str = ", ".join(inst.chat_ids)
-            lines.append(f"  • {inst.instance_id} [{inst.role}] → {chat_str} ({mins}m)")
-        if not self._ws_to_instance:
-            lines.append("  (none)")
-
-        # Active chats with numbers
+            if "*" in inst.chat_ids:
+                scope = "全部对话"
+            else:
+                scope = ", ".join(inst.chat_ids)
+            lines.append(f"  • {inst.instance_id} — {scope} ({mins}分钟)")
+        if not desks:
+            lines.append("  (无在线服务台)")
         lines.append("")
-        lines.append(f"💬 Active chats ({len(self._known_chats)}):")
+
+        # Channels (frontends)
+        feishu_ok = self._feishu_client is not None
+        web_ok = len(web_clients) > 0
+        lines.append("📡 渠道:")
+        lines.append(f"  • 飞书 IM: {'✅ 在线' if feishu_ok else '❌ 离线'}")
+        lines.append(f"  • Web 页面: {'✅ 在线' if web_ok else '❌ 离线'}")
+        lines.append("")
+
+        # Active conversations with numbers
+        lines.append(f"💬 活跃对话 ({len(self._known_chats)}):")
         for num, cid, info in self._chat_index():
             user = info.get("user", "?")
             source = info.get("source", "?")
+            source_icon = "🔵" if source == "feishu" else "🟢" if source == "web" else "⚪"
             # Routing info
             if cid in self.exact_routes:
-                routed = f"→ {self.exact_routes[cid].instance_id}"
+                desk = self.exact_routes[cid].instance_id
             else:
-                routed = "→ wildcard"
-            # Short chat_id display
-            short_cid = cid if len(cid) <= 20 else cid[:12] + "..."
-            lines.append(f"  #{num} [{source}] {user} ({short_cid}) {routed}")
+                desk = "通配服务台"
+            lines.append(f"  #{num} {source_icon} {user} → {desk}")
         if not self._known_chats:
-            lines.append("  (none yet)")
+            lines.append("  (暂无)")
 
         lines.append("")
-        lines.append("Tip: /inject #N <text> to send to a chat by number")
+        lines.append("💡 /inject #序号 <消息> 向对话发送管理指令")
 
         return "\n".join(lines)
 
