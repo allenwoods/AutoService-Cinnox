@@ -180,11 +180,12 @@ async def inject_message(write_stream, msg: dict):
     log.info(f"Injected: '{msg['text'][:60]}...' from {msg.get('user', '?')}")
 
 
-async def poll_feishu_queue(queue: asyncio.Queue, write_stream):
+async def poll_feishu_queue(queue: asyncio.Queue, write_stream, server: Server):
     """Consume Feishu messages from queue and inject into Claude Code."""
     while True:
         msg = await queue.get()
         try:
+            _refresh_instructions(server)
             await inject_message(write_stream, msg)
         except Exception as e:
             log.error(f"inject error: {e}")
@@ -398,19 +399,35 @@ def setup_feishu(queue: asyncio.Queue, loop: asyncio.AbstractEventLoop):
 # -- MCP Server + Tools -------------------------------------------------------
 
 
-def load_instructions() -> str:
-    if INSTRUCTIONS_PATH.exists():
-        return INSTRUCTIONS_PATH.read_text(encoding="utf-8")
-    return (
-        "Messages from Feishu arrive as <channel> tags with chat_id, user, ts attributes. "
-        "Reply with the reply tool -- your transcript never reaches the Feishu chat. "
-        "When users send requests, use available plugin tools to process them, "
-        "then reply with the result."
-    )
+_FALLBACK_INSTRUCTIONS = (
+    "Messages from Feishu arrive as <channel> tags with chat_id, user, ts attributes. "
+    "Reply with the reply tool -- your transcript never reaches the Feishu chat. "
+    "When users send requests, use available plugin tools to process them, "
+    "then reply with the result."
+)
+_instructions_mtime: float = 0.0
+
+
+def _refresh_instructions(server: Server) -> None:
+    """Reload channel-instructions.md if it changed on disk (hot-reload)."""
+    global _instructions_mtime
+    if not INSTRUCTIONS_PATH.exists():
+        return
+    mtime = INSTRUCTIONS_PATH.stat().st_mtime
+    if mtime != _instructions_mtime:
+        server.instructions = INSTRUCTIONS_PATH.read_text(encoding="utf-8")
+        _instructions_mtime = mtime
+        log.info("Instructions reloaded from disk")
 
 
 def create_server() -> Server:
-    return Server("autoservice-channel", instructions=load_instructions())
+    global _instructions_mtime
+    if INSTRUCTIONS_PATH.exists():
+        text = INSTRUCTIONS_PATH.read_text(encoding="utf-8")
+        _instructions_mtime = INSTRUCTIONS_PATH.stat().st_mtime
+    else:
+        text = _FALLBACK_INSTRUCTIONS
+    return Server("autoservice-channel", instructions=text)
 
 
 def register_tools(server: Server, plugin_tools: list):
@@ -543,7 +560,7 @@ async def main():
         try:
             async with anyio.create_task_group() as tg:
                 tg.start_soon(server.run, read_stream, write_stream, init_opts)
-                tg.start_soon(poll_feishu_queue, queue, write_stream)
+                tg.start_soon(poll_feishu_queue, queue, write_stream, server)
         except Exception as e:
             log.error(f"Task group error: {e}")
 
