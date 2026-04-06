@@ -136,7 +136,7 @@ class ChannelServer:
     _recent_sent: set[str] = set()
     _user_cache: dict[str, str] = {}          # open_id -> display name
     _chat_modes: dict[str, str] = {}          # chat_id -> "production" | "improve"
-    _known_chats: set[str] = set()            # chat_ids seen so far (for first-message tracking)
+    _known_chats: dict[str, dict] = {}         # chat_id → {"user": ..., "source": ..., "label": ...}
     _msg_counter: dict[str, int] = {"sent": 0, "received": 0}
 
     # -- Credentials ----------------------------------------------------
@@ -247,12 +247,16 @@ class ChannelServer:
             return
 
         if text.startswith("/inject "):
-            # /inject <chat_id> <text…>
+            # /inject #N <text> or /inject <chat_id> <text>
             parts = text.split(None, 2)
             if len(parts) < 3:
-                await self._reply_feishu(msg["chat_id"], "Usage: /inject <chat_id> <text>")
+                await self._reply_feishu(msg["chat_id"], "Usage: /inject #N <text>  or  /inject <chat_id> <text>")
                 return
-            target_chat_id = parts[1]
+            raw_target = parts[1]
+            target_chat_id = self._resolve_chat_target(raw_target)
+            if target_chat_id is None:
+                await self._reply_feishu(msg["chat_id"], f"Unknown target: {raw_target}\nUse /status to see active chats with #N numbers.")
+                return
             injected_text = parts[2]
             injected_msg = {
                 "type": "message",
@@ -331,7 +335,7 @@ class ChannelServer:
         self._recent_sent = set()
         self._user_cache = {}
         self._chat_modes = {}
-        self._known_chats = set()
+        self._known_chats = {}
         self._msg_counter = {"sent": 0, "received": 0}
 
         loop = asyncio.get_running_loop()
@@ -402,7 +406,14 @@ class ChannelServer:
             # Track first-message from a chat_id for admin notification
             is_new_chat = chat_id and chat_id not in self._known_chats
             if is_new_chat:
-                self._known_chats.add(chat_id)
+                # Determine label
+                label = display_name.split(" (")[0] if display_name else "unknown"
+                if chat_id == self.admin_chat_id:
+                    label = "管理群"
+                self._known_chats[chat_id] = {
+                    "user": label,
+                    "source": "feishu",
+                }
 
             # Mode switching commands
             text_stripped = text.strip().lower()
@@ -787,6 +798,11 @@ class ChannelServer:
         if not chat_id:
             await self._send(ws, {"type": "error", "code": "MISSING_CHAT_ID", "message": "message requires chat_id"})
             return
+        # Track web chats
+        if chat_id not in self._known_chats:
+            user = msg.get("user", "anonymous")
+            source = msg.get("source", "web")
+            self._known_chats[chat_id] = {"user": user, "source": source}
         # Route to registered instances
         await self.route_message(chat_id, msg)
 
@@ -802,6 +818,24 @@ class ChannelServer:
     # ------------------------------------------------------------------
     # Status
     # ------------------------------------------------------------------
+
+    def _chat_index(self) -> list[tuple[int, str, dict]]:
+        """Return numbered list of (index, chat_id, info) for active chats."""
+        return [(i + 1, cid, info) for i, (cid, info) in enumerate(self._known_chats.items())]
+
+    def _resolve_chat_target(self, target: str) -> str | None:
+        """Resolve a /inject target — accepts #N (index) or full chat_id."""
+        if target.startswith("#"):
+            try:
+                idx = int(target[1:])
+                index = self._chat_index()
+                for num, cid, _ in index:
+                    if num == idx:
+                        return cid
+            except (ValueError, IndexError):
+                pass
+            return None
+        return target  # full chat_id
 
     def status_text(self) -> str:
         """Generate human-readable status for /status command."""
@@ -819,29 +853,25 @@ class ChannelServer:
         if not self._ws_to_instance:
             lines.append("  (none)")
 
-        # Route table
-        lines.append("")
-        lines.append("🗺️ Route Table:")
-        if self.exact_routes:
-            for cid, inst in self.exact_routes.items():
-                lines.append(f"  {cid} → {inst.instance_id}")
-        if self.prefix_routes:
-            for prefix, inst in self.prefix_routes.items():
-                lines.append(f"  {prefix}* → {inst.instance_id}")
-        if self.wildcard_instances:
-            for inst in self.wildcard_instances:
-                lines.append(f"  * (wildcard) → {inst.instance_id}")
-        if not self.exact_routes and not self.prefix_routes and not self.wildcard_instances:
-            lines.append("  (empty)")
-
-        # Known chats (active conversations)
+        # Active chats with numbers
         lines.append("")
         lines.append(f"💬 Active chats ({len(self._known_chats)}):")
-        for cid in sorted(self._known_chats):
-            routed = "→ " + self.exact_routes[cid].instance_id if cid in self.exact_routes else "→ wildcard"
-            lines.append(f"  {cid} {routed}")
+        for num, cid, info in self._chat_index():
+            user = info.get("user", "?")
+            source = info.get("source", "?")
+            # Routing info
+            if cid in self.exact_routes:
+                routed = f"→ {self.exact_routes[cid].instance_id}"
+            else:
+                routed = "→ wildcard"
+            # Short chat_id display
+            short_cid = cid if len(cid) <= 20 else cid[:12] + "..."
+            lines.append(f"  #{num} [{source}] {user} ({short_cid}) {routed}")
         if not self._known_chats:
             lines.append("  (none yet)")
+
+        lines.append("")
+        lines.append("Tip: /inject #N <text> to send to a chat by number")
 
         return "\n".join(lines)
 
@@ -850,14 +880,15 @@ class ChannelServer:
         return (
             "📖 Channel Server Commands\n"
             "\n"
-            "/status — Show instances, route table, active chats\n"
+            "/status — Instances, active chats (with #N numbers)\n"
             "/help — This message\n"
-            "/inject <chat_id> <text> — Send a message to a chat as admin\n"
-            "  Example: /inject oc_8aac6e1a... 注意当前活动打八折\n"
+            "/inject #N <text> — Send to chat by number\n"
+            "/inject <chat_id> <text> — Send to chat by full ID\n"
+            "  Example: /inject #1 注意当前活动打八折\n"
             "\n"
-            "Non-command messages in this group will be forwarded to Claude Code.\n"
+            "Non-command messages → forwarded to Claude Code\n"
             "\n"
-            "Start a dedicated instance:\n"
+            "Start dedicated instance:\n"
             "  ./autoservice.sh oc_<chat_id>"
         )
 
