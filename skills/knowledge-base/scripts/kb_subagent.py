@@ -37,6 +37,13 @@ if _scripts_dir not in sys.path:
 
 from kb_search import search  # noqa: E402
 
+# Map domain to source_filter IDs (must match sources_meta.json)
+DOMAIN_SOURCE_MAP: dict[str, list[str]] = {
+    "contact_center": ["f4", "f5", "f6", "w1", "w2"],
+    "ai_sales_bot": ["f1", "f2", "f3"],
+    "global_telecom": ["f7", "f8", "w4"],
+}
+
 
 def main():
     parser = argparse.ArgumentParser(description="KB sub-agent with domain/region filtering")
@@ -47,11 +54,12 @@ def main():
     parser.add_argument("--top-k", "-k", type=int, default=5, help="Max results (default: 5)")
     args = parser.parse_args()
 
+    source_filter = DOMAIN_SOURCE_MAP.get(args.domain) if args.domain else None
+
     results = search(
         query=args.query,
         top_k=args.top_k,
-        domain=args.domain,
-        region=args.region,
+        source_filter=source_filter,
     )
 
     # Build sources consulted list
