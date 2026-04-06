@@ -296,6 +296,15 @@ echo "✅ Running in tmux session: $CURRENT_SESSION"
 echo "📂 Working directory: $(pwd)"
 echo ""
 
+# Parse chat_id argument (first non-internal, non-mode arg)
+# Usage: ./claude.sh oc_xxx  or  ./claude.sh  (defaults to wildcard)
+if [ "$1" != "--_internal" ] && [ -n "$1" ] && [[ "$1" != [123] ]]; then
+    export AUTOSERVICE_CHAT_ID="$1"
+    shift
+else
+    export AUTOSERVICE_CHAT_ID="${AUTOSERVICE_CHAT_ID:-*}"
+fi
+
 # Parse internal arguments (passed from outer invocation)
 RUN_MODE=""
 SESSION_NAME=""
