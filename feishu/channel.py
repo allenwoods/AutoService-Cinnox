@@ -87,6 +87,52 @@ _seen: set[str] = set()
 _recent_sent: set[str] = set()
 _bot_open_id: str | None = None
 _msg_counter = {"sent": 0, "received": 0}
+_user_cache: dict[str, str] = {}  # open_id → display name
+_chat_modes: dict[str, str] = {}  # chat_id → "service" | "improve"
+
+
+def _get_mode(chat_id: str) -> str:
+    return _chat_modes.get(chat_id, "service")
+
+
+def _resolve_user(open_id: str) -> str:
+    """Look up user name from cache, Feishu API, or CRM. Returns 'Name (open_id)' or just open_id."""
+    if open_id in _user_cache:
+        return _user_cache[open_id]
+
+    name = ""
+    # Try Feishu contact API
+    try:
+        req = (
+            lark.BaseRequest.builder()
+            .http_method(lark.HttpMethod.GET)
+            .uri(f"/open-apis/contact/v3/users/{open_id}?user_id_type=open_id")
+            .token_types({lark.AccessTokenType.TENANT})
+            .build()
+        )
+        resp = feishu_client.request(req)
+        if resp.success():
+            user_data = json.loads(resp.raw.content).get("data", {}).get("user", {})
+            name = user_data.get("name", "")
+            # Upsert into CRM
+            try:
+                from autoservice.crm import upsert_contact
+                upsert_contact(
+                    open_id=open_id,
+                    name=name,
+                    phone=user_data.get("mobile", ""),
+                    email=user_data.get("email", ""),
+                    department=user_data.get("department_ids", [""])[0] if user_data.get("department_ids") else "",
+                    job_title=user_data.get("job_title", ""),
+                )
+            except Exception as e:
+                log.debug(f"CRM upsert error: {e}")
+    except Exception as e:
+        log.debug(f"User lookup error for {open_id}: {e}")
+
+    display = f"{name} ({open_id[:12]})" if name else open_id
+    _user_cache[open_id] = display
+    return display
 
 # -- Reaction helper (fire-and-forget ack) ------------------------------------
 
@@ -125,6 +171,7 @@ async def inject_message(write_stream, msg: dict):
                 "message_id": msg["message_id"],
                 "user": msg.get("user", "unknown"),
                 "user_id": msg.get("user_id", ""),
+                "mode": msg.get("mode", "service"),
                 "ts": msg.get("ts", datetime.now(tz=timezone.utc).isoformat()),
             },
         },
@@ -133,11 +180,12 @@ async def inject_message(write_stream, msg: dict):
     log.info(f"Injected: '{msg['text'][:60]}...' from {msg.get('user', '?')}")
 
 
-async def poll_feishu_queue(queue: asyncio.Queue, write_stream):
+async def poll_feishu_queue(queue: asyncio.Queue, write_stream, server: Server):
     """Consume Feishu messages from queue and inject into Claude Code."""
     while True:
         msg = await queue.get()
         try:
+            _refresh_instructions(server)
             await inject_message(write_stream, msg)
         except Exception as e:
             log.error(f"inject error: {e}")
@@ -209,15 +257,57 @@ def setup_feishu(queue: asyncio.Queue, loop: asyncio.AbstractEventLoop):
             except Exception:
                 pass
 
+        # Resolve user name and record in CRM
+        display_name = _resolve_user(sender_id)
+
+        # Mode switching commands
+        text_stripped = text.strip().lower()
+        if text_stripped == "/improve":
+            _chat_modes[chat_id] = "improve"
+            threading.Thread(target=send_reaction, args=(msg_id, "DONE"), daemon=True).start()
+            msg = {
+                "text": "[MODE SWITCH] 已切换到 improve 模式。你现在可以：查看对话记录、管理行为规则、导入数据、分析对话质量。发送 /service 回到客服模式。",
+                "chat_id": chat_id,
+                "message_id": msg_id,
+                "user": display_name,
+                "user_id": sender_id,
+                "mode": "improve",
+                "ts": ts,
+            }
+            loop.call_soon_threadsafe(queue.put_nowait, msg)
+            return
+        elif text_stripped == "/service":
+            _chat_modes[chat_id] = "service"
+            threading.Thread(target=send_reaction, args=(msg_id, "DONE"), daemon=True).start()
+            msg = {
+                "text": "[MODE SWITCH] 已切换到 service 模式。现在以客服身份响应。",
+                "chat_id": chat_id,
+                "message_id": msg_id,
+                "user": display_name,
+                "user_id": sender_id,
+                "mode": "service",
+                "ts": ts,
+            }
+            loop.call_soon_threadsafe(queue.put_nowait, msg)
+            return
+
+        try:
+            from autoservice.crm import increment_message_count, log_message
+            increment_message_count(sender_id)
+            log_message(sender_id, chat_id, "in", text, ts)
+        except Exception as e:
+            log.debug(f"CRM log error: {e}")
+
         msg = {
             "text": text,
             "chat_id": chat_id,
             "message_id": msg_id,
-            "user": sender_id,
+            "user": display_name,
             "user_id": sender_id,
+            "mode": _get_mode(chat_id),
             "ts": ts,
         }
-        log.info(f"[feishu] {sender_id[:20]}: {text[:60]}")
+        log.info(f"[feishu] {display_name}: {text[:60]}")
         loop.call_soon_threadsafe(queue.put_nowait, msg)
         _msg_counter["received"] += 1
 
@@ -309,19 +399,35 @@ def setup_feishu(queue: asyncio.Queue, loop: asyncio.AbstractEventLoop):
 # -- MCP Server + Tools -------------------------------------------------------
 
 
-def load_instructions() -> str:
-    if INSTRUCTIONS_PATH.exists():
-        return INSTRUCTIONS_PATH.read_text(encoding="utf-8")
-    return (
-        "Messages from Feishu arrive as <channel> tags with chat_id, user, ts attributes. "
-        "Reply with the reply tool -- your transcript never reaches the Feishu chat. "
-        "When users send requests, use available plugin tools to process them, "
-        "then reply with the result."
-    )
+_FALLBACK_INSTRUCTIONS = (
+    "Messages from Feishu arrive as <channel> tags with chat_id, user, ts attributes. "
+    "Reply with the reply tool -- your transcript never reaches the Feishu chat. "
+    "When users send requests, use available plugin tools to process them, "
+    "then reply with the result."
+)
+_instructions_mtime: float = 0.0
+
+
+def _refresh_instructions(server: Server) -> None:
+    """Reload channel-instructions.md if it changed on disk (hot-reload)."""
+    global _instructions_mtime
+    if not INSTRUCTIONS_PATH.exists():
+        return
+    mtime = INSTRUCTIONS_PATH.stat().st_mtime
+    if mtime != _instructions_mtime:
+        server.instructions = INSTRUCTIONS_PATH.read_text(encoding="utf-8")
+        _instructions_mtime = mtime
+        log.info("Instructions reloaded from disk")
 
 
 def create_server() -> Server:
-    return Server("autoservice-channel", instructions=load_instructions())
+    global _instructions_mtime
+    if INSTRUCTIONS_PATH.exists():
+        text = INSTRUCTIONS_PATH.read_text(encoding="utf-8")
+        _instructions_mtime = INSTRUCTIONS_PATH.stat().st_mtime
+    else:
+        text = _FALLBACK_INSTRUCTIONS
+    return Server("autoservice-channel", instructions=text)
 
 
 def register_tools(server: Server, plugin_tools: list):
@@ -395,6 +501,12 @@ def _handle_reply(args: dict) -> list[TextContent]:
         _recent_sent.add(resp.data.message_id)
         _msg_counter["sent"] += 1
         log.info(f"Reply to {chat_id}: {text[:50]}...")
+        # Log outgoing message to CRM
+        try:
+            from autoservice.crm import log_message
+            log_message("bot", chat_id, "out", text)
+        except Exception:
+            pass
         return [TextContent(type="text", text=f"Sent. message_id={resp.data.message_id}")]
     log.error(f"Reply failed: {resp.code} {resp.msg}")
     return [TextContent(type="text", text=f"Failed: {resp.code} {resp.msg}")]
@@ -448,7 +560,7 @@ async def main():
         try:
             async with anyio.create_task_group() as tg:
                 tg.start_soon(server.run, read_stream, write_stream, init_opts)
-                tg.start_soon(poll_feishu_queue, queue, write_stream)
+                tg.start_soon(poll_feishu_queue, queue, write_stream, server)
         except Exception as e:
             log.error(f"Task group error: {e}")
 
