@@ -48,9 +48,10 @@ if os.path.exists(_env_path):
 
 
 # ── Paths & config ────────────────────────────────────────────────────────
-ROOT         = Path(__file__).parent.parent
-STATIC       = Path(__file__).parent / "static"
-SESSIONS_DIR = ROOT / ".autoservice" / "database" / "sessions"
+ROOT             = Path(__file__).parent.parent
+STATIC           = Path(__file__).parent / "static"
+AUTOSERVICE_DIR  = ROOT / ".autoservice"
+SESSIONS_DIR     = ROOT / ".autoservice" / "database" / "sessions"
 LEADS_DIR    = ROOT / ".autoservice" / "database" / "knowledge_base" / "leads"
 
 SERVER_PORT          = int(os.getenv("DEMO_PORT", "8000"))
@@ -158,6 +159,15 @@ async def page_chat():
     if chat_html.exists():
         return FileResponse(chat_html)
     raise HTTPException(404, "No chat page available. Install a plugin with static/chat.html.")
+
+
+@app.get("/explain/{path:path}")
+async def serve_explain(path: str):
+    """Serve generated explain flow visualization pages."""
+    file = AUTOSERVICE_DIR / "explain" / path
+    if file.exists() and file.suffix == ".html":
+        return FileResponse(file)
+    raise HTTPException(404, "Explain page not found")
 
 
 # ── WebSocket routes ──────────────────────────────────────────────────────
