@@ -146,6 +146,10 @@ async def inject_message(write_stream, msg: dict):
     }
     if msg.get("routed_to"):
         meta["routed_to"] = msg["routed_to"]
+    if msg.get("file_path"):
+        meta["file_path"] = msg["file_path"]
+    if msg.get("admin_chat_id"):
+        meta["admin_chat_id"] = msg["admin_chat_id"]
 
     params = {"content": msg["text"], "meta": meta}
 
