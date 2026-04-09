@@ -34,6 +34,9 @@ Parse the user's input to determine the subcommand:
 2. **Identify document type** from content and path:
    - `plan` — architecture/design plans (in `docs/plans/`)
    - `prd` — product requirements documents
+   - `design` — requirements design, API design, data model design
+   - `implementation` — code, PR, feature branch (target can be a file path, PR URL, or branch name)
+   - `e2e-test` — E2E test plans, test suites, test execution reports
    - `deploy` — deployment/release specs
    - `other` — anything else
 

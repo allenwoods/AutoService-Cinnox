@@ -19,7 +19,7 @@ def main():
     parser.add_argument(
         "--type",
         required=True,
-        choices=["plan", "prd", "deploy", "other"],
+        choices=["plan", "prd", "design", "implementation", "e2e-test", "deploy", "other"],
         help="Document type",
     )
     parser.add_argument("--reviewer-name", required=True, help="Reviewer's name")
