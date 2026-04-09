@@ -1,0 +1,5 @@
+targets:
+- slug: three-layer-architecture
+  target: docs/plans/2026-04-09-three-layer-architecture.md
+  type: plan
+  created_date: '2026-04-09'
