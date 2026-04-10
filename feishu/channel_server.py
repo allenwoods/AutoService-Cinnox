@@ -874,16 +874,28 @@ class ChannelServer:
                     await self._send(inst.ws, message)
                     break
 
-        # 3. Wildcard -- always receives a copy
+        # 3. Wildcard -- always receives a copy.
+        #    When no dedicated instance exists, elect the first wildcard as
+        #    handler so exactly ONE instance processes the message; the rest
+        #    receive it with a routed_to hint (observation mode).
+        elected: Instance | None = None
+        if routed_instance is None and self.wildcard_instances:
+            elected = self.wildcard_instances[0]
+
         for inst in self.wildcard_instances:
             # Skip if this wildcard instance is also the exact/prefix match
             if routed_instance is not None and inst.ws is routed_instance.ws:
                 continue
-            # Add routed_to hint when message was also sent to a specific instance
+            # Determine whether this wildcard should observe only
             if routed_instance is not None:
+                # Dedicated instance owns the message — wildcard observes
                 wc_msg = {**message, "routed_to": routed_instance.instance_id}
-            else:
+            elif inst is elected:
+                # No dedicated route — this wildcard is elected as handler
                 wc_msg = message
+            else:
+                # No dedicated route — other wildcards observe
+                wc_msg = {**message, "routed_to": elected.instance_id}
             await self._send(inst.ws, wc_msg)
 
         # 4. Log actionable info when no dedicated instance exists
