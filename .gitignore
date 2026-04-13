@@ -17,9 +17,6 @@ uv.lock
 .idea/
 .vscode/
 
-# Dev-loop artifacts (tracked on dev branch, ignored on main)
-.artifacts/
-
 # Claude Code
 .claude/worktrees/
 .claude/skills
