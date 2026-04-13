@@ -1,6 +1,4 @@
 {
-  "enableAllProjectMcpServers": true,
-  "channelsEnabled": true,
   "permissions": {
     "allow": [
       "Read(*)",
@@ -13,5 +11,18 @@
       "Bash(mkdir *)"
     ],
     "defaultMode": "acceptEdits"
+  },
+  "enableAllProjectMcpServers": true,
+  "extraKnownMarketplaces": {
+    "dev-loop": {
+      "source": {
+        "source": "directory",
+        "path": "../dev-loop-skills"
+      }
+    }
+  },
+  "channelsEnabled": true,
+  "enabledPlugins": {
+    "dev-loop-skills@dev-loop": true
   }
 }
