@@ -4,9 +4,25 @@ import logging
 from pathlib import Path
 from typing import AsyncIterator, Any
 
-from socialware.claude import query  # noqa: F401
+from socialware.claude import query as _upstream_query
 
 log = logging.getLogger("autoservice.claude")
+
+# L2 default plugin directory
+_DEFAULT_PLUGIN_SUBDIR = ".autoservice/.claude"
+
+
+def _resolve_plugin_dir(cwd: str | None = None) -> str:
+    """Resolve the L2 plugin directory path."""
+    return str((Path(cwd or Path.cwd()).absolute() / _DEFAULT_PLUGIN_SUBDIR))
+
+
+async def query(prompt: str, cwd: str = None) -> AsyncIterator[Any]:
+    """L2 query wrapper — injects autoservice plugin directory."""
+    async for message in _upstream_query(
+        prompt, cwd=cwd, plugin_dir=_resolve_plugin_dir(cwd),
+    ):
+        yield message
 
 
 async def pool_query(prompt: str, cwd: str = None) -> AsyncIterator[Any]:

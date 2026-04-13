@@ -42,6 +42,9 @@ from socialware.plugin_loader import Plugin, PluginTool, PluginRoute, load_plugi
 # logging
 from socialware.logger import ConversationLogger
 
+# pool framework
+from socialware.pool import PoolableClient, PoolConfig, PooledInstance, AsyncPool
+
 __all__ = [
     # core
     'generate_id', 'sanitize_name', 'ensure_dir',
@@ -64,4 +67,6 @@ __all__ = [
     'Plugin', 'PluginTool', 'PluginRoute', 'load_plugin', 'discover',
     # logger
     'ConversationLogger',
+    # pool
+    'PoolableClient', 'PoolConfig', 'PooledInstance', 'AsyncPool',
 ]

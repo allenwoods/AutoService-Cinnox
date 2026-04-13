@@ -1,7 +1,7 @@
 """
 Claude Agent SDK wrapper.
 
-Loads agent configuration from .autoservice/.claude directory.
+Generic L1 wrapper — no application-specific paths hardcoded.
 """
 
 import os
@@ -10,13 +10,19 @@ from typing import AsyncIterator, Any
 from claude_agent_sdk import query as sdk_query, ClaudeAgentOptions
 
 
-async def query(prompt: str, cwd: str = None) -> AsyncIterator[Any]:
+async def query(
+    prompt: str,
+    cwd: str = None,
+    plugin_dir: str | None = None,
+) -> AsyncIterator[Any]:
     """
     Execute a Claude Agent query.
 
     Args:
         prompt: The query prompt
         cwd: Working directory, defaults to current directory
+        plugin_dir: Path to plugin directory. If provided and exists,
+                    loaded as a local plugin source.
 
     Yields:
         Raw message objects
@@ -24,8 +30,11 @@ async def query(prompt: str, cwd: str = None) -> AsyncIterator[Any]:
     if cwd is None:
         cwd = str(Path.cwd())
 
-    cwd_path = Path(cwd).absolute()
-    plugin_path = cwd_path / ".autoservice" / ".claude"
+    plugins = None
+    if plugin_dir:
+        plugin_path = Path(plugin_dir)
+        if plugin_path.exists():
+            plugins = [{"type": "local", "path": str(plugin_path)}]
 
     env = {}
     http_proxy = os.environ.get("http_proxy") or os.environ.get("HTTP_PROXY")
@@ -38,7 +47,7 @@ async def query(prompt: str, cwd: str = None) -> AsyncIterator[Any]:
     options = ClaudeAgentOptions(
         cwd=cwd,
         setting_sources=None,
-        plugins=[{"type": "local", "path": str(plugin_path)}] if plugin_path.exists() else None,
+        plugins=plugins,
         env=env,
     )
 
