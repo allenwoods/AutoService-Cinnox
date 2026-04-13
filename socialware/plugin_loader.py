@@ -257,11 +257,11 @@ def discover(plugins_dir: str | Path = "plugins") -> list[Plugin]:
             tool_count = len(plugin.tools)
             route_count = len(plugin.routes)
             print(
-                f"  \u2713 {plugin.name} v{plugin.version} "
+                f"  [ok] {plugin.name} v{plugin.version} "
                 f"({tool_count} tools, {route_count} routes, mode={plugin.mode})"
             )
         except Exception:
-            print(f"  \u2717 {child.name} — failed to load:")
+            print(f"  [FAIL] {child.name} -- failed to load:")
             traceback.print_exc()
 
     return loaded

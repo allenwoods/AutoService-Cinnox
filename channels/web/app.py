@@ -59,10 +59,10 @@ IDLE_TIMEOUT_SECONDS = int(os.getenv("IDLE_TIMEOUT_MINUTES", "15")) * 60
 ADMIN_KEY            = os.getenv("DEMO_ADMIN_KEY") or secrets.token_urlsafe(10)
 
 # ── Configure submodules ──────────────────────────────────────────────────
-from web import auth
-from web import plugin_kb
-from web import session_persistence as sessions
-from web import websocket as ws_handlers
+from channels.web import auth
+from channels.web import plugin_kb
+from channels.web import session_persistence as sessions
+from channels.web import websocket as ws_handlers
 
 auth.configure(
     admin_key=ADMIN_KEY,
