@@ -5,6 +5,7 @@ from autoservice.config import load_config, get_domain_config
 from autoservice.database import save_record, list_records, print_results, get_output_dir
 from autoservice.importer import extract_from_docx, extract_from_xlsx, extract_from_pdf, import_file
 from autoservice.session import save_session, generate_session_id, get_claude_session_id, init_session
+from autoservice.claude import query, pool_query
 from autoservice.api_interfaces import (
     APIResponse, APIInterface, APIQueryEngine,
     COMMON_INTERFACES, get_interface
@@ -63,4 +64,7 @@ __all__ = [
     'format_permission_response',
     # logger
     'ConversationLogger',
+    # claude
+    'query',
+    'pool_query',
 ]

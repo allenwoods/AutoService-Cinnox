@@ -1,4 +1,4 @@
-.PHONY: setup run-channel run-web run-server check e2e-web e2e-feishu
+.PHONY: setup run-channel run-web run-server check e2e-web e2e-feishu pool-status pool-start pool-test
 
 # --- Setup ---
 # Create symlinks from .claude/ to top-level dirs, discover plugin skills,
@@ -40,6 +40,22 @@ e2e-web:
 
 e2e-feishu:
 	uv run python3 tests/e2e/test_feishu_mock.py
+
+# --- CC Pool ---
+pool-status:
+	uv run python -m autoservice.cc_pool_cli status
+
+pool-start:
+	uv run python -m autoservice.cc_pool_cli start
+
+pool-logs:
+	uv run python -m autoservice.cc_pool_cli logs
+
+pool-test:
+	uv run python tests/integration_cc_pool.py
+
+pool-unit:
+	uv run python -m pytest tests/test_cc_pool.py -v
 
 # --- Check ---
 # Verify plugin discovery by listing discovered skill symlinks.
