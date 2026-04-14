@@ -3,6 +3,7 @@
 !.autoservice/rules/
 !.autoservice/flows/
 !.autoservice/config.yaml
+!.autoservice/config.local.yaml.example
 !.autoservice/identity.yaml
 *.db
 .env
