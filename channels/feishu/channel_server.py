@@ -202,6 +202,7 @@ class ChannelServer:
             config=config,
             mcp_servers={"channel-tools": {"type": "sdk", "name": "channel-tools", "instance": channel_mcp}},
             system_prompt=instructions,
+            on_sticky_release=self._on_pool_route_expired,
         )
         await self._pool.start()
         log.info("CC Pool started in pool_mode (min=%d, max=%d)",

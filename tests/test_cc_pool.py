@@ -644,3 +644,42 @@ class TestStickyReleaseCallback:
                 await pool.release_sticky("chat_none_002")  # Should not raise
             finally:
                 await pool.shutdown()
+
+
+class TestMcpServerOverride:
+    @pytest.mark.asyncio
+    async def test_autoservice_channel_disabled_when_mcp_servers_provided(self):
+        from autoservice.cc_pool import create_cc_client, PoolConfig
+        captured = {}
+        with patch("autoservice.cc_pool.ClaudeSDKClient") as MockSDK, \
+             patch("autoservice.cc_pool.CCClient") as MockClient:
+            mock_client = AsyncMock()
+            mock_client.connect = AsyncMock()
+            MockClient.return_value = mock_client
+            def capture(options):
+                captured["mcp_servers"] = options.mcp_servers
+                return MagicMock()
+            MockSDK.side_effect = capture
+            await create_cc_client(
+                PoolConfig(),
+                mcp_servers={"channel-tools": {"type": "sdk", "name": "ct"}},
+            )
+            assert "autoservice-channel" in captured["mcp_servers"]
+            assert "channel-tools" in captured["mcp_servers"]
+
+    @pytest.mark.asyncio
+    async def test_no_override_when_no_mcp_servers(self):
+        from autoservice.cc_pool import create_cc_client, PoolConfig
+        captured = {}
+        with patch("autoservice.cc_pool.ClaudeSDKClient") as MockSDK, \
+             patch("autoservice.cc_pool.CCClient") as MockClient:
+            mock_client = AsyncMock()
+            mock_client.connect = AsyncMock()
+            MockClient.return_value = mock_client
+            def capture(options):
+                captured["mcp_servers"] = options.mcp_servers
+                return MagicMock()
+            MockSDK.side_effect = capture
+            await create_cc_client(PoolConfig())
+            # No mcp_servers provided, no override
+            assert captured.get("mcp_servers") == {}  # default empty dict from ClaudeAgentOptions

@@ -211,7 +211,12 @@ async def create_cc_client(
     )
 
     if mcp_servers:
-        options.mcp_servers = mcp_servers
+        # Override project .mcp.json's autoservice-channel to prevent
+        # pool instances from spawning channel.py WebSocket clients.
+        merged = dict(mcp_servers)
+        if "autoservice-channel" not in merged:
+            merged["autoservice-channel"] = {"disabled": True}
+        options.mcp_servers = merged
     if system_prompt:
         options.system_prompt = system_prompt
 

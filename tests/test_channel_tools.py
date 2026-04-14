@@ -3,7 +3,7 @@
 import asyncio
 import json
 import pytest
-from unittest.mock import AsyncMock, MagicMock
+from unittest.mock import AsyncMock, MagicMock, patch
 
 from channels.feishu.channel_tools import (
     create_channel_mcp_server,
@@ -186,3 +186,23 @@ class TestPoolRouteIntegration:
         mock_ws.send.assert_called_once()
         sent = json.loads(mock_ws.send.call_args[0][0])
         assert "routed_to" not in sent
+
+
+class TestStartPoolCallback:
+    @pytest.mark.asyncio
+    async def test_start_pool_wires_callback(self):
+        from channels.feishu.channel_server import ChannelServer
+        from autoservice.cc_pool import PoolConfig
+        server = ChannelServer(port=0, feishu_enabled=False, pool_mode=True)
+
+        with patch("autoservice.cc_pool.CCPool") as MockPool, \
+             patch("autoservice.cc_pool.load_pool_config") as mock_config, \
+             patch("socialware.plugin_loader.discover", return_value=[]), \
+             patch("channels.feishu.channel_tools.create_channel_mcp_server"):
+            mock_config.return_value = PoolConfig(min_size=1, max_size=2)
+            mock_pool_instance = AsyncMock()
+            MockPool.return_value = mock_pool_instance
+            await server._start_pool()
+            call_kwargs = MockPool.call_args[1]
+            assert "on_sticky_release" in call_kwargs
+            assert call_kwargs["on_sticky_release"] == server._on_pool_route_expired
