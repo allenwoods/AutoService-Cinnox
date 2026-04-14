@@ -1,23 +1,33 @@
 #!/usr/bin/env bash
 # scripts/sync.sh — Sync current fork with upstream
 #
-# Usage: ./scripts/sync.sh [--dry-run] [--branch <upstream-branch>]
+# Usage: ./scripts/sync.sh [--dry-run] [--auto] [--branch <upstream-branch>]
 # Default upstream branch: main
+#
+# Modes:
+#   (default)   Interactive — prompts on conflict, shows merge output
+#   --dry-run   Conflict pre-check only, do not merge
+#   --auto      Non-interactive — merge if clean, fail with exit 1 on conflict
+#               Designed for CI/script invocation. On success, also runs
+#               sync-bridge.sh to generate code-diff artifact if available.
 
 set -euo pipefail
 
 DRY_RUN=false
+AUTO=false
 UPSTREAM_BRANCH="main"
 
 while [[ $# -gt 0 ]]; do
   case $1 in
     --dry-run)  DRY_RUN=true; shift ;;
+    --auto)     AUTO=true; shift ;;
     --branch)   UPSTREAM_BRANCH="$2"; shift 2 ;;
     -h|--help)
-      echo "Usage: $0 [--dry-run] [--branch <upstream-branch>]"
+      echo "Usage: $0 [--dry-run] [--auto] [--branch <upstream-branch>]"
       echo ""
       echo "Options:"
       echo "  --dry-run   Conflict pre-check only, do not merge"
+      echo "  --auto      Non-interactive: merge if clean, exit 1 on conflict"
       echo "  --branch    Upstream branch to sync (default: main)"
       exit 0
       ;;
@@ -65,8 +75,10 @@ else
     echo "$CONFLICT_FILES" | while read -r f; do
       echo "    - $f"
     done
+    HAS_CONFLICTS=true
   else
     echo "  OK: No conflicts expected -- clean merge likely."
+    HAS_CONFLICTS=false
   fi
 fi
 
@@ -79,12 +91,30 @@ if [ "$DRY_RUN" = true ]; then
   exit 0
 fi
 
+# In --auto mode, abort if conflicts are expected
+if [ "$AUTO" = true ] && [ "${HAS_CONFLICTS:-false}" = true ]; then
+  echo ""
+  echo "[auto] Conflicts detected — aborting. Run without --auto to resolve interactively."
+  exit 1
+fi
+
 # 5. Execute merge
+MERGE_BASE=$(git merge-base HEAD upstream/"$UPSTREAM_BRANCH")
 echo ""
 echo "==> Merging upstream/$UPSTREAM_BRANCH ($BEHIND commits)..."
 if git merge upstream/"$UPSTREAM_BRANCH" -m "sync: merge upstream/$UPSTREAM_BRANCH ($BEHIND commits)"; then
   echo ""
   echo "Sync complete. Run 'git push' to update remote."
+
+  # In --auto mode, generate code-diff artifact for dev-loop-skill integration
+  if [ "$AUTO" = true ]; then
+    SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+    if [ -x "$SCRIPT_DIR/sync-bridge.sh" ]; then
+      echo ""
+      echo "==> Generating code-diff artifact..."
+      "$SCRIPT_DIR/sync-bridge.sh" --merge-base "$MERGE_BASE" --auto
+    fi
+  fi
 else
   echo ""
   echo "Merge conflicts detected. Resolve them, then:"

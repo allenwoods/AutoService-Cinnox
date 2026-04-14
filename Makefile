@@ -1,4 +1,4 @@
-.PHONY: setup run-channel run-web run-server check e2e-web e2e-feishu pool-status pool-start pool-test sync sync-dry sync-status sync-all refine
+.PHONY: setup run-channel run-web run-server check e2e-web e2e-feishu pool-status pool-start pool-test sync sync-dry sync-auto sync-status sync-status-all sync-all register-fork unregister-fork refine refine-auto sync-bridge
 
 # --- Setup ---
 # Create symlinks from .claude/ to top-level dirs, discover plugin skills,
@@ -74,11 +74,31 @@ sync:
 sync-dry:
 	@bash scripts/sync.sh --dry-run
 
+sync-auto:
+	@bash scripts/sync.sh --auto
+
 sync-status:
 	@bash scripts/sync-status.sh
+
+sync-status-all:
+	@bash scripts/sync-status.sh --all
 
 sync-all:
 	@bash scripts/sync-all.sh
 
+# Fork registration: make register-fork REPO=owner/repo NAME=tenant
+register-fork:
+	@bash scripts/register-fork.sh --repo $(REPO) --name $(NAME) $(if $(CONTACT),--contact $(CONTACT)) $(if $(AUTO),--auto)
+
+unregister-fork:
+	@bash scripts/unregister-fork.sh --repo $(REPO) $(if $(STATUS),--status $(STATUS)) $(if $(AUTO),--auto)
+
 refine:
 	@bash scripts/refine.sh
+
+# Auto refine: make refine-auto COMMIT=abc123 LAYER=L2 [PR=1]
+refine-auto:
+	@bash scripts/refine.sh --auto --commit $(COMMIT) --layer $(LAYER) $(if $(MSG),--message "$(MSG)") $(if $(PR),--pr)
+
+sync-bridge:
+	@bash scripts/sync-bridge.sh --last-sync --auto
